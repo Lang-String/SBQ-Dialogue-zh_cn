@@ -1,0 +1,25 @@
+[
+    {
+        "op": "merge",
+        "path": "",
+        "value": {
+            "charCreationTooltip": {
+                "title": "火伊布",
+                "subTitle": "Floofer",
+                "description": "最蓬松的毛茸茸。"
+            },
+            "charGenTextLabels": [
+                "腹部",
+                "发型",
+                "上衣",
+                "腿部穿着",
+                "毛皮颜色",
+                "蓬松毛色",
+                "上衣颜色",
+                "腿部穿着颜色",
+                "火伊布",
+                "个性"
+            ]
+        }
+    }
+]
