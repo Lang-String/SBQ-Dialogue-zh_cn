@@ -2,11 +2,11 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "按住^green;[F]^reset;选择物种。"
+    "value": "按住^green;[F]^reset;键选择并切换物种。"
   },
   {
     "op": "replace",
     "path": "/shortDescription",
-    "value": "变形"
+    "value": "变身"
   }
 ]
