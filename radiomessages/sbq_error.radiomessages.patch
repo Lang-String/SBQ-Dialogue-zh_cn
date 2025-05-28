@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/sbqTransformIntoBlacklist/text",
-    "value": "你不能转化成一个在转化方面有问题的物种。"
+    "value": "test你不能转化成一个在转化方面有问题的物种。"
   },
   {
     "op": "replace",
