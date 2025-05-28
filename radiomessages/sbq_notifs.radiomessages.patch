@@ -1,7 +1,7 @@
 ﻿[
   {
     "op": "replace",
-    "value": "test似乎在经历了多次剧烈的DNA变化后，你获得了自由变形为你曾经变成过的任何物种的能力。\n^#AAA;（变形技术已解锁）",
+    "value": "似乎在经历了多次剧烈的DNA变化后，你获得了自由变形为你曾经变成过的任何物种的能力。\n^#AAA;（变形技术已解锁）",
     "path": "/sbqTransformUnlocked/text"
   },
   {
