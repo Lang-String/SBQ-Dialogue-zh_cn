@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/0/toolTip",
-    "value": "变化"
+    "value": "变身道具"
   },
   {
     "op": "replace",
@@ -12,17 +12,17 @@
   {
     "op": "replace",
     "path": "/2/toolTip",
-    "value": "工具"
+    "value": "奇妙小工具"
   },
   {
     "op": "replace",
     "path": "/3/toolTip",
-    "value": "捕食者对象"
+    "value": "捕食者玩具"
   },
   {
     "op": "replace",
     "path": "/4/toolTip",
-    "value": "服装"
+    "value": "服饰"
   },
   {
     "op": "replace",
