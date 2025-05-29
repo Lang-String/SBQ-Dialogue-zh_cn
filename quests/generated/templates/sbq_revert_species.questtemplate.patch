@@ -6,27 +6,27 @@
   },
   {
     "op": "replace",
-    "value": "回到<questGiver>",
+    "value": "与<questGiver>交谈",
     "path": "/scriptConfig/objectives/1/text"
   },
   {
     "op": "replace",
-    "value": "我觉得我不再是<currentArticle><currentSpecies>了。你能^green;把我变回<originalArticle>^orange;<originalSpecies>^white;，就像我以前一样吗？",
+    "value": "我觉得我还是不太习惯作为<currentArticle><currentSpecies>的感觉。你有办法^green;把我变回<originalArticle>^orange;<originalSpecies>^white;，就像我以前那样吗？",
     "path": "/scriptConfig/generatedText/text/default/default/0"
   },
   {
     "op": "replace",
-    "value": "<questGiver>恢复正常",
+    "value": "<questGiver>想变回原样",
     "path": "/scriptConfig/generatedText/title/default/0"
   },
   {
     "op": "replace",
-    "value": "^cyan;我想再次成为<originalArticle><originalSpecies>！",
+    "value": "^cyan;我想要变回<originalArticle><originalSpecies>！",
     "path": "/scriptConfig/generatedText/goalText/default/0"
   },
   {
     "op": "replace",
-    "value": "谢谢！回来真好！",
+    "value": "谢谢！变回来的感觉真好！",
     "path": "/scriptConfig/generatedText/completionText/default/default/0"
   }
 ]
