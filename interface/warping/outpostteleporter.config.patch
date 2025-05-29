@@ -1,7 +1,7 @@
 ﻿[
   {
     "op": "replace",
-    "value": "Auri的商店",
+    "value": "Auri的小店",
     "path": "/destinations/-/name"
   }
 ]
