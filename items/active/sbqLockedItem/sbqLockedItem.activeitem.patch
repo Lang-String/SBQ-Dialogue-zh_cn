@@ -1,7 +1,7 @@
 ﻿[
   {
     "op": "replace",
-    "value": "锁定物品",
+    "value": "暂时锁定的物品",
     "path": "/shortdescription"
   },
   {
