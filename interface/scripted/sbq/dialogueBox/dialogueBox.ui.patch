@@ -6,7 +6,7 @@
   },
   {
     "op": "replace",
-    "value": "操作",
+    "value": "[行动]",
     "path": "/children/0/children/1/3/caption"
   }
 ]
