@@ -1,22 +1,22 @@
 ﻿[
   {
     "op": "replace",
-    "value": "SBQ 帮助",
+    "value": "SBQ帮助指引",
     "path": "/title"
   },
   {
     "op": "replace",
-    "value": "书籍有限且不太好，真正的帮助在工具栏的SBQ设置中的一个标签页里。",
+    "value": "书籍篇幅有限且不易对照。于右上角的快捷工具栏中点击SBQ设置，真正的帮助在其中最后一个标签页。你还可以将鼠标悬停在SBQ设置的各个选项上查看提示。",
     "path": "/description"
   },
   {
     "op": "replace",
-    "value": "书籍有些有限且不太好，真正的帮助在工具栏的SBQ设置中的一个标签页里。",
+    "value": "书籍篇幅有限且不易对照。于右上角的快捷工具栏中点击SBQ设置，真正的帮助在其中最后一个标签页。你还可以将鼠标悬停在SBQ设置的各个选项上查看提示。",
     "path": "/contentPages/0"
   },
   {
     "op": "replace",
-    "value": "(想象一个粗糙的阴茎画)\n \n8==D",
+    "value": "(想象一个简略的鸡巴涩图)\n \n8==D",
     "path": "/contentPages/68"
   }
 ]
