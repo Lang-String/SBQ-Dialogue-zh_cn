@@ -1,12 +1,12 @@
 ﻿[
   {
     "op": "replace",
-    "value": "老鼠房间",
+    "value": "鼠鼠空间",
     "path": "/title"
   },
   {
     "op": "replace",
-    "value": "大小",
+    "value": "占地大小",
     "path": "/children/0/children/1/text"
   },
   {
@@ -21,7 +21,7 @@
   },
   {
     "op": "replace",
-    "value": "偏移",
+    "value": "左下角偏移",
     "path": "/children/1/children/1/text"
   }
 ]
