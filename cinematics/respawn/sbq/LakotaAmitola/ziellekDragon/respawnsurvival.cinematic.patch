@@ -1,7 +1,7 @@
 ﻿[
   {
     "op": "replace",
-    "value": "30%的像素丢失",
+    "value": "损失了30%的像素......",
     "path": "/panels/2/text"
   }
 ]
