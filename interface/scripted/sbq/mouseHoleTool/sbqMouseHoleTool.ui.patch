@@ -1,22 +1,22 @@
 ﻿[
   {
     "op": "replace",
-    "value": "老鼠洞",
+    "value": "鼠鼠洞",
     "path": "/title"
   },
   {
     "op": "replace",
-    "value": "方向",
+    "value": "洞门类型",
     "path": "/children/0/children/1/text"
   },
   {
     "op": "replace",
-    "value": "水平 -",
+    "value": "水平",
     "path": "/children/0/children/2/1/text"
   },
   {
     "op": "replace",
-    "value": "垂直 |",
+    "value": "垂直",
     "path": "/children/0/children/2/3/text"
   },
   {
