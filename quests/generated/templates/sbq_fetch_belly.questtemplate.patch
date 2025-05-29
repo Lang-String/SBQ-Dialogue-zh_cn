@@ -1,52 +1,52 @@
 ﻿[
   {
     "op": "replace",
-    "value": "找到进入<questGiver>的方法",
+    "value": "让<questGiver>将你吞下去",
     "path": "/scriptConfig/objectives/0/text"
   },
   {
     "op": "replace",
-    "value": "从<questGiver>中取出<fetchedItems>",
+    "value": "从<questGiver>的胃中取出<fetchedItems>",
     "path": "/scriptConfig/objectives/1/text"
   },
   {
     "op": "replace",
-    "value": "找到从<questGiver>中出来的路",
+    "value": "想办法从<questGiver>的体内钻出来",
     "path": "/scriptConfig/objectives/2/text"
   },
   {
     "op": "replace",
-    "value": "将<fetchedItems>归还给<questGiver>",
+    "value": "将<fetchedItems>带给<questGiver>看一看",
     "path": "/scriptConfig/objectives/3/text"
   },
   {
     "op": "replace",
-    "value": "但首先，我的胃疼得厉害！你觉得你能... ^green;看看里面^white;吗？找出问题所在？",
+    "value": "不知为何，我的胃疼得不得了！你觉得你能... ^green;在里面看一看^white;吗？找找出了什么问题？",
     "path": "/scriptConfig/generatedText/text/first/default/0"
   },
   {
     "op": "replace",
-    "value": "我觉得我喉咙里卡了什么东西。^green;介意仔细看看^white;吗？你可能需要深入一点...",
+    "value": "我觉得我的喉咙下面卡了什么东西。^green;介意仔细看看^white;吗？你可能需要深入离近一点点...",
     "path": "/scriptConfig/generatedText/text/default/default/0"
   },
   {
     "op": "replace",
-    "value": "<questGiver>的胃部问题",
+    "value": "<questGiver>的胃部烦恼",
     "path": "/scriptConfig/generatedText/title/default/0"
   },
   {
     "op": "replace",
-    "value": "^cyan;我需要一些帮助来解决我的胃部问题。",
+    "value": "^cyan;我需要有人来帮忙看看我的胃出了什么问题。",
     "path": "/scriptConfig/generatedText/goalText/default/0"
   },
   {
     "op": "replace",
-    "value": "哦！原来它在这里，哈哈！作为感谢，你可以拿走它。",
+    "value": "哦！原来是这个小东西，哈哈！真是感谢，不介意的话也拿去吧。",
     "path": "/scriptConfig/generatedText/completionText/last/default/0"
   },
   {
     "op": "replace",
-    "value": "太好了！我其实刚刚就在找这个...",
+    "value": "太好了！我正纳闷这个东西去哪了呢......",
     "path": "/scriptConfig/generatedText/completionText/default/default/0"
   }
 ]
