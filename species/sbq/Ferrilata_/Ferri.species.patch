@@ -6,7 +6,7 @@
 			"charCreationTooltip": {
 				"title": "Ferri",
 				"subTitle": "喵嗷喵嗷",
-				"description": "名叫Ferri的猫狐。友善。乐于取悦。有营养。"
+				"description": "一只名叫Ferri的猫狐。友善。渴望取悦他人。营养丰富。"
 			},
 			"charGenTextLabels": [
 				"肤色",
@@ -17,7 +17,7 @@
 				"发色",
 				"上衣颜色",
 				"裤装颜色",
-				"人类",
+				"猫狐",
 				"个性"
 			]
 		}
