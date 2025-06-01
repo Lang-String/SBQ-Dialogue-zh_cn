@@ -1,12 +1,12 @@
 ﻿[
   {
     "op": "replace",
-    "value": "一个冒泡的大锅，足够大，可以容纳三个人。",
+    "value": "一个正在冒泡的大锅，大到足以容纳三个人。",
     "path": "/description"
   },
   {
     "op": "replace",
-    "value": "大型药水大锅",
+    "value": "大型药水坩埚",
     "path": "/shortdescription"
   },
   {
@@ -16,7 +16,7 @@
   },
   {
     "op": "replace",
-    "value": "我想知道如果我坐太久会不会被煮熟？",
+    "value": "我想知道如果我坐在里面太久会不会被煮熟？",
     "path": "/avianDescription"
   },
   {
@@ -31,7 +31,7 @@
   },
   {
     "op": "replace",
-    "value": "坐进去看起来会很痒！",
+    "value": "看起来坐在里面会很\"刺\"激！",
     "path": "/humanDescription"
   },
   {
