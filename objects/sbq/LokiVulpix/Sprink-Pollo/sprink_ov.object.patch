@@ -1,12 +1,12 @@
 ﻿[
   {
     "op": "replace",
-    "value": "Sprink！动画由 Pollo 制作。",
+    "value": "Sprink！动画由Pollo制作。",
     "path": "/description"
   },
   {
     "op": "replace",
-    "value": "Sprink（OV）",
+    "value": "Sprink (OV)",
     "path": "/shortdescription"
   }
 ]
