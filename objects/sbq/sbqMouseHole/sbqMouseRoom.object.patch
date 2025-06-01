@@ -1,12 +1,12 @@
 ﻿[
   {
     "op": "replace",
-    "value": "一个小房间……小人可能可以进去。",
+    "value": "创造一片高亮的区域... 小人们在里面应该会更显眼一些。",
     "path": "/description"
   },
   {
     "op": "replace",
-    "value": "老鼠房间",
+    "value": "鼠鼠空间",
     "path": "/shortdescription"
   }
 ]
