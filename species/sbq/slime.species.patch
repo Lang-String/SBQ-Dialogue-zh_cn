@@ -4,9 +4,9 @@
         "path": "",
         "value": {
             "charCreationTooltip": {
-                "title": "Slime",
+                "title": "史莱姆",
                 "subTitle": "C31H27NO4",
-                "description": "你看起来半消化了。你又去追史莱姆了吗？\n——护士"
+                "description": "还活着吗，你看起来基本被消化干净了。你又去追然后一头栽进史莱姆里了？\n——护士"
             },
             "charGenTextLabels": [
                 "凝胶颜色",
