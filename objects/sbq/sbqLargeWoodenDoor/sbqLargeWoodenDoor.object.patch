@@ -1,7 +1,7 @@
 ﻿[
   {
     "op": "replace",
-    "value": "一个大型的粗糙木门。不太安全。",
+    "value": "一个粗糙的大型木门。不是很牢固。",
     "path": "/description"
   },
   {
@@ -21,17 +21,17 @@
   },
   {
     "op": "replace",
-    "value": "叶族也会制作类似的木门……但更小。",
+    "value": "叶族也会制作类似的木门... 但更小。",
     "path": "/floranDescription"
   },
   {
     "op": "replace",
-    "value": "愉快。这看起来是一个大型手工制作的门。",
+    "value": "愉快。这看起来是一个手工制作的大型木门。",
     "path": "/glitchDescription"
   },
   {
     "op": "replace",
-    "value": "你可能会在超大型号屋上看到的那种门。",
+    "value": "你可能会在超大型号房屋上看到的那种门。",
     "path": "/humanDescription"
   },
   {
