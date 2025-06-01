@@ -4,20 +4,20 @@
 		"path": "",
 		"value": {
 			"charCreationTooltip": {
-				"title": "Ziellek龙",
+				"title": "东龙Ziellek",
 				"subTitle": "-",
-				"description": "长条面龙。"
+				"description": "体型巨大的长面条东龙。"
 			},
 			"charGenTextLabels": [
-				"主色", // 身体颜色
-				"角颜色", // 发型
+				"主体颜色", // 身体颜色
+				"龙角颜色", // 发型
 				"腹部颜色", // 上衣
 				"眼睛颜色", // 裤子
 				"点缀颜色", // 内衣颜色
 				"绒毛颜色", // 头发颜色
-				"肉色", // 上衣颜色
+				"肉壁颜色", // 上衣颜色
 				"-", // 裤子颜色
-				"Ziellek龙", // 种族
+				"东龙Ziellek", // 种族
 				"个性" // 个性
 			]
 		}
