@@ -6,19 +6,19 @@
 			"charCreationTooltip": {
 				"title": "Kaiju",
 				"subTitle": "-",
-				"description": "Large Kaiju, perfect for stomping around and eating people."
+				"description": "体型巨大的Kaiju，正适合在人群中踩来踩去并将食物一口吃掉。"
 			},
 			"charGenTextLabels": [
-				"Primary colour",
-				"Eye Color",
+				"主体颜色",
+				"眼睛颜色",
 				"-",
 				"-",
-				"Secondary Color",
-				"Horn colour",
+				"副属颜色",
+				"犄角颜色",
 				"-",
 				"-",
 				"Kaiju",
-				"Personality"
+				"性格"
 			]
 		}
 	}
