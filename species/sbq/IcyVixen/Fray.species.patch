@@ -6,15 +6,15 @@
 			"charCreationTooltip": {
 				"title": "Fray",
 				"subTitle": "-",
-				"description": "大六尾。"
+				"description": "巨型六尾。"
 			},
 			"charGenTextLabels": [
 				"腹部毛色",
 				"发型",
 				"-",
 				"-",
-				"毛色",
-				"蓬松毛色",
+				"毛皮颜色",
+				"绒毛颜色",
 				"-",
 				"-",
 				"六尾",
