@@ -5,8 +5,8 @@
 		"value": {
 			"charCreationTooltip": {
 				"title": "Sandy",
-				"subTitle": "漂浮伊布龙",
-				"description": "咕噜。"
+				"subTitle": "The Floatporeon。",
+				"description": "*Blub*。"
 			},
 			"charGenTextLabels": [
 				"肤色",
@@ -17,7 +17,7 @@
 				"发色",
 				"上衣颜色",
 				"裤装颜色",
-				"人类",
+				"Floatporeon",
 				"个性"
 			]
 		}
