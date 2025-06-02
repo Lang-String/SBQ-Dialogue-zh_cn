@@ -8,5 +8,40 @@
     "op": "replace",
     "path": "/shortdescription",
     "value": "猫爬架"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "稳固的大猫爬架，足以支撑我的重量。"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "小家伙们爬上爬下的时候要多当心一点。"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "存放储备食物的架子。"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "惊奇。原来猫猫也有更喜欢的城堡。"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "好高好大的猫爬架！"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "猫猫们会喜欢这个地方的。"
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "某种攀爬工具。"
   }
 ]
