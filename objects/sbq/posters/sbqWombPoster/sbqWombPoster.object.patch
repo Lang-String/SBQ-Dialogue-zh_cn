@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "也许你会同意。"
+    "value": "终有一天你会喜欢这个XP的。"
   },
   {
     "op": "replace",
@@ -12,27 +12,27 @@
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "一个相当……有趣的说法。"
+    "value": "一个相当... 有趣的说法。"
   },
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "观星者肯定不会同意……不过……"
+    "value": "观星者肯定不会同意... 不过......"
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "如果叶人把它们储存在胃里呢？"
+    "value": "叶族更喜欢把它们储存在胃里！"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "好奇。在哪里可以找到可以安装的“子宫”模块？"
+    "value": "好奇。在哪里可以找到\"子宫\"模块？"
   },
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "显然某人有怪癖。"
+    "value": "这就是某些变态喜欢的回到母亲子宫里面吗？"
   },
   {
     "op": "replace",
@@ -42,11 +42,11 @@
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "我要怎么把它们都塞进去？"
+    "value": "我该怎么把它们都塞进去？"
   },
   {
     "op": "replace",
     "path": "/avaliDescription",
-    "value": "我有那个吗……？"
+    "value": "嘿嘿，我会用蛋壳保护好我的朋友。并亲自照顾孵化他们！"
   }
 ]
