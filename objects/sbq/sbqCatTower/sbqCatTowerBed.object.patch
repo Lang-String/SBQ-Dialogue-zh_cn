@@ -2,42 +2,42 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "塔顶的宝座。"
+    "value": "猫爬架之巅上的王座。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "猫塔床"
+    "value": "猫爬架之巅"
   },
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "这把扶手椅看起来又漂亮又舒服……虽然有点大。"
+    "value": "简约朴素的架子顶端上的一个床铺。"
   },
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "色彩鲜艳、舒适……而且很大"
+    "value": "飞得越高，摔得越惨。"
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "柔软的大椅子，光滑的木扶手。"
+    "value": "最上面的那个位置我预定啦。"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "满足。我可以在这把超大号的椅子上愉快地消磨时间。"
+    "value": "激动。我是世界之王。"
   },
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "一张大型木制扶手椅"
+    "value": "小猫咪们肯定能轻松爬上去。"
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "舒适……不知道是否简陋"
+    "value": "好... 好高的床位，该怎么上去呢？"
   },
   {
     "op": "replace",
