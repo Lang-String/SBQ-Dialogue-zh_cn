@@ -2,27 +2,27 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "最后，我接受了这个家伙。"
+    "value": "终于，我将这个小家伙视如己出了。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "这个家伙的海报"
+    "value": "海报：一袋射进安全套的伙伴"
   },
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "这里的含义相当……有趣。"
+    "value": "其中的含义相当... 有趣？恐怖？"
   },
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "太荒谬了，这肯定是不可能的……除非……"
+    "value": "太荒谬了，这肯定是不可能的... 除非......"
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "叶人可以制造更多的这个家伙。"
+    "value": "叶族也可以将小家伙们变成花粉。"
   },
   {
     "op": "replace",
@@ -32,12 +32,12 @@
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "这是……哦，我知道了。"
+    "value": "哦，现在可以更好地实现某人胎内回归的愿望了。"
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "这是什么意思？"
+    "value": "这次又是些什么？"
   },
   {
     "op": "replace",
@@ -47,6 +47,6 @@
   {
     "op": "replace",
     "path": "/avaliDescription",
-    "value": "我当然有很多。"
+    "value": "好吧，现在轮到我不理解了。小家伙被变成蛋白了？"
   }
 ]
