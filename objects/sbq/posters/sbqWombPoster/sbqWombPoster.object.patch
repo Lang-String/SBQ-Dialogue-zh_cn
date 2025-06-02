@@ -7,7 +7,7 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "子宫海报"
+    "value": "海报：把朋友们存进子宫里"
   },
   {
     "op": "replace",
@@ -37,7 +37,7 @@
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "相当粗俗的说法。"
+    "value": "真是粗俗，而且肯定会造成意外。"
   },
   {
     "op": "replace",
