@@ -2,51 +2,51 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "也许你会同意。"
+    "value": "或许你会(被迫)接受这个XP的。"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "睾丸海报"
+    "value": "海报：将朋友们塞进蛋蛋里"
   },
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "一个相当……有趣的说法。"
+    "value": "一个相当... 奇怪的说法。"
   },
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "观星者肯定不会同意……不过……"
+    "value": "观星者肯定不会同意... 不过......"
   },
   {
     "op": "replace",
     "path": "/floranDescription",
-    "value": "如果叶人把它们储存在胃里呢？"
+    "value": "叶族或许找到了新的享用食物的方式。"
   },
   {
     "op": "replace",
     "path": "/glitchDescription",
-    "value": "好奇。在哪里可以找到可以安装的“睾丸”模块？"
+    "value": "不解。为什么要把朋友塞进\"球\"里？"
   },
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "显然某人有怪癖。"
+    "value": "呃，讲真，真的能塞得进去吗？"
   },
   {
     "op": "replace",
     "path": "/hylotlDescription",
-    "value": "相当粗俗的说法。"
+    "value": "我真是对某些怪癖大跌眼镜。"
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "我要怎么把它们都塞进去？"
+    "value": "我要把它们塞哪去？"
   },
   {
     "op": "replace",
     "path": "/avaliDescription",
-    "value": "我有那个吗……？"
+    "value": "很多种族对于我们生理方面的了解仅限于卵生。之后我要给朋友们长长见识！"
   }
 ]
