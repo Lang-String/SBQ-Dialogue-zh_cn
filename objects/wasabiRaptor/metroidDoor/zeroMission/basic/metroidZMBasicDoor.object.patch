@@ -31,7 +31,7 @@
   },
   {
     "op": "replace",
-    "value": "一个防护门……看起来很熟悉。",
+    "value": "一个防护门... 看起来很熟悉。",
     "path": "/humanDescription"
   },
   {
