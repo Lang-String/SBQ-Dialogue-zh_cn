@@ -43,5 +43,10 @@
     "op": "replace",
     "path": "/novakidDescription",
     "value": "我喜欢简单的木工活，不过这东西太黏了！"
+  },
+  {
+    "op": "replace",
+    "path": "/avaliDescription",
+    "value": "嗷！我可怜的羽毛！"
   }
 ]
