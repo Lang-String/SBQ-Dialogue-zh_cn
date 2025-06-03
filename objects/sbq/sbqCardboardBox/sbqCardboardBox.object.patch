@@ -43,5 +43,10 @@
     "op": "replace",
     "path": "/novakidDescription",
     "value": "一个用来存放\"几乎任何东西\"的脆弱盒子。"
+  },
+  {
+    "op": "replace",
+    "path": "/avaliDescription",
+    "value": "一个原始的空纸箱，但似乎并不是用来存放东西的。"
   }
 ]
