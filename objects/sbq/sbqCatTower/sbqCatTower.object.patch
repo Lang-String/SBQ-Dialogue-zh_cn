@@ -43,5 +43,10 @@
     "op": "replace",
     "path": "/novakidDescription",
     "value": "某种攀爬工具。"
+  },
+  {
+    "op": "replace",
+    "path": "/avaliDescription",
+    "value": "有点高，不过我还是能跳上去的。"
   }
 ]
