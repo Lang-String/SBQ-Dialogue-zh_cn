@@ -43,5 +43,10 @@
     "op": "replace",
     "path": "/novakidDescription",
     "value": "某种舒适的藏身之处。"
+  },
+  {
+    "op": "replace",
+    "path": "/avaliDescription",
+    "value": "很舒服的床箱！大小正适合我。"
   }
 ]
