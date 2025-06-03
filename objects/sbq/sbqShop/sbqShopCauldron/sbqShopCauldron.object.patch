@@ -43,5 +43,10 @@
     "op": "replace",
     "value": "对于一个浴缸来说，它有点太大了。",
     "path": "/novakidDescription"
+  },
+  {
+    "op": "replace",
+    "path": "/avaliDescription",
+    "value": "哦，之前是烤火鸡，现在要炖火鸡了？"
   }
 ]
