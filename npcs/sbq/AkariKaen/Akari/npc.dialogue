@@ -2,7 +2,7 @@
   "greetingRewards": "/npcs/sbq/dialogue/default.dialogue:greetingRewards",
   "greetingRewardsIntroduced": "/npcs/sbq/dialogue/default.dialogue:greetingRewardsIntroduced",
   "greeting": [
-    "啊,你好啊",
+    "啊，你好啊。",
     "咩噗？",
     "什么事？",
     "啥事？"
@@ -12,38 +12,38 @@
   "fullCrew": "/npcs/sbq/dialogue/default.dialogue:fullCrew",
   "crewFollow": "/npcs/sbq/dialogue/default.dialogue:crewFollow",
   "converse": [
-    "你是想聊点什么吗？",
+    "你想要聊点什么吗？",
     "咩噗？"
   ],
   "introduce": [
-    "嗯...\n 很高兴认识你, <entityName>"
+    "嗯...\n很高兴认识你，<entityName>！"
   ],
   "talkAboutSelf": [
-    "嗯,我没啥可说的,咩噗"
+    "唔，我自己没啥可说的，咩噗。"
   ],
   "talkAboutSelfWhatAreYou": [
-    "从没见过鲨狗族吗？嗯,我的家乡星球是塔尔,上面有好几个种族和氏族,我大多时候住在一个叫金环的大城市,那里主要住着南鲨狗族人,我经常被叫做 '城里娃'"
+    "从没见过一只鲨狗吗？好吧，我的家园星球是Tal，那里有好几个种族和氏族。我住在一个叫金环的大城市，那里主要住着南鲨狗族人，我也经常被叫做\"城里娃\"。"
   ],
   "talkAboutSelfWhyMerp": [
-    "我嘛...*清了清嗓子* 这是我们能发出的一个有趣声音,曾经很流行... 现在都成我们的一个老套标志性声音了,不过一旦我们开始咩噗,那你听到的就全是这声了,"
+    "我嘛... *清了清嗓子* 这是我们能发出的一种有趣声音。曾经很流行... 但现在都成一个我们老套的标志性声音了。不过一旦我们咩噗了起来，那你能听到的就只有咩噗了。"
   ],
   "talkAboutSelfCheeseJoke": [
-    "*清嗓子 * 哎呀,你可真聪明... 又不是我这辈子没听过几千遍那些笑话... 但我也没法阻止你自得其乐,"
+    "*嗷* 呜，你好聪明呀... 又不是我这辈子没听过几千遍刻板笑话... 但我也没法阻止你自得其乐。"
   ],
   "talkAboutSelfKinks": [
-    "嗯... 我可以讲讲这个模组里一些值得一提的癖好,"
+    "嗯... 我可以讲讲这个模组里一些值得一提的癖好。"
   ],
   "talkAboutKinks": [
-    "所以你想聊癖好？"
+    "所以你想聊一聊癖好？"
   ],
   "talkAboutKinksMacroMicro": [
-    "可能你最常看到我和大小相关的互动,因为我喜欢变成小小只,这也是我主要和其他癖好联动的方式,我超爱小小只在巨大生物的房子里,躲避他们的脚步～"
+    "大概你最常看到的就是我与大小相关的交互。我喜欢变成小小只，这也是我跟其他癖好联动的主要方式。我超爱作为小小只待在巨大生物的房子里，躲避他们的脚步～"
   ],
   "talkAboutKinksPaws": [
-    "啊... 对,爪子... 因为我更喜欢类人脚掌... 同样的,我喜欢伺候它们,不管正常体型还是变小后,在它们下面的感觉,"
+    "啊... 对，关于爪子... 无论作为正常体型还是小小只，我都很享受侍奉满足它们以及被踩在脚下的愉悦...尤其是人类玉足，我最喜欢了！"
   ],
   "talkAboutKinksVore": [
-    "这不是我最喜欢的,但就这个模组来说,我选口腔吞咽（OV）和菊花吞咽（CV）,不过得是变小后,这样在我脑海里才更带感,"
+    "并不是我最在意的癖好，但就这个模组来说，我会选张嘴丸吞(OV)和阴茎吸食(CV)。不过得是变小后，这样在我脑海里才更带感。"
   ],
   "rewardNotifyMoney": "/npcs/sbq/dialogue/default.dialogue:rewardNotifyMoney",
   "rewardNotifyLowValueQuestRewards": "/npcs/sbq/dialogue/default.dialogue:rewardNotifyLowValueQuestRewards",
@@ -63,67 +63,67 @@
   "oralVoreNeedsInfusion": "/npcs/sbq/LokiVulpix/Loki/npc.dialogue:oralVoreNeedsInfusion",
   "needsInfusion": ":oralVoreNeedsInfusion",
   "oralVoreAlreadyInfused": [
-    "我觉得我那儿已经有东西了,"
+    "我觉得那儿已经有东西了。"
   ],
   "alreadyInfused": ":oralVoreAlreadyInfused",
   "oralVoreTargetPreySettingsMismatch": [
-    "你的某个 '住户' 可能不喜欢那样,"
+    "你体内的某只食物大抵不喜欢那样。"
   ],
   "targetPreySettingsMismatch": ":oralVoreTargetPreySettingsMismatch",
   "cockVoreRequested": [
-    "哈哈,馋鲨狗族的鸡儿了",
+    "哈哈，馋鲨狗的鸡儿了？",
     "咩噗？你想进我鸡儿里？",
-    "希望你能塞得下",
-    "嗯？那就进来吧"
+    "希望你能塞得下。",
+    "嗯？那就进来吧。"
   ],
   "cockVoreRequestedAfter": [
-    "哦哦,我的咩噗,这让我硬起来了～",
-    "嗯嗯～你让这只鲨狗族超开心的",
-    "太好了... 我硬了.. 希望没人注意到...",
-    "咩... 咩噗咩噗～"
+    "哦哦，咩噗啊，这让我硬起来了~",
+    "Caaa~你让这只鲨狗超开心的。",
+    "好棒...我硬了..希望没人注意到...",
+    "咩..咩噗咩噗～"
   ],
   "cockVoreInvalid": "/npcs/sbq/LokiVulpix/Auri/npc.dialogue:cockVoreInvalid",
   "cockVoreNo": [
-    "没心情,伙计",
-    "我忙着呢",
-    "也许晚点吧,我刚自己解决过一会儿了",
-    "我还有其他鲨狗族的事儿要做... 比如咩噗叫",
-    "我的鸡儿累了"
+    "没那个情趣，伙计。",
+    "我忙着呢。",
+    "也许晚点吧，我刚才自己解决过了。",
+    "我还有其他鲨狗的事儿要做... 比如更多咩噗。",
+    "我的鸡儿累了。"
   ],
   "cockVoreTooBig": [
-    "抱歉,只接受小小只",
-    "哇,要不你缩小点,或许我会考虑",
-    "找奥莉拿个缩小射线,然后再来找我",
-    "只接受小个头的",
-    "你特么太大了"
+    "抱歉，只接受小小只。",
+    "哇，要不你缩小点，然后我会考虑考虑。",
+    "找Auri要个缩小枪并对自己来几下，然后再来找我。",
+    "只接受小入们",
+    "你特咩太大了。"
   ],
   "cockVoreTooSmall": ":tooSmall",
   "cockVoreNoSlots": ":noSlots",
   "cockVoreFull": [
-    "我这 '奶酪发射器' 现在满了...",
-    "嗯,如果有人挪到我蛋蛋那儿,你可能就能挤进去了～",
-    "这只鲨狗族的鸡儿满了",
-    "等我射一发鲨狗族的精再说吧"
+    "这根奶酪发射器已经塞满了...",
+    "嗯，如果有人钻进我蛋蛋里，你就能挤进去了~",
+    "这只鲨狗的鸡儿塞满了。",
+    "等我射一滩鲨狗精液再说吧。"
   ],
   "cockVoreNeedsInfusion": ":oralVoreNeedsInfusion",
   "cockVoreAlreadyInfused": ":oralVoreAlreadyInfused",
   "cockVoreTargetPreySettingsMismatch": ":oralVoreTargetPreySettingsMismatch",
   "oralVoreLetoutRequested": [
-    "好了,你出去吧",
-    "*咳咳* 出去吧 ",
-    "呃... 你尝起来真不怎么样",
-    " 快出来,我们还有事要做 *打嗝* 呃,不好意思 "
+    "好了，你出去吧。",
+    "*咳咳* 出去吧。",
+    "呕...你尝起来真不怎么样。",
+    "出来吧，我们还有事要做 *打嗝* 呃，不好意思。"
   ],
   "cockVoreLetoutRequested": [
-    "嗯嗯嗯... 我要射了...",
-    "嗯... 嗯哼,天啊～",
+    "嗯嗯嗯我要射了...",
+    "姆..嗯哼，天啊～",
     "要射了～",
-    "咩... 咩噗噗....~"
+    "咩..咩噗噗....～"
   ],
   "reformRequested": [
-    "重塑中心",
-    "哔哔啵啵,重塑中... 哈哈,开玩笑的,我又不是合成人... 哦,希望布鲁没听到这话",
-    "好了,是时候重塑了"
+    "重生中心",
+    "哔哔啵啵，重塑中..哈哈，开玩笑的，我又不是Synth... 噢，希望Blue没听到这话。",
+    "好了，是时候重塑了。"
   ],
   "oralVorePrompt": "/npcs/sbq/dialogue/default.dialogue:oralVorePrompt",
   "oralVorePromptYes": "/npcs/sbq/dialogue/default.dialogue:oralVorePromptYes",
@@ -149,108 +149,108 @@
   "oralVoreNoPromptAfter": ":oralVoreRequestedAfter",
   "cockVoreNoPrompt": [
     "惊讶吧！",
-    "骗到你了",
-    "抱歉,但我得这么做～",
-    "我欲火焚身了,过来～"
+    "逮到你了！",
+    "抱歉，但我得这么做~",
+    "我欲火焚身了，过来～"
   ],
   "cockVoreNoPromptAfter": "/npcs/sbq/LokiVulpix/Auri/npc.dialogue:cockVoreNoPromptAfter",
   "oralVoreUnprompted": [
-    "呃,好黏糊",
-    "很乐意把你填满 ^^",
+    "呃呜，好黏糊。",
+    "很高兴能填饱你的肚子^^",
     "我永远都习惯不了这个 >~<"
   ],
   "cockVoreUnprompted": [
-    "嘿嘿,现在好玩的来了",
-    "呃... 有东西进我嘴里了",
-    "天呐,好紧",
-    "朋友都存放在蛋蛋里... 嘿嘿,奥莉会很骄傲的",
-    "需要补充能量？乐意帮忙 ^^",
+    "嘿嘿，现在好玩的来了！",
+    "呃..有什么进到我嘴里了！",
+    "天呐，这里真紧。",
+    "将朋友们塞进蛋蛋里...嘿嘿，Auri会很自豪的。",
+    "需要补充精力？乐意帮忙^^",
     "我永远都习惯不了这个 >~<"
   ],
   "oralVoreLetoutUnpromptedAfter": [
-    "所以被吞下去就是这种感觉",
-    "我永远都适应不了这个"
+    "所以这就是被吞下去的感觉。",
+    "我永远都适应不了这个。"
   ],
   "cockVoreLetoutUnpromptedAfter": [
-    "好咸啊... 呸",
+    "好咸啊... 呸。",
     "都到我嘴里了..."
   ],
   "oralVoreForcing": "/npcs/sbq/dialogue/default.dialogue:oralVoreForcing",
   "cockVoreForcing": "/npcs/sbq/dialogue/default.dialogue:cockVoreForcing",
   "oralVoreLetoutForcingAfter": [
-    "不得不说,在里面还挺舒服的",
-    "嗯,这是次难忘的经历"
+    "不能否认胃里面还挺舒服的。",
+    "啊，真是一次难忘的经历。"
   ],
   "cockVoreLetoutForcingAfter": [
-    "啊,天呐... 溅得我衣服上到处都是",
-    "天呐... 我得花好久才能把精液洗干净"
+    "啊，天呐...弄得我毛上到处都是。",
+    "天啊..我得花好久才能把精液洗掉。"
   ],
   "oralVoreForced": "/npcs/sbq/dialogue/default.dialogue:oralVoreForced",
   "cockVoreForced": "/npcs/sbq/dialogue/default.dialogue:cockVoreForced",
   "oralVoreLetoutForced": [
-    "*咳咳*...",
-    "好了好了,快出来",
-    "哎呀,天呐... 快点..."
+    "*唔..咳咳*...",
+    "好了好了，快出来吧。",
+    "嗷呜，天呐..快点..."
   ],
   "cockVoreLetoutForced": [
-    "啊～天呐,这感觉太棒了～",
-    "随时都能再来 ^^",
-    "你在里面感觉真好～",
-    "怎么？在里面玩得不开心？",
+    "啊~天呐，这感觉太棒了～",
+    "随时都欢迎再来^^",
+    "有你在里面感觉真好～",
+    "怎么？在里面玩得不开心么？",
     "咩噗...."
   ],
   "struggleBelly": [
-    "玩得开心吗",
+    "好好享受吧！",
     "舒服吗？",
     "咩噗？"
   ],
   "struggleCock": [
-    "哦哦,嘿嘿,这感觉痒痒的～",
-    "哇哦,好家伙..."
+    "哦哦，嘿嘿，感觉痒痒的~",
+    "哇哦，好家伙..."
   ],
   "struggleBalls": [
-    "咩噗... 下面感觉真好",
-    "继续动,",
+    "咩噗...下面感觉真好。",
+    "继续动。",
     "你在里面的感觉太棒了～",
-    "朋友都存放在蛋蛋里～"
+    "将朋友们塞进蛋蛋里~"
   ],
   "struggleAcidHeal": [
-    "放松... 你受伤了",
-    "别乱动... 好好养伤"
+    "放松...你受伤了。",
+    "别乱动..好好养伤。"
   ],
   "struggleCumHeal": [
-    "我的精液能治愈伤口,所以别慌,我发誓,你会没事的！",
-    "你要是还能这么扭动,看来身体还挺健康的！",
-    "放松点,让我这黏糊糊的 '桑拿房' 安抚你,"
+    "我的种子能填补伤口，所以别慌。你会没事的，我发誓！",
+    "你还能这么用力扭动，看来身体还挺健康的！",
+    "放松点，让我这黏糊糊的\"桑拿间\"安抚你。"
   ],
   "struggleCumHealCock": [
-    "我知道这很奇怪,但这能治好你,所以别担心待在我鸡儿里！",
-    "我给你疗伤的时候,你不用动这么厉害,除非你想去我蛋蛋那儿...",
-    "虽然我还挺享受你挣扎的,但要知道,你在我鸡儿里很安全,"
+    "我知道这很奇怪，但这能治好你。所以别担心待在我鸡儿里！",
+    "我给你疗伤的时候，你不用动这么厉害，除非你想去我蛋蛋那儿...",
+    "虽然我还挺享受你挣扎的，但还请理解，你在我肉棒里很安全。"
   ],
   "struggleCompression": "/npcs/sbq/dialogue/default.dialogue:struggleCompression",
   "struggleAcidDigest": [
-    "融化的感觉真好～",
-    "乖乖当块美味的点心,融化掉吧～",
-    "我正好好地把你咩噗下去呢.. 嘿嘿"
+    "溶解食物的感觉真好～",
+    "乖乖当块美味的点心，溶化掉吧～",
+    "我正好好地把你消咩掉呢.. 嘿嘿。"
   ],
   "struggleAcidDigestImmune": [
     "咩噗？",
-    "感觉你没在融化啊"
+    "感觉你没在融化啊。"
   ],
   "struggleCumDigest": [
-    "嗯嗯,融化掉,下去吧～",
-    "为我咩噗叫～"
+    "嗯嗯，就这样溶解掉吧~",
+    "给我咩噗掉～"
   ],
   "struggleCumDigestBalls": [
-    "对,变成美味的鲨狗尔族精液吧～",
-    "是时候变成鲨狗族的精液啦～"
+    "对，变成美妙的鲨狗精子吧~",
+    "是时候变成鲨狗的精液啦~"
   ],
   "struggleCumDigestImmune": [
-    "没融化",
-    "这只塞尔加尔族想让你融化",
-    "少废话,多融化",
-    "直接融化,享受这过程吧"
+    "溶解不掉...",
+    "某只鲨狗很想融化你。",
+    "少废话，多溶化。",
+    "赶紧融化并好好享受这过程。"
   ],
   "struggleDrainEnergy": "/npcs/sbq/dialogue/default.dialogue:struggleDrainEnergy",
   "strugglingBelly": [
@@ -263,8 +263,8 @@
         },
         "add": [
           "*咕噜咕噜*",
-          "嗯嗯,那些声音",
-          "挣扎的闷哼... 哦,我放弃了..."
+          "姆唔，这里面的声音..",
+          "*挣扎的闷咕声*...嗷，我放弃了..."
         ]
       }
     ],
@@ -273,28 +273,28 @@
         "predator": "sbqVaporeon"
       },
       "add": [
-        "黏糊糊的水伊布肚子,",
-        "这里面全是黏糊的,"
+        "黏糊糊的水伊布肚子。",
+        "这里面又粘又滑。"
       ]
     }
   ],
   "strugglingCock": [
-    "对... 把我夹得更紧点`",
-    "又好闻又舒服",
+    "对..狠狠挤压我~",
+    "舒服又浓郁",
     "这太刺激了～"
   ],
   "strugglingBalls": "/npcs/sbq/dialogue/default.dialogue:strugglingBalls",
   "strugglingAcidHeal": [
-    "嗯... 这没把我融化掉.. 这是好事对吧？",
-    "这就像个疗伤的澡",
-    "这感觉太棒了"
+    "唔...它没在消化我..很棒，对吧？",
+    "好像一次治疗浴。",
+    "这感觉太棒了！"
   ],
   "strugglingCumHeal": ":strugglingAcidHeal",
   "strugglingCumHealCock": ":strugglingAcidHeal",
   "strugglingCumHealBalls": [
-    "你的疗伤精液冲刷着我,我感觉伤痛在消失！",
-    "看来你的蛋蛋是个很棒的疗养桑拿房和水疗中心,",
-    "你的精液这舒缓效果太神奇了,真新奇,"
+    "你的治愈精液冲刷着我，我感觉伤痛在消失！",
+    "看来你的蛋蛋是个很棒的疗养桑拿水疗中心。",
+    "你那浓稠精华的舒缓效果太疯狂了，真新奇。"
   ],
   "strugglingMiscHeal": ":strugglingAcidHeal",
   "strugglingCompression": "/npcs/sbq/LokiVulpix/Auri/npc.dialogue:strugglingCompression",
