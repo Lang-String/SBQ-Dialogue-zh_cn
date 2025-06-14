@@ -3,7 +3,7 @@
   "greetingRewardsIntroduced": "/npcs/sbq/dialogue/default.dialogue:greetingRewardsIntroduced",
   "greeting": [
     "嗨。",
-    "嘿，你在这儿呢。",
+    "嘿，你好啊。",
     "喵呜。"
   ],
   "greetingCrew": "/npcs/sbq/dialogue/default.dialogue:greetingCrew",
@@ -56,9 +56,9 @@
   "analVoreRequested": "/npcs/sbq/dialogue/default.dialogue:analVoreRequested",
   "analVoreRequestedAfter": [
     "啊～希望我没夹得太紧。",
-    "嗯～这感觉还挺不错的。",
-    "嘿～你简直就像个活生生的假阳具。",
-    "哦～这种扭动感觉相当不错。"
+    "嗯～这感觉还真不错。",
+    "嘿嘿～你简直就像个活生生的性玩具。",
+    "哦哦～这扭动感觉真的相当棒。"
   ],
   "analVoreInvalid": "/npcs/sbq/LokiVulpix/Socks/npc.dialogue:analVoreInvalid",
   "analVoreNo": ":defaultNo",
@@ -222,16 +222,16 @@
   "absorbVoreNoPrompt": "/npcs/sbq/dialogue/default.dialogue:absorbVoreNoPrompt",
   "absorbVoreNoPromptAfter": "/npcs/sbq/dialogue/default.dialogue:absorbVoreNoPromptAfter",
   "analVoreNoPrompt": [
-    "嘿，我想试试新花样。",
-    "嘿…… 要是我把你塞进我屁股里怎么样？",
-    "不知为何…… 我一直把你想象成假阳具。",
-    "你知道的，我不穿裤子是有原因的。"
+    "嘿，我想试试一些新花样。",
+    "嘿... 要是我把你塞进我屁股里会怎么样？",
+    "不知为何... 我总是想把你当成玩具把玩。",
+    "你知道，我不穿胖次是有原因的。"
   ],
   "analVoreNoPromptAfter": [
-    "啊～希望我没夹得太紧。",
-    "嗯～这感觉还挺不错的。",
-    "嘿～你简直就像个活生生的假阳具。",
-    "哦～这种扭动感觉相当不错。"
+    "啊～没夹坏你吧哈哈。",
+    "芜～这感觉可真爽。",
+    "呵呵～你现在就是一个活的性玩具。",
+    "哦～就是这样，在里面蠕动吧。"
   ],
   "unbirthVoreNoPrompt": "/npcs/sbq/LokiVulpix/Auri/npc.dialogue:unbirthVoreNoPrompt",
   "cockVoreNoPrompt": ":unbirthVoreNoPrompt",
@@ -308,12 +308,12 @@
   "struggleMiscHeal": ":struggleAcidHeal",
   "struggleCompression": "/npcs/sbq/dialogue/default.dialogue:struggleCompression",
   "struggleAcidDigest": [
-    "是时候把你融化成一团软肉了。",
-    "乖乖当一顿美餐，慢慢融化吧。"
+    "是时候把你消化成一团软肉了。",
+    "乖乖当一顿美餐，溶化掉吧。"
   ],
   "struggleAcidDigestImmune": [
-    "你怎么还不融化？",
-    "感觉你没有在融化啊。"
+    "为什么消化不掉你？",
+    "没有感觉到你在溶化..."
   ],
   "struggleCumDigest": "/npcs/sbq/dialogue/default.dialogue:struggleCumDigest",
   "struggleCumDigestBalls": "/npcs/sbq/LokiVulpix/Loki/npc.dialogue:struggleCumDigestBalls",
@@ -328,7 +328,7 @@
   "struggleTransforming": "/npcs/sbq/dialogue/default.dialogue:struggleTransforming",
   "struggleDrainEnergy": "/npcs/sbq/dialogue/default.dialogue:struggleDrainEnergy",
   "struggleEggify": [
-    "你能感觉到周围正在形成的蛋吗？",
+    "你能感觉到正在四周形成的蛋壳吗？",
     "很快，你的扭动就无济于事了。"
   ],
   "anyInfusedOccupant": "/npcs/sbq/dialogue/default.dialogue:anyInfusedOccupant",
@@ -342,14 +342,14 @@
   "strugglingBelly": [
     [
       "嗯～相当舒服。",
-      "啊…… 你的肚子好软啊……",
+      "啊... 你的胃袋好柔软啊...",
       {
         "check": {
           "bellySounds": true
         },
         "add": [
-          "你的肚子好吵啊。",
-          "嗯…… 我喜欢你肚子发出的声音。"
+          "你的肚子好吵闹啊。",
+          "嗯... 我喜欢你肚子发出的声音。"
         ]
       }
     ],
@@ -362,7 +362,7 @@
       },
       "add": [
         "黏糊糊的水伊布肚子。",
-        "这里面全是黏糊糊的。"
+        "这里面满满的全是粘液。"
       ]
     }
   ],
@@ -376,16 +376,16 @@
   "strugglingAss": "/npcs/sbq/dialogue/default.dialogue:strugglingAss",
   "strugglingAcidHeal": [
     [
-      "啊…… 好舒服啊。",
-      "我感觉所有的烦恼都在消散……",
+      "啊... 好舒服啊。",
+      "我能感觉到所有的烦恼都在消散...",
       "这里面好舒服。",
       {
         "check": {
           "bellySounds": true
         },
         "add": [
-          "我真的很喜欢你肚子发出的声音…… 非常让人平静。",
-          "听着你身体发出的声音，我都能睡着了……"
+          "我真的很喜欢你肚子发出的声音... 令人感到平静。",
+          "听着你身体发出的声音，我都能睡着了..."
         ]
       }
     ],
@@ -408,15 +408,15 @@
   "strugglingCompression": "/npcs/sbq/LokiVulpix/Auri/npc.dialogue:strugglingCompression",
   "strugglingAcidDigest": [
     [
-      "啊…… 我开始融化了。",
-      "哦天呐…… 我要变成食物了。",
+      "啊... 我正在被消化。",
+      "哦天呐... 我就要成为食物了。",
       {
         "check": {
           "bellySounds": true
         },
         "add": [
-          "你的肚子好吵啊…… 我是不是要被咕噜咕噜地吞下去了？",
-          "这么多咕噜声…… 你一定很饿吧。"
+          "你的肚子好吵啊... 我是不是要被咕噜咕噜地溶化掉了？",
+          "这么多咕噜声... 你一定很饿吧。"
         ]
       }
     ],
@@ -428,7 +428,7 @@
         ]
       },
       "add": [
-        "啊…… 我开始融化成黏液了……"
+        "啊... 我正被一点一点地变成粘液..."
       ]
     }
   ],
@@ -475,14 +475,14 @@
   "analVoreLetoutRequestedDigested": ":oralVoreLetoutRequestedDigested",
   "tailVoreLetoutRequestedDigested": ":oralVoreLetoutRequestedDigested",
   "strugglingSlime": [
-    "这黏液好黏啊。",
-    "被困在黏液里……",
-    "悬浮在黏糊糊的液体中……"
+    "这堆粘液好黏啊。",
+    "被困在黏液里了...",
+    "泡在黏糊糊的果冻中..."
   ],
   "strugglingTransformingBelly": [
     [
       "这里面感觉有点奇怪？",
-      "感觉像是…… 我在变化？"
+      "这感觉像是... 我变成什么样了？"
     ],
     {
       "check": {
@@ -492,16 +492,16 @@
         ]
       },
       "add": [
-        "这…… 这就好像我在变成黏液？",
-        "我正在变成一只水伊布……"
+        "这... 这就好像我在变成黏液？",
+        "我正在变成一只水伊布..."
       ]
     }
   ],
   "strugglingTransformingWomb": "/npcs/sbq/LokiVulpix/Loki/npc.dialogue:strugglingTransformingWomb",
   "greeting.default.fearful": [
-    "啊！",
-    "我…… 我没看到你在那儿！",
-    "哦…… 哦，是你啊！"
+    "哈！",
+    "我...我没注意到你在那儿！",
+    "哦-哦，是你啊！"
   ],
   "greeting.default.horny": [
     "UwU",
@@ -510,34 +510,34 @@
   ],
   "greeting.default.friendly": [
     "嗨！",
-    " 嘿，<entityname>！",
+    "嘿，<entityname>！",
     "喵～"
   ],
   "greeting.default.hungry": [
-    "嗯…… 感觉有点饿了。",
-    " 嘿，<entityname>，我在找些吃的，你有吗？",
+    "唔... 感觉有点饿了。",
+    "嘿，<entityname>，我在找些吃的，你有吗？",
     "哦，哈，我可能得找点东西吃了。"
   ],
   "struggleTransformedBelly": [
     [
-      "看来你已经完成了。",
-      "我觉得你已经变完了。"
+      "看来你已经完成同化了。",
+      "我觉得这同化过程应该结束了。"
     ]
   ],
   "struggleTransformingBelly": [
     [
-      "这一切结束后，你会有点不一样。",
-      "这些变化应该会让你有所提升。"
+      "这一切结束后，你会有点小变化。",
+      "同化会让你变得更好。"
     ]
   ],
   "struggleTransformingImmuneBelly": "Missing: struggleTransformingImmuneBelly <dialoguePath>",
   "struggleEggedBelly": [
-    "现在你被困在一个蛋里了"
+    "现在你被困在一个蛋里了。"
   ],
   "struggleEggifyBelly": [
     [
-      "你能感觉到周围正在形成的蛋吗？",
-      "很快你的扭动就没用了。"
+      "你能感觉到周围逐渐变硬了吗？",
+      "很快你就别想再顶我的胃壁了。"
     ]
   ],
   "struggleEggifyImmuneBelly": "Missing: struggleTransformingImmuneBelly <dialoguePath>",
@@ -545,7 +545,7 @@
   "struggleTransformingWomb": ":struggleTransformingBelly",
   "struggleTransformingImmuneWomb": [
     [
-      "你不想改变吗？",
+      "你不想被我同化吗？",
       "来吧，你难道不想变得不一样吗？"
     ]
   ],
@@ -554,8 +554,8 @@
   "struggleTransformedCock": ":struggleDigestCock",
   "struggleTransformingCock": [
     [
-      "我能感觉到你在里面变得黏糊糊的。",
-      "我能感觉到你开始转变啦～"
+      "我能感觉到你在里面逐渐变得瘫软了。",
+      "我能感觉到你就要被我同化啦～"
     ]
   ],
   "struggleTransformingImmuneCock": ":struggleEggifyImmuneBelly",
