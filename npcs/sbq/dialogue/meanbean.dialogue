@@ -478,7 +478,7 @@
     "今天，会有很多小穴惨遭透入。而<entityName>就是凶手！",
     "啊，我注意到你在抽动并准备为取悦我而*挺身而出*了~",
     "唔...安静点，我的*二弟*。现在是我在掌控一切~"
-]
+],
   "cockInfuseInvalid": "/npcs/sbq/dialogue/default.dialogue:cockInfuseInvalid",
   "cockInfuseNo": ":defaultNo",
   "cockInfuseTooBig": ":tooBig",
@@ -2211,7 +2211,7 @@
   ],
   "struggleCock": [
     "你越是反抗，我的鸡巴就越硬，对你来说就越紧~",
-    "在找出去的路？我建议你试试向上^#00BEBE;爬^reset;。",
+    "在找出去的路？我建议你试试向^#00BEBE;上^reset;爬。",
     "就算我射精了，你也别想出来。我一根手指就能把你按下去~",
     "呵，都快分不清你的扭动和我的悸动了。"
   ],
