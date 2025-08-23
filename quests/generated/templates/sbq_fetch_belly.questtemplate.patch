@@ -26,7 +26,7 @@
   },
   {
     "op": "replace",
-    "value": "我觉得我的喉咙下面卡了什么东西。^green;介意仔细看看^white;吗？你可能需要深入离近一点点...",
+    "value": "我觉得我的喉咙下面卡了什么东西。介意^green;仔细看看^white;吗？你可能需要深入离近一点点...",
     "path": "/scriptConfig/generatedText/text/default/default/0"
   },
   {
