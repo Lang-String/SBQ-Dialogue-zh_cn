@@ -17,8 +17,8 @@
     "哟，队长。"
   ],
   "greetingIntroduced": [
-    " 哟，<entityName>。",
-    " 嘿，<entityName>，又去哪摸了什么好东西？"
+    "哟，<entityName>。",
+    "嘿，<entityName>，又去哪摸了什么好东西？"
   ],
   "crewStay": [
     "那我就在这呆一会。",
