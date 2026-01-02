@@ -1,11 +1,11 @@
 {
 	"version" : "4.0",
 	"tags" : "",
-	"author" : "Zygan, Wasabi_Raptor/LokiVulpix",
-	"description" : "A mod containing only the player presented strings within starbecue, intended for ease of contributing to main, or translating into other languages",
+	"author" : "Zygan, Wasabi_Raptor/LokiVulpix(提供英文文本与仓库)，燃烧的狐狸(基于ta的基础进行翻译与润色)，Aiser(翻译人员，仓库提出者)，Lang_String(翻译人员)",
+	"description" : "该模组中仅含有Starbecue中向玩家显示的文本条目，用于分担并简化主模组的制作流程，同时提供了翻译成其他语言的渠道。此为4.x版本的SBQ模组翻译，向2535891375@qq.com提出建议！",
 	"link" : "https://www.patreon.com/LokiVulpix",
-	"name" : "Starbecue Dialogue",
-	"friendlyName" : "Starbecue Dialogue",
+	"name" : "Starbecue Dialogue CN",
+	"friendlyName" : "Starbecue Dialogue CN",
 	"requires" : [
 		"Starbecue"
 	]
