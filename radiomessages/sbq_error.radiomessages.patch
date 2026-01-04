@@ -18,5 +18,16 @@
     "op": "replace",
     "path": "/sbqTransformNPCOnly/text",
     "value": "你不能转化一个只属于NPC的物种。"
+  },
+  {
+    "op": "replace",
+    "path": "/sbqHybridBlacklisted/text",
+    "value": "新物种不能与当前物种杂交。"
+  },
+  {
+    "op": "replace",
+    "path": "/sbqHybridUnsupported/text",
+    "value": "你正在和一个目前SBQ不支持的物种杂交，请注意一些事情可能会因此看起来很奇怪。"
   }
 ]
+
