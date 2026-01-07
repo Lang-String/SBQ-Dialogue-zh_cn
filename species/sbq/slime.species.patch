@@ -4,21 +4,21 @@
 		"path": "",
 		"value": {
 			"charCreationTooltip": {
-				"title": "Slime",
+				"title": "史莱姆",
 				"subTitle": "C31H27NO4",
-				"description": "You look half digested. Have you been chasing slimes again?\n-Nurse"
+				"description": "还活着吗，你看起来基本被消化干净了。你又去追然后一头栽进史莱姆里了？\n——护士"
 			},
 			"charGenTextLabels": [
-				"Gel colour",
-				"Gel style",
+				"凝胶颜色",
+				"凝胶样式",
 				"-",
 				"-",
 				"-",
 				"-",
 				"-",
 				"-",
-				"Slime",
-				"Personality"
+				"史莱姆",
+				"个性"
 			]
 		}
 	}
