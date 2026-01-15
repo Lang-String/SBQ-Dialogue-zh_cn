@@ -6,19 +6,19 @@
 			"charCreationTooltip": {
 				"title": "Fray",
 				"subTitle": "-",
-				"description": "Big Vulpix."
+				"description": "巨型六尾。"
 			},
 			"charGenTextLabels": [
-				"Fur Color", // body color
-				"Eye Color", // hair type
-				"Beans Color", // shirt
+				"毛发颜色", // body color
+				"眼睛颜色", // hair type
+				"肉球颜色", // shirt
 				"-", // pants
-				"Hair Color", // alt option - undy color - facial mask
-				"Hair Style", // head option - hair color - facial hair
+				"头发颜色", // alt option - undy color - facial mask
+				"头发风格", // head option - hair color - facial hair
 				"-", // shirt color
 				"-", // pants color
-				"Vulpix", // species
-				"Personality" // personality
+				"六尾", // species
+				"个性" // personality
 			]
 		}
 	}
