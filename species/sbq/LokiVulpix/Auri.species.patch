@@ -6,19 +6,19 @@
 			"charCreationTooltip": {
 				"title": "Auri",
 				"subTitle": "(Zn,Cu)5(CO3)2(OH)6",
-				"description": "Are you sure you're supposed to be able to read this?"
+				"description": "你确定你应该能读到这个吗？"
 			},
 			"charGenTextLabels": [
-				"Skin colour",
-				"Hair style",
-				"Shirt",
-				"Legwear",
-				"Underwear",
-				"Hair colour",
-				"Shirt colour",
-				"Legwear colour",
+				"皮肤颜色",
+				"发型",
+				"上衣",
+				"腿部穿着",
+				"内衣",
+				"头发颜色",
+				"上衣颜色",
+				"腿部穿着颜色",
 				"Drimyr",
-				"Personality"
+				"个性"
 			]
 		}
 	}
