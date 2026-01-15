@@ -4,21 +4,21 @@
 		"path": "",
 		"value": {
 			"charCreationTooltip": {
-				"title": "Hellhound",
+				"title": "地狱犬",
 				"subTitle": "S8",
-				"description": "I hear they're pretty hot."
+				"description": "我听说它们相当火辣，能让你\"狱\"火焚身。"
 			},
 			"charGenTextLabels": [
-				"Skin colour",
-				"Hair style",
-				"Shirt",
-				"Legwear",
-				"Underwear",
-				"Hair colour",
-				"Shirt colour",
-				"Legwear colour",
-				"Hellhound",
-				"Personality"
+				"皮肤颜色",
+				"发型",
+				"上衣",
+				"腿部穿着",
+				"内衣",
+				"头发颜色",
+				"上衣颜色",
+				"腿部穿着颜色",
+				"地狱犬",
+				"个性"
 			]
 		}
 	}
