@@ -6,19 +6,19 @@
 			"charCreationTooltip": {
 				"title": "Ambi",
 				"subTitle": "Au",
-				"description": "Are you sure you're supposed to be able to read this?"
+				"description": "你确定你本该能看到这段内容吗？"
 			},
 			"charGenTextLabels": [
-				"Skin colour",
-				"Hair style",
-				"Shirt",
-				"Legwear",
-				"Underwear",
-				"Hair colour",
-				"Shirt colour",
-				"Legwear colour",
-				"HUMAN",
-				"Personality"
+				"皮肤颜色",
+				"发型",
+				"上衣",
+				"腿部穿着",
+				"内衣",
+				"头发颜色",
+				"上衣颜色",
+				"腿部穿着颜色",
+				"人类",
+				"个性"
 			]
 		}
 	}
