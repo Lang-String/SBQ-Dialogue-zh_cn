@@ -5,20 +5,20 @@
 		"value": {
 			"charCreationTooltip": {
 				"title": "Akari",
-				"subTitle": "The potential for vore.",
-				"description": "Are you sure you're supposed to be able to read this?"
+				"subTitle": "丸吞的潜力。",
+				"description": "你确定你本该能看到这段内容吗？"
 			},
 			"charGenTextLabels": [
-				"Skin colour",
-				"Hair style",
-				"Shirt",
-				"Legwear",
-				"Underwear",
-				"Hair colour",
-				"Shirt colour",
-				"Legwear colour",
-				"Sergal",
-				"Personality"
+				"皮肤颜色",
+				"发型",
+				"上衣",
+				"腿部穿着",
+				"内衣",
+				"头发颜色",
+				"上衣颜色",
+				"腿部穿着颜色",
+				"鲨狗",
+				"个性"
 			]
 		}
 	}
