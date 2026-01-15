@@ -17,8 +17,8 @@
 				"-", // head option - hair color - facial hair
 				"-", // shirt color
 				"-", // pants color
-				"Dragon", // species
-				"Personality" // personality
+				"龙", // species
+				"个性" // personality
 			]
 		}
 	}
