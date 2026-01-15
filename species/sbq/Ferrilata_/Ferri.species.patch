@@ -5,20 +5,20 @@
 		"value": {
 			"charCreationTooltip": {
 				"title": "Ferri",
-				"subTitle": "meow yarp meow myarp",
-				"description": "Catfox named Ferri. Friendly. Eager to please. Nutritious."
+				"subTitle": "喵嗷喵嗷",
+				"description": "一只名叫Ferri的猫狐。友善。渴望取悦他人。营养丰富。"
 			},
 			"charGenTextLabels": [
-				"Skin colour",
-				"Hair style",
-				"Shirt",
-				"Legwear",
-				"Underwear",
-				"Hair colour",
-				"Shirt colour",
-				"Legwear colour",
-				"HUMAN",
-				"Personality"
+				"皮肤颜色",
+				"发型",
+				"上衣",
+				"腿部穿着",
+				"内衣",
+				"头发颜色",
+				"上衣颜色",
+				"腿部穿着颜色",
+				"人类",
+				"个性"
 			]
 		}
 	}
