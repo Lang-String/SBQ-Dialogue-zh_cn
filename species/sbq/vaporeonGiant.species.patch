@@ -4,21 +4,21 @@
 		"path": "",
 		"value": {
 			"charCreationTooltip": {
-				"title": "Giant Vaporeon",
-				"subTitle": "Dihydrogen Monoxide",
-				"description": "Everyone's favorite fishcat, but bigger!"
+				"title": "巨大水伊布",
+				"subTitle": "一氧化二氢",
+				"description": "这还是那个人见人爱的\"小\"鱼猫吗，真的好大一只！"
 			},
 			"charGenTextLabels": [
-				"Primary Color", // body color
-				"Belly Color", // hair type
-				"Dorsal Finn Color", // shirt
-				"Ear Finn Color", // pants
-				"Neck Finn Color", // alt option - undy color - facial mask
-				"Beans Color", // head option - hair color - facial hair
-				"Neck Finn Style", // shirt color
-				"-", // pants color
-				"Vaporeon", // species
-				"Personality" // personality
+				"主体颜色", // body color 身体颜色
+				"腹部颜色", // hair type 头发类型
+				"背鳍颜色", // shirt 衬衫
+				"耳鳍颜色", // pants 裤子
+				"颈鳍颜色", // alt option - undy color - facial mask 替代选项 - 暗色 - 面罩
+				"肉球颜色", // head option - hair color - facial hair 头部选项 - 头发颜色 - 面部毛发
+				"颈鳍风格", // shirt color 衬衫颜色
+				"-", // pants color 裤子颜色
+				"水伊布", // species 物种
+				"个性" // personality 个性
 			]
 		}
 	}
