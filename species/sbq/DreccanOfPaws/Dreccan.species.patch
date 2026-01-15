@@ -17,8 +17,8 @@
 				"-", // head option - hair color - facial hair
 				"-", // shirt color
 				"-", // pants color
-				"Deer", // species
-				"Personality" // personality
+				"鹿", // species
+				"个性" // personality
 			]
 		}
 	}
