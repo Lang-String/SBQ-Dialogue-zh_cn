@@ -4,9 +4,9 @@
 		"path": "",
 		"value": {
 			"charCreationTooltip": {
-				"title": "Absol",
-				"subTitle": "Omen",
-				"description": "The Disaster Pokemon."
+				"title": "阿勃梭鲁",
+				"subTitle": "凶兆",
+				"description": "灾祸宝可梦。"
 			},
 			"charGenTextLabels": [
 				"-", // body color
@@ -17,7 +17,7 @@
 				"-", // head option - hair color - facial hair
 				"-", // shirt color
 				"-", // pants color
-				"Absol", // species
+				"阿勃梭鲁", // species
 				"个性" // personality
 			]
 		}
