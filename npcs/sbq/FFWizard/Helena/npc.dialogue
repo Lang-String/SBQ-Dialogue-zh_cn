@@ -4021,10 +4021,10 @@
 	"struggling": {
 		"dialogueRandom": [
 			[
-				"This feels quite nice.",
-				"Are you enjoying yourself? I am.",
-				"Ooh, this is a new one for me.",
-				"I'll keep going for as long as you like."
+				"这感觉相当不错。",
+				"你玩得开心吗？我很开心。",
+				"哦，这对我来说是种新体验。",
+				"只要你喜欢，我可以一直这样。"
 			]
 		],
 		"imagePortrait": [
@@ -4033,20 +4033,20 @@
 	},
 	"strugglingDigest": {
 		"dialogueRandom": [
-			"^red;Not a great idea, <entityname>."
+			"^red; 这可不是个好主意，<entityname>。"
 		],
 		"imagePortrait": [
 			"HBork.png"
 		]
 	},
-	"strugglingDigestImmuneHungry": ":strugglingAcidDigestImmune", // duplicated lines
-	"strugglingDigestImmuneHorny": ":strugglingAcidDigestImmune", // duplicated lines
+	"strugglingDigestImmuneHungry": ":strugglingAcidDigestImmune",
+	"strugglingDigestImmuneHorny": ":strugglingAcidDigestImmune",
 	"strugglingSlime": {
 		"dialogueRandom": [
-			"Nice, I can see out of you slightly.",
-			"Mm, this is fancy.",
-			"I see. So this is why slimes are starter enemies.",
-			"I haven't been this wet in a while."
+			"不错，我能透过你看到一点东西。",
+			"嗯，这很奇妙。",
+			"我明白了。这就是为什么史莱姆是新手敌人。",
+			"我好久没这么湿过了。"
 		],
 		"imagePortrait": [
 			"HHappy.png"
@@ -4054,10 +4054,10 @@
 	},
 	"strugglingSlimeHungry": {
 		"dialogueRandom": [
-			"Sorry if I nibble on you a bit. I'm starving.",
-			"Mmm, I wonder how you taste from within?",
-			"Mind absorbing a quick snack for me?",
-			"It's like being inside a nice dessert..."
+			"如果我稍微咬你一下，抱歉。我饿死了。",
+			"嗯，我想知道从里面尝起来你是什么味道？",
+			"介意帮我吸收点快餐吗？",
+			"就好像在一个美味的甜点里面……"
 		],
 		"imagePortrait": [
 			"HTired.png"
@@ -4065,10 +4065,10 @@
 	},
 	"strugglingSlimeHorny": {
 		"dialogueRandom": [
-			"This feels good~ Hope you don't mind me adding my fluids to your mix~",
-			"Feel free to explore as much as you like~",
-			"Ooh, this is perfect~",
-			"Nice, sticky, and wet~"
+			"这感觉真好～希望你不介意我把我的体液加到你的混合物里～",
+			"你想怎么探索都可以～",
+			"哦，这太完美了～",
+			"不错，黏糊糊又湿漉漉的～"
 		],
 		"imagePortrait": [
 			"HOwO.png"
@@ -4076,10 +4076,10 @@
 	},
 	"strugglingSlimeDigestImmune": {
 		"dialogueRandom": [
-			"Ah, naughty. I can't melt like that, dear.",
-			"Try to claim me as much as you want. I won't melt completely.",
-			"If you lighten up, I'll gladly join you for a bit.",
-			"Slimes are weak for a reason. You can't melt me."
+			"啊，调皮。亲爱的，我可不会那样融化。",
+			"你想怎么占有我都行。我不会完全融化的。",
+			"如果你温柔点，我很乐意陪你待一会儿。",
+			"史莱姆弱是有原因的。你融化不了我。"
 		],
 		"imagePortrait": [
 			"HHappy.png"
@@ -4087,10 +4087,10 @@
 	},
 	"strugglingSlimeDigest": {
 		"dialogueRandom": [
-			"I'll gladly join you.",
-			"Seeing myself disappear is oddly exciting!",
-			"Heh, we're about to become cinnamon-flavored.",
-			"How intimate~"
+			"我很乐意加入你。",
+			"看着自己消失莫名地兴奋！",
+			"呵，我们马上要变成肉桂味的了。",
+			"多亲密啊～"
 		],
 		"imagePortrait": [
 			"HHappy.png"
@@ -4098,10 +4098,10 @@
 	},
 	"strugglingSlimeDigestHungry": {
 		"dialogueRandom": [
-			"I'll gladly join you. Let's absorb lots together.",
-			"So this is what it's like in my stomach right now.",
-			"Heh, we're about to become cinnamon-flavored.",
-			"How intimate~"
+			"我很乐意加入你。让我们一起吸收很多东西。",
+			"这就是我现在肚子里的感觉。",
+			"呵，我们马上要变成肉桂味的了。",
+			"多亲密啊～"
 		],
 		"imagePortrait": [
 			"HTired.png"
@@ -4109,10 +4109,10 @@
 	},
 	"strugglingSlimeDigestHorny": {
 		"dialogueRandom": [
-			"I'll gladly add even more to your slime~",
-			"Seeing myself disappear is so arousing~",
-			"Heh, we're about to become cinnamon-flavored~",
-			"Hope you don't absorb my libido, too~"
+			"我很乐意给你的史莱姆里加更多东西～",
+			"看着自己消失太刺激了～",
+			"呵，我们马上要变成肉桂味的了～",
+			"希望你别把我的性欲也吸收了～"
 		],
 		"imagePortrait": [
 			"HOwO.png"
@@ -4120,10 +4120,10 @@
 	},
 	"strugglingSlimeHeal": {
 		"dialogueRandom": [
-			"That's good. I'm feeling much better.",
-			"Ooh, that tingles!",
-			"Thanks, but those scars are permanent.",
-			"I like this a lot."
+			"很好。我感觉好多了。",
+			"哦，这有点痒！",
+			"谢谢，但这些伤疤是永久性的。",
+			"我很喜欢这样。"
 		],
 		"imagePortrait": [
 			"HHappy.png"
@@ -4131,10 +4131,10 @@
 	},
 	"strugglingSlimeHealHungry": {
 		"dialogueRandom": [
-			"I like this. It helps keep my mind off the hunger.",
-			"That feels... nice...",
-			"Just a nibble, okay? No? Alright.",
-			"Now I just need a snack and this will be perfect..."
+			"我喜欢这样。这能让我暂时忘掉饥饿。",
+			"这感觉…… 不错……",
+			"就咬一小口，好吗？不行？好吧。",
+			"现在我只需要一份小吃，这样就完美了……"
 		],
 		"imagePortrait": [
 			"HTired.png"
@@ -4142,10 +4142,10 @@
 	},
 	"strugglingSlimeHealHorny": {
 		"dialogueRandom": [
-			"You can heal, too? My, such a talented slime~",
-			"Keeping me energized, huh? Alright~",
-			"Mm-ng~ That's nice...",
-			"H-haaa~"
+			"你也能疗伤？哇，真是个有本事的史莱姆～",
+			"让我精力充沛，哈？好吧～",
+			"嗯～那感觉真好……",
+			"哈～哈啊～"
 		],
 		"imagePortrait": [
 			"HOwO.png"
@@ -4153,124 +4153,124 @@
 	},
 	"strugglingSlimeTransforming": {
 		"dialogueRandom": [
-			"Mm, no?"
+			"额，不?"
 		],
 		"imagePortrait": [
 			"HConfused.png"
 		]
 	},
-	"strugglingTransformingBelly": ":strugglingSlimeTransforming", // duplicated lines
-	"strugglingCumDigestImmuneBalls": ":strugglingAcidDigestImmune", // duplicated lines
+	"strugglingTransformingBelly": ":strugglingSlimeTransforming",
+	"strugglingCumDigestImmuneBalls": ":strugglingAcidDigestImmune",
 	"oralVoreLetoutForcingAfterDigest": [
-		"Whew... I got you to spit me out before I was done for!"
+		"呼…… 在我彻底完蛋之前，你把我吐出来了！"
 	],
 	"oralVoreLetoutForcingAfterDigestImmune": [
-		"I got you to spit me out, though I wasn't really in any danger."
+		"我让你把我吐出来了，不过我其实并没有任何危险。"
 	],
 	"oralVoreLetoutForcingAfterHeal": [
-		"Sorry, but I'm all healed up, I think. I needed you to spit me up."
+		"抱歉，但我想我已经完全恢复了。我需要你把我吐出来。"
 	],
 	"analVoreLetoutForcingAfterDigest": [
-		"Whew, I barely got out of your rear without adding to it!"
+		"呼，我差点就没能从你屁股出来，没被你彻底吸收！"
 	],
 	"analVoreLetoutForcingAfterDigestImmune": [
-		"Looks like I managed to get out though your bottom, though I wasn't in any danger."
+		"看来我成功从你屁股出来了，不过我并没有任何危险。"
 	],
 	"analVoreLetoutForcingAfterHeal": [
-		"Who knew you could come out a butt so refreshed!"
+		"谁能想到从屁股出来会感觉这么清爽呢！"
 	],
 	"cockVoreLetoutForcingAfterDigest": [
-		"Whew, I wiggled out of your shaft before it melted me!"
+		"呼，我在被你阴茎融化之前，从你阴茎里扭动着出来了！"
 	],
 	"cockVoreLetoutForcingAfterDigestImmune": [
-		"Looks like I got out your shaft, though it couldn't do any harm to me."
+		"看来我从你阴茎里出来了，不过它并不能对我造成任何伤害。"
 	],
 	"cockVoreLetoutForcingAfterHeal": [
-		"I squirmed out your cock and I feel really good after all that!"
+		"我从你阴茎里扭动着出来了，经历这一切后我感觉棒极了！"
 	],
 	"unbirthVoreLetoutForcingAfterDigest": [
-		"Whew, I managed to get out of your womb. If I didn't, I'd be melted by now!"
+		"呼，我成功从你子宫里出来了。要是没出来，我现在就被融化了！"
 	],
 	"unbirthVoreLetoutForcingAfterDigestImmune": [
-		"Looks like I got out your womb, though I wasn't really in danger inside it."
+		"看来我从你子宫里出来了，不过在里面的时候我其实并没有危险。"
 	],
 	"unbirthVoreLetoutForcingAfterHeal": [
-		"I wiggled my way out your womb and I feel as good as new!"
+		"我从你子宫里扭动着出来了，感觉焕然一新！"
 	],
 	"breastVoreLetoutForcingAfterDigest": [
-		"Whew, I got out of your boob before I was added to its milk!"
+		"呼，在被变成你乳房里的乳汁之前，我从你乳房里出来了！"
 	],
 	"breastVoreLetoutForcingAfterDigestImmune": [
-		"Looks like I found my way out your boob, though I wasn't in danger inside it."
+		"看来我从你乳房里出来了，不过在里面的时候我并没有危险。"
 	],
 	"breastVoreLetoutForcingAfterHeal": [
-		"Ah... I wiggled my way out your boob, and I feel so much better too!"
+		"啊…… 我从你乳房里扭动着出来了，感觉也好多了！"
 	],
 	"oralVoreLetoutUnpromptedAfterDigest": [
-		"Thanks for spitting me up. I was going to be added to you!"
+		"谢谢你把我吐出来。我差点就被你吸收了！"
 	],
 	"oralVoreLetoutUnpromptedAfterDigestImmune": [
-		"Thanks for spitting me up. Maybe you realized you can't digest me?"
+		"谢谢你把我吐出来。也许你意识到你消化不了我？"
 	],
 	"oralVoreLetoutUnpromptedAfterHeal": [
-		"Oh man, that was a great experience. I feel so refreshed after some time in your gut."
+		"哦，天哪，那真是一次很棒的体验。在你肚子里待了一段时间后，我感觉神清气爽。"
 	],
 	"analVoreLetoutUnpromptedAfterDigest": [
-		"W-wah! Thanks for releasing me out your rear before was I added to it!"
+		"哇 ——！谢谢你在我被彻底吸收之前，把我从你屁股放出来！"
 	],
 	"analVoreLetoutUnpromptedAfterDigestImmune": [
-		"Well, looks like you pushed me out your rear. Did you realize I can't be added to it?"
+		"嗯，看来你把我从你屁股推出来了。你是意识到我不会被你吸收吗？"
 	],
 	"analVoreLetoutUnpromptedAfterHeal": [
-		"W-wah! I never felt so good after being squeezed out a butt!"
+		"哇 ——！被从屁股挤出来后，我从来没感觉这么好过！"
 	],
 	"cockVoreLetoutUnpromptedAfterDigest": [
-		"Whew! Thanks for getting me out your shaft, I was about to be gooey mush!"
+		"呼！谢谢你把我从你阴茎里弄出来，我差点就变成黏糊糊的一团了！"
 	],
 	"cockVoreLetoutUnpromptedAfterDigestImmune": [
-		"Looks like you let me out your shaft. Figured out I can't get melted by it?"
+		"看来你把我从你阴茎里放出来了。你是发现我不会被它融化吗？"
 	],
 	"cockVoreLetoutUnpromptedAfterHeal": [
-		"Ah, thanks for letting me out your cock. I never felt better after my time inside it!"
+		"啊，谢谢你把我从你阴茎里放出来。在里面待过之后，我感觉从未有过的好！"
 	],
 	"unbirthVoreLetoutUnpromptedAfterDigest": [
-		"Whew! Thanks for getting me out of your womb, I was almost melted by it!"
+		"呼！谢谢你把我从你子宫里弄出来，我差点就被它融化了！"
 	],
 	"unbirthVoreLetoutUnpromptedAfterDigestImmune": [
-		"Looks like you freed me from your womb. Guess you realized I won't melt in it?"
+		"看来你把我从你子宫里放出来了。你是意识到我不会在里面融化吗？"
 	],
 	"unbirthVoreLetoutUnpromptedAfterHeal": [
-		"Ah, thanks for squeezing me out your womb. Your rejuvenating chamber has left me feeling amazing!"
+		"啊，谢谢你把我从你子宫里挤出来。你那充满活力的子宫让我感觉棒极了！"
 	],
 	"breastVoreLetoutUnpromptedAfterDigest": [
-		"Whew! Thanks for getting me out your boob, I was almost added to your milk!"
+		"呼！谢谢你把我从你乳房里弄出来，我差点就变成你的乳汁了！"
 	],
 	"breastVoreLetoutUnpromptedAfterDigestImmune": [
-		"Looks like you pushed me out your boob, though I was in no danger from turning into milk."
+		"看来你把我从你乳房里推出来了，不过我并不会有变成乳汁的危险。"
 	],
 	"breastVoreLetoutUnpromptedAfterHeal": [
-		"Ah, thanks for pushing me out your boob. That soothing milk bath has made me feel stronger!"
+		"啊，谢谢你把我从你乳房里推出来。那舒适的乳汁浴让我感觉更强壮了！"
 	],
 	"infused": [
 		"<slowlove>",
 		"<love>",
 		[
 			[
-				"(Just a part of your body~)",
-				"(Just a part of <entityname>'s body~)"
+				"(只是你身体的一部分～)",
+				"(只是<entityname>身体的一部分～)"
 			],
-			"<slowlove>(I belong here don't I...~)",
-			"<slowlove>(I belong here... just a part of <entityname>~)",
+			"<slowlove>(我就该属于这里，不是吗……~)",
+			"<slowlove>(我就该属于这里…… 只是<entityname>的一部分～)",
 			"<love>(<keysmash>)"
 		]
 	],
 	"strugglingHungry": {
 		"dialogueRandom": [
 			[
-				"Not bad. Getting a little hungry, though.",
-				"Are you enjoying yourself? I am, but I might need a snack in a bit.",
-				"Ugh, I might have to ask you to send me some food.",
-				"I'll keep going for as long as you like. Or until my hunger gets too hard to bear."
+				"不错。不过有点饿了。",
+				"你玩得开心吗？我挺开心的，但过会儿我可能得吃点东西。",
+				"呃，我可能得让你给我送点吃的。",
+				"只要你喜欢，我会一直继续下去。或者直到我饿得受不了为止。"
 			]
 		],
 		"imagePortrait": [
@@ -4280,10 +4280,10 @@
 	"strugglingHorny": {
 		"dialogueRandom": [
 			[
-				"This feels amazing~",
-				"Are you having fun? I am, too~",
-				"Ooh, this is a sexy new experience for me.",
-				"Don't mind me if I get quiet all of a sudden~"
+				"这感觉太棒了～",
+				"你玩得开心吗？我也很开心～",
+				"哦，这对我来说是一种很性感的新体验。",
+				"如果我突然安静下来，别介意～"
 			]
 		],
 		"imagePortrait": [
@@ -4292,7 +4292,7 @@
 	},
 	"strugglingTransformed": {
 		"dialogueRandom": [
-			"Mm, sorry."
+			"嗯，抱歉。"
 		],
 		"imagePortrait": [
 			"HConfused.png"
@@ -4300,7 +4300,7 @@
 	},
 	"strugglingTransformedHorny": {
 		"dialogueRandom": [
-			"Mm, sorry~"
+			"嗯，抱歉。"
 		],
 		"imagePortrait": [
 			"HConfused.png"
@@ -4308,7 +4308,7 @@
 	},
 	"strugglingTransformingHorny": {
 		"dialogueRandom": [
-			"Mm, no~?"
+			"嗯，不要～？"
 		],
 		"imagePortrait": [
 			"HConfused.png"
@@ -4316,10 +4316,10 @@
 	},
 	"vored": {
 		"dialogueRandom": [
-			"Oh!",
-			"How exciting!",
-			"Yes, take me.",
-			"That's new!"
+			"哦！",
+			"好刺激！",
+			"好，吃掉我吧。",
+			"这还挺新鲜的！"
 		],
 		"imagePortrait": [
 			"HHappy.png"
@@ -4327,10 +4327,10 @@
 	},
 	"voredHungry": {
 		"dialogueRandom": [
-			"Oh!",
-			"I knew I should've struck first.",
-			"You win.",
-			"Where am I going?"
+			"哦！",
+			"我就知道我该先下手的。",
+			"你赢了。",
+			"我要被带到哪儿去？"
 		],
 		"imagePortrait": [
 			"HTired.png"
@@ -4338,10 +4338,10 @@
 	},
 	"voredHorny": {
 		"dialogueRandom": [
-			"Oh~",
-			"I was hoping you would~",
-			"Mmm~",
-			"A-ah!"
+			"哦～",
+			"我就盼着你这么做呢～",
+			"嗯～",
+			"啊 ——！"
 		],
 		"imagePortrait": [
 			"HOwO.png"
@@ -4349,10 +4349,10 @@
 	},
 	"struggleEscape": {
 		"dialogueRandom": [
-			"Oops! I slipped out.",
-			"Couldn't keep me in, hm?",
-			"Ready for the next round?",
-			"Mm, fresh air."
+			"哎呀！我滑出来了。",
+			"留不住我，嗯？",
+			"准备好下一轮了吗？",
+			"嗯，新鲜空气。"
 		],
 		"imagePortrait": [
 			"HHappy.png"
@@ -4360,10 +4360,10 @@
 	},
 	"struggleEscapeHungry": {
 		"dialogueRandom": [
-			"Sorry, but I'm hungry.",
-			"I'd stay, but my stomach is talking to me.",
-			"My stomach needs tending to. Care to repay the favor?",
-			"I gotta hunt, so I'm out for now."
+			"抱歉，我饿了。",
+			"我本来想留下的，但我的肚子在咕咕叫了。",
+			"我得照顾一下我的肚子。愿意回报我一下吗？",
+			"我得去捕猎了，所以现在得走了。"
 		],
 		"imagePortrait": [
 			"HTired.png"
@@ -4371,10 +4371,10 @@
 	},
 	"struggleEscapeHorny": {
 		"dialogueRandom": [
-			"I've had enough fun~",
-			"That was a treat~",
-			"Let's go again soon~",
-			"That really got me going~"
+			"我玩得够开心了～",
+			"那真是一种享受～",
+			"咱们改天再玩吧～",
+			"那可真让我兴奋起来了～"
 		],
 		"imagePortrait": [
 			"HOwO.png"
@@ -4382,10 +4382,10 @@
 	},
 	"escape": {
 		"dialogueRandom": [
-			"Aw, already?",
-			"Tired? I'd gladly do the same.",
-			"Thanks. I had fun.",
-			"Hit me up anytime."
+			"啊，已经要走啦？",
+			"累了？我很乐意也这样做。",
+			"谢谢。我玩得很开心。",
+			"随时找我。"
 		],
 		"imagePortrait": [
 			"HHappy.png"
@@ -4393,10 +4393,10 @@
 	},
 	"escapeHungry": {
 		"dialogueRandom": [
-			"Thanks, I need to find something to eat.",
-			"I appreciate it. Catch you soon.",
-			"Oh? Care to switch roles, then?",
-			"I liked that. Let's do it again."
+			"谢谢，我得去找点吃的了。",
+			"很感激。回头见。",
+			"哦？那要不要换个角色试试？",
+			"我喜欢那样。咱们再来一次。"
 		],
 		"imagePortrait": [
 			"HTired.png"
@@ -4404,22 +4404,22 @@
 	},
 	"escapeHorny": {
 		"dialogueRandom": [
-			"Mm, alright~",
-			"Want me to return the favor~?",
-			"That was hot~",
-			"You know where to find me, dear~"
+			"嗯，好吧～",
+			"想让我回报你一下吗～？",
+			"那可真刺激～",
+			"亲爱的，你知道在哪儿能找到我～"
 		],
 		"imagePortrait": [
 			"HOwO.png"
 		]
 	},
-	"infusePreyNo": ":defaultNo", // duplicated lines
+	"infusePreyNo": ":defaultNo",
 	"sizeChangedShrinkFiendly": {
 		"dialogueRandom": [
-			"^red;Going to throw me at someone?",
-			"^red;Small or not, I'm still capable.",
-			"^red;Be careful where you put me.",
-			"^red;I'm trusting you."
+			"^red; 要把我扔给别人吗？",
+			"^red; 我就算变小了，也还是有能力的。",
+			"^red; 小心把我放哪儿。",
+			"^red; 我相信你。"
 		],
 		"imagePortrait": [
 			"HMad.png"
@@ -4427,10 +4427,10 @@
 	},
 	"breastVoreLetoutUnpromptedAfterFiendly": {
 		"dialogueRandom": [
-			"^red;Thanks. Your breasts are amazing.",
-			"^red;Is it my turn next? I can do so, too.",
-			"^red;Kind of rare to do that. I liked it.",
-			"^red;Great, now I'm pissed again. Your boobs were comfy!"
+			"^red; 谢谢。你的胸部真棒。",
+			"^red; 接下来轮到我了吗？我也能做到。",
+			"^red; 这样做还挺少见的。我喜欢。",
+			"^red; 好，现在我又生气了。你的胸部很舒服！"
 		],
 		"imagePortrait": [
 			"HMad.png"
@@ -4438,10 +4438,10 @@
 	},
 	"breastVoreLetoutForcingAfterFiendly": {
 		"dialogueRandom": [
-			"^red;Sorry, I'm done. Even I'm getting flustered.",
-			"^red;I got things to do. Nice chest, though.",
-			"^red;Heh, not bad. Want to try mine?",
-			"^red;I had fun. Another time, dear."
+			"^red; 抱歉，我玩够了。连我都开始心慌意乱了。",
+			"^red; 我还有事要做。不过，胸部很不错。",
+			"^red; 呵，不错。想试试我的吗？",
+			"^red; 我玩得很开心。下次吧，亲爱的。"
 		],
 		"imagePortrait": [
 			"HMad.png"
@@ -4449,10 +4449,10 @@
 	},
 	"cockVoreLetoutUnpromptedAfterFiendly": {
 		"dialogueRandom": [
-			"^red;Thanks. My nose was hurting a bit.",
-			"^red;Is it my turn next? Your pick.",
-			"^red;How about we both tease someone? It'd be great.",
-			"^red;Great, now I'm pissed again. Not that kind."
+			"^red; 谢谢。我的鼻子有点疼。",
+			"^red; 接下来轮到我了吗？你选。",
+			"^red; 我们一起逗弄别人怎么样？那肯定很棒。",
+			"^red; 好，现在我又生气了。不是那种生气。"
 		],
 		"imagePortrait": [
 			"HMad.png"
@@ -4460,10 +4460,10 @@
 	},
 	"cockVoreLetoutForcingAfterFiendly": {
 		"dialogueRandom": [
-			"^red;Done being hot dog stuffing. Be back soon.",
-			"^red;I got things to do. No, not you.",
-			"^red;Another time. I love it in there.",
-			"^red;Be thankful I'm gentle."
+			"^red; 我不想再当热狗馅了。很快回来。",
+			"^red; 我还有事要做。不，不是找你。",
+			"^red; 下次吧。我喜欢待在里面。",
+			"^red; 你该庆幸我很温柔。"
 		],
 		"imagePortrait": [
 			"HMad.png"
@@ -4471,10 +4471,10 @@
 	},
 	"unbirthVoreLetoutUnpromptedAfterFiendly": {
 		"dialogueRandom": [
-			"^red;Thanks. I felt safe.",
-			"^red;Is it my turn next? My body is ready.",
-			"^red;How about we both tease someone? Pin a gravid gut against them.",
-			"^red;Great, now I'm pissed again. That's how nice your womb felt."
+			"^red; 谢谢。我感觉很安全。",
+			"^red; 接下来轮到我了吗？我的身体准备好了。",
+			"^red; 我们一起逗弄别人怎么样？把隆起的肚子压在他们身上。",
+			"^red; 好，现在我又生气了。你的子宫就是这么舒服。"
 		],
 		"imagePortrait": [
 			"HMad.png"
@@ -4482,10 +4482,10 @@
 	},
 	"unbirthVoreLetoutForcingAfterFiendly": {
 		"dialogueRandom": [
-			"^red;Sorry, I'm due for something.",
-			"^red;I got things to do. You're welcome to ride along.",
-			"^red;Don't be sad. I'll be back shortly.",
-			"^red;I'm getting restless."
+			"^red; 抱歉，我有事要做。",
+			"^red; 我有事情要处理。你可以跟我一起。",
+			"^red; 别难过。我很快就回来。",
+			"^red; 我开始坐立不安了。"
 		],
 		"imagePortrait": [
 			"HMad.png"
@@ -4493,10 +4493,10 @@
 	},
 	"oralVoreLetoutUnpromptedAfterFiendly": {
 		"dialogueRandom": [
-			"^red;Thanks.",
-			"^red;Is it my turn next?",
-			"^red;How about we both catch someone?",
-			"^red;Great, now I'm pissed again. Your gut was nice to be in."
+			"^red; 谢谢。",
+			"^red; 接下来轮到我了吗？",
+			"^red; 我们一起抓个人怎么样？",
+			"^red; 很好，现在我又生气了。待在你肚子里感觉还不错。"
 		],
 		"imagePortrait": [
 			"HMad.png"
@@ -4504,10 +4504,10 @@
 	},
 	"oralVoreLetoutForcingAfterFiendly": {
 		"dialogueRandom": [
-			"^red;Sorry, I pushed too hard.",
-			"^red;Nice gut. Care to visit mine?",
-			"^red;Heh, not bad. You've got a nice belly.",
-			"^red;Can't keep a feisty demon down?"
+			"^red; 抱歉，我用力过猛了。",
+			"^red; 肚子不错。想参观下我的肚子吗？",
+			"^red; 呵，还不错。你有个漂亮的肚子。",
+			"^red; 没办法压制住一个暴躁的恶魔？"
 		],
 		"imagePortrait": [
 			"HMad.png"
@@ -4515,10 +4515,10 @@
 	},
 	"escapeFiendly": {
 		"dialogueRandom": [
-			"^red;Thanks.",
-			"^red;Is it my turn next?",
-			"^red;How about we both tease someone?",
-			"^red;Great, now I'm pissed again."
+			"^red; 谢谢。",
+			"^red; 接下来轮到我了吗？",
+			"^red; 我们一起逗弄某个人怎么样？",
+			"^red; 很好，现在我又生气了。"
 		],
 		"imagePortrait": [
 			"HMad.png"
@@ -4526,10 +4526,10 @@
 	},
 	"breastVoreUnpromptedFiendly": {
 		"dialogueRandom": [
-			"^red;Oh.",
-			"^red;So soft...",
-			"^red;Got a hot date?.",
-			"^red;So kinky~"
+			"^red; 哦。",
+			"^red; 好柔软……",
+			"^red; 有个火辣的约会？",
+			"^red; 真变态～"
 		],
 		"imagePortrait": [
 			"HMad.png"
@@ -4537,10 +4537,10 @@
 	},
 	"oralVoreUnpromptedFiendly": {
 		"dialogueRandom": [
-			"^red;Oh.",
-			"^red;Nice catch.",
-			"^red;Can you handle me?",
-			"^red;How smooth."
+			"^red; 哦。",
+			"^red; 抓得好。",
+			"^red; 你能搞定我吗？",
+			"^red; 好顺滑。"
 		],
 		"imagePortrait": [
 			"HMad.png"
@@ -4548,10 +4548,10 @@
 	},
 	"unbirthVoreUnpromptedFiendly": {
 		"dialogueRandom": [
-			"^red;Oh.",
-			"^red;So wet...",
-			"^red;I'm all yours.",
-			"^red;So kinky!"
+			"^red; 哦。",
+			"^red; 好湿……",
+			"^red; 我是你的了。",
+			"^red; 真变态！"
 		],
 		"imagePortrait": [
 			"HMad.png"
@@ -4559,10 +4559,10 @@
 	},
 	"struggleEscapeFiendly": {
 		"dialogueRandom": [
-			"^red;Sorry, I'm done.",
-			"^red;I got things to do.",
-			"^red;Heh, not bad. But I'm better.",
-			"^red;Can't keep a feisty demon down."
+			"^red; 抱歉，我完事了。",
+			"^red; 我有事情要做。",
+			"^red; 呵，还不错。但我更厉害。",
+			"^red; 没办法压制住一个暴躁的恶魔。"
 		],
 		"imagePortrait": [
 			"HMad.png"
@@ -4570,10 +4570,10 @@
 	},
 	"sizeChangedGrowFiendly": {
 		"dialogueRandom": [
-			"^red;Good. No one will mess with us.",
-			"^red;Sorry if I step on you.",
-			"^red;Need protection? Come here.",
-			"^red;Now I can keep you safe."
+			"^red; 很好。没人敢惹我们了。",
+			"^red; 如果踩到你，抱歉。",
+			"^red; 需要保护吗？到这儿来。",
+			"^red; 现在我能保护你了。"
 		],
 		"imagePortrait": [
 			"HMad.png"
@@ -4581,10 +4581,10 @@
 	},
 	"didSteppyFiendly": {
 		"dialogueRandom": [
-			"^red;Hey, be careful.",
-			"^red;Sorry, I'm on the move.",
-			"^red;Grrrr, at least you're not a Lego.",
-			"^red;Odd, they were here a moment ago."
+			"^red; 嘿，小心点。",
+			"^red; 抱歉，我在赶路。",
+			"^red; 咕噜咕噜，至少你不是乐高积木。",
+			"^red; 奇怪，他们刚才还在这儿。"
 		],
 		"imagePortrait": [
 			"HMad.png"
@@ -4592,14 +4592,14 @@
 	},
 	"converseFiendly.continue.options.0.1": {
 		"dialogue": [
-			"^red;I'm Helena. What's your name?",
-			"<entityname>. ^red;Good. You're on my list.",
-			"^red;List of souls I won't take. Don't ask. I won't do it."
+			"^red; 我是海伦娜。你叫什么名字？",
+			"<entityname>. ^red; 很好。你在我的名单上。",
+			"^red; 不会取走的灵魂名单。别问。我不会那么做。"
 		],
 		"buttonText": [
-			"Sure.",
-			"List?",
-			"Alright."
+			"当然。",
+			"名单？",
+			"好吧。"
 		],
 		"imagePortrait": [
 			"HAngry.png"
@@ -4607,14 +4607,14 @@
 	},
 	"converseFiendly.continue.options.1.1": {
 		"dialogue": [
-			"^red;Yes. It shows in times like this.",
-			"^red;You're safe, in any case. I've learned to control myself.",
-			"^red;Yes. I'm 'That B!**h' for a reason."
+			"^red; 是的。在这种时候就表现出来了。",
+			"^red; 无论如何，你是安全的。我已经学会控制自己了。",
+			"^red; 是的。我成为‘那个贱人’是有原因的。"
 		],
 		"buttonText": [
-			"Is it safe?",
-			"Are you okay?",
-			"Alright."
+			"这安全吗？",
+			"你还好吗？",
+			"好吧。"
 		],
 		"imagePortrait": [
 			"HMad.png"
@@ -4622,12 +4622,12 @@
 	},
 	"converseFiendly.continue.options.2.1": {
 		"dialogue": [
-			"^red;Ah. That. Take off the r.",
-			"^red;Yeah. Next time my clumsy friend visits, I'm gonna eat him."
+			"^red; 啊。那个。把 r 去掉。",
+			"^red; 对。下次我那笨朋友来，我要吃掉他。"
 		],
 		"buttonText": [
-			"Alright?",
-			"Okay."
+			"好吧？",
+			"好的。"
 		],
 		"imagePortrait": [
 			"HAngry.png"
@@ -4635,7 +4635,7 @@
 	},
 	"converseFiendly.continue.options.3.1": {
 		"dialogue": [
-			"^red;Nothing special. Take what you will of that."
+			"^red; 没什么特别的。随你怎么理解。"
 		],
 		"imagePortrait": [
 			"HAngry.png"
@@ -4643,7 +4643,7 @@
 	},
 	"converseFiendly.continue.options.3.1.heal": {
 		"dialogue": [
-			"^red;Only part of me not angry. Might mend you up."
+			"^red; 只有我不生气的那部分。也许能治好你。"
 		],
 		"imagePortrait": [
 			"HAngry.png"
@@ -4651,7 +4651,7 @@
 	},
 	"converseFiendly.continue.options.3.1.digest": {
 		"dialogue": [
-			"^red;You're going to melt. Become pudge. But it isn't fatal."
+			"^red; 你会融化。变成一团肉。但这不是致命的。"
 		],
 		"imagePortrait": [
 			"HAngry.png"
@@ -4659,14 +4659,14 @@
 	},
 	"hhconverseFiendly.continue.options.0.1": {
 		"dialogue": [
-			"^red;I'm Helena. This anger doesn't happen to you.",
-			"^red;You're on my list.",
-			"^red;List of souls I won't take. Don't ask. I won't do it."
+			"^red; 我是海伦娜。这种愤怒不会发生在你身上。",
+			"^red; 你在我的名单上。",
+			"^red; 不会取走的灵魂名单。别问。我不会那么做。"
 		],
 		"buttonText": [
-			"Sure.",
-			"List?",
-			"Alright."
+			"当然。",
+			"名单？",
+			"好吧。"
 		],
 		"imagePortrait": [
 			"HMad.png"
@@ -4674,14 +4674,14 @@
 	},
 	"hhconverseFiendly.continue.options.1.1": {
 		"dialogue": [
-			"^red;Yes. But not fully.",
-			"^red;You're safe. You don't have this rage. It can be hard to smother.",
-			"^red;Yes. I'm 'That B!tch' for a reason."
+			"^red; 是的。但不完全是。",
+			"^red; 你很安全。你没有这种愤怒。这愤怒很难压制。",
+			"^red; 是的。我成为‘那个贱人’是有原因的。"
 		],
 		"buttonText": [
-			"Is it safe?",
-			"Are you okay?",
-			"Alright."
+			"这安全吗？",
+			"你还好吗？",
+			"好吧。"
 		],
 		"imagePortrait": [
 			"HMad.png"
@@ -4689,55 +4689,55 @@
 	},
 	"hhconverseFiendly.continue.options.2.1": {
 		"dialogue": [
-			"^red;Ah. That. Take off the r.",
-			"^red;Yeah. Next time I see Mystic, I'm gonna eat him."
+			"^red; 啊。那个。把 r 去掉。",
+			"^red; 对。下次我见到神秘客，我要吃掉他。"
 		],
 		"buttonText": [
-			"Fiendly?",
-			"Noted."
+			"友好的？",
+			"记下了。"
 		],
 		"imagePortrait": [
 			"HMad.png"
 		]
 	},
 	"hmph": [
-		"^red;Hmph.^reset;"
+		"^red; 哼。^reset;"
 	],
 	"greetingFiendly": {
 		"dialogueRandom": [
-			"^red;Yo.",
-			"^red;Yes?",
-			"^red;Hello."
+			"^red; 哟。",
+			"^red; 什么事？",
+			"^red; 你好。"
 		],
 		"imagePortrait": [
 			"HAngry.png"
 		],
 		"buttonTextRandom": [
-			"Hiya.",
-			"Hi.",
-			"Hey."
+			"嗨呀。",
+			"嗨。",
+			"嘿。"
 		]
 	},
 	"greetingFiendlyHellhound": {
 		"dialogueRandom": [
-			"^red;HellYo.",
-			"^red;Yes?",
-			"^red;Hello."
+			"^red; 地狱哟。",
+			"^red; 什么事？",
+			"^red; 你好。"
 		],
 		"imagePortrait": [
 			"HMad.png"
 		],
 		"buttonTextRandom": [
-			"HellYo.",
-			"Hello.",
-			"Hello!"
+			"地狱哟。",
+			"你好。",
+			"你好！"
 		]
 	},
 	"converseFiendly": {
 		"dialogueRandom": [
-			"^red;Not the best time.",
-			"^red;Make it quick.",
-			"^red;Keep it short and sweet."
+			"^red; 现在不是最佳时机。",
+			"^red; 长话短说。",
+			"^red; 简短点，别啰嗦。"
 		],
 		"imagePortrait": [
 			"HAngry.png"
@@ -4748,9 +4748,9 @@
 	},
 	"converseFiendly.continue": {
 		"dialogueRandom": [
-			"^red;So, spit it out.",
-			"^red;Speak.",
-			"^red;What is it?"
+			"^red; 所以，有话快说。",
+			"^red; 说吧。",
+			"^red; 什么事？"
 		],
 		"imagePortrait": [
 			"HAngry.png"
@@ -4758,7 +4758,7 @@
 	},
 	"converseFiendly.question.random1": {
 		"dialogue": [
-			"^red;Anything else?"
+			"^red; 还有别的事吗？"
 		],
 		"imagePortrait": [
 			"HAngry.png"
@@ -4766,7 +4766,7 @@
 	},
 	"converseFiendly.question.random1.continue": {
 		"dialogue": [
-			"^red;Fine."
+			"^red; 好吧。"
 		],
 		"imagePortrait": [
 			"HAngry.png"
@@ -4774,7 +4774,7 @@
 	},
 	"converseFiendly.question.random2": {
 		"dialogue": [
-			"^red;There. Still curious?"
+			"^red; 好了。还好奇吗？"
 		],
 		"imagePortrait": [
 			"HAngry.png"
@@ -4782,7 +4782,7 @@
 	},
 	"converseFiendly.question.random2.continue": {
 		"dialogue": [
-			"^red;And?"
+			"^red; 然后呢？"
 		],
 		"imagePortrait": [
 			"HAngry.png"
@@ -4790,10 +4790,10 @@
 	},
 	"oralVoreRequestedFiendly": {
 		"dialogueRandom": [
-			"^red;Not afraid? Good.",
-			"^red;Seriously? Fine.",
-			"^red;Need protection? Get in.",
-			"^red;Desperate, huh?"
+			"^red; 不害怕？很好。",
+			"^red; 认真的？好吧。",
+			"^red; 需要保护？进来。",
+			"^red; 很绝望啊，哈？"
 		],
 		"imagePortrait": [
 			"HAngry.png"
@@ -4801,10 +4801,10 @@
 	},
 	"oralVoreRequestedAfterFiendly": {
 		"dialogueRandom": [
-			"^red;You're safe.",
-			"^red;It'll be okay.",
-			"^red;Now relax.",
-			"^red;I'll protect you."
+			"^red; 你很安全。",
+			"^red; 会没事的。",
+			"^red; 现在放松。",
+			"^red; 我会保护你。"
 		],
 		"imagePortrait": [
 			"HMad.png"
@@ -4812,10 +4812,10 @@
 	},
 	"oralVoreNoPromptFiendly": {
 		"dialogueRandom": [
-			"^red;I'm not asking.",
-			"^red;I smell danger.",
-			"^red;It's not safe.",
-			"^red;I found you."
+			"^red; 我不会问的。",
+			"^red; 我闻到危险的味道。",
+			"^red; 不安全。",
+			"^red; 我找到你了。"
 		],
 		"imagePortrait": [
 			"HAngry.png"
@@ -4823,10 +4823,10 @@
 	},
 	"oralVoreNoPromptAfterFiendly": {
 		"dialogueRandom": [
-			"^red;You're mine now.",
-			"^red;Don't fight this.",
-			"^red;Take it easy.",
-			"^red;Let me help."
+			"^red; 你现在是我的了。",
+			"^red; 别反抗。",
+			"^red; 放轻松。",
+			"^red; 让我帮你。"
 		],
 		"imagePortrait": [
 			"HMad.png"
@@ -4834,10 +4834,10 @@
 	},
 	"oralVoreNoFiendly": {
 		"dialogueRandom": [
-			"^red;Bad idea. You won't just melt.",
-			"^red;No.",
-			"^red;Not. Now.",
-			"^red;Soon. I promise."
+			"^red; 坏主意。你可不只是融化那么简单。",
+			"^red; 不。",
+			"^red; 现在不行。",
+			"^red; 很快。我保证。"
 		],
 		"imagePortrait": [
 			"HAngry.png"
@@ -4845,10 +4845,10 @@
 	},
 	"oralVoreFullFiendly": {
 		"dialogueRandom": [
-			"^red;I can't.",
-			"^red;Already occupied.",
-			"^red;Try again later.",
-			"^red;Sorry. I'm full."
+			"^red; 我做不到。",
+			"^red; 已经满了。",
+			"^red; 过会儿再试。",
+			"^red; 抱歉。我饱了。"
 		],
 		"imagePortrait": [
 			"HMad.png"
@@ -4856,10 +4856,10 @@
 	},
 	"oralVoreFullHealFiendly": {
 		"dialogueRandom": [
-			"^red;They're hurt. I'm full. Sorry.",
-			"^red;Gotta heal them first.",
-			"^red;No more room.",
-			"^red;Give them time."
+			"^red; 他们受伤了。我饱了。抱歉。",
+			"^red; 得先治好他们。",
+			"^red; 没地方了。",
+			"^red; 给他们点时间。"
 		],
 		"imagePortrait": [
 			"HMad.png"
@@ -4867,10 +4867,10 @@
 	},
 	"oralVoreFullDigestFiendly": {
 		"dialogueRandom": [
-			"^red;I'm full. They'll be fine.",
-			"^red;It's hard to walk. Making them pudge helps.",
-			"^red;They're melting. It's safe. You can join later.",
-			"^red;Rub my belly. Please?"
+			"^red; 我饱了。他们会没事的。",
+			"^red; 走路都困难了。把他们变成肉团会好点。",
+			"^red; 他们在融化。很安全。你可以稍后加入。",
+			"^red; 摸摸我的肚子。求你了？"
 		],
 		"imagePortrait": [
 			"HMad.png"
@@ -4878,10 +4878,10 @@
 	},
 	"fiendlyOtherFull": {
 		"dialogueRandom": [
-			"^red;I'm at my limits. Sorry.",
-			"^red;You'll have to protect yourself. You won't fit.",
-			"^red;I'd try, but it'd be bad.",
-			"^red;Too many... prey..."
+			"^red; 我已经到极限了。抱歉。",
+			"^red; 你得自己保护自己。你塞不进去了。",
+			"^red; 我倒是想试试，但那样会很糟糕。",
+			"^red; 太多…… 猎物了……"
 		],
 		"imagePortrait": [
 			"HMad.png"
@@ -4889,10 +4889,10 @@
 	},
 	"oralVoreTooBigFiendly": {
 		"dialogueRandom": [
-			"^red;You're big enough. Protect yourself.",
-			"^red;It's no use. You're too big.",
-			"^red;That's impossible.",
-			"^red;I tried once when I was like this. It sucked."
+			"^red; 你够大了。自己保护自己吧。",
+			"^red; 没用的。你太大了。",
+			"^red; 那不可能。",
+			"^red; 我曾经在这种情况下试过一次。糟透了。"
 		],
 		"imagePortrait": [
 			"HMad.png"
@@ -4900,10 +4900,10 @@
 	},
 	"breastVoreRequestedFiendly": {
 		"dialogueRandom": [
-			"^red;Really. Fine.",
-			"^red;Whatever floats your boat.",
-			"^red;As you wish.",
-			"^red;You're that horny, huh?"
+			"^red; 真的。好吧。",
+			"^red; 随你便。",
+			"^red; 如你所愿。",
+			"^red; 你就那么饥渴，哈？"
 		],
 		"imagePortrait": [
 			"HAngry.png"
@@ -4911,10 +4911,10 @@
 	},
 	"breastVoreRequestedAfterFiendly": {
 		"dialogueRandom": [
-			"^red;You happy? Good.",
-			"^red;Don't drown.",
-			"^red;Now drink up.",
-			"^red;At least you're safe."
+			"^red; 你开心了？很好。",
+			"^red; 别淹死了。",
+			"^red; 现在喝吧。",
+			"^red; 至少你安全了。"
 		],
 		"imagePortrait": [
 			"HMad.png"
@@ -4922,10 +4922,10 @@
 	},
 	"breastVoreNoPromptFiendly": {
 		"dialogueRandom": [
-			"^red;I'm low on time. This'll do.",
-			"^red;They're coming. I'll hide you.",
-			"^red;It's dangerous. Let me hug you.",
-			"^red;Caught you looking."
+			"^red; 我时间不多了。这样就行。",
+			"^red; 他们来了。我把你藏起来。",
+			"^red; 很危险。让我抱抱你。",
+			"^red; 发现你在偷看。"
 		],
 		"imagePortrait": [
 			"HAngry.png"
@@ -4933,10 +4933,10 @@
 	},
 	"breastVoreNoPromptAfterFiendly": {
 		"dialogueRandom": [
-			"^red;I'll carry you.",
-			"^red;It'll be fine.",
-			"^red;Just trust me.",
-			"^red;Try not to move so much."
+			"^red; 我会带着你。",
+			"^red; 会没事的。",
+			"^red; 相信我就好。",
+			"^red; 别乱动。"
 		],
 		"imagePortrait": [
 			"HMad.png"
@@ -4944,10 +4944,10 @@
 	},
 	"breastVoreNoFiendly": {
 		"dialogueRandom": [
-			"^red;Seriously? Not in the mood.",
-			"^red;I'm sore. Ask later.",
-			"^red;You'd disappear into the abyss. Not right now.",
-			"^red;Sorry. Pick somewhere else."
+			"^red; 认真的？没心情。",
+			"^red; 我很酸痛。晚点再问。",
+			"^red; 你会消失在深渊里。现在不行。",
+			"^red; 抱歉。选别的地方吧。"
 		],
 		"imagePortrait": [
 			"HAngry.png"
@@ -4955,10 +4955,10 @@
 	},
 	"breastVoreFullFiendly": {
 		"dialogueRandom": [
-			"^red;What? Admiring my assets? Fine.",
-			"^red;You may stare.",
-			"^red;It's full. Find another opening.",
-			"^red;Give them a squeeze. If you'd like."
+			"^red; 怎么？欣赏我的身材？好吧。",
+			"^red; 你可以盯着看。",
+			"^red; 满了。找别的入口吧。",
+			"^red; 想的话，捏一下。"
 		],
 		"imagePortrait": [
 			"HMad.png"
@@ -4966,10 +4966,10 @@
 	},
 	"breastVoreFullHealFiendly": {
 		"dialogueRandom": [
-			"^red;Stop worrying. They'll be fine.",
-			"^red;They're thirsty. Please wait.",
-			"^red;Almost done. Maybe not.",
-			"^red;Mind rubbing them?"
+			"^red; 别担心。他们会没事的。",
+			"^red; 他们渴了。请稍等。",
+			"^red; 差不多好了。也许还没。",
+			"^red; 介意揉揉它们吗？"
 		],
 		"imagePortrait": [
 			"HMad.png"
@@ -4977,10 +4977,10 @@
 	},
 	"breastVoreFullDigestFiendly": {
 		"dialogueRandom": [
-			"^red;Want a drink? Might burn your tongue.",
-			"^red;Someone missing? Haven't seen them.",
-			"^red;I can't. No room.",
-			"^red;Feel free to feel them."
+			"^red; 想喝点什么吗？可能会烫到你的舌头。",
+			"^red; 有人不见了？我没看到他们。",
+			"^red; 我不行。没空间了。",
+			"^red; 随便摸它们。"
 		],
 		"imagePortrait": [
 			"HMad.png"
@@ -4988,10 +4988,10 @@
 	},
 	"breastVoreTooBigFiendly": {
 		"dialogueRandom": [
-			"^red;Too big. Please shrink down.",
-			"^red;I'd never fit in another shirt. No.",
-			"^red;I just can't. You're massive.",
-			"^red;I'd love to. But I'd crash e621."
+			"^red; 太大了。请缩小点。",
+			"^red; 我再也穿不下别的衬衫了。不行。",
+			"^red; 我就是做不到。你太大了。",
+			"^red; 我很想。但我会让 e621 崩溃的。"
 		],
 		"imagePortrait": [
 			"HMad.png"
@@ -4999,10 +4999,10 @@
 	},
 	"unbirthVoreRequestedFiendly": {
 		"dialogueRandom": [
-			"^red;Just get in.",
-			"^red;Since you asked.",
-			"^red;It'll be hot and wet.",
-			"^red;Slip into my abyss."
+			"^red; 进来吧。",
+			"^red; 既然你要求了。",
+			"^red; 里面会又热又湿。",
+			"^red; 滑进我的深渊吧。"
 		],
 		"imagePortrait": [
 			"HAngry.png"
@@ -5010,10 +5010,10 @@
 	},
 	"unbirthVoreRequestedAfterFiendly": {
 		"dialogueRandom": [
-			"^red;This helps. Thanks.",
-			"^red;Claimed by me.",
-			"^red;Safety in numbers.",
-			"^red;The calm within the storm."
+			"^red; 这有帮助。谢谢。",
+			"^red; 被我占有了。",
+			"^red; 人多安全。",
+			"^red; 风暴中的宁静。"
 		],
 		"imagePortrait": [
 			"HMad.png"
@@ -5021,10 +5021,10 @@
 	},
 	"unbirthVoreNoPromptFiendly": {
 		"dialogueRandom": [
-			"^red;My body needs this.",
-			"^red;This'll be rough.",
-			"^red;You'll be fine.",
-			"^red;Surprise."
+			"^red; 我的身体需要这个。",
+			"^red; 这会很粗暴。",
+			"^red; 你会没事的。",
+			"^red; 惊喜。"
 		],
 		"imagePortrait": [
 			"HAngry.png"
@@ -5032,10 +5032,10 @@
 	},
 	"unbirthVoreNoPromptAfterFiendly": {
 		"dialogueRandom": [
-			"^red;O-ooh...",
-			"^red;F-fwah...",
-			"^red;A-ahh...",
-			"^red;M-mmn..."
+			"^red; 哦 —— 哦……",
+			"^red; 嗯 —— 哇……",
+			"^red; 啊 —— 啊……",
+			"^red; 嗯 —— 嗯……"
 		],
 		"imagePortrait": [
 			"HMad.png"
@@ -5043,10 +5043,10 @@
 	},
 	"unbirthVoreFullFiendly": {
 		"dialogueRandom": [
-			"^red;You're too late. They're mine. For now.",
-			"^red;I couldn't resist. Sorry.",
-			"^red;I'd like a belly rub.",
-			"^red;Should be done soon."
+			"^red; 你太晚了。他们现在是我的了。暂时是。",
+			"^red; 我忍不住。抱歉。",
+			"^red; 我想要肚子被揉一揉。",
+			"^red; 应该很快就结束了。"
 		],
 		"imagePortrait": [
 			"HMad.png"
@@ -5054,10 +5054,10 @@
 	},
 	"unbirthVoreFullHealFiendly": {
 		"dialogueRandom": [
-			"^red;Getting them fixed.",
-			"^red;Quiet. They're tired.",
-			"^red;Join us later.",
-			"^red;You can be next."
+			"^red; 正在帮他们修复。",
+			"^red; 安静。他们累了。",
+			"^red; 晚点加入我们。",
+			"^red; 你可以下一个来。"
 		],
 		"imagePortrait": [
 			"HMad.png"
@@ -5065,10 +5065,10 @@
 	},
 	"unbirthVoreFullDigestFiendly": {
 		"dialogueRandom": [
-			"^red;All mine.",
-			"^red;Mostly soft by now.",
-			"^red;They will reform.",
-			"^red;Interested?"
+			"^red; 全是我的。",
+			"^red; 现在差不多都软了。",
+			"^red; 他们会重塑的。",
+			"^red; 感兴趣吗？"
 		],
 		"imagePortrait": [
 			"HMad.png"
@@ -5076,10 +5076,10 @@
 	},
 	"unbirthVoreTooBigFiendly": {
 		"dialogueRandom": [
-			"^red;One of us would get crushed.",
-			"^red;I'm not that desperate.",
-			"^red;You're big. I'm not so big.",
-			"^red;I'd consider it. But I know better."
+			"^red; 我们其中一个会被压坏的。",
+			"^red; 我没那么绝望。",
+			"^red; 你很大。我没那么大。",
+			"^red; 我会考虑。但我知道这样不好。"
 		],
 		"imagePortrait": [
 			"HMad.png"
@@ -5087,10 +5087,10 @@
 	},
 	"struggleBellyFiendly": {
 		"dialogueRandom": [
-			"^red;Quit it. You're safe.",
-			"^red;Stay down.",
-			"^red;Feels good, but stop.",
-			"^red;Want me to keep you there?"
+			"^red; 别闹了。你很安全。",
+			"^red; 待着别动。",
+			"^red; 感觉不错，但别闹了。",
+			"^red; 想让我把你留在那儿吗？"
 		],
 		"imagePortrait": [
 			"HMad.png"
@@ -5098,10 +5098,10 @@
 	},
 	"struggleHealBellyFiendly": {
 		"dialogueRandom": [
-			"^red;You're hurt. Don't.",
-			"^red;Eager to risk it all? Pass.",
-			"^red;Grrrr....",
-			"^red;I'm trying to help."
+			"^red; 你受伤了。别这样。",
+			"^red; 急着冒险一切？算了。",
+			"^red; 咕噜咕噜……",
+			"^red; 我在试着帮忙。"
 		],
 		"imagePortrait": [
 			"HMad.png"
@@ -5109,10 +5109,10 @@
 	},
 	"struggleDigestBellyFiendly": {
 		"dialogueRandom": [
-			"^red;It won't last long. I'll reform you.",
-			"^red;Melt. Let me bear your burdens for now.",
-			"^red;I need to be more compact. Sorry.",
-			"^red;It'll be fine."
+			"^red; 不会持续太久的。我会重塑你。",
+			"^red; 融化吧。现在让我来承担你的负担。",
+			"^red; 我得更紧凑些。抱歉。",
+			"^red; 会没事的。"
 		],
 		"imagePortrait": [
 			"HMad.png"
@@ -5120,10 +5120,10 @@
 	},
 	"struggleDigestImmuneBellyFiendly": {
 		"dialogueRandom": [
-			"^red;Sorry. My gut wants to try anyway.",
-			"^red;You're tough. Few resist this.",
-			"^red;It's just gurgling. It's okay.",
-			"^red;Immune? Good, I can let loose."
+			"^red; 抱歉。但我的肚子还是想试试。",
+			"^red; 你很强。很少有人能抵抗这个。",
+			"^red; 只是在咕噜叫。没事的。",
+			"^red; 免疫？很好，我可以尽情发挥了。"
 		],
 		"imagePortrait": [
 			"HMad.png"
@@ -5131,10 +5131,10 @@
 	},
 	"struggleCompressionBellyFiendly": {
 		"dialogueRandom": [
-			"^red;No bulges. Perfect.",
-			"^red;Just relax. You're safe from everyone.",
-			"^red;Hidden from danger.",
-			"^red;Mine now."
+			"^red; 没有凸起。完美。",
+			"^red; 放松。你在这儿对所有人来说都很安全。",
+			"^red; 躲避危险。",
+			"^red; 现在是我的了。"
 		],
 		"imagePortrait": [
 			"HMad.png"
@@ -5142,10 +5142,10 @@
 	},
 	"struggleBellyLockDownFiendly": {
 		"dialogueRandom": [
-			"^red;I told you to settle down.",
-			"^red;I don't joke. It's futile.",
-			"^red;I'll let you out. Eventually.",
-			"^red;I won't let you get hurt."
+			"^red; 我告诉过你安静下来。",
+			"^red; 我不开玩笑。这是徒劳的。",
+			"^red; 我会放你出来的。最终会。",
+			"^red; 我不会让你受伤的。"
 		],
 		"imagePortrait": [
 			"HMad.png"
@@ -5153,10 +5153,10 @@
 	},
 	"lockDownNoPromptBellyFiendly": {
 		"dialogue": [
-			"^red;Keep it up and I'll keep you.",
-			"^red;Not going to give up?",
-			"^red;Hmph.",
-			"^red; No escape now."
+			"^red; 再这样我就留你在这儿了。",
+			"^red; 不打算放弃？",
+			"^red; 哼。",
+			"^red; 现在无处可逃了。"
 		],
 		"imagePortrait": [
 			"HMad.png"
@@ -5164,10 +5164,10 @@
 	},
 	"lockDownClearNoPromptBellyFiendly": {
 		"dialogue": [
-			"^red;I think it's safe now.",
-			"^red;You put up a good effort.",
-			"^red;I'll let you out now.",
-			"^red;You're good to go."
+			"^red; 我觉得现在安全了。",
+			"^red; 你努力得不错。",
+			"^red; 我现在放你出来。",
+			"^red; 你可以走了。"
 		],
 		"imagePortrait": [
 			"HMad.png"
@@ -5175,10 +5175,10 @@
 	},
 	"struggleWombFiendly": {
 		"dialogueRandom": [
-			"^red;Good. Keep moving.",
-			"^red;Hush.",
-			"^red;Your safety comes first.",
-			"^red;I can handle you."
+			"^red; 很好。继续动。",
+			"^red; 嘘。",
+			"^red; 你的安全是首要的。",
+			"^red; 我能应付你。"
 		],
 		"imagePortrait": [
 			"HMad.png"
@@ -5186,10 +5186,10 @@
 	},
 	"struggleFemcumHealFiendly": {
 		"dialogueRandom": [
-			"^red;Relax. You deserve this.",
-			"^red;I will always protect you.",
-			"^red;Ssh... It's fine.",
-			"^red;Let your enemies try me. They will fail."
+			"^red; 放松。你值得这样。",
+			"^red; 我会一直保护你。",
+			"^red; 嘘…… 没事的。",
+			"^red; 让你的敌人来试试我。他们会失败的。"
 		],
 		"imagePortrait": [
 			"HMad.png"
@@ -5197,10 +5197,10 @@
 	},
 	"struggleTransformedWombFiendly": {
 		"dialogueRandom": [
-			"^red;You're like me now.",
-			"^red;Safety in numbers.",
-			"^red;We both bork now.",
-			"^red;A new you."
+			"^red; 你现在和我一样了。",
+			"^red; 人多安全。",
+			"^red; 我们现在都很怪异。",
+			"^red; 一个全新的你。"
 		],
 		"imagePortrait": [
 			"HMad.png"
@@ -5208,10 +5208,10 @@
 	},
 	"struggleTransformingWombFiendly": {
 		"dialogueRandom": [
-			"^red;You're slowly changing now.",
-			"^red;A bit of me to protect you.",
-			"^red;I'm reshaping your heat.",
-			"^red;You'll be hot. I promise."
+			"^red; 你现在正在慢慢改变。",
+			"^red; 给你一点我的力量来保护你。",
+			"^red; 我在重塑你的热情。",
+			"^red; 你会很性感的。我保证。"
 		],
 		"imagePortrait": [
 			"HMad.png"
@@ -5219,10 +5219,10 @@
 	},
 	"struggleTransformingImmuneWombFiendly": {
 		"dialogueRandom": [
-			"^red;Immune? That's okay.",
-			"^red;Sorry, can't help it.",
-			"^red;Keep squirming, anyway. Feels good.",
-			"^red;You're too pure. I love it."
+			"^red; 免疫？没关系。",
+			"^red; 抱歉，忍不住。",
+			"^red; 不管怎样，继续扭动吧。感觉不错。",
+			"^red; 你太纯洁了。我喜欢。"
 		],
 		"imagePortrait": [
 			"HMad.png"
@@ -5230,7 +5230,7 @@
 	},
 	"struggleEggedWombFiendly": {
 		"dialogueRandom": [
-			"^red;Smash Bros 64. Yoshi. Murrr."
+			"^red;《任天堂明星大乱斗 64》。耀西。咕噜。"
 		],
 		"imagePortrait": [
 			"HBlep.png"
@@ -5238,10 +5238,10 @@
 	},
 	"struggleEggifyWombFiendly": {
 		"dialogueRandom": [
-			"^red;Heh. Egg.",
-			"^red;Hope this one doesn't explode.",
-			"^red;Makes me feel like a Pokémon.",
-			"^red;A good look for you."
+			"^red; 呵。蛋。",
+			"^red; 希望这个别爆炸。",
+			"^red; 这让我感觉自己像个宝可梦。",
+			"^red; 你这样挺好看。"
 		],
 		"imagePortrait": [
 			"HMad.png"
@@ -5249,10 +5249,10 @@
 	},
 	"struggleFemcumDigestFiendly": {
 		"dialogueRandom": [
-			"^red;I know. It'll be fine.",
-			"^red;Feels good. You're softer now.",
-			"^red;Struggle more. It'll get hotter.",
-			"^red;You'll reform later."
+			"^red; 我知道。会没事的。",
+			"^red; 感觉不错。你现在更柔软了。",
+			"^red; 再挣扎一下。会更刺激。",
+			"^red; 你稍后会重组的。"
 		],
 		"imagePortrait": [
 			"HMad.png"
@@ -5260,10 +5260,10 @@
 	},
 	"struggleFemcumDigestImmuneFiendly": {
 		"dialogueRandom": [
-			"^red;It's spicy, I know.",
-			"^red;Push there again. \nThanks.",
-			"^red;Nice and firm~",
-			"^red;Getting me more horny~"
+			"^red; 我知道，这很刺激。",
+			"^red; 再往那儿推一下。\n 谢了。",
+			"^red; 又好又紧实～",
+			"^red; 这让我更饥渴~"
 		],
 		"imagePortrait": [
 			"HMad.png"
@@ -5271,10 +5271,10 @@
 	},
 	"struggleCompressionWombFiendly": {
 		"dialogueRandom": [
-			"^red;Gonna keep you a secret.",
-			"^red;Not even a single bump~",
-			"^red;Hush.. You're mine now..",
-			"^red;Just let me keep you hidden. The world is cruel."
+			"^red; 我会把你藏起来的。",
+			"^red; 连个小鼓包都没有～",
+			"^red; 嘘…… 你现在是我的了……",
+			"^red; 就让我把你藏起来吧。这世界太残酷了。"
 		],
 		"imagePortrait": [
 			"HMad.png"
@@ -5282,10 +5282,10 @@
 	},
 	"struggleWombLockDownFiendly": {
 		"dialogueRandom": [
-			"^red;This contract is unbreakable.",
-			"^red;Struggle. Relax. You're fine both ways.",
-			"^red;Kick, punch, and chop away. You're still blocked in.",
-			"^red;I'll let you out. Once I'm satisfied."
+			"^red; 这份契约牢不可破。",
+			"^red; 挣扎吧。放松点。不管怎样你都没事。",
+			"^red; 踢吧，打吧，砍吧。你还是被挡住出不去。",
+			"^red; 等我满足了就放你出去。"
 		],
 		"imagePortrait": [
 			"HMad.png"
@@ -5293,10 +5293,10 @@
 	},
 	"lockDownNoPromptWombFiendly": {
 		"dialogue": [
-			"^red;Don't want you to slip out.",
-			"^red;A little fire. \nMixed with my desire.",
-			"^red;Will keep my lower lips. \nFrom ever getting tired.",
-			"^red;The deed is done."
+			"^red; 不想让你溜走。",
+			"^red; 一点激情。\n 夹杂着我的欲望。",
+			"^red; 会让我的下唇 \n 永远不会疲倦。",
+			"^red; 事情已成定局。"
 		],
 		"imagePortrait": [
 			"HMad.png"
@@ -5304,10 +5304,10 @@
 	},
 	"lockDownClearNoPromptWombFiendly": {
 		"dialogue": [
-			"^red;Spell is wearing off.",
-			"^red;Mmm, starting to quiver.",
-			"^red;Mm, can't hold much longer.",
-			"^red;Want to leave? You can now."
+			"^red; 咒语正在失效。",
+			"^red; 嗯，开始颤抖了。",
+			"^red; 嗯，快坚持不住了。",
+			"^red; 想走？你现在可以走了。"
 		],
 		"imagePortrait": [
 			"HMad.png"
@@ -5315,10 +5315,10 @@
 	},
 	"struggleBreastsFiendly": {
 		"dialogueRandom": [
-			"^red;You're such a freak for enjoying this.",
-			"^red;I bet my growls feel real good to you.",
-			"^red;Drink if you're thirsty.",
-			"^red;Squirm more. All the perverts love it. Me too."
+			"^red; 你喜欢这个，真是个变态。",
+			"^red; 我打赌我的低吼让你感觉超棒。",
+			"^red; 渴了就喝。",
+			"^red; 再扭动一下。所有变态都喜欢这样。我也喜欢。"
 		],
 		"imagePortrait": [
 			"HMad.png"
@@ -5326,10 +5326,10 @@
 	},
 	"struggleDigestBreastsFiendly": {
 		"dialogueRandom": [
-			"^red;I turned up the heat. Not sorry.",
-			"^red;Your sloshing is getting louder.",
-			"^red;Grrrr, that feels nice.",
-			"^red;I can feel you. You're soft."
+			"^red; 我把温度调高了。不抱歉。",
+			"^red; 你晃动的声音越来越大了。",
+			"^red; 咕噜噜，感觉真好。",
+			"^red; 我能感觉到你。你很柔软。"
 		],
 		"imagePortrait": [
 			"HMad.png"
@@ -5337,10 +5337,10 @@
 	},
 	"struggleDigestImmuneBreastsFiendly": {
 		"dialogueRandom": [
-			"^red;Distracting, but I like it.",
-			"^red;Don't want to be milk? I'll stop.",
-			"^red;Alright. Being this big is nice, too.",
-			"^red;Relax. Nothing's happening."
+			"^red; 有点分心，但我喜欢。",
+			"^red; 不想变成奶？那我停。",
+			"^red; 好吧。这么大也挺好的。",
+			"^red; 放松。什么也不会发生。"
 		],
 		"imagePortrait": [
 			"HMad.png"
@@ -5348,10 +5348,10 @@
 	},
 	"struggleCompressionBreastsFiendly": {
 		"dialogueRandom": [
-			"^red;Heh, hidden from sight.",
-			"^red;My little secret.",
-			"^red;No one can find you.",
-			"^red;Relax. You're all mine."
+			"^red; 呵，藏起来看不见咯。",
+			"^red; 我的小秘密。",
+			"^red; 没人能找到你。",
+			"^red; 放松。你是我的了。"
 		],
 		"imagePortrait": [
 			"HMad.png"
@@ -5359,10 +5359,10 @@
 	},
 	"struggleBreastsLockDownFiendly": {
 		"dialogueRandom": [
-			"^red;This metal is older than you are. It won't break.",
-			"^red;Hmhm, shake shake...",
-			"^red;Damn, that's so hot.",
-			"^red;Didn't read my shirt, did you?"
+			"^red; 这金属比你年纪都大。它不会断的。",
+			"^red; 哼哼，晃呀晃……",
+			"^red; 该死，这太火辣了。",
+			"^red; 没看我衣服上写的啥吧？"
 		],
 		"imagePortrait": [
 			"HMad.png"
@@ -5370,10 +5370,10 @@
 	},
 	"lockDownNoPromptBreastsFiendly": {
 		"dialogue": [
-			"^red;Hmph, you almost slipped out.",
-			"^red;I don't want you to leave just yet.",
-			"^red;This old piercing should do the trick.",
-			"^red;*click* Tucked away."
+			"^red; 哼，你差点溜出去了。",
+			"^red; 我还不想让你现在就走。",
+			"^red; 这个旧穿孔应该能派上用场。",
+			"^red;*咔哒* 藏好了。"
 		],
 		"imagePortrait": [
 			"HMad.png"
@@ -5381,10 +5381,10 @@
 	},
 	"lockDownClearNoPromptBreastsFiendly": {
 		"dialogue": [
-			"^red;Looks like it's coming loose.",
-			"^red;Heh. It only cost ten Pixels.",
-			"^red;You're almost there.",
-			"^red;Ah, it broke."
+			"^red; 看起来它要松开了。",
+			"^red; 呵。只花了十个像素。",
+			"^red; 你快出来了。",
+			"^red; 啊，它断了。"
 		],
 		"imagePortrait": [
 			"HMad.png"
@@ -5392,10 +5392,10 @@
 	},
 	"oralVoreLetoutForcedFiendly": {
 		"dialogueRandom": [
-			"^red;It's dangerous. Get back in.",
-			"^red;You're fine. I can carry you.",
-			"^red;Alright, fine.",
-			"^red;Got places to be?"
+			"^red; 外面危险。回去。",
+			"^red; 你没事的。我能带着你。",
+			"^red; 好吧，行。",
+			"^red; 有地方要去？"
 		],
 		"imagePortrait": [
 			"HMad.png"
@@ -5403,10 +5403,10 @@
 	},
 	"oralVoreLetoutForcedHealFiendly": {
 		"dialogueRandom": [
-			"^red;I'm not done. Come here.",
-			"^red;You sure?",
-			"^red;Come back if you need healing.",
-			"^red;...Okay."
+			"^red; 我还没玩够。过来。",
+			"^red; 你确定？",
+			"^red; 要是受伤了就回来。",
+			"^red;…… 好吧。"
 		],
 		"imagePortrait": [
 			"HMad.png"
@@ -5414,10 +5414,10 @@
 	},
 	"oralVoreLetoutForcedDigestFiendly": {
 		"dialogueRandom": [
-			"^red;Sorry, needed to be slimmer.",
-			"^red;Too hot? Okay.",
-			"^red;I was trying to hide you.",
-			"^red;Fine."
+			"^red; 抱歉，我得变苗条点。",
+			"^red; 太热了？好吧。",
+			"^red; 我本来想把你藏起来的。",
+			"^red; 行吧。"
 		],
 		"imagePortrait": [
 			"HMad.png"
@@ -5425,10 +5425,10 @@
 	},
 	"oralVoreLetoutForcedDigestImmuneFiendly": {
 		"dialogueRandom": [
-			"^red;You were fine.",
-			"^red;It wasn't bad, was it?",
-			"^red;No harm done.",
-			"^red;Help yourself, then."
+			"^red; 你之前挺好的。",
+			"^red; 感觉还不错，不是吗？",
+			"^red; 没造成什么伤害。",
+			"^red; 那你自便吧。"
 		],
 		"imagePortrait": [
 			"HMad.png"
@@ -5436,10 +5436,10 @@
 	},
 	"oralVoreLetoutForcedDigestedFiendly": {
 		"dialogueRandom": [
-			"^red;Want out? One moment.",
-			"^red;Done being pudge? Alright.",
-			"^red;Careful. You're weak.",
-			"^red;I'll reform you, then."
+			"^red; 想出来？稍等一下。",
+			"^red; 不想再胖着了？好吧。",
+			"^red; 小心点。你现在很虚弱。",
+			"^red; 那我把你重组一下。"
 		],
 		"imagePortrait": [
 			"HMad.png"
@@ -5447,10 +5447,10 @@
 	},
 	"oralVoreLetoutFiendly": {
 		"dialogueRandom": [
-			"^red;It's safe now. Come out.",
-			"^red;This should do. Out you go.",
-			"^red;No enemies in sight. I'm releasing you.",
-			"^red;I took care of it."
+			"^red; 现在安全了。出来吧。",
+			"^red; 这样应该行了。你出来吧。",
+			"^red; 没看到敌人。我放你出来。",
+			"^red; 我已经处理好了。"
 		],
 		"imagePortrait": [
 			"HMad.png"
@@ -5458,10 +5458,10 @@
 	},
 	"oralVoreLetoutHealFiendly": {
 		"dialogueRandom": [
-			"^red;You're good now. I'm pushing you out.",
-			"^red;If you're hurt, come back.",
-			"^red;Can you fight? Okay, I'm done.",
-			"^red;Don't thank me. I'll always help."
+			"^red; 你现在好了。我把你推出去。",
+			"^red; 要是受伤了就回来。",
+			"^red; 你能战斗吗？行，我弄完了。",
+			"^red; 别谢我。我总会帮忙的。"
 		],
 		"imagePortrait": [
 			"HMad.png"
@@ -5469,10 +5469,10 @@
 	},
 	"oralVoreLetoutDigestFiendly": {
 		"dialogueRandom": [
-			"^red;You're melting. Time to leave.",
-			"^red;Sorry. Gotta let you out.",
-			"^red;Damn, not now. My belly isn't safe.",
-			"^red;Losing control. I have to release you."
+			"^red; 你在融化。该离开了。",
+			"^red; 抱歉。得放你出去。",
+			"^red; 该死，现在不行。我的肚子不安全。",
+			"^red; 快失控了。我得放你出去。"
 		],
 		"imagePortrait": [
 			"HMad.png"
@@ -5480,10 +5480,10 @@
 	},
 	"oralVoreLetoutDigestedFiendly": {
 		"dialogueRandom": [
-			"^red;It's safe. I'll reform you.",
-			"^red;They couldn't find you. Bringing you back.",
-			"^red;Fat is nice. Using it as fuel is not. Get out.",
-			"^red;Hunting is difficult. You have to leave."
+			"^red; 安全了。我会重组你。",
+			"^red; 他们找不到你。把你变回来。",
+			"^red; 胖点挺好。但当燃料用就不好了。出去吧。",
+			"^red; 打猎太难了。你得离开。"
 		],
 		"imagePortrait": [
 			"HMad.png"
@@ -5491,10 +5491,10 @@
 	},
 	"unbirthVoreLetoutForcedFiendly": {
 		"dialogueRandom": [
-			"^red;Damn. Okay.",
-			"^red;I was having fun...",
-			"^red;It'll be slick. Watch your step.",
-			"^red;Seriously? I was feeling--"
+			"^red; 该死。好吧。",
+			"^red; 我正玩得开心呢……",
+			"^red; 会很滑。小心脚下。",
+			"^red; 说真的？我正感觉 ——"
 		],
 		"imagePortrait": [
 			"HMad.png"
@@ -5502,10 +5502,10 @@
 	},
 	"unbirthVoreLetoutForcedHealFiendly": {
 		"dialogueRandom": [
-			"^red;I'm not done. Get back in.",
-			"^red;I could keep you. But you know better.",
-			"^red;Out you go, then.",
-			"^red;...buzzkill."
+			"^red; 我还没玩够。回去。",
+			"^red; 我可以留着你。但你心里清楚。",
+			"^red; 那你出去吧。",
+			"^red;…… 真扫兴。"
 		],
 		"imagePortrait": [
 			"HMad.png"
@@ -5513,10 +5513,10 @@
 	},
 	"unbirthVoreLetoutForcedDigestFiendly": {
 		"dialogueRandom": [
-			"^red;I understand. Here goes.",
-			"^red;My mistake. I'll let you out.",
-			"^red;It's too hot? One second.",
-			"^red;I didn't realize. Let me help you out."
+			"^red; 我明白了。开始吧。",
+			"^red; 是我的错。我放你出去。",
+			"^red; 太热了？等一下。",
+			"^red; 我没意识到。我帮你出去。"
 		],
 		"imagePortrait": [
 			"HMad.png"
@@ -5524,10 +5524,10 @@
 	},
 	"unbirthVoreLetoutForcedTransformedFiendly": {
 		"dialogueRandom": [
-			"^red;Hot damn. You look good.",
-			"^red;See? It's not bad.",
-			"^red;It's temporary. Milk helps.",
-			"^red;My friend will be jealous."
+			"^red; 热辣的天呐。你看起来真棒。",
+			"^red; 看到没？这没什么不好的。",
+			"^red; 这是暂时的。喝点奶会有用。",
+			"^red; 我朋友会嫉妒的。"
 		],
 		"imagePortrait": [
 			"HJoyful.png"
@@ -5535,10 +5535,10 @@
 	},
 	"unbirthVoreLetoutForcedTransformingFiendly": {
 		"dialogueRandom": [
-			"^red;No changes? I understand.",
-			"^red;You would've looked sexy.",
-			"^red;Ask again later if you like.",
-			"^red;Ow. Tell me next time."
+			"^red; 没变化？我懂。",
+			"^red; 你本来会很性感的。",
+			"^red; 要是喜欢的话，下次再问。",
+			"^red; 哎哟。下次提前说。"
 		],
 		"imagePortrait": [
 			"HMad.png"
@@ -5546,10 +5546,10 @@
 	},
 	"unbirthVoreLetoutForcedEggifyFiendly": {
 		"dialogueRandom": [
-			"^red;No egg? Alright.",
-			"^red;I see. Not in the mood?",
-			"^red;Another day, another egg.",
-			"^red;I wouldn't nickname you. You're not a Pokémon."
+			"^red; 没变成蛋？好吧。",
+			"^red; 我明白了。没心情？",
+			"^red; 改天再变蛋吧。",
+			"^red; 我不会给你起昵称的。你又不是宝可梦。"
 		],
 		"imagePortrait": [
 			"HMad.png"
@@ -5557,10 +5557,10 @@
 	},
 	"unbirthVoreLetoutForcedDigestedFiendly": {
 		"dialogueRandom": [
-			"^red;Good flow. I'll reform you.",
-			"^red;Done in there? I'll push, then.",
-			"^red;Longer would've been nice...",
-			"^red;Okay. Make sure to heal."
+			"^red; 流动得不错。我会重组你。",
+			"^red; 在里面完事了？那我推你出去。",
+			"^red; 能再久点就好了……",
+			"^red; 行吧。记得疗伤。"
 		],
 		"imagePortrait": [
 			"HMad.png"
@@ -5568,10 +5568,10 @@
 	},
 	"unbirthVoreLetoutFiendly": {
 		"dialogueRandom": [
-			"^red;Heh. Birthed by a b!tch.",
-			"^red;Good enough. Out.",
-			"^red;Come out, or I'm coming.",
-			"^red;My rent is too high. You're evicted."
+			"^red; 呵。被个贱人 “生” 出来了。",
+			"^red; 够了。出去。",
+			"^red; 要么出来，要么我进去。",
+			"^red; 我房租太贵了。你被赶出去了。"
 		],
 		"imagePortrait": [
 			"HMad.png"
@@ -5579,10 +5579,10 @@
 	},
 	"unbirthVoreLetoutHealFiendly": {
 		"dialogueRandom": [
-			"^red;Get hurt again; you know where to find me.",
-			"^red;Gotta make room. Someone might be hurt.",
-			"^red;Our time is up for now.",
-			"^red;I liked this. Let's do it again."
+			"^red; 要是再受伤，知道去哪找我。",
+			"^red; 得腾出点空间。可能有人会受伤。",
+			"^red; 我们的时间到了。",
+			"^red; 我喜欢这样。下次再来。"
 		],
 		"imagePortrait": [
 			"HMad.png"
@@ -5590,22 +5590,22 @@
 	},
 	"unbirthVoreLetoutDigestFiendly": {
 		"dialogueRandom": [
-			"^red;Not good. You're melting too much. Back outside you go.",
-			"^red;My womb wants too much. I'm releasing you.",
-			"^red;Change of plans. I need you more firm.",
-			"^red;Ah, too hot. You're melting."
+			"^red; 不好。你融化得太厉害了。回外面去吧。",
+			"^red; 我的子宫需求太大了。我放你出去。",
+			"^red; 计划有变。我需要你更结实点。",
+			"^red; 啊，太热了。你在融化。"
 		],
 		"imagePortrait": [
 			"HMad.png"
 		]
 	},
-	"unbirthVoreLetoutTransformedFiendly": ":unbirthVoreLetoutForcedTransformedFiendly", // duplicated lines
+	"unbirthVoreLetoutTransformedFiendly": ":unbirthVoreLetoutForcedTransformedFiendly",
 	"unbirthVoreLetoutDigestedFiendly": {
 		"dialogueRandom": [
-			"^red;Fun and sloshy. Time to return, though.",
-			"^red;I'm reforming you. My fun is done.",
-			"^red;Thanks, this made me less b!tchy.",
-			"^red;Okay. It's showtime for you."
+			"^red; 有趣又湿滑。不过，是时候送你回去了。",
+			"^red; 我把你重组。我的玩乐结束了。",
+			"^red; 谢了，这让我没那么暴躁了。",
+			"^red; 好了。轮到你上场了。"
 		],
 		"imagePortrait": [
 			"HMad.png"
@@ -5613,10 +5613,10 @@
 	},
 	"breastVoreLetoutForcedFiendly": {
 		"dialogueRandom": [
-			"^red;Ow. Alright, you can get out.",
-			"^red;Geez, take it easy. One quick squeeze coming up.",
-			"^red;Damn, forgot my piercing.",
-			"^red;You're free to go."
+			"^red; 哎哟。好吧，你可以出来了。",
+			"^red; 天哪，轻点。马上轻轻挤一下。",
+			"^red; 该死，忘了我的穿孔。",
+			"^red; 你可以走了。"
 		],
 		"imagePortrait": [
 			"HMad.png"
@@ -5624,10 +5624,10 @@
 	},
 	"breastVoreLetoutForcedHealFiendly": {
 		"dialogueRandom": [
-			"^red;Don't like milk? Fine.",
-			"^red;More milk for me, then.",
-			"^red;It tastes like cinnamon. It's not bad.",
-			"^red;Slip on out, then."
+			"^red; 不喜欢奶？好吧。",
+			"^red; 那更多奶都是我的了。",
+			"^red; 尝起来像肉桂。还不错。",
+			"^red; 那就滑出来吧。"
 		],
 		"imagePortrait": [
 			"HMad.png"
@@ -5635,10 +5635,10 @@
 	},
 	"breastVoreLetoutForcedDigestFiendly": {
 		"dialogueRandom": [
-			"^red;It's burning? Sorry.",
-			"^red;Too much heat? Okay.",
-			"^red;Don't want to be milk? Okay.",
-			"^red;I always reform. It's okay, though."
+			"^red; 烧着了？抱歉。",
+			"^red; 太热了？好吧。",
+			"^red; 不想变成奶？好吧。",
+			"^red; 我总会重组你的。不过没关系。"
 		],
 		"imagePortrait": [
 			"HMad.png"
@@ -5646,10 +5646,10 @@
 	},
 	"breastVoreLetoutForcedDigestedFiendly": {
 		"dialogueRandom": [
-			"^red;Done hanging around?",
-			"^red;One fresh squeeze, then.",
-			"^red;Aw. I liked the squish.",
-			"^red;Some coffee to go with you?"
+			"^red; 在里面待够了？",
+			"^red; 那就再来一次新鲜的挤压。",
+			"^red; 哎呀。我喜欢这种挤压感。",
+			"^red; 来杯咖啡配着你怎么样？"
 		],
 		"imagePortrait": [
 			"HMad.png"
@@ -5657,10 +5657,10 @@
 	},
 	"breastVoreLetoutFiendly": {
 		"dialogueRandom": [
-			"^red;Ooh, getting tender. Sorry.",
-			"^red;It was fun. Really!",
-			"^red;Getting tired. Time to squeeze you out.",
-			"^red;You need to stretch."
+			"^red; 哦哦，开始疼了。抱歉。",
+			"^red; 真的很有趣！",
+			"^red; 累了。该把你挤出去了。",
+			"^red; 你需要伸展一下。"
 		],
 		"imagePortrait": [
 			"HMad.png"
@@ -5668,10 +5668,10 @@
 	},
 	"breastVoreLetoutHealFiendly": {
 		"dialogueRandom": [
-			"^red;I think you're healed now.",
-			"^red;Gotta save some milk for others.",
-			"^red;You feel stronger. Let's go.",
-			"^red;I'm almost out of milk. Sorry."
+			"^red; 我想你现在已经痊愈了。",
+			"^red; 得给其他人留些乳汁。",
+			"^red; 你感觉更强壮了。我们走吧。",
+			"^red; 我的乳汁快没了。抱歉。"
 		],
 		"imagePortrait": [
 			"HMad.png"
@@ -5679,10 +5679,10 @@
 	},
 	"breastVoreLetoutDigestFiendly": {
 		"dialogueRandom": [
-			"^red;Damn, nearly melted you.",
-			"^red;I got too excited.",
-			"^red;Okay, time's up.",
-			"^red;Too creamy. You have to go."
+			"^red; 该死，差点把你融化了。",
+			"^red; 我太激动了。",
+			"^red; 好了，时间到了。",
+			"^red; 太浓稠了。你得走了。"
 		],
 		"imagePortrait": [
 			"HMad.png"
@@ -5690,10 +5690,10 @@
 	},
 	"breastVoreLetoutDigestedFiendly": {
 		"dialogueRandom": [
-			"^red;You're slipping. I'm reforming you.",
-			"^red;Time to face the world again.",
-			"^red;Looks like time is up.",
-			"^red;I can't resist. I found a coffee cup."
+			"^red; 你在滑落。我正在重塑你。",
+			"^red; 是时候再次面对世界了。",
+			"^red; 看来时间到了。",
+			"^red; 我忍不住了。我找到了一个咖啡杯。"
 		],
 		"imagePortrait": [
 			"HMad.png"
@@ -5702,19 +5702,19 @@
 	"strugglingBellyFiendly": {
 		"dialogueRandom": [
 			[
-				"^red;I like this.",
-				"^red;Keep me longer, please.",
-				"^red;Mmm...",
-				"^red;Thanks. I was tired.",
+				"^red; 我喜欢这样。",
+				"^red; 请把我留久一点。",
+				"^red; 嗯……",
+				"^red; 谢谢。我之前很累。",
 				{
 					"check": {
 						"bellySounds": true
 					},
 					"add": [
-						"^red;Gurgles are good.",
-						"^red;So soothing...",
-						"^red;Nice one.",
-						"^red;I love this."
+						"^red; 咕噜声很不错。",
+						"^red; 好舒缓……",
+						"^red; 真棒。",
+						"^red; 我喜欢这样。"
 					]
 				}
 			],
@@ -5723,10 +5723,10 @@
 					"predator": "sbqVaporeon"
 				},
 				"add": [
-					"^red;So much goo...",
-					"^red;Nice and wet...",
-					"^red;I'm not a Houndoom. Thanks, though.",
-					"^red;Hmhm, goo..."
+					"^red; 这么多黏液……",
+					"^red; 又湿又滑……",
+					"^red; 我不是火暴兽。不过还是谢谢。",
+					"^red; 嗯嗯，黏液……"
 				]
 			}
 		],
@@ -5737,19 +5737,19 @@
 	"strugglingHealBellyFiendly": {
 		"dialogueRandom": [
 			[
-				"^red;Thanks.",
-				"^red;I'll rub from within.",
-				"^red;So pleasant...",
-				"^red;You're kind.",
+				"^red; 谢谢。",
+				"^red; 我会从里面给你揉揉。",
+				"^red; 好舒服……",
+				"^red; 你真好。",
 				{
 					"check": {
 						"bellySounds": true
 					},
 					"add": [
-						"^red;So calming...",
-						"^red;Perfect...",
-						"^red;I'll never get tired of listening.",
-						"^red;Mmm... bork..."
+						"^red; 好平静……",
+						"^red; 完美……",
+						"^red; 我永远听不腻。",
+						"^red; 嗯…… 嗝……"
 					]
 				}
 			],
@@ -5758,10 +5758,10 @@
 					"predator": "sbqVaporeon"
 				},
 				"add": [
-					"^red;Healing goo? It's nice.",
-					"^red;Getting a little steamy.",
-					"^red;Heh, compatibility.",
-					"^red;No"
+					"^red; 治愈黏液？很不错。",
+					"^red; 有点热了。",
+					"^red; 呵，兼容性。",
+					"^red; 不"
 				]
 			}
 		],
@@ -5771,10 +5771,10 @@
 	},
 	"strugglingDigestImmuneBellyFiendly": {
 		"dialogueRandom": [
-			"^red;No digestion.",
-			"^red;I'm not melting.",
-			"^red;Not happening.",
-			"^red;Doesn't feel any different."
+			"^red; 没有消化。",
+			"^red; 我没有融化。",
+			"^red; 不会发生的。",
+			"^red; 感觉没什么不同。"
 		],
 		"imagePortrait": [
 			"HMad.png"
@@ -5782,10 +5782,10 @@
 	},
 	"strugglingDigestBellyFiendly": {
 		"dialogueRandom": [
-			"^red;Ooh, getting soft.",
-			"^red;Mm, take me for now.",
-			"^red;Almost gone.",
-			"^red;So steamy..."
+			"^red; 哦，变软了。",
+			"^red; 嗯，暂时收下我吧。",
+			"^red; 快没了。",
+			"^red; 好热啊……"
 		],
 		"imagePortrait": [
 			"HMad.png"
@@ -5793,7 +5793,7 @@
 	},
 	"strugglingTransformedBellyFiendly": {
 		"dialogueRandom": [
-			"^red;Mm, sorry."
+			"^red; 嗯，抱歉。"
 		],
 		"imagePortrait": [
 			"HConfused.png"
@@ -5801,7 +5801,7 @@
 	},
 	"strugglingTransformingBellyFiendly": {
 		"dialogueRandom": [
-			"^red;Mm, no?"
+			"^red; 嗯，不要？"
 		],
 		"imagePortrait": [
 			"HConfused.png"
@@ -5810,10 +5810,10 @@
 	"strugglingFiendly": {
 		"dialogueRandom": [
 			[
-				"^red;New to me. This feels good.",
-				"^red;I haven't felt this before. It's good.",
-				"^red;Where... am I exactly? It's nice.",
-				"^red;No complaints here."
+				"^red; 对我来说很新鲜。这感觉不错。",
+				"^red; 我以前没感受过这种感觉。挺好的。",
+				"^red; 我…… 到底在哪儿？这里很不错。",
+				"^red; 没什么可抱怨的。"
 			]
 		],
 		"imagePortrait": [
@@ -5822,26 +5822,26 @@
 	},
 	"strugglingSlimeFiendly": {
 		"dialogueRandom": [
-			"^red;Wet and sticky. Nice.",
-			"^red;Oddly warm. Good.",
-			"^red;Heh. Slime-covered hot dog.",
-			"^red;So squishy!"
+			"^red; 又湿又黏。不错。",
+			"^red; 出奇的温暖。很好。",
+			"^red; 呵。裹满黏液的热狗。",
+			"^red; 好软啊！"
 		],
 		"imagePortrait": [
 			"HMad.png"
 		]
 	},
 	"strugglingSlimeHealFiendly": [
-		"^red;Not bad. Keep it going, please.",
-		"^red;That feels good.",
-		"^red;I feel much better.",
-		"^red;Delightful..."
+		"^red; 不错。请继续。",
+		"^red; 感觉真好。",
+		"^red; 我感觉好多了。",
+		"^red; 真愉快……"
 	],
 	"strugglingSlimeDigestFiendly": {
 		"dialogueRandom": [
-			"^red;Try not to absorb my angy.",
-			"^red;Slowly fading away for now.",
-			"^red;Heh. B!tch-flavored slime.",
+			"^red; 尽量别吸收我的愤怒。",
+			"^red; 暂时慢慢消失了。",
+			"^red; 呵。贱人味的黏液。",
 			"^red;"
 		],
 		"imagePortrait": [
@@ -5850,10 +5850,10 @@
 	},
 	"strugglingBreastsFiendly": {
 		"dialogueRandom": [
-			"^red;This is so calming...",
-			"^red;I don't want to leave...",
-			"^red;Mmm... Home...",
-			"^red;I love this..."
+			"^red; 这太让人平静了……",
+			"^red; 我不想离开……",
+			"^red; 嗯…… 家的感觉……",
+			"^red; 我喜欢这样……"
 		],
 		"imagePortrait": [
 			"HMad.png"
@@ -5861,37 +5861,37 @@
 	},
 	"strugglingDigestBreastsFiendly": {
 		"dialogueRandom": [
-			"^red;Aw, making me into milk?",
-			"^red;I wanted to stay solid longer...",
-			"^red;Fine, but I'll be back.",
-			"^red;I'm getting soft..."
+			"^red; 啊，要把我变成乳汁了？",
+			"^red; 我还想再保持固态久一点呢……",
+			"^red; 好吧，但我会回来的。",
+			"^red; 我在变软……"
 		],
 		"imagePortrait": [
 			"HMad.png"
 		]
 	},
-	"strugglingTransformingBreastsFiendly": ":strugglingEggify", // duplicated lines
-	"strugglingEggifyBreastsFiendly": ":strugglingEggify", // duplicated lines
-	"strugglingWombFiendly": ":strugglingBreastsFiendly", // duplicated lines
+	"strugglingTransformingBreastsFiendly": ":strugglingEggify",
+	"strugglingEggifyBreastsFiendly": ":strugglingEggify",
+	"strugglingWombFiendly": ":strugglingBreastsFiendly",
 	"strugglingFemcumDigestFiendly": {
 		"dialogueRandom": [
-			"^red;Aw, melting me down?",
-			"^red;I wanted to stay solid longer...",
-			"^red;Fine, but I'll be back.",
-			"^red;I'm getting soft..."
+			"^red; 啊，要把我融化了？",
+			"^red; 我还想再保持固态久一点呢……",
+			"^red; 好吧，但我会回来的。",
+			"^red; 我在变软……"
 		],
 		"imagePortrait": [
 			"HMad.png"
 		]
 	},
-	"strugglingTransformingWombFiendly": ":strugglingEggify", // duplicated lines
-	"strugglingEggifyWombFiendly": ":strugglingEggify", // duplicated lines
+	"strugglingTransformingWombFiendly": ":strugglingEggify",
+	"strugglingEggifyWombFiendly": ":strugglingEggify",
 	"voredFiendly": {
 		"dialogueRandom": [
-			"^red;Oh.",
-			"^red;Nice catch.",
-			"^red;Can you handle me?",
-			"^red;That's new."
+			"^red; 哦。",
+			"^red; 接得好。",
+			"^red; 你能承受得住我吗？",
+			"^red; 这倒新鲜。"
 		],
 		"imagePortrait": [
 			"HMad.png"
