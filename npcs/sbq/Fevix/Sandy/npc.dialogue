@@ -3,25 +3,25 @@
 	"greetingRewardsIntroduced": "/npcs/sbq/dialogue/default.dialogue:greetingRewardsIntroduced",
 	"greeting": [
 		"Blub.",
-		"Hi I'm Sandy!",
-		"Hi I'm Sandy Blub!\n...\nNo wait I'm just Sandy!"
+		"嗨，我是Sandy！",
+		"嗨，我叫Sandy Blub！\n...\n啊不，等等我就是叫Sandy！"
 	],
 	"greetingCrew": "/npcs/sbq/dialogue/default.dialogue:greetingCrew",
 	"crewStay": "/npcs/sbq/dialogue/default.dialogue:crewStay",
 	"fullCrew": "/npcs/sbq/dialogue/default.dialogue:fullCrew",
 	"crewFollow": "/npcs/sbq/dialogue/default.dialogue:crewFollow",
 	"converse": [
-		"Did you want to talk about something?",
+		"你想聊些什么吗？",
 		"Blub.",
 		"Blub!",
-		"Did you want to talk blub?",
-		"Oooh you want to talk?",
-		"So what are we gonna do?"
+		"你想聊一聊吗blub？",
+		"喔噢你想聊一聊天么？",
+		"那我们要做些什么？"
 	],
 	"normalPet": [
 		"Blub!",
-		"<dontSpeak>* Sandy licks your hand.",
-		"<dontSpeak>* Your hand is now wet."
+		"<dontSpeak>* Sandy舔了舔你的手。",
+		"<dontSpeak>* 你的手现在湿漉漉的。"
 	],
 	"problemPet": "/npcs/sbq/LokiVulpix/Socks/npc.dialogue:problemPet",
 	"rewardNotifyMoney": "/npcs/sbq/dialogue/default.dialogue:rewardNotifyMoney",
@@ -29,12 +29,12 @@
 	"rewardNotifyMediumValueQuestRewards": "/npcs/sbq/dialogue/default.dialogue:rewardNotifyMediumValueQuestRewards",
 	"rewardNotifyHighValueQuestRewards": "/npcs/sbq/dialogue/default.dialogue:rewardNotifyHighValueQuestRewards",
 	"oralVoreRequested": [
-		"Hmm, you do look tasty, let's find out!",
-		"Oooh, munchies! Make sure to wiggle!!",
-		"Most passengers bring a saddle, but I guess you want the wet seat!"
+		"嗯，你看起来很美味，让我们看看有多美味！",
+		"喔噢，快餐！请务必多动动扭扭！！",
+		"大多数乘客会自备鞍具，但我猜你想要湿漉漉的专座！"
 	],
 	"oralVoreRequestedAfter": [
-		"Wow, you really were!"
+		"哇哦，你真的是！"
 	],
 	"oralVoreInvalid": "/npcs/sbq/LokiVulpix/Auri/npc.dialogue:oralVoreInvalid",
 	"oralVoreNo": ":defaultNo",
@@ -281,8 +281,8 @@
 	"struggleAcidDigest": "/npcs/sbq/Zygahedron/Zevi/npc.dialogue:struggleAcidDigest",
 	"struggleAcidDigestImmune": "/npcs/sbq/Zygahedron/Zevi/npc.dialogue:struggleAcidDigestImmune",
 	"struggleCumDigest": [
-		"You're getting so soft.",
-		"Melt for me!"
+		"你变得真的好软呐。",
+		"为了我，溶化吧！"
 	],
 	"struggleFemcumDigest": ":struggleCumDigest",
 	"struggleCumDigestBalls": ":struggleCumDigest",
@@ -353,13 +353,11 @@
 	"gotStepped": "/npcs/sbq/LokiVulpix/Auri/npc.dialogue:gotStepped",
 	"gotStomped": "/npcs/sbq/LokiVulpix/Auri/npc.dialogue:gotStomped",
 	"vanilla": "/npcs/sbq/dialogue/default.dialogue:vanilla",
-	// Unused Dialogue
-	// Unused Dialogue
 	"oralVoreRequestedHeal": [
-		"Belly hospital time!"
+		"肚中治疗时间！"
 	],
 	"oralVoreRequestedDigest": [
-		"Oh, food delivery? Hop right in!"
+		"噢，外卖到了？快点跳进来！"
 	],
 	"needsInfusion": ":oralVoreNeedsInfusion",
 	"struggle": ":struggleBelly",
@@ -372,9 +370,9 @@
 		"percentage": "transforming",
 		"pools": [
 			[
-				"It feels kinda weird in here?",
-				"I think... I think I'm turning white?",
-				"I think... I'm starting to feel goopy?"
+				"这里面感觉变得奇怪起来了？",
+				"我认为... 我认为我正在变白？",
+				"我觉得... 我开始感觉到有点黏黏的？"
 			]
 		],
 		"full": [
@@ -382,9 +380,9 @@
 		]
 	},
 	"strugglingCumTransformedCock": [
-		"O-oh my... I'm just cum now~",
-		"Oooh~ Are you about to cum me out~?",
-		"Now I'm just a load of cum~"
+		"哦哦天哪... 现在我只是精液了~",
+		"哦啊~ 你要把化成精液的我射出去吗~？",
+		"这下我不过是一发精液了~"
 	],
 	"struggleTransformed": "/npcs/sbq/Zygahedron/Zevi/npc.dialogue:struggleTransformedBelly",
 	"struggleEgged": "/npcs/sbq/Zygahedron/Zevi/npc.dialogue:struggleEggedBelly",
@@ -395,21 +393,21 @@
 	"struggling.default.default.default.shy.default.default": "/npcs/sbq/dialogue/shy.dialogue:struggling",
 	"strugglingSlimeDigest": "/npcs/sbq/LokiVulpix/Socks/npc.dialogue:strugglingSlimeDigest",
 	"strugglingCumTransformedBalls": [
-		"O-oh my... I'm just cum now~",
-		"Oooh~ I'm sloshing around in here~",
-		"Now I'm just a load of cum~"
+		"哦我的老天... 我现在成了精液了~",
+		"哦啊~ 我正在这里面被晃来晃去~",
+		"现在我只是一大堆精液了~"
 	],
 	"strugglingTransformedWomb": [
 		[
-			"Ahhh~ My body is all different~",
-			"Oooh~ I've been transformed~",
-			"I got transformed by your womb~"
+			"啊呀~ 我的身体大变样了~",
+			"哦哦~ 我被同化了~",
+			"我被你的子宫给同化了~"
 		],
 		{
 			"percentage": "eggifying",
 			"full": [
-				"You used an egg to transform me~",
-				"Can't wait to hatch and see my new body~"
+				"你把我塞进一个蛋里同化了我~",
+				"等不及要孵化出来看看我全新的身体~"
 			]
 		}
 	]
