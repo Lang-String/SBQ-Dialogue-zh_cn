@@ -1,14 +1,14 @@
 {
 	"madeThisMod": "/npcs/sbq/LokiVulpix/Auri/npc.dialogue:madeThisMod",
-	"perish": "Perish.",
+	"perish": "毁灭吧,",
 	"longPause": " . . . ",
 	"questionmarks": "\n \n????????????????????????",
 	"greetingRewards": "/npcs/sbq/dialogue/default.dialogue:greetingRewards",
 	"greetingRewardsIntroduced": "/npcs/sbq/dialogue/default.dialogue:greetingRewardsIntroduced",
 	"greeting": [
 		[
-			"Hello.",
-			"Hey."
+			"你好,",
+			"嗨,"
 		],
 		{
 			"check": {
@@ -16,7 +16,7 @@
 			},
 			"add": [
 				[
-					"Hi <entityname>!"
+					"嗨 <entityname>!"
 				]
 			]
 		}
@@ -28,14 +28,14 @@
 	"converse": [
 		[
 			[
-				"So whats up?"
+				"有什么事吗？"
 			],
 			{
 				"check": {
 					"introduced": true
 				},
 				"add": [
-					"So whats up <entityname>?"
+					"有什么事吗 <entityname>?"
 				]
 			}
 		]
@@ -59,7 +59,7 @@
 	"noSlots": "/npcs/sbq/dialogue/default.dialogue:noSlots",
 	"oralVoreFull": "/npcs/sbq/dialogue/default.dialogue:oralVoreFull",
 	"oralVoreNeedsInfusion": [
-		"I'd want someone merged in there"
+		"我希望能有个人融入到那里,"
 	],
 	"oralVoreTargetPreySettingsMismatch": "/npcs/sbq/dialogue/default.dialogue:oralVoreTargetPreySettingsMismatch",
 	"targetPreySettingsMismatch": ":oralVoreTargetPreySettingsMismatch",
@@ -105,21 +105,21 @@
 	"cockVoreNeedsInfusion": ":oralVoreNeedsInfusion",
 	"cockVoreTargetPreySettingsMismatch": ":oralVoreTargetPreySettingsMismatch",
 	"bellyInfuseRequested": [
-		"Mm, you love my belly so much... you want to be a part of it?",
-		"You want to become my belly?",
-		"You want to become a part of me...?",
-		"Youre gonna love it down there, I guarantee it!",
-		"Let's be honest, you look a lot cuter this way.",
-		"You wont regret being a part of me!"
+		"嗯,你这么喜欢我的肚子…… 你想成为它的一部分吗？",
+		"你想变成我的肚子吗？",
+		"你想成为我的一部分……？",
+		"我保证,你会喜欢待在下面的！",
+		"说实话,你这样看起来可爱多了,",
+		"你不会后悔成为我的一部分的！"
 	],
 	"bellyInfuseRequestedAfter": [
-		"Ahh... there you are... just my belly now",
-		"Just a part of me now",
-		"Try not to make me too hungry...",
-		"Got you all to myself, now!",
-		"Enjoy your stay down there!",
-		"What was their name again? Oh well.",
-		"Uuuurhp!"
+		"啊…… 你在这儿呢…… 现在只是我的肚子了",
+		"现在只是我的一部分了",
+		"尽量别让我太饿了……",
+		"现在你完全属于我了！",
+		"享受你在下面的时光吧！",
+		"他们叫什么来着？哦,无所谓了,",
+		"嗝儿！"
 	],
 	"bellyInfuseInvalid": "Whoops! bellyInfuse is invalid <dialoguePath>",
 	"bellyInfuseNo": ":defaultNo",
@@ -141,12 +141,12 @@
 	"breastInfuseTargetPreySettingsMismatch": ":oralVoreTargetPreySettingsMismatch",
 	"pussyInfuseRequested": "/npcs/sbq/LokiVulpix/Auri/npc.dialogue:pussyInfuseRequested",
 	"pussyInfuseRequestedAfter": [
-		"Hehe, I can feel you leaking with excitment already~",
-		"Hehe, excited to be part of me~?",
-		"Ah, you're already sopping wet with excitment~",
-		"I can already feel you dripping down there~",
-		"Mmhm, maybe I need to put you to good use.",
-		"You feel so wet and sensitive! Glad to have you where you belong, <entityname>~"
+		"呵呵,我已经感觉到你兴奋得湿透了～",
+		"呵呵,兴奋地要成为我的一部分了～？",
+		"啊,你已经兴奋得湿透了～",
+		"我已经能感觉到你在下面滴水了～",
+		"嗯哼,也许我得好好利用你,",
+		"你感觉又湿又敏感！很高兴你在属于你的地方,<entityname>~"
 	],
 	"pussyInfuseInvalid": "/npcs/sbq/LokiVulpix/Auri/npc.dialogue:pussyInfuseInvalid",
 	"pussyInfuseNo": ":defaultNo",
@@ -232,7 +232,7 @@
 	"breastVoreNoPromptAfter": "/npcs/sbq/LokiVulpix/Auri/npc.dialogue:breastVoreNoPromptAfter",
 	"cockVoreNoPromptAfter": "/npcs/sbq/LokiVulpix/Auri/npc.dialogue:cockVoreNoPromptAfter",
 	"bellyInfuseNoPrompt": [
-		"I think... I need you in my belly... or... as my belly"
+		"我想…… 我需要你进到我的肚子里…… 或者…… 成为我的肚子"
 	],
 	"bellyInfuseNoPromptAfter": "/npcs/sbq/dialogue/default.dialogue:bellyInfuseNoPromptAfter",
 	"breastInfuseNoPrompt": "/npcs/sbq/dialogue/default.dialogue:breastInfuseNoPrompt",
@@ -244,7 +244,7 @@
 	"tailInfuseNoPrompt": "/npcs/sbq/dialogue/default.dialogue:tailInfuseNoPrompt",
 	"tailInfuseNoPromptAfter": "/npcs/sbq/dialogue/default.dialogue:tailInfuseNoPromptAfter",
 	"oralVoreUnprompted": [
-		"Ah!"
+		"啊!"
 	],
 	"defaultUnprompted": ":oralVoreUnprompted",
 	"tailVoreUnprompted": "/npcs/sbq/dialogue/default.dialogue:tailVoreUnprompted",
@@ -279,26 +279,26 @@
 	"breastVoreLetoutForced": "/npcs/sbq/dialogue/default.dialogue:breastVoreLetoutForced",
 	"cockVoreLetoutForced": "/npcs/sbq/LokiVulpix/Auri/npc.dialogue:cockVoreLetoutForced",
 	"struggleBelly": [
-		"Having a good time in there?",
-		"Hope its comfortable.",
+		"在里面玩得开心吗？",
+		"希望你在里面舒服,",
 		{
 			"add": "allMineLines"
 		}
 	],
 	"struggleWomb": [
-		"Now you're nice and safe.",
-		"Hope you like how it feels in there.",
+		"现在你很安全,",
+		"希望你喜欢里面的感觉,",
 		{
 			"add": "allMineLines"
 		}
 	],
 	"struggleTail": "/npcs/sbq/dialogue/default.dialogue:struggleTail",
 	"struggleBreasts": [
-		"Having a good time in there?",
-		"Hope its comfortable.",
-		"Get yourself a nice milk bath~",
-		"Feel free to take a drink, don't want to start leaking after all~",
-		"hehe, look at how much bigger they are with you in there~",
+		"在里面玩得开心吗？",
+		"希望你在里面舒服,",
+		"来个舒服的牛奶浴吧～",
+		"想喝就喝,毕竟我可不想漏奶～",
+		"呵呵,看看你在里面,它们变得多大了～",
 		{
 			"add": "allMineLines"
 		}
@@ -307,9 +307,9 @@
 	"strugglePussy": "/npcs/sbq/dialogue/default.dialogue:strugglePussy",
 	"struggleCock": [
 		[
-			"Ffffff yeeesss~",
-			"MMMMmmm~ go deeeper~",
-			"Ahhhhh~ deeeeper~",
+			"唔～好～爽～",
+			"嗯～再～深～点～",
+			"啊～再～深～点～",
 			"<keysmash>~"
 		],
 		{
@@ -320,7 +320,7 @@
 					"add": "struggle.ctfLines"
 				},
 				[
-					"Heheh, giving my familiar and me such a good time~"
+					"呵呵,让我的魔宠和我都这么开心～"
 				]
 			],
 			"sbq/FFWizard/Claire": [
@@ -328,28 +328,28 @@
 					"add": "struggle.ctfLines"
 				},
 				[
-					"I'm sure Claire is having a pleasueable experience hehe~"
+					"我肯定克莱尔正享受着愉悦的体验,呵呵～"
 				]
 			]
 		}
 	],
 	"struggleBalls": [
 		[
-			"Yeeess~",
-			"Keep squirming~",
-			"Got you stewing down there in all that cum~",
-			"Ffff I gotta hold back from cumming you out~"
+			"好～呀～",
+			"继续扭动～",
+			"把你炖在那堆精液里~",
+			"唔,我得忍住别把你射出来～"
 		],
 		[
 			"<keysmash>~",
-			"Friends are stored in the balls~",
-			"Ohhhh I sure do want to just keep you down there~"
+			"朋友都藏在蛋蛋里～",
+			"哦,我真想就这么把你留在下面～"
 		],
 		[
-			"Just get yourself absolutely covered in cum~",
-			"Ahhhhhh~",
-			"Sloshing around down there~",
-			"Mmmmm you're gonna get stained white~"
+			"让自己浑身沾满精液～",
+			"啊～",
+			"在下面晃荡～",
+			"嗯～你会被染成白色的～"
 		],
 		{
 			"add": "allMineLines"
@@ -358,20 +358,20 @@
 	"struggleAss": "/npcs/sbq/dialogue/default.dialogue:struggleAss",
 	"struggleAcidHeal": [
 		[
-			"Now you're nice and safe.",
-			"Hope you like how it feels in there.",
-			"Just snuggle into the walls~",
-			"Get yourself nice and coated in those juices~"
+			"现在你很安全,",
+			"希望你喜欢里面的感觉,",
+			"就依偎在壁上吧～",
+			"让自己好好裹上那些汁液～"
 		]
 	],
 	"struggleFemcumHeal": ":struggleWomb",
 	"struggleCumHeal": ":struggleAcidHeal",
 	"struggleMilkHeal": [
 		[
-			"Now you're nice and safe.",
-			"Hope you like how it feels in there.",
-			"Just snuggle into the walls~",
-			"Get yourself nice and soaked in my milk~"
+			"现在你很安全,",
+			"希望你喜欢里面的感觉,",
+			"就依偎在壁上吧～",
+			"让自己好好泡在我的奶里～"
 		]
 	],
 	"struggleMiscHeal": ":struggleAcidHeal",
@@ -380,9 +380,9 @@
 	"struggleAcidDigestImmune": "/npcs/sbq/dialogue/default.dialogue:struggleAcidDigestImmune",
 	"struggleCumDigest": "/npcs/sbq/LokiVulpix/Auri/npc.dialogue:struggleCumDigest",
 	"struggleCumDigestBalls": [
-		"Soon you'll become a part of that cum you're splashing around.",
-		"Getting hot in my sack? I would hope so, it means you're melting nicely.",
-		"Feels like you're getting softer and weaker in my balls."
+		"很快你就会变成你在里面溅起的那些精液的一部分,",
+		"在我的阴囊里觉得热吗？我希望如此,这意味着你正在很好地融化,",
+		"感觉你在我的蛋蛋里变得越来越软,越来越虚弱,"
 	],
 	"struggleCumDigestImmune": "/npcs/sbq/dialogue/default.dialogue:struggleCumDigestImmune",
 	"struggleFemcumDigest": "/npcs/sbq/dialogue/default.dialogue:struggleFemcumDigest",
@@ -403,12 +403,12 @@
 				"bellySounds": true
 			},
 			"add": [
-				"Hehe, grumbling <entityName>?",
-				"Does my noisy belly want something~?"
+				"呵呵,肚子咕噜咕噜叫了,<entityName>?",
+				"我这咕噜叫的肚子是想要点什么吗～？"
 			]
 		},
-		"Hehe, does my belly want something?",
-		"Hehe, do you want something <entityName>?"
+		"呵呵,我的肚子是想要点什么吗？",
+		"呵呵,你想要点什么吗,<entityName>?"
 	],
 	"breastInfusedOccupant": "/npcs/sbq/LokiVulpix/Auri/npc.dialogue:breastInfusedOccupant",
 	"pussyInfusedOccupant": "/npcs/sbq/LokiVulpix/Auri/npc.dialogue:pussyInfusedOccupant",
@@ -437,9 +437,9 @@
 	"strugglingCumDigestImmune": "/npcs/sbq/dialogue/default.dialogue:strugglingCumDigestImmune",
 	"strugglingFemcumDigest": "/npcs/sbq/LokiVulpix/Auri/npc.dialogue:strugglingFemcumDigest",
 	"strugglingFemcumDigestImmune": [
-		"You know your womb can't melt me, right?",
-		"Trying to get your womb to break me down? Not gonna work.",
-		"As great as being digested in your womb sounds, it's not gonna happen."
+		"你知道你的子宫融化不了我,对吧？",
+		"想让你的子宫把我分解掉？这可不管用,",
+		"虽然被你子宫消化掉听起来很棒,但这是不可能的,"
 	],
 	"strugglingMilkDigest": "/npcs/sbq/dialogue/default.dialogue:strugglingMilkDigest",
 	"strugglingMilkDigestBreastsShirt": "/npcs/sbq/dialogue/default.dialogue:strugglingMilkDigestBreastsShirt",
@@ -460,12 +460,12 @@
 					"bellySounds": true
 				},
 				"add": [
-					"(Just a grumbling belly~)",
-					"(Just your grumbling belly~)",
-					"(Just <entityname>'s grumbling belly~)",
-					"(Just a noisy belly~)",
-					"(Just your noisy belly~)",
-					"(Just <entityname>'s noisy belly~)"
+					"(只是肚子咕噜咕噜叫～)",
+					"(只是你的肚子咕噜咕噜叫～)",
+					"(只是	<entityName> 的肚子咕噜咕噜叫～)",
+					"(只是肚子叫得很响～)",
+					"(只是你肚子叫得很响～)",
+					"(只是	<entityName> 肚子叫得很响～)"
 				]
 			},
 			{
@@ -473,16 +473,16 @@
 					"mood": "hungry"
 				},
 				"add": [
-					"<slowlove>(Feeed meee~)",
-					"(Hungry...)"
+					"<slowlove>(喂～喂我～)",
+					"(饿了...)"
 				]
 			},
 			[
-				"(Just a belly~)",
-				"(Just your belly~)",
-				"(Just <entityname>'s belly~)"
+				"(只是个肚子～)",
+				"(只是你的肚子～)",
+				"(只是	<entityName> 的肚子～)"
 			],
-			"<slowlove>(I belong here... just a part of <entityname>~)",
+			"<slowlove>(我属于这里…… 只是	<entityName> 的一部分～)",
 			"<love>(<keysmash>)"
 		]
 	],
@@ -502,115 +502,113 @@
 	"gotStepped": "/npcs/sbq/dialogue/default.dialogue:gotStepped",
 	"gotStomped": "/npcs/sbq/dialogue/default.dialogue:gotStomped",
 	"vanilla": "/npcs/sbq/dialogue/default.dialogue:vanilla",
-	// Unused Dialogue
 	"full": ":breastInfuseFull",
 	"needsInfusion": ":oralVoreNeedsInfusion",
 	"struggle": ":struggleBelly",
 	"struggleHeal": ":struggleAcidHeal",
 	"struggleDigestCock": [
 		[
-			"Heh, I can feel you sloshing around.",
-			"Seems like you're not quite solid anymore."
+			"呵,我能感觉到你在里面晃荡,",
+			"看起来你已经不太结实了,"
 		]
 	],
 	"oralVoreLetoutRequestedDigested": [
-		"Here, let me reform you real quick.",
-		"You got digested, so I gotta reform you.",
-		"Ah, guess it's time to reform you.",
-		"Time to reform you, I guess."
+		"来,让我马上把你重组一下,",
+		"你被消化了,所以我得重组你,",
+		"啊,我想是时候重组你了,",
+		"我想,是时候重组你了,"
 	],
 	"tailVoreLetoutRequestedDigested": ":oralVoreLetoutRequestedDigested",
 	"strugglingTransformingWomb": [
 		[
-			"It feels kinda weird in here?",
-			"I think... I think changing?",
-			"I think... I'm starting to feel goopy?"
+			"这里面感觉有点奇怪？",
+			"我觉得…… 我觉得在变化？",
+			"我觉得…… 我开始感觉黏糊糊的了？"
 		],
 		{
 			"check": {
 				"egged": true
 			},
 			"add": [
-				"I think this egg is doing something?",
-				"Is this egg changing me?"
+				"我觉得这个蛋在搞什么名堂？",
+				"这个蛋是在改变我吗？"
 			]
 		}
 	],
 	"tailInfusePromptAfter": "/npcs/sbq/dialogue/default.dialogue:tailInfusePromptYesAfter",
-	// Unused Dialogue
 	"itemSelection.sbqMysteriousPotion": [
-		"Heh, you won't even know what you're gonna turn into."
+		"呵,你甚至都不知道自己会变成什么,"
 	],
 	"itemSelection.sbqDuplicatePotion": [
-		"Who're you gonna copy? hope you don't have anything nefarious planned~"
+		"你要复制谁？希望你别打着什么坏主意～"
 	],
 	"itemSelection.sbqSpeciesPotion": [
-		"Just add a bit of DNA and it'll bind to that species."
+		"只要加点 DNA,它就会与那个物种结合,"
 	],
 	"itemSelection.sbqGenderSwapPotion": [
-		"Hehe, gonna switch things around? hope you enjoy the results~"
+		"呵呵,要换换性别？希望你喜欢结果～"
 	],
 	"itemSelection.sbqMysteriousPotionHellhound": [
-		"Always good to have another demon to summon."
+		"再多召唤一个恶魔总是好的,"
 	],
 	"itemSelection.sbqMysteriousPotionVaporeon": [
-		"Always a popular option, things can get pretty wet."
+		"这总是个热门选择,可能会变得湿答答的,"
 	],
 	"itemSelection.sbqMysteriousPotionFlareon": [
-		"I love these things, always so floofy and warm."
+		"我喜欢这些家伙,总是毛茸茸又温暖,"
 	],
 	"itemSelection.sbqMysteriousPotionMeowscarada": [
-		"Be careful sniffing your own paws, the scent is overwhelming even if its your own."
+		"闻自己爪子的时候小心点,那味道就算是自己的也很上头,"
 	],
 	"itemSelection.sbqMysteriousPotionNickit": [
-		"Make sure to keep your tail well groomed, you might even find some loose coins while doing it."
+		"一定要好好打理你的尾巴,说不定打理的时候还能找到些零钱,"
 	],
 	"itemSelection.sbqPotionAvian": [
-		"So you want to be a big Avian? I think we can make that happen."
+		"所以你想变成一只大飞禽？我想我们能做到,"
 	],
 	"itemSelection.sbqPotionSlime": [
-		"Usually I make this with gel, but you'll have to find a substitute."
+		"通常我用凝胶来做这个,但你得找个替代品,"
 	],
 	"itemSelection.sbqPotionVaporeon": [
-		"Bigger isn't *always* better, but in this case it might me heh~"
+		"大并不*总是*好的,但在这种情况下可能是,呵呵～"
 	],
 	"itemSelection.sbqPotionXeronious": [
-		"I met one of these, he had quite the appetite."
+		"我见过一只,他胃口可不小,"
 	],
 	"itemSelection.sbqConsumableZiellekPearl": [
-		"I got a scale off of one once so I could try and replicate these."
+		"我从一只身上弄了片鳞片,这样就能试着做出这个,"
 	],
 	"itemSelection.sbqPotionFray": [
-		"A fox kinda like me, kept a sample of their fur so I could do this."
+		"一只和我有点像的狐狸,我留了点它的毛,这样就能做这个,"
 	],
 	"itemSelection.sbq/Fevix/MysteriousPotionSandy": [
-		"Heh, this Vaporeon is so silly, thought it'd be funny if she started seeing double."
+		"呵,这只水伊布太傻了,要是她看到自己变成两只,肯定很有趣,"
 	],
 	"itemSelection.sbq/FFWizard/MysteriousPotionHelena": [
-		"She'd probably find it flattering someone would want to look exactly like her."
+		"要是有人想和她长得一模一样,她可能会觉得很荣幸,"
 	],
 	"oralVoreOtherFull": ":breastInfuseFull",
 	"errorOrBad": "/npcs/sbq/LokiVulpix/Auri/npc.dialogue:errorOrBad",
 	"allMineLines": [
 		[
-			"Hehe, all mine~",
-			"Now you're all mine~",
-			"My preything~"
+			"呵呵,全是我的～",
+			"现在你全是我的～",
+			"我的猎物～"
 		],
 		[
-			"Trapped inside me~",
-			"Hehe, got you all stuck in there~",
-			"Do you even *want* to get out~?"
+			"被困在我身体里了～",
+			"呵呵,把你困在里面了～",
+			"你是不是都*不想*出来了～？"
 		]
 	],
 	"struggleSoftDigestBelly": [
 		[
-			"Just relax as I melt you down.",
-			"Let all your worries just melt away~"
+			"放松点,让我把你融化,",
+			"让你所有的烦恼都融化掉吧～"
 		],
 		[
-			"Pretty soon you'll just be pudge~",
-			"Pretty soon you'll add another spot to my thighs~"
+			"很快你就会变成赘肉～",
+			"很快你就会在我大腿上多添一块肉～"
 		],
 		{
 			"add": "allMineLines"
@@ -618,18 +616,18 @@
 	],
 	"struggleTransformingWomb": [
 		[
-			"Will you be a deer, or a fox? or something else~ guess we'll find out soon~",
-			"Hehe, maybe you'll become another familiar~"
+			"你会变成鹿,还是狐狸？或者其他什么～猜猜我们很快就会知道～",
+			"呵呵,也许你会变成另一只魔宠～"
 		]
 	],
 	"struggle.ctfLines": [
-		"Ahhh~ <entityName> feels so great down there~",
-		"<keysmash> you're gonna make <entityName> cum~",
-		"Ahhh~ <entityName> feels so great down there~",
-		"<keysmash> you're gonna make <entityName> cum~",
+		"啊～ <entityName> 在下面感觉太棒了～",
+		"<keysmash> 你要让	<entityName> 射了～",
+		"啊～ <entityName> 在下面感觉太棒了～",
+		"<keysmash> 你要让	<entityName> 射了～",
 		{
 			"add": [
-				"I just might turn you into another layer on my cock hehe~"
+				"我可能会把你变成我老二上的另一层肉,呵呵～"
 			]
 		}
 	],
@@ -638,56 +636,56 @@
 	"strugglingTransformingImmuneBelly": ":oralVoreLetoutForcedTransforming",
 	"strugglingTransformedWomb": [
 		[
-			"Ahhh~ My body is all different~",
-			"Oooh~ I've been transformed~",
-			"I got transformed by your womb~"
+			"啊～我的身体完全不一样了～",
+			"哦～我被变形了～",
+			"我被你的子宫变形了～"
 		],
 		{
 			"check": {
 				"egged": true
 			},
 			"add": [
-				"You used an egg to transform me~",
-				"Can't wait to hatch and see my new body~"
+				"你用一个蛋把我变形了～",
+				"等不及要孵化,看看我的新身体～"
 			]
 		}
 	],
 	"escape.default.default.true.default.default.default": [
-		"I got out."
+		"我出来了,"
 	],
 	"escape.default.default.false.default.default.default": [
-		"Ah, back outside"
+		"啊,回到外面了,"
 	],
 	"anyInfusedOccupant.default.default.default.default.default": ":anyInfusedOccupant",
 	"converse.options.1.1": [
-		"Well hi there <entityname>!",
-		"You're lucky I'm not in the mood to take your name, you can address me by the name Loki.\n \nI go by She/They."
+		"哟,你好啊	<entityName>！",
+		"算你运气好,我现在没心情剥夺你的名字,你可以叫我Loki,\n \n 我用她 / 他们代词,"
 	],
 	"converse.options.3.1.default": [
-		"Might be a bit warm in there, but you'll be fine, just a bit squished~"
+		"在里面可能有点热,但你会没事的,只是会有点挤～"
 	],
 	"converse.options.3.1.heal": [
-		"Should be a nice warm relaxing sauna in there~"
+		"在里面应该是个温暖又放松的桑拿房～"
 	],
 	"converse.options.3.1.softDigest": [
-		"Hehe, you'll be melted down in my furnace until you're nothing but padding and a spot on my thighs~"
+		"呵呵,你会在我的熔炉里被融化,直到变成肥肉,成为我大腿上的一块肉～"
 	],
 	"converse.options.4.1.default": [
-		"Should be nice and comfy in there."
+		"在里面应该很舒服,"
 	],
 	"converse.options.4.1.heal": [
-		"You'll feel so comfy and rested in there, I've heard its very nice~"
+		"你在里面会感觉非常舒服和放松,我听说那里很不错～"
 	],
 	"converse.options.5.1.default": [
-		"Nice and soft, I typically produce cinnamon milk~"
+		"又软又舒服,我通常分泌的是肉桂牛奶～"
 	],
 	"converse.options.5.1.heal": "/npcs/sbq/LokiVulpix/Auri/npc.dialogue:converse.options.5.1.heal",
 	"converse.options.5.1.softDigest": "/npcs/sbq/LokiVulpix/Auri/npc.dialogue:converse.options.5.1.softDigest",
 	"converse.options.6.1.default": [
-		"huff, I'll probably get pretty hard if you squirm your way in there~"
+		"呼,要是你扭动着进去,我可能会硬得很厉害～"
 	],
 	"converse.options.6.1.default.continue.defaultInfused": [
-		"Or it might be more apt to say <entityName> would get pretty hard hehe~"
+		"或者更确切地说, <entityName> 可能会硬得很厉害,呵呵～"
 	],
 	"converse.options.7.1.default": "/npcs/sbq/LokiVulpix/Auri/npc.dialogue:converse.options.7.1.default",
 	"converse.options.7.1.softDigest": "/npcs/sbq/LokiVulpix/Auri/npc.dialogue:converse.options.7.1.softDigest"
