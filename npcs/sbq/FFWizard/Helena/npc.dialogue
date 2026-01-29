@@ -1,171 +1,171 @@
 {
-	"greetingRewards": "/npcs/sbq/dialogue/default.dialogue:greetingRewards", // external lines
-	"greetingRewardsIntroduced": "/npcs/sbq/dialogue/default.dialogue:greetingRewardsIntroduced", // external lines
+	"greetingRewards": "/npcs/sbq/dialogue/default.dialogue:greetingRewards",
+	"greetingRewardsIntroduced": "/npcs/sbq/dialogue/default.dialogue:greetingRewardsIntroduced",
 	"greeting": {
 		"dialogueRandom": [
-			"Hello there.",
-			"It's a fine day today, isn't it?",
-			"Hmm, how interesting... Oh, hello there."
+			"你好啊,",
+			"今天天气不错,不是吗？",
+			"嗯,真有意思…… 哦,你好啊,"
 		],
 		"imagePortrait": [
 			"HNeutral.png"
 		],
 		"buttonTextRandom": [
-			"Hi.",
-			"Yes, it is.",
-			"Hiya."
+			"嗨,",
+			"是啊,天气不错,",
+			"嗨呀,"
 		]
 	},
 	"greetingHorny": {
 		"dialogueRandom": [
-			"Sorry in advance if you hear me grumble. That's just me wanting you somewhere nice and private~",
-			"Don't mind me. I'm just, mm, sizing you up~",
-			"Ooh, I like what I see. Hello there, cute stuff."
+			"如果听到我嘟囔,先跟你道个歉,那只是因为我想和你找个私密的好地方～",
+			"别介意我,我只是,嗯,在打量你～",
+			"哦,我喜欢我所看到的,你好呀,小可爱,"
 		],
 		"imagePortrait": [
 			"HDetermined.png"
 		],
 		"buttonTextRandom": [
-			"Um, okay.",
-			"Alright, then.",
-			"Hey."
+			"呃,好吧,",
+			"好吧,那就这样,",
+			"嘿,"
 		]
 	},
 	"greetingHungry": {
 		"dialogueRandom": [
-			"I could go for a nice space chicken right about now...",
-			"Perhaps a nice synthetic would be fun...",
-			"Mmm, can't go wrong with someone alive and wriggling..."
+			"我现在真想美餐一顿太空鸡肉……",
+			"也许来个美味的合成生物会很有趣……",
+			"嗯,来个活蹦乱跳的家伙总不会错,"
 		],
 		"imagePortrait": [
 			"HSleepy.png"
 		],
 		"buttonTextRandom": [
-			"Uh, hi.",
-			"Hi.",
-			"Hi there."
+			"呃,嗨,",
+			"嗨,",
+			"你好,"
 		]
 	},
 	"greetingHellhound": {
 		"dialogueRandom": [
-			"Hello there. Looking good.",
-			"Mmm, that look suits you.",
-			"Hmm, not bad... Oh, hello there."
+			"你好啊,你看起来真不错,",
+			"嗯,那种样子很适合你,",
+			"嗯,不错…… 哦,你好啊,"
 		],
 		"imagePortrait": [
 			"HHappy.png"
 		],
 		"buttonTextRandom": [
-			"Hello.",
-			"Thanks.",
-			"Hello to you, too."
+			"你好,",
+			"谢谢,",
+			"你也好啊,"
 		]
 	},
 	"greetingHellhoundHorny": {
 		"dialogueRandom": [
-			"Sorry in advance if you hear me grumble. That's just me wanting you somewhere nice and private again~",
-			"Don't mind me. I'm just, mm, sizing your new form up~",
-			"Ooh, I like what I see even more. Hello there, <entityname>."
+			"如果听到我嘟囔,先跟你道个歉,那只是因为我又想和你找个私密的好地方～",
+			"别介意我,我只是,嗯,在打量你的新形态～",
+			" 哦,我更喜欢我所看到的了,你好呀,<entityname>,"
 		],
 		"imagePortrait": [
 			"HOwO.png"
 		],
 		"buttonTextRandom": [
-			"Okay.",
-			"Alright, then.",
-			"Hello."
+			"好的,",
+			"好吧,那就这样,",
+			"你好,"
 		]
 	},
 	"greetingHellhoundHungry": {
 		"dialogueRandom": [
-			"I could go for a nice space hellhound right about now...",
-			"Perhaps a tasty demon would be fun...",
-			"Mmm, can't go wrong with a fellow demon that's alive and wriggling..."
+			"我现在真想美餐一顿太空地狱犬……",
+			"也许来个美味的恶魔会很有趣……",
+			"嗯,来个活蹦乱跳的同类恶魔总不会错,"
 		],
 		"imagePortrait": [
 			"HSleepy.png"
 		],
 		"buttonTextRandom": [
-			"Uh, hello.",
-			"Hello.",
-			"Hello there."
+			"呃,你好,",
+			"你好,",
+			"你好啊,"
 		]
 	},
-	"greetingCrew": "/npcs/sbq/dialogue/default.dialogue:greetingCrew", // external lines
-	"crewStay": "/npcs/sbq/dialogue/default.dialogue:crewStay", // external lines
-	"fullCrew": "/npcs/sbq/dialogue/default.dialogue:fullCrew", // external lines
-	"crewFollow": "/npcs/sbq/dialogue/default.dialogue:crewFollow", // external lines
+	"greetingCrew": "/npcs/sbq/dialogue/default.dialogue:greetingCrew",
+	"crewStay": "/npcs/sbq/dialogue/default.dialogue:crewStay",
+	"fullCrew": "/npcs/sbq/dialogue/default.dialogue:fullCrew",
+	"crewFollow": "/npcs/sbq/dialogue/default.dialogue:crewFollow",
 	"converse": {
 		"dialogueRandom": [
-			"So, what's up?",
-			"So, what's up?",
-			"So, what's up?"
+			"那么,有什么事？",
+			"那么,有什么事？",
+			"那么,有什么事？"
 		],
 		"buttonTextRandom": [
-			"I was curious.",
-			"Um.",
-			"Well..."
+			"我很好奇,",
+			"呃,",
+			"嗯……"
 		]
 	},
 	"converseHorny": {
 		"dialogueRandom": [
-			"You're looking fine today.",
-			"My my, such a delightful body.",
-			"Ooh, you're looking irresistible!"
+			"你今天看起来真迷人,",
+			"哎呀,多么迷人的身材啊,",
+			"哦,你看起来让人难以抗拒！"
 		],
 		"imagePortrait": [
 			"HDetermined.png"
 		],
 		"buttonTextRandom": [
-			"Thanks. You too.",
-			"...",
-			"Thanks!"
+			"谢谢,你也一样,",
+			"……",
+			"谢谢！"
 		]
 	},
 	"converseHungry": {
 		"dialogueRandom": [
-			"Oops, got caught daydreaming again.",
-			"What's a demon gotta do to get a tasty--why, hello there.",
-			"Mmnf... If only normal food actually lasted..."
+			"哎呀,又走神了,",
+			"一个恶魔要怎么做才能吃到美味的 —— 哎呀,你好啊,",
+			"嗯…… 要是普通食物能真的填饱肚子就好了……"
 		],
 		"imagePortrait": [
 			"HSleepy.png"
 		],
 		"buttonTextRandom": [
-			"Hey...",
-			"Hey...",
-			"Um..."
+			"嘿……",
+			"嘿……",
+			"呃……"
 		]
 	},
-	"converseHellhound": ":converse", // duplicated lines
+	"converseHellhound": ":converse",
 	"converseHellhoundHorny": {
 		"dialogueRandom": [
-			"You're looking like fire today.",
-			"My my, such a delightful demonic body.",
-			"Ooh, you're looking even more irresistible!"
+			"你今天看起来超火辣,",
+			"哎呀,多么迷人的恶魔身材啊,",
+			"哦,你看起来更让人难以抗拒了！"
 		],
 		"imagePortrait": [
 			"HOwO.png"
 		],
 		"buttonTextRandom": [
-			"Thanks. You too.",
-			"...",
-			"Thanks!"
+			"谢谢,你也一样,",
+			"……",
+			"谢谢！"
 		]
 	},
-	"converseHellhoundHungry": ":converseHungry", // duplicated lines
+	"converseHellhoundHungry": ":converseHungry",
 	"curious": {
 		"dialogueRandom": [
-			"So, what are you curious about?",
-			"I could tell you've got a burning question.",
-			"Sure. What's eating at you?"
+			"那么,你好奇什么呢？",
+			"我能看出来你有个急切想问的问题,",
+			"当然可以,是什么困扰着你？"
 		]
 	},
 	"curiousHorny": {
 		"dialogueRandom": [
-			"Better not forget my bedside manners. What's up?",
-			"Sorry, I'm getting carried away. You need something?",
-			"Don't mind me. Do you have a question?"
+			"可别忘了我的床边礼仪,怎么了？",
+			"抱歉,我有点失态了,你有什么事吗？",
+			"别介意我,你有问题吗？"
 		],
 		"imagePortrait": [
 			"HDetermined.png"
@@ -173,21 +173,21 @@
 	},
 	"curiousHungry": {
 		"dialogueRandom": [
-			"Sorry in advance if you hear me grumble. That's just my belly talking.",
-			"Better not forget my table manners. What's up?",
-			"Mm, got a question, dear?"
+			"如果听到我嘟囔,先跟你道个歉,那只是我的肚子在叫,",
+			"可别忘了我的餐桌礼仪,怎么了？",
+			"嗯,亲爱的,有问题吗？"
 		],
 		"imagePortrait": [
 			"HSleepy.png"
 		]
 	},
-	"curiousHellhound": ":curious", // duplicated lines
-	"curiousHellhoundHorny": ":curiousHorny", // duplicated lines
+	"curiousHellhound": ":curious",
+	"curiousHellhoundHorny": ":curiousHorny",
 	"curiousHellhoundHungry": {
 		"dialogueRandom": [
-			"Sorry in advance if you hear me grumble. That's just my belly talking.",
-			"Better not forget my table manners. What's up?",
-			"Mm, got a question, <entityname>?"
+			"如果听到我嘟囔,先跟你道个歉,那只是我的肚子在叫,",
+			"可别忘了我的餐桌礼仪,怎么了？",
+			" 嗯,<entityname>,有问题吗？"
 		],
 		"imagePortrait": [
 			"HSleepy.png"
@@ -196,14 +196,14 @@
 	},
 	"curiousWhoAreYou": {
 		"dialogue": [
-			"So for starters, I'm ^red;Helena^reset;, a hellhound who enjoys both side of the coin. Considering you're speaking with me, you must be curious. Mind telling me your name?",
-			"Pleased to meet you, <entityname>. And before we go any further, I have zero plans of taking your soul. I ain't that kind of demon. \n^red;Even if you really want me to.",
-			"I'm a demon who likes things more rough and tumble. Doesn't mean that I don't know how to play nice. There's plenty for us to explore~"
+			"首先,我是 ^red; 海伦娜 ^reset;,一只喜欢好坏两面的地狱犬,既然你在和我说话,一定很好奇吧,介意告诉我你的名字吗？",
+			" 很高兴认识你,<entityname>,在我们继续之前,我绝对没有夺取你灵魂的打算,我可不是那种恶魔,\n^red; 即使你真的希望我这么做,",
+			"我是个喜欢粗暴打闹的恶魔,但这并不意味着我不懂如何好好相处,我们有很多可以探索的～"
 		],
 		"buttonText": [
-			"Sure.",
-			"Ok.",
-			"Alright."
+			"当然,",
+			"好的,",
+			"好吧,"
 		]
 	},
 	"curiousWhoAreYouHorny": {
@@ -211,14 +211,14 @@
 			"HDetermined.png"
 		],
 		"dialogue": [
-			"I'm ^red;Helena^reset;, a hellhound that's unfortunately not related to that sexy one named after the moon. Mind telling me your name, hot stuff?",
-			"Nice to meet you, <entityname>. Has anyone ever told you just how good you look?",
-			"Just a warning, despite how ^pink;heated^reset; I get, I don't want your soul. It doesn't matter how ^red;hardcore^reset; you are."
+			"我是 ^red; 海伦娜 ^reset;,一只很遗憾和那个以月亮命名的性感家伙没什么关系的地狱犬,介意告诉我你的名字吗,辣妹？",
+			" 很高兴认识你,<entityname>,有没有人告诉过你,你看起来有多棒？",
+			"只是提醒一下,尽管我变得很 ^pink; 兴奋 ^reset;,但我不想要你的灵魂,不管你有多 ^red; 狂野 ^reset;,"
 		],
 		"buttonText": [
-			"Sure.",
-			"Maybe.",
-			"Alright."
+			"当然,",
+			"也许吧,",
+			"好吧,"
 		]
 	},
 	"curiousWhoAreYouHungry": {
@@ -226,26 +226,26 @@
 			"HSleepy.png"
 		],
 		"dialogue": [
-			"*gurgle* Sorry, but our chat has to be a little short. I'm ^red;Helena^reset;. Mind telling me your name?",
-			"Nice to meet you, <entityname>. What spices do you think you go well with? Ooh! Perhaps a little dash of pepper, too.",
-			"In any case, despite how ^red;ravenous^reset; I get, neither me nor my stomach are interested in your soul."
+			"*咕噜声* 抱歉,但我们的聊天得简短一点,我是 ^red; 海伦娜 ^reset;,介意告诉我你的名字吗？",
+			" 很高兴认识你,<entityname>,你觉得自己搭配什么香料好吃呢？哦！也许再来点胡椒,",
+			"不管怎样,尽管我变得很 ^red; 饥饿 ^reset;,但我和我的肚子都对你的灵魂不感兴趣,"
 		],
 		"buttonText": [
-			"Sure.",
-			"Okay?",
-			"Alright."
+			"当然,",
+			"好吧？",
+			"好吧,"
 		]
 	},
 	"curiousWhoAreYouHellhound": {
 		"dialogue": [
-			"Still just ^red;Helena^reset;, a hellhound who enjoys both side of the coin. Why, something bothering you?",
-			"I truly have zero plans of taking your soul, <entityname>. I ain't that kind of demon.",
-			"I'm a demon who likes things more rough and tumble. Doesn't mean that I don't know how to play nice. There's plenty more for us to explore~"
+			"还是 ^red; 海伦娜 ^reset;,一只喜欢好坏两面的地狱犬,怎么了,有什么烦心事吗？",
+			" 我真的完全没有夺取你灵魂的打算,<entityname>,我可不是那种恶魔,",
+			"我是个喜欢粗暴打闹的恶魔,但这并不意味着我不懂如何好好相处,我们还有很多可以探索的～"
 		],
 		"buttonText": [
-			"Maybe.",
-			"Ok.",
-			"Alright."
+			"也许吧,",
+			"好的,",
+			"好吧,"
 		],
 		"imagePortrait": [
 			"HHappy.png"
@@ -253,9 +253,9 @@
 	},
 	"curiousWhoAreYouHellhoundHorny": {
 		"dialogue": [
-			"I'm ^red;Helena^reset;, a hellhound that's unfortunately still not related to that sexy one named after the moon.",
-			"Has anyone ever told you just how good you look as a hellhound?",
-			"Just a warning, despite how ^pink;heated^reset; I get, I truly don't want your soul. It doesn't matter how ^red;hardcore^reset; you are."
+			"我是 ^red; 海伦娜 ^reset;,一只很遗憾仍然和那个以月亮命名的性感家伙没什么关系的地狱犬,",
+			"有没有人告诉过你,你变成地狱犬后看起来有多棒？",
+			"只是提醒一下,尽管我变得很 ^pink; 兴奋 ^reset;,但我真的不想要你的灵魂,不管你有多 ^red; 狂野 ^reset;,"
 		],
 		"buttonText": [
 			"Sure.",
@@ -268,14 +268,14 @@
 	},
 	"curiousWhoAreYouHellhoundHungry": {
 		"dialogue": [
-			"*gurgle* Sorry, but our chat has to be a little short. I'm ^red;Helena^reset;. A hellhound, much like yourself.",
-			"Heh, I'm pretty sure why, but somehow you look even tastier than before.",
-			"In any case, despite how ^red;ravenous^reset; I get, neither me nor my stomach are interested in your soul."
+			"*咕噜声* 抱歉,但我们的聊天得简短一点,我是 ^red; 海伦娜 ^reset;,和你一样,也是一只地狱犬,",
+			"嘿,我很确定原因,但不知为何你看起来比以前更美味了,",
+			"不管怎样,尽管我变得很 ^red; 饥饿 ^reset;,但我和我的肚子都对你的灵魂不感兴趣,"
 		],
 		"buttonText": [
-			"Sure.",
-			"Okay?",
-			"Alright."
+			"当然,",
+			"好吧？",
+			"好吧,"
 		],
 		"imagePortrait": [
 			"HSleepy.png"
@@ -283,12 +283,12 @@
 	},
 	"curiousAboutHellhound": {
 		"dialogue": [
-			"Yep, I very rarely breathe fire, though. It expends more calories than you would think! Still got the hunger of one, though.",
-			"You're more than welcome to join me in any case. In more ways than one~"
+			"没错,我很少喷火,你知道的,这消耗的卡路里比你想象的要多！不过,我还是有着地狱犬般的食欲,",
+			"无论如何,你都非常欢迎加入我,从很多方面来说～"
 		],
 		"buttonText": [
-			"I see.",
-			"Maybe."
+			"我明白了,",
+			"也许吧,"
 		]
 	},
 	"curiousAboutHellhoundHorny": {
@@ -296,14 +296,14 @@
 			"HBlep.png"
 		],
 		"dialogue": [
-			"Yep. I'm no succubus, but I certainly know how to get things nice and ^pink;heated^reset; up~",
-			"One minute in my steamy tummy, and you may never want to leave. That is, if I ever let you leave~",
-			"Of course, the opposite is true. If you want my subtle, soothing warmth inside you, I'll gladly oblige someone as good looking as you~"
+			"没错,我不是魅魔,但我肯定知道如何让气氛变得 ^pink; 火热 ^reset; 起来～",
+			"在我热气腾腾的肚子里待上一分钟,你可能就再也不想离开了,当然,如果我愿意放你走的话～",
+			"当然,反过来也是一样,如果你想让我那微妙,舒缓的温暖进入你体内,像你这么好看的人,我很乐意答应～"
 		],
 		"buttonText": [
-			"Hot, huh.",
-			"Hm.",
-			"Maybe."
+			"很火辣,哈,",
+			"嗯,",
+			"也许吧,"
 		]
 	},
 	"curiousAboutHellhoundHungry": {
@@ -311,22 +311,22 @@
 			"HSleepy.png"
 		],
 		"dialogue": [
-			"Yep. Most of us have pretty legendary appetites. Think of it like a hot dog eating contest, only it's a hot dog doing the eating.",
-			"Trust me, my insides can get warmer than most volcanic planets. Want to test that out?"
+			"没错,我们大多数人都有着传奇般的食欲,想象一下吃热狗比赛,只不过是热狗在吃,",
+			"相信我,我的体内能比大多数火山星球还热,想试试吗？"
 		],
 		"buttonText": [
-			"Hot, huh.",
-			"Maybe."
+			"很火辣,哈,",
+			"也许吧,"
 		]
 	},
 	"curiousAboutHellhoundHellhound": {
 		"dialogue": [
-			"Yep. Not a full-fledged one, though. There are ways to reverse it if you're worried. You look good, in any case!",
-			"You'd have to train for a long time in order to breathe fire. Your hunger may have increased, however. Care to test it out?"
+			"没错,不过不是完全成熟的那种,如果你担心的话,有办法可以逆转,不管怎样,你看起来很棒！",
+			"你得训练很长时间才能喷火,不过,你的食欲可能会增加,想试试吗？"
 		],
 		"buttonText": [
-			"I see.",
-			"Maybe."
+			"我明白了,",
+			"也许吧,"
 		],
 		"imagePortrait": [
 			"HHappy.png"
@@ -334,14 +334,14 @@
 	},
 	"curiousAboutHellhoundHellhoundHorny": {
 		"dialogue": [
-			"Yep. We're not succubi, but we certainly know how to get things nice and heated up~",
-			"You'll get a better feel for it as you go along, <entityname>. Your prey might literally melt within you~",
-			"That being said, you may find other desires have gotten fired up as well. I know some of mine are looking at you~"
+			"没错,我们不是魅魔,但我们肯定知道如何让气氛变得火热起来～",
+			" 随着时间推移,你会有更深刻的体会,<entityname>,你的猎物可能会在你体内直接融化～",
+			"也就是说,你可能会发现其他欲望也被点燃了,我知道我看到你就有一些想法～"
 		],
 		"buttonText": [
-			"Hot, huh.",
-			"Hm.",
-			"Maybe."
+			"很火辣,哈,",
+			"嗯,",
+			"也许吧,"
 		],
 		"imagePortrait": [
 			"HBlep.png"
@@ -349,12 +349,12 @@
 	},
 	"curiousAboutHellhoundHellhoundHungry": {
 		"dialogue": [
-			"Yep. Most of us have pretty legendary appetites. Think of it like a hot dog eating contest, only it's a hot dog doing the eating. You, me, we're both hot dogs.",
-			"Trust me, our insides can get warmer than most volcanic planets. Want to test that out?"
+			"没错,我们大多数人都有着传奇般的食欲,想象一下吃热狗比赛,只不过是热狗在吃,你,我,我们都是热狗,",
+			"相信我,我们的体内能比大多数火山星球还热,想试试吗？"
 		],
 		"buttonText": [
-			"Hot, huh.",
-			"Maybe."
+			"很火辣,哈,",
+			"也许吧,"
 		],
 		"imagePortrait": [
 			"HSleepy.png"
@@ -362,24 +362,24 @@
 	},
 	"curiousScars": {
 		"dialogue": [
-			"Well, you see... When a male hellhound loves a female hellhound very much...",
-			"Just kidding. I fell down a flight of stairs while helping a very clumsy Synth. He told me I made for a soft landing. \nThen I ate him, of course."
+			"嗯,你看…… 当一只雄性地狱犬非常爱一只雌性地狱犬的时候……",
+			"开玩笑的,我在帮一个非常笨拙的合成人时,从楼梯上摔了下来,他说我摔得很柔软,\n 然后我当然就把他吃了,"
 		],
 		"buttonText": [
-			"lalalalala",
-			"Huh."
+			"啦啦啦啦啦",
+			"哈,"
 		]
 	},
 	"curiousScarsHellhound": {
 		"dialogue": [
-			"Well, you see now that you're a hellhound... When a male hellhound loves a female hellhound very much...",
-			"Just kidding. I got in a pretty nasty accident with my Synth buddy, Mystic. He carried me to a medbay and basically saved my life.",
-			"He's a bit of a sweetie. Incredibly shy, too. Maybe you'll meet him someday."
+			"嗯,既然你现在也是地狱犬了…… 当一只雄性地狱犬非常爱一只雌性地狱犬的时候……",
+			"开玩笑的,我和我的合成人伙伴米斯特克发生了一场严重的事故,他把我背到了医疗舱,基本上救了我一命,",
+			"他有点贴心,也非常害羞,也许有一天你会见到他,"
 		],
 		"buttonText": [
-			"lalalalala",
-			"Oh.",
-			"Maybe!"
+			"啦啦啦啦啦",
+			"哦,",
+			"也许吧！"
 		],
 		"imagePortrait": [
 			"HHappy.png"
@@ -390,24 +390,24 @@
 			"HHurt.png"
 		],
 		"dialogue": [
-			"It gets pretty bad. Although I suppose if you like being surrounded by noisy, slick flesh, you might like it.",
-			"That being said, I can usually get my gut to pipe down. Usually."
+			"这感觉很糟糕,不过我想,如果你喜欢被嘈杂,滑腻的肉体包围,你可能会喜欢,",
+			"话虽如此,我通常能让我的肚子安静下来,通常情况下,"
 		],
 		"buttonText": [
-			"Hm.",
-			"Huh."
+			"嗯,",
+			"哈,"
 		]
 	},
 	"curiousHungerHellhound": {
 		"dialogue": [
-			"It gets up there! Although I suppose if you like keeping your friends nice and toasty, you might like it.",
-			"That being said, I can usually get my gut to pipe down. Usually. You can too, with a bit of practice.",
-			"You don't have to worry about claiming someone's soul on accident. Their Pixels, on the other hand..."
+			"这感觉很强烈！不过我想,如果你喜欢让你的朋友们暖和舒服,你可能会喜欢,",
+			"话虽如此,我通常能让我的肚子安静下来,通常情况下,你也可以,只要稍加练习,",
+			"你不用担心不小心夺取别人的灵魂,不过,他们的像素嘛……"
 		],
 		"buttonText": [
-			"Hm.",
-			"What about souls?",
-			"Cha-ching."
+			"嗯,",
+			"那灵魂呢？",
+			"叮ing,"
 		],
 		"imagePortrait": [
 			"HHurt.png"
@@ -418,55 +418,55 @@
 			"HOwO.png"
 		],
 		"dialogue": [
-			"Of course! I look at you and can't help but imagine how each bit would look jutting out from within me. All nice and trapped~",
-			"There's a few places I have in mind. All of them yearning to be filled~",
-			"On the other hand, if you were to jam me in somewhere, I certainly wouldn't complain. Let's see who gets who first~"
+			" 当然！我看着你,不禁想象着你的每一部分在我体内突出的样子,全都好好地被困在里面～",
+			"我心里已经有几个地方了,它们都渴望被填满～",
+			"另一方面,要是你把我塞进某个地方,我肯定不会抱怨,看看我们谁先得手～"
 		],
 		"buttonText": [
-			"Oh?",
-			"Oh.",
-			"Oh~"
+			"哦？",
+			"哦,",
+			"哦～"
 		]
 	},
 	"curiousHeatHellhound": {
 		"dialogue": [
-			"Of course! I look at you and can't help but imagine how each bit would look jutting out from within me. All nice and trapped~",
-			"There's a few places I have in mind. All of them yearning to be filled~",
-			"On the other hand, if you were to jam me in somewhere, I certainly wouldn't complain. Let's see which dog comes out on top~"
+			"当然！我看着你,不禁想象着你的每一部分在我体内突出的样子,全都好好地被困在里面～",
+			"我心里已经有几个地方了,它们都渴望被填满～",
+			"另一方面,要是你把我塞进某个地方,我肯定不会抱怨,看看哪只狗狗能占上风～"
 		],
 		"buttonText": [
-			"Oh?",
-			"Oh.",
-			"Oh~"
+			"哦？",
+			"哦,",
+			"哦～"
 		],
 		"imagePortrait": [
 			"HUwU.png"
 		]
 	},
 	"questionAnswered1": [
-		"So, do you have any other questions for me?",
-		"That answers that. Anything else?"
+		"那么,你还有其他问题要问我吗？",
+		"这个问题解决了,还有别的事吗？"
 	],
 	"questionAnswered2": [
-		"Of course! Ask away.",
-		"Sure! It's rare to have someone that doesn't just run away upon seeing me."
+		"当然！尽管问,",
+		"当然可以！很少有人看到我不马上跑开的,"
 	],
 	"hornyQuestionAnswered2": {
 		"dialogueRandom": [
-			"Of course! Ask away, hot stuff~",
-			"Sure! It's rare to have someone that doesn't just run away upon seeing me all ^pink;steamed up^reset; like this."
+			"当然！尽管问,辣家伙～",
+			"当然可以！很少有人看到我这么 ^pink; 激动 ^reset; 还不马上跑开的,"
 		],
 		"imagePortrait": [
 			"HDetermined.png"
 		]
 	},
 	"hungryQuestionAnswered2": [
-		"Of course! Ask away. Until I stuff you into my gut, that is~",
-		"Sure! It's rare to have someone that doesn't just run away upon seeing me this hungry."
+		"当然！尽管问,除非我把你塞进我的肚子里,嘿嘿～",
+		"当然可以！很少有人看到我这么饿还不马上跑开的,"
 	],
 	"hellhoundQuestionAnswered2": {
 		"dialogue": [
-			"Sure! It's rare to speak to a fellow hellhound."
+			"当然可以！很少能和同为地狱犬的家伙聊天,"
 		],
 		"imagePortrait": [
 			"HHappy.png"
@@ -474,7 +474,7 @@
 	},
 	"hellhoundQuestionAnswered2Horny": {
 		"dialogue": [
-			"Sure! It's rare to talk to someone that looks as hot as you do as a hellhound."
+			"当然可以！很少能和像你这样变成地狱犬后还这么火辣的人聊天,"
 		],
 		"imagePortrait": [
 			"HOwO.png"
@@ -482,34 +482,34 @@
 	},
 	"hellhoundQuestionAnswered2Hungry": {
 		"dialogue": [
-			"Of course! Ask away, you tasty dog.",
-			"Sure! It's rare to have someone that doesn't just run away upon seeing me so hungry."
+			"当然！尽管问,美味的狗狗,",
+			"当然可以！很少有人看到我这么饿还不马上跑开的,"
 		],
 		"imagePortrait": [
 			"HSleepy.png"
 		]
 	},
-	"rewardNotifyMoney": "/npcs/sbq/dialogue/default.dialogue:rewardNotifyMoney", // external lines
-	"rewardNotifyLowValueQuestRewards": "/npcs/sbq/dialogue/default.dialogue:rewardNotifyLowValueQuestRewards", // external lines
-	"rewardNotifyMediumValueQuestRewards": "/npcs/sbq/dialogue/default.dialogue:rewardNotifyMediumValueQuestRewards", // external lines
+	"rewardNotifyMoney": "/npcs/sbq/dialogue/default.dialogue:rewardNotifyMoney",
+	"rewardNotifyLowValueQuestRewards": "/npcs/sbq/dialogue/default.dialogue:rewardNotifyLowValueQuestRewards",
+	"rewardNotifyMediumValueQuestRewards": "/npcs/sbq/dialogue/default.dialogue:rewardNotifyMediumValueQuestRewards",
 	"rewardNotifyHighValueQuestRewards": [
-		"You always manage to surprise me. I'll give you something from my personal wardrobe, then.",
-		"I cherish these moments dearly. I'll get you a token of my appreciation.",
-		"Now this deserves a reward. Don't let me forget.",
-		"I'd be lying if I said I didn't enjoy our time together."
+		"你总是能给我惊喜,那我从我的私人衣橱里挑件东西给你,",
+		"我非常珍惜这些时刻,我会给你一个表示感谢的小礼物,",
+		"这值得一份奖励,别让我忘了,",
+		"如果我说我不享受我们在一起的时光,那我就是在说谎,"
 	],
 	"oralVoreRequested": [
-		"Ah, yes. Time for you to slip down the hatch.",
-		"Your body told me all that I need to know. Get in.",
-		"Can't resist, can you? Neither can I.",
-		"My demonic allure too much for you? Come right on inside~"
+		"啊,对,是时候让你滑进我的嘴里了,",
+		"你的身体已经告诉了我所有我想知道的,进来吧,",
+		"你忍不住了,对吧？我也忍不住了,",
+		"我的恶魔魅力对你来说太大了？那就进来吧～"
 	],
 	"oralVoreRequestedHungry": {
 		"dialogueRandom": [
-			"Offering yourself to me? I appreciate it. My gut will, too.",
-			"I certainly don't mind a willing snack.",
-			"Hm, does the sound of an eager stomach get you worked up? Let me give you a private tour.",
-			"Oh? You're approaching me instead of running away?"
+			"你主动献身给我？我很感激,我的肚子也会的,",
+			"我当然不介意有个自愿的食物,",
+			"嗯,急切的肚子发出的声音让你兴奋了？让我带你私下参观一下,",
+			"哦？你主动靠近我而不是跑开？"
 		],
 		"imagePortrait": [
 			"HSleepy.png"
@@ -517,10 +517,10 @@
 	},
 	"oralVoreRequestedHorny": {
 		"dialogueRandom": [
-			"I bet you can't wait to be trapped in my hot, gurgly gut. Who knows if I'll ever let you out~",
-			"My my, what a hot looking <entityname>~",
-			"Hehe, such a sexy offering. Let me put you in your proper place~",
-			"If you're lucky, your friends might hear you over my gurgling tummy. Maybe not~"
+			"我打赌你迫不及待想被困在我热乎乎,咕噜咕噜响的肚子里了,谁知道我会不会放你出来呢～",
+			" 哎呀,多么火辣的<entityname>啊～",
+			"嘿嘿,这么性感的礼物,让我把你放在合适的地方～",
+			"如果你幸运的话,你的朋友们可能会听到你在我咕噜作响的肚子里的声音,也许听不到～"
 		],
 		"imagePortrait": [
 			"HDetermined.png"
@@ -528,10 +528,10 @@
 	},
 	"oralVoreRequestedAfter": {
 		"dialogueRandom": [
-			"Goodness, you're quite the meal. Not bad tasting, either!",
-			"*glk* There, tucked away where prey like you belong~",
-			"Mmm, just what I needed...",
-			"Hmhm, you filled me up nicely. I might have to keep you in there."
+			"天哪,你真是一顿美餐,味道也不错！",
+			"*咕噜* 好了,猎物就该待在这种地方～",
+			"嗯,这正是我需要的……",
+			"嗯嗯,你把我填得很饱,我可能得把你留在里面,"
 		],
 		"imagePortrait": [
 			"HHappy.png"
@@ -539,10 +539,10 @@
 	},
 	"oralVoreRequestedAfterHungry": {
 		"dialogueRandom": [
-			"Absolutely divine. My taste buds and gut both send their compliments.",
-			"You are just what I needed, <entityname>.",
-			"Mmm, hope you enjoy being surrounded by my noisy gut.",
-			"Nothing beats a tasty prey when it comes to filling an empty gut."
+			"绝对美味,我的味蕾和肚子都向你表示赞扬,",
+			"<entityname>,你正是我所需要的,",
+			"嗯,希望你喜欢被我嘈杂的肚子包围,",
+			"没有什么比美味的猎物更能填饱空荡荡的肚子了,"
 		],
 		"imagePortrait": [
 			"HRelieved.png"
@@ -550,24 +550,24 @@
 	},
 	"oralVoreRequestedAfterHorny": {
 		"dialogueRandom": [
-			"Ooooh, yes... Enjoy your nice and ^pink;steamy^reset; home, dear~",
-			"In terms of taste, you simply can't be beat. Settle in and enjoy my ^pink;heat^reset;~",
-			"Mmm, enjoy your private room, dear. Better hope I don't lose the key~",
-			"Absolutely delightful. Relax, curl up, and let my ^pink;steam^reset; loosen you up~"
+			"哦哦哦,是的…… 享受你那舒适又 ^pink; 热气腾腾 ^reset; 的家吧,亲爱的～",
+			"就味道而言,你简直无可挑剔,安顿下来,享受我的 ^pink; 热度 ^reset; 吧～",
+			"嗯,享受你的私人房间吧,亲爱的,最好祈祷我没把钥匙弄丢～",
+			"绝对令人愉快,放松,蜷缩起来,让我的 ^pink; 热气 ^reset; 把你放松～"
 		],
 		"imagePortrait": [
 			"HBlep.png"
 		]
 	},
-	"oralVoreInvalid": "/npcs/sbq/LokiVulpix/Auri/npc.dialogue:oralVoreInvalid", // external lines
-	"oralVoreNo": ":defaultNo", // duplicated lines
+	"oralVoreInvalid": "/npcs/sbq/LokiVulpix/Auri/npc.dialogue:oralVoreInvalid",
+	"oralVoreNo": ":defaultNo",
 	"defaultNo": "/npcs/sbq/dialogue/default.dialogue:defaultNo",
 	"oralVoreNoHungry": {
 		"dialogueRandom": [
-			"While I am positively ^red;ravenous^reset;, I can't guarantee your safety. Ask me again once I have things under control.",
-			"Sorry, no can do. ^red;It wouldn't be pleasant.^reset;",
-			"Nope. Not safe. You're going to have to wait.",
-			"Not now. Sorry, but it just isn't a good idea."
+			"虽然我现在 ^red; 饿极了 ^reset;,但我不能保证你的安全,等我能控制住局面了再问我吧,",
+			"抱歉,不行,^red; 那样不会愉快的,^reset;",
+			"不行,不安全,你得等等,",
+			"现在不行,抱歉,这真不是个好主意,"
 		],
 		"imagePortrait": [
 			"HHurt.png"
@@ -575,28 +575,28 @@
 	},
 	"oralVoreNoHorny": {
 		"dialogueRandom": [
-			"Sorry, you'll have to wait. I'm getting the temperature just right~",
-			"My tummy is off limits for now. I'm not quite ready.",
-			"I'm very eager to cram you in me. I just need some more time.",
-			"Good things come to those who wait. Or bad things, in the case of me~"
+			"抱歉,你得等等,我正在把温度调好～",
+			"我的肚子现在禁止进入,我还没准备好,",
+			"我很想把你塞进我肚子里,我只是还需要一些时间,",
+			"好事多磨,或者对我来说,是坏事多磨～"
 		],
 		"imagePortrait": [
 			"HRelieved.png"
 		]
 	},
-	"oralVoreTooBig": ":tooBig", // duplicated lines
+	"oralVoreTooBig": ":tooBig",
 	"tooBig": [
-		"Wow! You're far too big for even me to handle.",
-		"I really want to, but even I know my limits.",
-		"I can't. I'm pretty sure my gut would pop instantly.",
-		"No way. Not after the last time I tried with someone as big as you."
+		"哇！你太大了,连我都吞不下,",
+		"我真的很想,但我也知道自己的极限,",
+		"我做不到,我很确定我的肚子会立刻爆开,",
+		"没门,上次我试着吞和你一样大的家伙之后就再也不敢了,"
 	],
 	"oralVoreTooBigHungry": {
 		"dialogueRandom": [
-			"Wow! You're far too big for even me to handle with how hungry I am.",
-			"I really, REALLY, want to, but even I know my limits.",
-			"I can't. I'm pretty sure my rumbly gut would pop instantly.",
-			"No way. Not after the last time I tried with someone as big as you. Thanks, belly."
+			"哇！你太大了,以我现在这么饿的状态根本吞不下,",
+			"我真的,真的很想,但我也知道自己的极限,",
+			"我做不到,我很确定我咕噜作响的肚子会立刻爆开,",
+			"没门,上次我试着吞和你一样大的家伙之后就再也不敢了,谢谢你,肚子,"
 		],
 		"imagePortrait": [
 			"HShocked.png"
@@ -604,31 +604,31 @@
 	},
 	"oralVoreTooBigHorny": {
 		"dialogueRandom": [
-			"Wow! You're far too big for even me to handle with how ^pink;heated^reset; I am.",
-			"I badly want to, but even I know my limits.",
-			"I can't. I'm pretty sure my ^pink;steamy^reset; gut would pop instantly.",
-			"No way. Not after the last time I tried with someone as big as you."
+			"哇！你太大了,以我现在这么 ^pink; 兴奋 ^reset; 的状态根本吞不下,",
+			"我非常想,但我也知道自己的极限,",
+			"我做不到,我很确定我 ^pink; 热气腾腾 ^reset; 的肚子会立刻爆开,",
+			"没门,上次我试着吞和你一样大的家伙之后就再也不敢了,"
 		],
 		"imagePortrait": [
 			"Hawe.png"
 		]
 	},
-	"oralVoreTooSmall": ":tooSmall", // duplicated lines
-	"tooSmall": "/npcs/sbq/dialogue/default.dialogue:tooSmall", // external lines
-	"oralVoreNoSlots": ":noSlots", // duplicated lines
-	"noSlots": "/npcs/sbq/dialogue/default.dialogue:noSlots", // external lines
+	"oralVoreTooSmall": ":tooSmall",
+	"tooSmall": "/npcs/sbq/dialogue/default.dialogue:tooSmall",
+	"oralVoreNoSlots": ":noSlots",
+	"noSlots": "/npcs/sbq/dialogue/default.dialogue:noSlots",
 	"oralVoreFull": [
-		"As much as I'd like to, you'll just have to wait. \nIf I ever let them out, that is.",
-		"I haven't been this full in a long time. Sorry, maybe next time.",
-		"You look tasty, but I can't right now...",
-		"Mmm, no can do... I might have other options available, however..."
+		"虽然我很想,但你只能等了,\n 如果我真把他们放出来的话,",
+		"我很久没这么饱过了,抱歉,也许下次吧,",
+		"你看起来很美味,但我现在不行……",
+		"嗯,不行…… 不过,我可能还有其他选择……"
 	],
 	"oralVoreFullHungry": {
 		"dialogueRandom": [
-			"Normally, I'd be all 'heck yeah', but heck no. I don't have room.",
-			"They're keeping my gut nice and quiet. You look like you'd get the party started. Next time, dear.",
-			"No space for you right now. I wouldn't mind a belly rub, though.",
-			"If you want it be nice and noisy for your visit, you'll have to wait."
+			"通常情况下,我肯定会说‘好呀’,但这次不行,我没地方了,",
+			"他们让我的肚子很安静,你看起来会让这里热闹起来,下次吧,亲爱的,",
+			"现在没地方给你了,不过,我不介意你给我揉揉肚子,",
+			"如果你想让你待在里面的时候肚子很热闹,那你得等,"
 		],
 		"imagePortrait": [
 			"HSleepy.png"
@@ -636,32 +636,32 @@
 	},
 	"oralVoreFullHorny": {
 		"dialogueRandom": [
-			"A tad late, dear. We're sharing a bit of a private moment~",
-			"Next time, good lookin'. Don't worry, I have plans for you~",
-			"Is this your friend? Don't worry, you'll get them back. Eventually~",
-			"I can't fit you in, but I'm sure they wouldn't mind you feeling all the neat bulges they make~"
+			"有点晚了,亲爱的,我们正在享受一段私密时光呢～",
+			"下次吧,帅哥 / 美女,别担心,我为你有计划哦～",
+			"这是你的朋友吗？别担心,你最终会把他们找回来的,最终～",
+			"我没法把你塞进去,但我肯定他们不会介意你感受他们在我肚子里形成的那些有趣的凸起～"
 		],
 		"imagePortrait": [
 			"HDetermined.png"
 		]
 	},
-	"oralVoreNeedsInfusion": "/npcs/sbq/LokiVulpix/Loki/npc.dialogue:oralVoreNeedsInfusion", // external lines
-	"oralVoreAlreadyInfused": "/npcs/sbq/dialogue/default.dialogue:oralVoreAlreadyInfused", // external lines
-	"oralVoreTargetPreySettingsMismatch": "/npcs/sbq/dialogue/default.dialogue:oralVoreTargetPreySettingsMismatch", // external lines
+	"oralVoreNeedsInfusion": "/npcs/sbq/LokiVulpix/Loki/npc.dialogue:oralVoreNeedsInfusion",
+	"oralVoreAlreadyInfused": "/npcs/sbq/dialogue/default.dialogue:oralVoreAlreadyInfused",
+	"oralVoreTargetPreySettingsMismatch": "/npcs/sbq/dialogue/default.dialogue:oralVoreTargetPreySettingsMismatch",
 	"analVoreRequested": [
-		"Ah, yes. Time for you to slip right on up.",
-		"Your body told me all that I need to know. Get in.",
-		"Can't resist, can you? Neither can I.",
-		"My demonic allure too much for you? Come right on inside~"
+		"啊,对,是时候让你滑进去了,",
+		"你的身体已经告诉了我所有我想知道的,进来吧,",
+		"你忍不住了,对吧？我也忍不住了,",
+		"我的恶魔魅力对你来说太大了？那就进来吧～"
 	],
-	"analVoreRequestedHungry": ":analVoreRequested", // duplicated lines
-	"analVoreRequestedHorny": ":analVoreRequested", // duplicated lines
+	"analVoreRequestedHungry": ":analVoreRequested",
+	"analVoreRequestedHorny": ":analVoreRequested",
 	"analVoreRequestedAfter": {
 		"dialogueRandom": [
-			"Goodness, you're quite the meal. Felt great going in, too!",
-			"There, tucked away where you belong~",
-			"Mmm, just what I needed...",
-			"Hmhm, you filled me up nicely. I might have to keep you in there."
+			"天哪,你真是一顿美餐,进去的时候感觉也很棒！",
+			"好了,你就该待在这种地方～",
+			"嗯,这正是我需要的……",
+			"嗯嗯,你把我填得很饱,我可能得把你留在里面,"
 		],
 		"imagePortrait": [
 			"HHappy.png"
@@ -669,10 +669,10 @@
 	},
 	"analVoreRequestedAfterHungry": {
 		"dialogueRandom": [
-			"Absolutely splendid. My rear and gut both send their compliments.",
-			"You are just what I needed, <entityname>.",
-			"Mmm, hope you enjoy being surrounded by my noisy gut.",
-			"Nothing beats a squirmy prey when it comes to filling an empty gut."
+			"绝对精彩,我的屁股和肚子都向你表示赞扬,",
+			"<entityname>,你正是我所需要的,",
+			"嗯,希望你喜欢被我嘈杂的肚子包围,",
+			"没有什么比扭动的猎物更能填饱空荡荡的肚子了,"
 		],
 		"imagePortrait": [
 			"HRelieved.png"
@@ -680,67 +680,67 @@
 	},
 	"analVoreRequestedAfterHorny": {
 		"dialogueRandom": [
-			"Ooooh, yes... Enjoy your nice and ^pink;steamy^reset; home, dear~",
-			"In terms of feel, you simply can't be beat. Settle in and enjoy my ^pink;heat^reset;~",
-			"Mmm, enjoy your private room, dear. Better hope I don't lose the key~",
-			"Absolutely delightful. Relax, curl up, and let my ^pink;steam^reset; loosen you up~"
+			"哦哦哦,是的…… 享受你那舒适又 ^pink; 热气腾腾 ^reset; 的家吧,亲爱的～",
+			"就感觉而言,你简直无可挑剔,安顿下来,享受我的 ^pink; 热度 ^reset; 吧～",
+			"嗯,享受你的私人房间吧,亲爱的,最好祈祷我没把钥匙弄丢～",
+			"绝对令人愉快,放松,蜷缩起来,让我的 ^pink; 热气 ^reset; 把你放松～"
 		],
 		"imagePortrait": [
 			"HBlep.png"
 		]
 	},
-	"analVoreInvalid": "/npcs/sbq/LokiVulpix/Socks/npc.dialogue:analVoreInvalid", // external lines
+	"analVoreInvalid": "/npcs/sbq/LokiVulpix/Socks/npc.dialogue:analVoreInvalid",
 	"analVoreNo": {
 		"dialogueRandom": [
-			"Sorry, you'll have to wait. It shouldn't be too long.",
-			"I'll have to pass. It's a bit too hostile in my gut right now.",
-			"I might look like I'm starving. I am. But it's not safe for me to eat you. With either end.",
-			"Mmmf... Gotta put some normal food in me, sorry."
+			"抱歉,你得等等,应该不会太久,",
+			"我得拒绝,我肚子里现在太‘凶险’了,",
+			"我可能看起来饿坏了,我确实饿坏了,但现在不管用哪头吃你都不安全,",
+			"嗯嗯…… 得先吃点普通食物,抱歉,"
 		],
 		"imagePortrait": [
 			"HConfused.png"
 		]
 	},
-	"analVoreNoHungry": ":analVoreNo", // duplicated lines
-	"analVoreNoHorny": ":analVoreNo", // duplicated lines
-	"analVoreTooBig": ":tooBig", // duplicated lines
+	"analVoreNoHungry": ":analVoreNo",
+	"analVoreNoHorny": ":analVoreNo",
+	"analVoreTooBig": ":tooBig",
 	"analVoreTooBigHungry": {
 		"dialogueRandom": [
-			"Wow! You're far too big for even me to handle with how hungry I am.",
-			"I really, REALLY, want to, but even I know my limits.",
-			"I can't. I'm pretty sure my rumbly gut would pop instantly.",
-			"No way. Not after the last time I tried with someone as big as you. Thanks, butt."
+			"哇！你太大了,以我现在这么饿的状态根本吞不下,",
+			"我真的,真的很想,但我也知道自己的极限,",
+			"我做不到,我很确定我咕噜作响的肚子会立刻爆开,",
+			"没门,上次我试着吞和你一样大的家伙之后就再也不敢了,谢谢你,屁股,"
 		],
 		"imagePortrait": [
 			"HShocked.png"
 		]
 	},
-	"analVoreTooBigHorny": ":tooBig", // duplicated lines
-	"analVoreTooSmall": ":tooSmall", // duplicated lines
-	"analVoreNoSlots": ":noSlots", // duplicated lines
+	"analVoreTooBigHorny": ":tooBig",
+	"analVoreTooSmall": ":tooSmall",
+	"analVoreNoSlots": ":noSlots",
 	"analVoreFull": [
-		"As much as I'd like to, you'll just have to wait. \nIf I ever let them out, that is.",
-		"I haven't been this full in a long time. Sorry, maybe next time.",
-		"You look like a fun time, but I can't right now...",
-		"Mmm, no can do... I might have other options available, however..."
+		"虽然我很想,但你只能等了,\n 如果我真把他们放出来的话,",
+		"我很久没这么饱过了,抱歉,也许下次吧,",
+		"你看起来会很有趣,但我现在不行……",
+		"嗯,不行…… 不过,我可能还有其他选择……"
 	],
-	"analVoreFullHungry": ":analVoreFull", // duplicated lines
-	"analVoreFullHorny": ":analVoreFull", // duplicated lines
-	"analVoreNeedsInfusion": ":oralVoreNeedsInfusion", // duplicated lines
-	"analVoreAlreadyInfused": ":oralVoreAlreadyInfused", // duplicated lines
-	"analVoreTargetPreySettingsMismatch": ":oralVoreTargetPreySettingsMismatch", // duplicated lines
+	"analVoreFullHungry": ":analVoreFull",
+	"analVoreFullHorny": ":analVoreFull",
+	"analVoreNeedsInfusion": ":oralVoreNeedsInfusion",
+	"analVoreAlreadyInfused": ":oralVoreAlreadyInfused",
+	"analVoreTargetPreySettingsMismatch": ":oralVoreTargetPreySettingsMismatch",
 	"unbirthVoreRequested": [
-		"It's going to get ^pink;hot^reset;. Oh! You're into that.",
-		"I figured you were never going to ask. I'm ready~",
-		"Mhm, let's do this~",
-		"I could practically smell how willing you are. Slip on in~"
+		"会变得 ^pink; 很热 ^reset; 哦,哦！你喜欢这样,",
+		"我还以为你永远不会问呢,我准备好了～",
+		"嗯哼,我们开始吧～",
+		"我几乎能闻到你有多渴望,快进来吧～"
 	],
 	"unbirthVoreRequestedHungry": {
 		"dialogueRandom": [
-			"Not quite the hole I had in mind, but I don't mind.",
-			"Sure! Might help me get a few discounts.",
-			"Well, it was either this or my mouth. I still get a gravid belly regardless.",
-			"Careful, I might not let you back out for a long time~"
+			"这可不是我原本想的洞,但我不介意,",
+			"当然可以！也许这能帮我拿到一些折扣,",
+			"嗯,要么是这个洞,要么是我的嘴,不管怎样,我都会有个圆滚滚的肚子,",
+			"小心点,我可能很久都不让你出来哦～"
 		],
 		"imagePortrait": [
 			"HSleepy.png"
@@ -748,10 +748,10 @@
 	},
 	"unbirthVoreRequestedHorny": {
 		"dialogueRandom": [
-			"Time for you to find out just how strong those muscles are~",
-			"I do love a willing toy~",
-			"Excellent. Your ^pink;VIP suite^reset; is ready~",
-			"I've got a nice ^pink;steamy^reset; cavern for you to explore~"
+			"是时候让你见识一下那些肌肉有多强壮了～",
+			"我超爱自愿的玩具～",
+			"太棒了,你的 ^pink; 贵宾套房 ^reset; 已经准备好了～",
+			"我有一个很棒的 ^pink; 热气腾腾 ^reset; 洞穴等你来探索～"
 		],
 		"imagePortrait": [
 			"HDetermined.png"
@@ -759,10 +759,10 @@
 	},
 	"unbirthVoreRequestedAfter": {
 		"dialogueRandom": [
-			"Mmmf, that tickles~",
-			"This feeling never gets old. Enjoy~",
-			"Feel free to express yourself in there. I won't mind~",
-			"Hmhm, I suppose I do have some charm~"
+			"嗯嗯,好痒～",
+			"这种感觉永远不会腻,享受吧～",
+			"在里面你可以尽情表达自己,我不会介意的～",
+			"嗯嗯,我想我还是有点魅力的～"
 		],
 		"imagePortrait": [
 			"HHappy.png"
@@ -770,10 +770,10 @@
 	},
 	"unbirthVoreRequestedAfterHungry": {
 		"dialogueRandom": [
-			"All nice and tucked away.",
-			"Just relax. I'll find something for both of us.",
-			"Great, now I have to eat for more than just me.",
-			"I was going to complain, but this feels too good."
+			"都好好地塞进去了,",
+			"放松点,我会为我们俩找点乐子的,",
+			"太好了,现在我得为不止自己一个人吃饭了,",
+			"我本来要抱怨的,但这感觉太好了,"
 		],
 		"imagePortrait": [
 			"HTired.png"
@@ -781,40 +781,40 @@
 	},
 	"unbirthVoreRequestedAfterHorny": {
 		"dialogueRandom": [
-			"Exactly what this hound has been desiring~",
-			"Carrying you around is going to give me quite the workout~",
-			"Oh geez, and I thought I was wet before~",
-			"Mmmmmn... bork..."
+			"这正是这只地狱犬一直渴望的～",
+			"带着你到处走会让我得到很好的锻炼～",
+			"哦天哪,我还以为我之前就已经很湿了～",
+			"嗯嗯嗯嗯…… 汪,"
 		],
 		"imagePortrait": [
 			"HOwO.png"
 		]
 	},
-	"unbirthVoreInvalid": "/npcs/sbq/LokiVulpix/Auri/npc.dialogue:unbirthVoreInvalid", // external lines
-	"unbirthVoreNo": ":defaultNo", // duplicated lines
-	"unbirthVoreNoHungry": ":defaultNo", // duplicated lines
-	"unbirthVoreNoHorny": ":defaultNo", // duplicated lines
+	"unbirthVoreInvalid": "/npcs/sbq/LokiVulpix/Auri/npc.dialogue:unbirthVoreInvalid",
+	"unbirthVoreNo": ":defaultNo",
+	"unbirthVoreNoHungry": ":defaultNo",
+	"unbirthVoreNoHorny": ":defaultNo",
 	"unbirthVoreTooBig": {
 		"dialogueRandom": [
-			"T-tempting, but even I'm not that stretchy~",
-			"Woof. You're big!",
-			"No. I did consider it, though!",
-			"I wouldn't be able to walk straight for weeks, so no."
+			" 很诱人,但就算是我也没那么有弹性～",
+			"汪,你可真大！",
+			"不行,不过我确实考虑过！",
+			"要是那样做,我好几周都走不了路了,所以还是算了,"
 		],
 		"imagePortrait": [
 			"HConfused.png"
 		]
 	},
-	"unbirthVoreTooBigHungry": ":unbirthVoreTooBig", // duplicated lines
-	"unbirthVoreTooBigHorny": ":unbirthVoreTooBig", // duplicated lines
-	"unbirthVoreTooSmall": ":tooSmall", // duplicated lines
-	"unbirthVoreNoSlots": ":noSlots", // duplicated lines
+	"unbirthVoreTooBigHungry": ":unbirthVoreTooBig",
+	"unbirthVoreTooBigHorny": ":unbirthVoreTooBig",
+	"unbirthVoreTooSmall": ":tooSmall",
+	"unbirthVoreNoSlots": ":noSlots",
 	"unbirthVoreFull": {
 		"dialogueRandom": [
-			"It's our time right now. Yours will come soon enough~",
-			"I'm not a Greyhound bus, dear. My capacity is sadly limited.",
-			"You could ask them politely to leave. I might not let them, though~",
-			"They're exploring an instanced dungeon. You'll have to wait~"
+			"现在是属于他们的时间,你的时间很快就会到啦～",
+			"我可不是灰狗巴士,亲爱的,很遗憾,我的承载量有限,",
+			"你可以礼貌地请他们离开,不过我可能不会答应哦～",
+			"他们正在探索一个实例化的地下城,你得等等～"
 		],
 		"imagePortrait": [
 			"HHappy.png"
@@ -822,10 +822,10 @@
 	},
 	"unbirthVoreFullHungry": {
 		"dialogueRandom": [
-			"Lugging them around has gotten me peckish. Got any snacks?",
-			"Oh! Feel my belly. You might feel their movements. Don't mind the occasional grumble.",
-			"Ugh, I'm nearly out of space and I'm still hungry...",
-			"I'll gladly meet your needs any other time."
+			"拖着他们让我有点饿了,你有什么吃的吗？",
+			"哦！摸摸我的肚子,你可能会感觉到他们在动,别介意偶尔的咕噜声,",
+			"呃,我几乎没空间了,可我还是很饿……",
+			"我很乐意在其他任何时候满足你的需求,"
 		],
 		"imagePortrait": [
 			"HTired.png"
@@ -833,30 +833,30 @@
 	},
 	"unbirthVoreFullHorny": {
 		"dialogueRandom": [
-			"What happened? We were just having a little fun and they slipped right on in~",
-			"Hng~ Sorry, they pushed just the right spot~",
-			"Ah, this is certainly the life. I'll take your details if you're interested in being next~",
-			"Poke them if you'd like. I'm nearly there from all that squirming~"
+			"怎么回事？我们只是在找点乐子,然后他们就直接滑进去了～",
+			"嗯～抱歉,他们碰到了那个恰到好处的点～",
+			"啊,这生活真是惬意,如果你有兴趣成为下一个,我可以记下你的信息～",
+			"如果你想的话,可以戳戳他们,他们扭来扭去,我都快到高潮了～"
 		],
 		"imagePortrait": [
 			"HOwO.png"
 		]
 	},
-	"unbirthVoreNeedsInfusion": ":oralVoreNeedsInfusion", // duplicated lines
-	"unbirthVoreAlreadyInfused": ":oralVoreAlreadyInfused", // duplicated lines
-	"unbirthVoreTargetPreySettingsMismatch": ":oralVoreTargetPreySettingsMismatch", // duplicated lines
+	"unbirthVoreNeedsInfusion": ":oralVoreNeedsInfusion",
+	"unbirthVoreAlreadyInfused": ":oralVoreAlreadyInfused",
+	"unbirthVoreTargetPreySettingsMismatch": ":oralVoreTargetPreySettingsMismatch",
 	"breastVoreRequested": [
-		"I see where your gaze is. How about you get a closer look?",
-		"Interested? Go on, give them a touch~",
-		"Want to experience one of my infamous hugs? Get over here.",
-		"Judging by how ^pink;flustered^reset; you look, I think I know what you want."
+		"我看到你的目光落在哪里了,要不要凑近点看看？",
+		"感兴趣吗？来吧,摸一下～",
+		"想体验一下我那声名远扬的拥抱吗？到这边来,",
+		"从你 ^pink; 脸红 ^reset; 的样子来看,我想我知道你想要什么,"
 	],
 	"breastVoreRequestedHungry": {
 		"dialogueRandom": [
-			"Not exactly what I had in mind, but sure!",
-			"Sure. I could use the milk you'd help make.",
-			"Okay, I guess? Might help me catch some prey.",
-			"Don't complain if I leave you in there until my hunger wears off."
+			"不完全是我想要的,但也行！",
+			"当然,我可以用你帮忙产的奶,",
+			"好吧,我想可以？也许这能帮我抓到些猎物,",
+			"要是我一直把你留在里面,直到我不饿了,你可别抱怨,"
 		],
 		"imagePortrait": [
 			"HSleepy.png"
@@ -864,10 +864,10 @@
 	},
 	"breastVoreRequestedHorny": {
 		"dialogueRandom": [
-			"I knew you couldn't resist, hot stuff. Let me give you a hug~",
-			"Hmhm, that I can do. Your paradise of milk awaits~",
-			"Honestly? Yeah. I can't think of a better place.",
-			"Ooh, yes~ Let's do so before someone finds out."
+			"我就知道你忍不住,辣家伙,让我给你个拥抱～",
+			"嗯嗯,我可以满足你,你那牛奶天堂在等着你～",
+			"说实话？没错,我想不出还有什么更好的地方,",
+			"哦,好呀～我们得趁别人没发现赶紧开始,"
 		],
 		"imagePortrait": [
 			"HDetermined.png"
@@ -875,10 +875,10 @@
 	},
 	"breastVoreRequestedAfter": {
 		"dialogueRandom": [
-			"Mmm, mind if I keep you for a while? Say, forever?",
-			"Just lovely~ Now you know how my shirts get torn up.",
-			"All nice and plumped up~ Now, where did that Avali go...",
-			"Enjoy the ride, dear. Complimentary drinks have been provided~"
+			"嗯,介意我把你留一会儿吗？比如说,永远？",
+			"简直太棒了～现在你知道我的衬衫为什么会被撑破了吧,",
+			"都好好地鼓起来了～现在,那个羽族去哪儿了……",
+			"享受这趟旅程吧,亲爱的,已提供免费饮品～"
 		],
 		"imagePortrait": [
 			"HHappy.png"
@@ -886,10 +886,10 @@
 	},
 	"breastVoreRequestedAfterHungry": {
 		"dialogueRandom": [
-			"At least you're nestled right on top of my hungry belly.",
-			"Time to grab some cookies, then.",
-			"Now to get a proper meal.",
-			"Doesn't feel half bad, honestly."
+			"至少你正好窝在我饥饿的肚子上面,",
+			"是时候去拿些饼干了,",
+			"现在该去吃顿正经饭了,",
+			"说实话,感觉还不错,"
 		],
 		"imagePortrait": [
 			"HTired.png"
@@ -897,28 +897,28 @@
 	},
 	"breastVoreRequestedAfterHorny": {
 		"dialogueRandom": [
-			"You fit in perfectly~ Might have to get myself a few meme sweaters.",
-			"Absolutely wonderful~ You really know how to pad a demon out~",
-			"You wouldn't mind if I slipped on a bra or a piercing, would you? So you can't escape~",
-			"Heh, hope you don't mind me squeezing you. I just love how you made me look~"
+			"你简直完美适配～也许我得给自己买几件搞笑毛衣,",
+			"简直太棒了～你真的很会让一个恶魔变得丰满～",
+			"你不会介意我戴上胸罩或者乳头环吧？这样你就逃不掉了～",
+			"嘿嘿,希望你不介意我挤压你,我就是喜欢你让我看起来的样子～"
 		],
 		"imagePortrait": [
 			"HOwO.png"
 		]
 	},
-	"breastVoreInvalid": "/npcs/sbq/LokiVulpix/Auri/npc.dialogue:breastVoreInvalid", // external lines
+	"breastVoreInvalid": "/npcs/sbq/LokiVulpix/Auri/npc.dialogue:breastVoreInvalid",
 	"breastVoreNo": [
-		"Tempting! But no.",
-		"No room for you, dear.",
-		"Ah, maybe later.",
-		"I'm not ready. You're welcome to touch, however~"
+		"很诱人！但还是算了,",
+		"没地方给你了,亲爱的,",
+		"啊,也许下次吧,",
+		"我还没准备好,不过你可以摸摸,"
 	],
 	"breastVoreNoHungry": {
 		"dialogueRandom": [
-			"It's something else that needs attention, dear.",
-			"More 'om nom', not 'gl-omp'.",
-			"Settle my inner fire a bit, then you can spend as much time as you like with them~",
-			"My maw is up here, <entityname>."
+			"亲爱的,需要关注的是别的东西,",
+			"要的是‘嗷呜’,不是‘咕噜’,",
+			"先安抚一下我内心的火焰,然后你就可以尽情和它们待在一起了～",
+			"<entityname>,我的嘴在这儿呢,"
 		],
 		"imagePortrait": [
 			"HSleepy.png"
@@ -926,27 +926,27 @@
 	},
 	"breastVoreNoHorny": {
 		"dialogueRandom": [
-			"Yes, but no. I have other needs I want filled~",
-			"Off limits for now. You can look and touch as much as you'd like, though~",
-			"I appreciate the offer, but you'd burn up in an instant. It's too hot in there~",
-			"Maybe later. I'm a bit too sensitive~"
+			"是很想,但不行,我还有其他需求想要满足～",
+			"目前禁止进入,不过你可以尽情地看和摸～",
+			"我很感激你的提议,但你进去会立刻被烫到,里面太热了～",
+			"也许下次吧,我现在太敏感了～"
 		],
 		"imagePortrait": [
 			"HDetermined.png"
 		]
 	},
 	"breastVoreTooBig": [
-		"Sorry. I like being able to fit through most doorways, thank you.",
-		"I'm pretty sure my back can't handle that, dear.",
-		"If I was a cow, then maybe. But I'm not.",
-		"That's impossible, even for me."
+		"抱歉,我还想能穿过大多数的门呢,谢谢,",
+		"我觉得我的背可承受不了,亲爱的,",
+		"如果我是头牛,也许还行,但我不是,",
+		"那对我来说是不可能的,"
 	],
 	"breastVoreTooBigHungry": {
 		"dialogueRandom": [
-			"Sorry. I like being able to fit into most kitchens~",
-			"I'm pretty sure my boobs can't handle that, dear.",
-			"If I was a slime, then maybe. But I'm not.",
-			"That's impossible, even though I think it'd be fun."
+			"抱歉,我还想能进出大多数厨房呢～",
+			"我觉得我的胸部可承受不了,亲爱的,",
+			"如果我是史莱姆,也许还行,但我不是,",
+			"虽然我觉得那会很有趣,但这不可能,"
 		],
 		"imagePortrait": [
 			"HShocked.png"
@@ -954,23 +954,23 @@
 	},
 	"breastVoreTooBigHorny": {
 		"dialogueRandom": [
-			"Sorry. I like being able to fit into most bedrooms~",
-			"I'm pretty sure my bed can't handle that, dear.",
-			"If I was a succubus, then maybe. But I'm not.",
-			"That's impossible, even though I really want to."
+			"抱歉,我还想能进出大多数卧室呢～",
+			"我觉得我的床可承受不了,亲爱的,",
+			"如果我是魅魔,也许还行,但我不是,",
+			"虽然我真的很想,但这不可能,"
 		],
 		"imagePortrait": [
 			"HOwO.png"
 		]
 	},
-	"breastVoreTooSmall": ":tooSmall", // duplicated lines
-	"breastVoreNoSlots": ":noSlots", // duplicated lines
+	"breastVoreTooSmall": ":tooSmall",
+	"breastVoreNoSlots": ":noSlots",
 	"breastVoreFull": {
 		"dialogueRandom": [
-			"Sorry, they're occupied. Your milky adventure will have to wait.",
-			"Your gaze tell me everything. It'll have to wait.",
-			"My eyes are up here. Oh? You can't see them? Feel free to keep staring, then~",
-			"Jealous? I might have an opening elsewhere, dear~"
+			"抱歉,它们正忙着呢,你那牛奶之旅得等等了,",
+			"你的眼神已经说明了一切,但你得等,",
+			"我的眼睛在这儿呢,哦？你看不到？那你就继续盯着吧～",
+			"嫉妒了？亲爱的,我其他地方可能有空位哦～"
 		],
 		"imagePortrait": [
 			"HHappy.png"
@@ -978,10 +978,10 @@
 	},
 	"breastVoreFullHungry": {
 		"dialogueRandom": [
-			"They're full. My stomach, on the other hand, is getting pretty grumbly.",
-			"You could always slip into my stomach and give them a good bump from below~",
-			"Other accommodations might be available~",
-			"How about I reserve a boob for you if you fix my hunger?"
+			"它们满了,但我的肚子,却越来越饿,咕噜咕噜叫了,",
+			"你可以滑进我的肚子,从下面给它们来个狠狠的撞击～",
+			"可能有其他的‘住宿’选择哦～",
+			"如果你能解决我的饥饿,我可以给你预留一个胸部位置,"
 		],
 		"imagePortrait": [
 			"HTired.png"
@@ -989,34 +989,34 @@
 	},
 	"breastVoreFullHorny": {
 		"dialogueRandom": [
-			"If I was anatomically correct, I might've had extra rooms. Sadly, I'm not~",
-			"Hmhm, how horny~ Look into my other vacancies if you really want inside me~",
-			"Maybe if you give them a good squeeze, someone might come out~",
-			"If you notice any leaks, you're welcome to lap them up~"
+			"如果我的身体构造允许,我可能会有更多空间,可惜,我没有～",
+			"嗯嗯,你可真饥渴～如果你真的想进到我身体里,看看我其他的空位吧～",
+			"也许你用力挤一挤它们,会有人出来哦～",
+			"如果你发现有液体漏出来,欢迎舔掉～"
 		],
 		"imagePortrait": [
 			"HOwO.png"
 		]
 	},
-	"breastVoreNeedsInfusion": ":oralVoreNeedsInfusion", // duplicated lines
-	"breastVoreAlreadyInfused": ":oralVoreAlreadyInfused", // duplicated lines
-	"breastVoreTargetPreySettingsMismatch": ":oralVoreTargetPreySettingsMismatch", // duplicated lines
+	"breastVoreNeedsInfusion": ":oralVoreNeedsInfusion",
+	"breastVoreAlreadyInfused": ":oralVoreAlreadyInfused",
+	"breastVoreTargetPreySettingsMismatch": ":oralVoreTargetPreySettingsMismatch",
 	"cockVoreRequested": {
 		"dialogueRandom": [
 			[
-				"Heh, did you think I forgot about this kind of vore? I didn't.",
-				"Took me long enough, didn't it?",
-				"Mmm, we love this part, don't we <entityName>?",
-				"Oh my, I thought you'd *never* ask~"
+				"嘿嘿,你以为我忘了这种方式吗？我可没忘,",
+				"我花了不少时间,对吧？",
+				" 嗯,我们都喜欢这部分,对吧,<entityName>？",
+				"哦,我的天,我还以为你永远不会问呢～"
 			],
 			{
 				"infuseType": true,
 				"sbq/LokiVulpix/Loki": [
 					[
-						"Heads up, my dear secret. You've got a fun surprise incoming~",
-						"Honestly, I'm not sure who enjoys this more: me or her~",
-						"Looks like you've got someone's full attention, heh~",
-						"Oooh, safe to say we've both been waiting for this~"
+						"注意啦,我亲爱的秘密,你即将迎来一个有趣的惊喜～",
+						"说实话,我不确定谁更享受这个过程:是我还是她～",
+						"看起来你已经吸引了某人的全部注意力,嘿嘿～",
+						"哦哦,毫无疑问我们俩都一直在期待这一刻～"
 					]
 				]
 			}
@@ -1025,24 +1025,24 @@
 			"HDetermined.png"
 		]
 	},
-	"cockVoreRequestedHungry": ":cockVoreRequested", // duplicated lines
-	"cockVoreRequestedHorny": ":cockVoreRequested", // duplicated lines
+	"cockVoreRequestedHungry": ":cockVoreRequested",
+	"cockVoreRequestedHorny": ":cockVoreRequested",
 	"cockVoreRequestedAfter": {
 		"dialogueRandom": [
 			[
-				"That's the spot. Make sure to squirm lots for both of us, dear.",
-				"I'll never get tired of this feeling~",
-				"O-oh! That's perfect.",
-				"Make sure to play nice, you two~"
+				"就是这个位置,亲爱的,一定要为了我们俩多扭动扭动,",
+				"我永远不会厌倦这种感觉～",
+				"哦 - 哦！太完美了,",
+				"你们俩要好好玩哦～"
 			],
 			{
 				"infuseType": true,
 				"sbq/LokiVulpix/Loki": [
 					[
-						"Ah, that burst of horny energy is perfect~",
-						"Oh my, I think you've got a fan~",
-						"Careful, <entityname>. She's got you now~",
-						"Finally~"
+						"啊,那股饥渴的能量太完美了～",
+						"哦,我的天,我觉得你有个粉丝～",
+						" 小心点,<entityname>,她现在抓住你了～",
+						"终于～"
 					]
 				]
 			}
@@ -1051,43 +1051,43 @@
 			"HOwO.png"
 		]
 	},
-	"cockVoreRequestedAfterHungry": ":cockVoreRequestedAfter", // duplicated lines
-	"cockVoreRequestedAfterHorny": ":cockVoreRequestedAfter", // duplicated lines
-	"cockVoreInvalid": "/npcs/sbq/LokiVulpix/Auri/npc.dialogue:cockVoreInvalid", // external lines
+	"cockVoreRequestedAfterHungry": ":cockVoreRequestedAfter",
+	"cockVoreRequestedAfterHorny": ":cockVoreRequestedAfter",
+	"cockVoreInvalid": "/npcs/sbq/LokiVulpix/Auri/npc.dialogue:cockVoreInvalid",
 	"cockVoreNo": {
 		"dialogueRandom": [
-			"Sorry, I'm giving my goods a much deserved break. Next time, dear.",
-			"Gotta take care of my package. You'll have to wait your turn~",
-			"Heh, <entityName>'s feeling a little shy. They'll come out later~",
-			"Come back in the morning, dear. We'll be nice and firm then~"
+			"抱歉,我正在让我的宝贝好好休息一下,下次吧,亲爱的,",
+			"得照顾好我的‘家伙事儿’,你得排队等～",
+			" 嘿嘿,<entityName>有点害羞,他们一会儿就出来～",
+			"早上再来吧,亲爱的,到时候我们会精神饱满的～"
 		],
 		"imagePortrait": [
 			"HDetermined.png"
 		]
 	},
-	"cockVoreNoHungry": ":cockVoreNo", // duplicated lines
-	"cockVoreNoHorny": ":cockVoreNo", // duplicated lines
+	"cockVoreNoHungry": ":cockVoreNo",
+	"cockVoreNoHorny": ":cockVoreNo",
 	"cockVoreTooBig": {
 		"dialogueRandom": [
-			"If it was anywhere else, I'd probably agree, but I have to take good care of <entityName>~",
-			"I'm flattered, but we're not *that* stretchy.",
-			"No can do. I'm not going to stress out my goods~",
-			"You're just a little too big for us, dear."
+			"抱歉,我正在让我的宝贝好好休息一下,下次吧,亲爱的,",
+			"得照顾好我的‘家伙事儿’,你得排队等～",
+			" 嘿嘿,<entityName>有点害羞,他们一会儿就出来～",
+			"早上再来吧,亲爱的,到时候我们会精神饱满的～"
 		],
 		"imagePortrait": [
 			"HBlep.png"
 		]
 	},
-	"cockVoreTooBigHungry": ":cockVoreTooBig", // duplicated lines
-	"cockVoreTooBigHorny": ":cockVoreTooBig", // duplicated lines
-	"cockVoreTooSmall": ":tooSmall", // duplicated lines
-	"cockVoreNoSlots": ":noSlots", // duplicated lines
+	"cockVoreTooBigHungry": ":cockVoreTooBig",
+	"cockVoreTooBigHorny": ":cockVoreTooBig",
+	"cockVoreTooSmall": ":tooSmall",
+	"cockVoreNoSlots": ":noSlots",
 	"cockVoreFull": {
 		"dialogueRandom": [
-			"Someone else is having their fun with <entityName> right now~",
-			"Only one at a time. Maybe you can get them to go a little deeper~?",
-			"Sorry, only one guest at time~",
-			"If you want in, you'll have to coax them into moving~"
+			" 现在有人正在和<entityName>玩得开心呢～",
+			"一次只能一个,也许你能让他们再深入一点～？",
+			"抱歉,一次只能接待一位客人～",
+			"如果你想进去,得哄他们挪一挪位置～"
 		],
 		"imagePortrait": [
 			"HDetermined.png"
