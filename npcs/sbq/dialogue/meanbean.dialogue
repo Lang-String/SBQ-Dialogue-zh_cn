@@ -1550,313 +1550,313 @@
 	"tailVoreNoPrompt": {
 		"percentage": "food",
 		"pools": [
-			[ // 0% - 25%
-				"My tail's liable to snap you up if you ain't careful."
+			[
+				"小心喽，我的尾巴可能会顺嘴把你吞了。"
 			],
-			[ // 25% - 50%
-				"Do you want to hear a story?"
+			[
+				"你想听个故事吗？"
 			],
-			[ // 50% - 75%
-				"Hey, what's that behind you?"
+			[
+				"嘿，有人要吃你。快回头看看！"
 			],
-			[ // 75% - 100%
-				"I'm gonna flip a coin. Heads or tails?"
+			[
+				"我要把你吞掉，你猜是头还是尾？"
 			]
 		]
 	},
 	"tailVoreNoPromptAfter": {
 		"percentage": "food",
 		"pools": [
-			[ // 0% - 25%
-				"And looks like it did. Not my fault."
+			[
+				"看来它确实把你丸吞掉了，这可怪不了我。"
 			],
-			[ // 25% - 50%
-				"Figures you'd want to hear the tail end of it first."
+			[
+				"让我先从故事的结尾开始跟你讲起。"
 			],
-			[ // 50% - 75%
-				"You should've looked. Was a breeze for my tail to getcha."
+			[
+				"喜欢不回头，那我的尾巴咬你可易如反掌。"
 			],
-			[ // 75% - 100%
-				"Looks like it was tails. Enjoy the slide."
+			[
+				"当然是尾巴，享受这狭小且韧性十足的睡袋吧。"
 			]
 		]
 	},
 	"absorbVoreNoPrompt": [
-		"You look like you could use an unsolicited hug for no particular reason.",
-		"Are you feelin' a bit down? Let a good ol' bandit hug cheer you up.",
-		"Nobody ever mentions it, but I'm a *real* good hugger. Let me show you."
+		"你看起来想要一些特殊的深入的抱抱？",
+		"感觉有点沮丧？一个深情的拥抱总是能让人感觉好些。",
+		"我在包裹猎物时会用粘液堵住他身上的所有孔洞，快点憋一口气。"
 	],
 	"absorbVoreNoPromptAfter": [
-		"See? Don't you feel better already?",
-		"A good hug can fix lots of things. Like my hunger, for example.",
-		"Hush, this hug lasts as long as I want."
+		"感觉怎么样？反正等我夺取你的身体后就不会有感觉了。",
+		"一个好的拥抱能解决很多问题。例如，我的饥饿问题。",
+		"吼吼吼，做好心理准备。这全方位拥抱我想抱多久就抱多久。"
 	],
 	"navelVoreNoPrompt": [
-		"I'd normally gobble you down, but that takes precious time.",
-		"Let's see, hide this in my navel, hide that, oh hey, let's hide you too.",
-		"<entityName>? You weren't supposed to see me here. Time to make you disappear.",
-		"Lookin' to explore? I know just the cave, it's right nearby."
+		"我一般会一口把你吞下去，但那太浪费时间了。",
+		"让我看看，把这个塞进肚脐里，那个也塞进去，哦嘿，也把你塞进去吧。",
+		"<entityName>？你不会看到了我消化... 我不介意再吃一只。",
+		"想探险吗？我知道一个绝佳的洞穴，就在附近。"
 	],
 	"navelVoreNoPromptAfter": [
-		"Nice and quick.",
-		"A shame I couldn't taste ya, but this works.",
-		"You're pretty filling, you know that?",
-		"Have fun in there~"
+		"又快又好。",
+		"很遗憾没能细细品尝你的味道，但这样也不错。",
+		"你知道吗，你还挺压饿的。",
+		"在生命中最后一点时间里玩得开心～"
 	],
 	"analVoreNoPrompt": [
-		"Ever since I became a bandit, people have always been tellin' me to 'shove it up my ass'.",
-		"I've heard some of the others callin' me an asshole the other day. You know what?",
-		"One of my drinkin' buddies bet me six thousand pixels that I 'love it up the butt'."
+		"大部分猎物在我眼里'屁都不是'，你懂我的意思吗？",
+		"我饿了，我也感觉好累。我要坐你头上休息一会。",
+		"你喜欢被'爆菊'的感觉吗？猜猜我想干什么。"
 	],
 	"analVoreNoPromptAfter": [
-		"I figured I'd try shovin' you up in there. Works pretty well, I'd say.",
-		"They were kind of right. I do enjoy seein' who I can push in there.",
-		"So up you go where the stars don't shine."
+		"我一直都想试试把你塞进去。不得不说，感觉真爽。",
+		"我已经很仁慈了，没有在你身上发泄其他怪癖。",
+		"待在里面吧，你别想看见明天的太阳了。"
 	],
 	"unbirthVoreNoPrompt": {
 		"percentage": "sbqLust",
 		"pools": [
-			[ // 0% - 25%
-				"I need to con a few places into giving me a pregnancy discount. So... yeah."
+			[
+				"我早就想白嫖某些地方的孕期福利了，所以... 哼哼。"
 			],
-			[ // 25% - 50%
-				"I'm feelin' a little bit needy, and a whole lot of greedy."
+			[
+				"我现在感觉贪心贪婪贪欲又贪吃。而你能解决我的所有问题。"
 			],
-			[ // 50% - 75%
-				"You know, have you ever had anyone tell you that you're the perfect shape?"
+			[
+				"嘿呀，有没有人跟你提过你的身材极其完美？"
 			],
-			[ // 75% - 100%
-				"Fff... I need you to service me right *now*. Get on your knees and I'll do the rest."
+			[
+				"呼... 我现在*立刻*要你服侍我。跪下，剩下的我自己来。"
 			]
 		]
 	},
 	"unbirthVoreNoPromptAfter": {
 		"percentage": "sbqLust",
 		"pools": [
-			[ // 0% - 25%
-				"Hush, now 'momma' is gonna make a small fortune in savings. Make sure to kick a lot~"
+			[
+				"嘘，'妈妈'找到个新背包，在里面记得多踢几脚~"
 			],
-			[ // 25% - 50%
-				"Shh, let me smuggle you away for a long, long time..."
+			[
+				"呼呼呼，我会把你藏在里面，藏很久很久..."
 			],
-			[ // 50% - 75%
-				"Perfect for my pussy, that is. Keep me satisfied and maybe I won't make you a keepsake. Maybe."
+			[
+				"对我的小穴来说太完美了，真令人满意。我是该把你留在里面还是榨成汁水呢？好纠结呀。"
 			],
-			[ // 75% - 100%
-				"Ah-hah~ You thought I just needed your mouth? No, now get to squirmin'!"
+			[
+				"啊-啊哈～你以为只用嘴就够了？不止，现在赶紧给我扭动！"
 			]
 		]
 	},
 	"breastVoreNoPrompt": {
 		"percentage": "sbqLust",
 		"pools": [
-			[ // 0% - 25%
-				"I'm gonna flip a coin. Heads or tails?"
+			[
+				"抛个硬币决定你的命运，正面还是反面？"
 			],
-			[ // 25% - 50%
-				"The other bandits said my boobs were too small, so you're goin' to fix that."
+			[
+				"别人居然说我的胸太小了，所以你得去帮我改善一下。"
 			],
-			[ // 50% - 75%
-				"Have you ever wondered what a bandit keeps in their treasure chest? Let me show you."
+			[
+				"你有没有想过那些跟我玩的猎物都去哪了？让我带你去看看。"
 			],
-			[ // 75% - 100%
-				"Hey, have you met my 'girls'? Come on, I'll introduce you to them."
+			[
+				"嘿，你见过我的'姑娘们'吗？来吧，我给你介绍一下。"
 			]
 		]
 	},
 	"breastVoreNoPromptAfter": {
 		"percentage": "sbqLust",
 		"pools": [
-			[ // 0% - 25%
-				"Heh, it landed right in my cleavage. As did you~"
+			[
+				"呵，硬币正好掉进我的乳沟里了，那你也进去吧～"
 			],
-			[ // 25% - 50%
-				"Perfect. I'll snap a picture later to show them, as well as to tease you with if you come back."
+			[
+				"完美。回头我拍张照片给他们看看。要是你能活着出来，我就把这张黑历史拿给你看。"
 			],
-			[ // 50% - 75%
-				"Nothing but you and a bunch of milk, nerd. Thanks for the 'upgrade'."
+			[
+				"他们都变成纯白的奶了，呆瓜。你就是下一个！"
 			],
-			[ // 75% - 100%
-				"Hhh~ This might've backfired on me a bit. No big deal, I enjoy luggin' heavy things around~"
+			[
+				"嗯～跟我想象中的不太一样。不过没关系，我喜欢托着重物到处跑~"
 			]
 		]
 	},
 	"cockVoreNoPrompt": {
 		"percentage": "sbqLust",
 		"pools": [
-			[ // 0% - 25%
-				"I'm gonna flip a coin. Heads or tails?"
+			[
+				"我要吃掉你，从头开始一点一点吃掉消化你。跟这个世界道别吧。"
 			],
-			[ // 25% - 50%
-				"While I was out and about, I caught this rare creature called a 'Trouser Snake'. Want to see it?"
+			[
+				"跟你讲个小故事，叫'裤裆与蛇'，知道是什么意思吗？"
 			],
-			[ // 50% - 75%
-				"Not exactly a position I like to be in, but my dick's needin' some attention and I volunteer you to help."
+			[
+				"我不太喜欢现在这种姿势，但我的老二需要点关注，你肯定会\"自愿\"帮忙。"
 			],
-			[ // 75% - 100%
-				"Not gonna lie, I'm kinda at the edge of a good climax here. And you're gonna be a part of the big finish~"
+			[
+				"实话实说，我就要高潮喷射了。而你会成为这精彩结局的一部分~"
 			]
 		]
 	},
 	"cockVoreNoPromptAfter": {
 		"percentage": "sbqLust",
 		"pools": [
-			[ // 0% - 25%
-				"Heads. Lucky for you, my lower 'head' is eager to oblige."
+			[
+				"嘿嘿嘿，我指的是'龟头'。不过很快这些跟你都没关系了。"
 			],
-			[ // 25% - 50%
-				"Ha, sucker. You need to brush up on your slang."
+			[
+				"哈，听不懂吗？没关系我也听不懂。"
 			],
-			[ // 50% - 75%
-				"A-ahh~ See? Everyone gets what they want when we work together."
+			[
+				"啊-哈～看到了吧？合作共赢，大家都能爽。"
 			],
-			[ // 75% - 100%
-				"Hhhh~ And now the payoff will be well worth it..."
+			[
+				"猜猜看，过会你被喷射出来的时候是什么样子？会变成一滩精液吗？"
 			]
 		]
 	},
 	"bellyInfuseNoPrompt": [
-		"You look like you could use some work. Being a bandit's belly should do the trick."
+		"你看起来需要些磨练，跟着我当我的胃袋会有不少'磨炼'机会"
 	],
 	"bellyInfuseNoPromptAfter": [
-		"Just so you know, 9 out of 10 doctors find this process perfectly safe. I ate the 10th one.",
-		"Not bad. I feel like I could actually eat a small moon.",
-		"My diet usually ain't the best, but I'll pick some choice meals just for you."
+		"你要知道，十分之九的医生都觉得这个过程绝对安全。第十个被我吃了。",
+		"不错，现在就使劲分泌胃液。一会我把猎物吞下后你用最快速度消化他。",
+		"我平日饮食不太健康，但为了你我会挑些美味的猎物。"
 	],
 	"breastInfuseNoPrompt": [
-		"My 'girls' have been a little lackin'. Good thing I found you.",
-		"I've got a slot in the monthly bandit pinup calendar. This year's theme is 'hot heisters'.",
-		"I don't know who, but someone wanted to draw a picture of me. Since I'm so nice, I'm including you in it."
+		"我的'姑娘们'最近有点不给力，还好我找到了你。",
+		"有人居然敢说我是飞机场，你来助我。然后我们一起把他变成乳汁。",
+		"有人想给我拍个照，但我的前面不够突。我们为什么不来合个影呢？"
 	],
 	"breastInfuseNoPromptAfter": [
-		"Perfect, just what I needed.",
-		"Now I'm feelin' picture-perfect.",
-		"Oof, you certainly have some good heft to you."
+		"完美，跟我想象中的一样。",
+		"很棒的外在美。接下来，让我们看看你的内在美。",
+		"哎呀呀，你个小东西还挺有分量的。"
 	],
 	"pussyInfuseNoPrompt": [
-		"<entityName>? I heard you have a pretty good mouth on you. I wanna test that out.",
-		"One of the others told me that you got loose lips. I think you're tight-lipped. Time to find out the truth.",
-		"Not to pry, but word on the street is that you know how to have a good time. Is that true?"
+		"<entityName>？我听说你的小嘴很厉害，我想试试。",
+		"有人跟我说你嘴不严。我觉得你小嘴可紧实着呢。是时候弄清真相了。",
+		"不是乱打听，但是有传言说你很会找乐子。是真的吗？"
 	],
 	"pussyInfuseNoPromptAfter": [
-		"Fff~ Finally, you can put your talents to proper use.",
-		"Mmf~ Now I know which rumors are true.",
-		"Heh, it's like you were meant to do this all along."
+		"呼～终于，你可以把你的本事用在正处了。",
+		"嗯～现在我知道哪些传言是真的了。",
+		"呵，你好像生来就是干这个的料。"
 	],
 	"cockInfuseNoPrompt": [
-		"Just the dick I was lookin' for.",
-		"Another bandit told me that you're a real dick. Let's make that true.",
-		"Someone put a bounty on your head. Lucky for me, they didn't say which kind.",
-		"All your jumpin' to and fro and bouncin' around reminds me of somethin': a cock."
+		"我的二弟不行了，连膜都顶不破。你的头看起来尖尖的，肯定好使。",
+		"我要把某人搞怀孕，为此我需要一杆枪和子弹。庆幸你能跟我一起爽吧。",
+		"有人在悬赏你的头。算我运气好，他们没说要哪个头。",
+		"你那时硬时软、甩来甩去的样子让我想起了某个东西：一根鸡巴。"
 	],
 	"cockInfuseNoPromptAfter": [
-		"Just a word of caution: I ain't lettin' you go that easy. You're mine now.",
-		"Heh, you fit the description perfectly now.",
-		"Ahh, you feel like you were meant to be danglin' between my legs, you know that?"
+		"给你个警告：我不会轻易放你走的。你现在是我的了。",
+		"呵，好一根粗壮的鸡巴。该去狩猎食物了。",
+		"啊，你知道吗，你好像生来就该吊在我两腿之间。"
 	],
 	"tailInfuseNoPrompt": [
-		"Damn, I think I got a thorn in my tail. Take a closer look, would ya?",
-		"Hey, do you like stories? I call this one, 'A Bandit's Tail'."
+		"该死，我觉得我尾巴上扎了根刺。你凑近点帮我看看，好吗？",
+		"我的尾巴又大又软，手感棒极了。你要不要摸一摸撸一撸？"
 	],
 	"tailInfuseNoPromptAfter": [
-		"Heh, gets them every time.",
-		"Not bad. You ride on my butt pretty good."
+		"呵，这招每次都能骗到人。",
+		"不赖嘛。你在我屁股后面感觉真不错。"
 	],
 	"oralVoreUnprompted": [
-		"I don't like the look in your eye. Or the fact you're lickin' your lips. Or that my head is halfway down your gullet--!",
-		"You sure you want to eat me? Do you even know where I've been--okay guess not--!",
-		"Honestly, fair. I was *just* about to eat you, but I was too--!"
+		"我不喜欢你看我的眼神。还有你舔嘴唇的样子。还有我脑袋都被你吞下去一半了啊——！",
+		"你确定要吃我吗？你知道我刚去过哪儿吗——好吧，看来你不在乎——！",
+		"怎么这么巧。我也正打算丸吞你呢，只是我慢了一步——！"
 	],
 	"tailVoreUnprompted": [
-		"Nice tail, but I ain't afraid--nevermind, I've made a terrible--!",
-		"Your tail's, uh, lookin' at me funny. Did it just--hey, stop--!",
-		"Cute, your tail can open up. What's not cute is that it's just about to--!"
+		"尾巴不错，但我可不怕——等下，我犯了个严重的——！",
+		"你的尾巴，呃，在用奇怪的方式指着我。它刚才是不是——嘿，停下——！",
+		"真可爱，你的尾巴还能张开一条缝。但不可爱的是它马上就要——！"
 	],
 	"absorbVoreUnprompted": [
-		"This hug is decent, but you left your pixels wide-open--hey, wait--hlp!",
-		"I, uh, tolerate you too, but I ain't much for hugs--and this is why--mmph!",
-		"Alright, you've had your little hug. Now let go before others start--what the--ahh!"
+		"好一个深情的拥抱，但你的头离我的嘴太近——啊，等等——救命！",
+		"我，呃，也算喜欢你，但我不太喜欢拥抱——这就是原因——唔！",
+		"好了，你抱也抱过了。现在快放开，不然别人会——这是什么——啊！"
 	],
-	"navelVoreUnprompted": [ // navel vore, one I don't really get, but its here for those who do, sadly I'm only skimming the proofreading on this kink, someone who's explicitly into it should write the lines for it
-		"You've got a nice navel, sure, but I don't see why you needed me to appraise--!",
-		"The deed to your ship is in there? Let me just make sure it's safe and--!",
-		"You expect me to believe that a full set of T10 gear is inside there? Because I do and--!"
+	"navelVoreUnprompted": [
+		"当然，你的肚脐挺好看的，但我不明白为什么你要我来鉴赏呃啊——！",
+		"要我看看肚脐？怎么，难不成你还能用肚脐把我吸啊——！",
+		"你为什么要把我的头按到你的肚子上？我听见咕噜咕噜声不要啊——！"
 	],
 	"analVoreUnprompted": [
-		"Pretty nice piece of ass, but I'm more of a--hey, don't--!",
-		"I'm not the butt of a bad joke, am I? Shit, I am--!",
-		"Not a bad show, but I can't help but feel like I've seen this--!"
+		"屁股挺不错的，但我更喜欢直插——哎，不要——！",
+		"有没有搞错？搁这脱裤子放屁哎哎啊——！",
+		"你敢嘲讽我？看我不用臭鞋头狠狠踢你的屁额——！"
 	],
 	"unbirthVoreUnprompted": [
-		"Is that an invitation? Sure, let me just take off my gear and--!",
-		"Yes, I can see you're wet, but I don't know what that has to do with--!",
-		"That's, uh, very flattering, but mind covering--not again--!"
+		"这么直接的邀请？没问题，等我把装备脱了额啊——！",
+		"哈，我都看到你湿透了，要我帮你排忧解唔唔——！",
+		"这，呃，挺让人受宠若惊的。让我去开个房啊——又来——！"
 	],
 	"breastVoreUnprompted": [
-		"If this is a booby trap, I'm not going to lie: I'm impressed. Wait, it is--!",
-		"Nice tits. You just showin' them off, or did ya want me to--h-hey--!",
-		"Pretty good lookin' pair of breasts, if I do say so myself. Mind if I feel--w-wait--!"
+		"如果这是个美人计，不得不说：印象深刻。等等，真的是——！",
+		"奶子不错。你只是秀一下，还是想让我——嘿——！",
+		"我得说，这对乳房真好看。让我摸摸——等下，别——！"
 	],
 	"cockVoreUnprompted": [
-		"What would I say before I became a bandit? Ah, that's right. UwU",
-		"I definitely noticed your bulge, but this wasn't what I was expectin'--!",
-		"Do you always walk around flauntin' your package like that? Wait, I was just teasin'--!"
+		"我射满过不少安全套，但现在轮到我变成精液了吗..唔... UwU",
+		"我当然注意到你的大根立起来了，但无论你对我做哪个我都不要啊——！",
+		"你总是这样到处炫耀你的家伙吗？等等，我只是开个玩笑——！"
 	],
 	"oralVoreLetoutUnpromptedAfter": [
-		"You let me out, huh? Thanks. I might remember that later."
+		"你把我吐出来了，额？谢..谢谢。我以后也不会随便消化你了。"
 	],
 	"tailVoreLetoutUnpromptedAfter": [
-		"Nice trick with your tail. Being on the outside is better, though."
+		"你的尾巴还挺有意思。不过还是待在外面舒坦。"
 	],
 	"absorbVoreLetoutUnpromptedAfter": [
-		"I wasn't expectin' that tight a hug, but thanks for lettin' go."
+		"你的粘液堵住了我每一个呼气孔，差点憋死。但还是谢谢你放我走。"
 	],
-	"navelVoreLetoutUnpromptedAfter": [ // navel vore, one I don't really get, but its here for those who do, sadly I'm only skimming the proofreading on this kink, someone who's explicitly into it should write the lines for it
-		"Damn, I figured you would be hidin' somethin' in your navel. Nope, spotless."
+	"navelVoreLetoutUnpromptedAfter": [
+		"该死，我还以为你肚脐里藏了什么东西。结果，啥都没有。"
 	],
 	"analVoreLetoutUnpromptedAfter": [
-		"Not the most graceful exit I've made, but I've had worse."
+		"根本算不上优雅的退场，但我经历过更糟的。"
 	],
 	"unbirthVoreLetoutUnpromptedAfter": [
-		"Gotta admit, I was gettin' pretty comfy. But thanks for squeezin' me out."
+		"得承认，我在里面还挺舒服的。但还是谢谢你把我生出来。"
 	],
 	"breastVoreLetoutUnpromptedAfter": [
-		"The free drinks were nice, but everything I have is soakin' wet now."
+		"免费的饮料不错，但我现在全身都浸透了乳汁。"
 	],
 	"cockVoreLetoutUnpromptedAfter": [
-		"Geez, I'm going to smell like you for weeks. Fun trip, though."
+		"天哪，我接下来几周都得闻着你的异味了。不过这趟旅程还挺有趣。"
 	],
 	"oralVoreForcing": {
 		"percentage": "sbqRest",
 		"pools": [
-			[ // 0% - 25%
-				"I'm all tuckered out and I need a spot to rest. You'll do nicely."
+			[
+				"我累坏了，需要找个地方休息。你的胃袋正合适。"
 			],
-			[ // 25% - 50%
-				"That last job was somethin' else. Gotta lay low for a bit, so open up."
+			[
+				"我把某个不该惹的人消化了。得躲一阵子，所以张开嘴。"
 			],
-			[ // 50% - 75%
-				"Don't tell anyone, but I've been lookin' at your gut and curiosity got the better of me."
+			[
+				"张嘴，我要在你的肚子里躺一会。你要是敢消化我你就完了。"
 			],
-			[ // 75% - 100%
-				"I'm gonna flip a coin. Heads or tails?"
+			[
+				"别告诉别人，我一直盯着你的肚子，好奇猎物被吃掉后都看到了什么。"
 			]
 		]
 	},
-	"tailVoreForcing": {
+"tailVoreForcing": {
 		"percentage": "sbqRest",
 		"pools": [
 			[ // 0% - 25%
-				"I'm dead tired and I need a nice hammock. Your tail will do."
+				"我累得要死，需要一个舒服的吊床。你的尾巴就行。"
 			],
 			[ // 25% - 50%
-				"I heard your tail can carry a lot of weight. Let's find out how much."
+				"听说你的尾巴能承载很多重量。让我们来试试看。"
 			],
 			[ // 50% - 75%
-				"I'm currently disguised as a tail inspector and I need to do my job. Open up."
+				"我现在是尾巴检查员，要检查你尾巴有没有藏私。张开你的尾巴嘴。"
 			],
 			[ // 75% - 100%
-				"I'm gonna flip a coin. Heads or tails?"
+				"我很想体验被蛇吃掉的感觉。你尾巴内的食道就很相像。"
 			]
 		]
 	},
@@ -1864,16 +1864,16 @@
 		"percentage": "sbqRest",
 		"pools": [
 			[ // 0% - 25%
-				"I'm exhausted to the point I can feel my body givin' out. Catch me, would ya?"
+				"我感觉累到身体要垮了。托稳我，好吗？"
 			],
 			[ // 25% - 50%
-				"I've heard about your unique qualities. Let's see how well it does for someone needin' a nap."
+				"听说你的身体很独特。让我看看它对需要小睡的人有多好用。"
 			],
 			[ // 50% - 75%
-				"My buddy bet me a thousand pixels that I couldn't run through ya. So here goes!"
+				"我朋友跟我打赌一千像素，说我不能穿过你的身体。所以我来了！"
 			],
 			[ // 75% - 100%
-				"I'm on the run and I need a spot to hide *right* now."
+				"有人在抓我，而你的体型看起来很方便。"
 			]
 		]
 	},
@@ -1881,16 +1881,16 @@
 		"percentage": "sbqRest",
 		"pools": [
 			[ // 0% - 25%
-				"It feels like I haven't slept for days and I need a nice gut to rest in. So I'm just gonna dive right on in."
+				"感觉好几天没睡了，我需要一个舒服的胃袋来休息。我就直接钻进去吧。"
 			],
 			[ // 25% - 50%
-				"Not one to brag, but I'm pretty quick on my feet. Think you can dodge this?"
+				"有点累了。有没有什么地方能快进快出？肚脐就挺不错的。"
 			],
 			[ // 50% - 75%
-				"I need to make a quick getaway and I think I found the perfect hole to dive into~"
+				"需要避一避风头，我觉得我找到了一个完美的洞~"
 			],
 			[ // 75% - 100%
-				"You look like the type that keeps your belly button clean. Perfect for me to hide in."
+				"看起来你的肚脐很干净。我不介意在里面待一会。"
 			]
 		]
 	},
@@ -1898,16 +1898,16 @@
 		"percentage": "sbqLust",
 		"pools": [
 			[ // 0% - 25%
-				"Nice ass. I'll be spendin' some time in there, so just relax."
+				"好屁股。我要在里面待一会儿，所以放松点。"
 			],
 			[ // 25% - 50%
-				"Do you think I'm a pain in your ass? Don't worry about answerin', this will be nothing but pleasure."
+				"你觉得我是个麻烦？别急着回答，先好好享受。"
 			],
 			[ // 50% - 75%
-				"Heh, you left your rear entrance unguarded. Who knows what I'll do as I crawl up in there~?"
+				"嘿，你的后门没守好。谁知道我爬进去之后都会做些什么~？"
 			],
 			[ // 75% - 100%
-				"I'll drop the pretenses; I've been feelin' *real* pent up and I just *need* to wiggle up that tush of yours."
+				"不装了；我憋坏了，*真的*很需要钻到你的屁眼里去。"
 			]
 		]
 	},
@@ -1915,16 +1915,16 @@
 		"percentage": "sbqLust",
 		"pools": [
 			[ // 0% - 25%
-				"You may find it hard to believe, but I'm quite the escape artist. Watch as I disappear somewhere private~"
+				"你可能不信，但我是个逃脱艺术家。看我消失到某个私密地方~"
 			],
 			[ // 25% - 50%
-				"Rumor has it that you've got the comfiest womb in this galaxy. I intend on findin' out."
+				"听说你的子宫是还未开发的最舒服的摇篮。我要亲自验证。"
 			],
 			[ // 50% - 75%
-				"You look like you could use some servicin'. Let me just kneel, place my head forward, and--"
+				"你看起来需要点特殊服务。让我压低身子，把头往前一顶，然后嚯——"
 			],
 			[ // 75% - 100%
-				"I'm long past the point of self-restraint; I'm horny as hell and I *gotta* be inside your womb."
+				"我早就失去自制力了；现在我欲火焚身，一心*只想要*钻进你的子宫。"
 			]
 		]
 	},
@@ -1932,16 +1932,16 @@
 		"percentage": "sbqLust",
 		"pools": [
 			[ // 0% - 25%
-				"That's a nice pair of tits you got there. You know what they're missin', though? Me."
+				"你这对乳房真不错。你知道它们缺了什么吗？缺我。"
 			],
 			[ // 25% - 50%
-				"I don't need a ship to explore the Milky Way when it's right in front of me~"
+				"我都不需要去买牛奶了，你这里面应该还剩不少吧~"
 			],
 			[ // 50% - 75%
-				"Air bag inspector here. I have to make sure you're up to code. Hmph. Not enough weight. I'll fix that."
+				"气囊检查员在此。我得确保你符合标准。嗯，重量不够。我来解决。"
 			],
 			[ // 75% - 100%
-				"I was gonna come up with a crazy story about needin' to see your boobs, but I think I'll come inside them instead~"
+				"我本来想编个疯狂的故事说要揉你的胸，但我想我还是直接进去吧~"
 			]
 		]
 	},
@@ -1949,57 +1949,57 @@
 		"percentage": "sbqLust",
 		"pools": [
 			[ // 0% - 25%
-				"I'm gonna flip a coin. Heads or tails?"
+				"他们都说你是个伟大的冒险者。但我只看到了萎，没有大！"
 			],
 			[ // 25% - 50%
-				"Nice cock. Don't mind me, I'm just takin' a closer look..."
+				"好肥美的鸡巴。别介意，我只是想近距离看看..."
 			],
 			[ // 50% - 75%
-				"You sure you're allowed to pack that thing around? I gotta check and make sure..."
+				"你确定这根肉棒没有任何问题？我得检查一下..."
 			],
 			[ // 75% - 100%
-				"Heh, I'm not gonna lie for once: I *have* to be inside your dick. That rod of yours is simply *perfection*."
+				"呵，我就不撒谎了：我*必须*进入你的鸡巴。那根棒子简直是*完美*。"
 			]
 		]
 	},
 	"oralVoreLetoutForcingAfter": [
-		"Heh, you just can't keep a good bandit down~"
+		"呵，让吞到胃里的肥肉自己跑了~"
 	],
 	"tailVoreLetoutForcingAfter": [
-		"I'm done bein' on your tail end."
+		"你尾巴里好挤，可算是逃出来了。"
 	],
 	"absorbVoreLetoutForcingAfter": [
-		"Too bad for you, but I'm a pretty good swimmer."
+		"可惜了，我可很擅长挣扎扭动的。"
 	],
 	"navelVoreLetoutForcingAfter": [ // navel vore, one I don't really get, but its here for those who do, sadly I'm only skimming the proofreading on this kink, someone who's explicitly into it should write the lines for it
-		"Ha, you should've buttoned up your belly button~"
+		"哈，你应该把你的肚脐堵上的~"
 	],
 	"analVoreLetoutForcingAfter": [
-		"Crawling out of tight spaces is nothin' new to me."
+		"嘿嘿嘿，后门不严实，必有后患呐。"
 	],
 	"unbirthVoreLetoutForcingAfter": [
-		"That was pretty hot, but I'm done bein' your toy."
+		"这可真够刺激的，但我不想再当你的玩具了。"
 	],
 	"breastVoreLetoutForcingAfter": [
-		"As much fun as I had in your bags, I gotta go."
+		"我在你的奶子里喝饱饱了，没别的事我先走一步。"
 	],
 	"cockVoreLetoutForcingAfter": [
-		"You got a nice cock, but I'd rather admire it from the outside."
+		"你的小家伙很有精力，但我还是更喜欢在外面跟他玩。"
 	],
 	"oralVoreForced": {
 		"percentage": "food",
 		"pools": [
 			[ // 0% - 25%
-				"It's nice when meals like you know the right time to submit to me."
+				"像你这样的猎物知道什么时候我想要食物，针不戳。"
 			],
 			[ // 25% - 50%
-				"Urp. Just skippin' right to the good part, eh?"
+				"嗝。一步到胃！直接快进到最精彩的部分，嗯？"
 			],
 			[ // 50% - 75%
-				"Heh, I didn't even have to ask. Not like I was going to."
+				"嘿，我还没开口呢。反正我一般也不会过问食物的想法。"
 			],
 			[ // 75% - 100%
-				"Oof. Not gonna complain, but you better not expect me to go easy on ya."
+				"嗷。没在抱怨，但你可别指望我不会玩弄食物。"
 			]
 		]
 	},
@@ -2007,20 +2007,20 @@
 		"percentage": "food",
 		"pools": [
 			[ // 0% - 25%
-				"Just so you know, my tail is far greedier than I am.",
-				"Huh. Guess that takes care of dinner, then."
+				"只是想让你知道，我的尾巴比我还残忍。",
+				"嚯，这下食物问题解决了。"
 			],
 			[ // 25% - 50%
-				"If my tail decides to melt ya, that's not my fault.",
-				"Better be careful. You might be addin' to that tail soon enough."
+				"如果这尾巴执意要消化你，那跟我可没关系。",
+				"你完了，很快你就会变成尾巴内的夹心糊糊。"
 			],
 			[ // 50% - 75%
-				"I figured you just wanted to give my tail a good hug, but this is far better.",
-				"Grr, you're payin' for this the next time you slip into my tail."
+				"我以为你只是想撸一撸我的尾巴，但现在这样更好。",
+				"你敢钻进我的尾巴，那就做好变成食物的打算。"
 			],
 			[ // 75% - 100%
-				"Just dove on in, huh? Fine, but you're followin' my lead.",
-				"Ha, you just couldn't resist my fine tail, could you?"
+				"这就钻进来了，嗯？好吧，跟我的尾巴好好玩玩吧。",
+				"哈，无法抗我那狭窄且极具韧性的尾巴，是不是？"
 			]
 		]
 	},
@@ -2028,20 +2028,20 @@
 		"percentage": "food",
 		"pools": [
 			[ // 0% - 25%
-				"O-okay? Well, that takes care of my hunger, at least.",
-				"Fancy bumpin' into you. At just the right time, too~"
+				"好-好吧？嗨，正巧解决了我的饥饿问题。",
+				"正巧撞上你了。正好也是在我最需要的时候~"
 			],
 			[ // 25% - 50%
-				"Sure, I was hungry, but at least let me pretend I was gonna ask!",
-				"I was needin' a quick snack anyway, so this works."
+				"当然，我是饿了，但至少让我们做做前戏吧！",
+				"正巧我想叫一只快递员过来，你的出现真是太合我意了。"
 			],
 			[ // 50% - 75%
-				"I was going to ask if you wanted to drop on into my lair, but you already did.",
-				"You could've just asked if you wanted to slip into someone more comfortable~"
+				"我本来想守株待兔跟猎物玩胶衣包裹play的，但你这么主动就先到先得喽。",
+				"眼光不错，我的身体里肯定更舒服~"
 			],
 			[ // 75% - 100%
-				"If someone bumps into me, normally I'd steal their pixels. Guess I'm stealin' you instead.",
-				"Not sure why you'd slip into me like that, but you ain't slippin' out that easily~"
+				"如果有人敢撞我，我就会直接把他们吞掉。浸去吧你。",
+				"不知道为什么你就这样栽进来了，但你想出去可就难喽~"
 			]
 		]
 	},
@@ -2049,20 +2049,20 @@
 		"percentage": "food",
 		"pools": [
 			[ // 0% - 25%
-				"You wanted an express trip to solvin' my hunger? You got it.",
-				"If you were lookin' for treasure, all you're gonna find is my eager gut."
+				"你想要直通咕咕响发源地的特快专列？你如愿了。",
+				"如果你想找些什么，你只会找到我那饥饿的胃袋。"
 			],
 			[ // 25% - 50%
-				"I'm not sure what your plans are, but you sure solved my food dilemma!",
-				"Ha, one grumble was all it took for you to dive in my navel?"
+				"我不知道你有什么计划，但你确实解决了我的食物难题！",
+				"哈，我肚子一咕噜响你就钻进我的肚脐了？"
 			],
 			[ // 50% - 75%
-				"If I knew exposin' my midriff would encourage people to jump in, I'd do it more often~",
-				"Just couldn't resist 'cave' diving, could you~?"
+				"原来我的肚脐这么有吸引力，以后我得多多裸露肚脐~",
+				"就是抗拒不了'洞穴'探险，对吧~？"
 			],
 			[ // 75% - 100%
-				"Just wanted to go straight into a bandit's belly, did ya~?",
-				"Ha. Looks like my belly button pushed all of your buttons~"
+				"只想简单看一眼装满食物的胃袋里是什么样子？你也下去~",
+				"嗝，我感觉食物多得都把我的肚脐眼顶起来了~"
 			]
 		]
 	},
@@ -2070,16 +2070,16 @@
 		"percentage": "sbqLust",
 		"pools": [
 			[ // 0% - 25%
-				"Breaking into a bandit's behind, hm? I can respect that."
+				"怎么就钻进我的后门里了，嗯？我的直肠也能消化食物哦。"
 			],
 			[ // 25% - 50%
-				"Looks like you've found my secret maze. Try not to get lost~"
+				"看来你找到了我的秘密迷宫。别迷路了~"
 			],
 			[ // 50% - 75%
-				"Thanks for savin' me the hassle of jammin' you up my ass~"
+				"谢谢你省了我找借口把你塞进屁股里的麻烦~"
 			],
 			[ // 75% - 100%
-				"Fff~! You better squirm in my ass a lot, my new toy~"
+				"呼呼~！你最好在我的屁眼里多扭几下，我的新玩具~"
 			]
 		]
 	},
@@ -2087,16 +2087,16 @@
 		"percentage": "sbqLust",
 		"pools": [
 			[ // 0% - 25%
-				"Mmng... Give me a warning next time..."
+				"就这样插进来...你是真不怕我给你榨成汁水！"
 			],
 			[ // 25% - 50%
-				"Mmf~ Just couldn't resist an outlaw's charms, could you~?"
+				"姆~普通的涩涩已经满足不了你了，对吧~？"
 			],
 			[ // 50% - 75%
-				"Ohhh~ You're the kind of toy I *needed* right now~"
+				"哦~你正是我当下*需要*的那种玩具~"
 			],
 			[ // 75% - 100%
-				"F-fuck~ Get in there and start squirmin' *now*~!"
+				"草-操~赶紧钻到最里面，然后*立刻*使劲扭动~！"
 			]
 		]
 	},
@@ -2104,16 +2104,16 @@
 		"percentage": "sbqLust",
 		"pools": [
 			[ // 0% - 25%
-				"It's polite to ask first, you know. Lucky for you, I'm not polite."
+				"你应该清楚，事先询问是一种礼貌。幸好我不讲礼貌。"
 			],
 			[ // 25% - 50%
-				"Mm, good thing I've got a strong back. And a better front~"
+				"嗯，幸好我的后背够有力。前胸更有力~"
 			],
 			[ // 50% - 75%
-				"Ffff~ If you're gonna dive in my tits, you better make them shake good~"
+				"呼呼~如果你要钻进我的奶子，给我在里面摇匀喽~"
 			],
 			[ // 75% - 100%
-				"H-hah~ Better enjoy the milk, it's not stayin' in for long~"
+				"哈哈~赶紧享用奶汁吧，你和它都保存不了多久啦~"
 			]
 		]
 	},
@@ -2121,220 +2121,220 @@
 		"percentage": "sbqLust",
 		"pools": [
 			[ // 0% - 25%
-				"H-hey! Next time, give my better head a chance to get lubed up!"
+				"嘿！至少先给我个机会润滑一下外面或里面！"
 			],
 			[ // 25% - 50%
-				"Fff! Couldn't resist explorin' my seedy underbelly, could ya?"
+				"嗯！就是无法抗拒探索我那下流的人种袋，对吧？"
 			],
 			[ // 50% - 75%
-				"Ahh~ Just in time, you're the *perfect* fit for my cock~"
+				"啊~来得正好，你跟我的二弟简直是*绝配*~"
 			],
 			[ // 75% - 100%
-				"Mmmfff~ Let's see if you come right back out~"
+				"姆哼哼哼~看看你会被变成什么样射出来~"
 			]
 		]
 	},
 	"oralVoreLetoutForced": [
-		"Erf... Couldn't keep ya down...",
-		"Ghk... Guess you're tougher than you look.",
-		"Come on, I was only teasin'."
+		"呃呜...你居然活着逃出来了...",
+		"咳...小瞧了，你比想象中的更闹腾。",
+		"别介样，我只是在跟你闹着玩的。"
 	],
 	"tailVoreLetoutForced": [
-		"Managed to escape my greedy tail, I see.",
-		"What, didn't like having your own personal hammock?",
-		"My tail was just playin'... for keeps, that is."
+		"或许我的尾巴还是太温柔了。",
+		"怎么，不喜欢有自己的私人吊床？",
+		"我的尾巴只是玩玩...想跟你玩点真的。"
 	],
 	"absorbVoreLetoutForced": [
-		"Huh, it's rare for anyone to escape me.",
-		"Damn, I should've made myself more solid.",
-		"Come back in, the 'water' is fine~"
+		"哈，难得有人能从我这里挣脱。",
+		"该死，我应该让自己更黏更紧实些。",
+		"回来吧，这'胶液'可是很舒服的呢~"
 	],
 	"navelVoreLetoutForced": [ // navel vore, one I don't really get, but its here for those who do, sadly I'm only skimming the proofreading on this kink, someone who's explicitly into it should write the lines for it
-		"I knew I should've plugged my belly button up.",
-		"Squeezed right out my navel. Sneaky.",
-		"If you found anything, it's mine, got it?"
+		"我就知道我该把肚脐塞住堵死你出逃的路。",
+		"从我的肚脐眼里溜出来了。真狡猾。",
+		"从肚脐里逃出来很容易，滑进去更容易。"
 	],
 	"analVoreLetoutForced": [
-		"What's the matter? Didn't like makin' my ass a little plumper~?",
-		"Ohhh~ That almost makes up for you decidin' to wiggle on out.",
-		"Must be gettin' rusty, can't even keep a nerd trapped in my booty..."
+		"怎么了？不想再等一会迎接你的朋友们吗？",
+		"哦哦哦~至少你奋力扭出来的时候我还是很爽的。",
+		"我真是疏忽了，连含着玩具的肛门都把不严实..."
 	],
 	"unbirthVoreLetoutForced": [
-		"Come on, we were just gettin' started!",
-		"I'll pay ya if you wiggle back in~",
-		"Fff~ Aww, my toy wants out...",
-		"Hey now, bein' a bandit ain't so bad.",
-		"You're not fond of bein' in my cargo hold, I see."
+		"别闹，我们才刚进入状态！",
+		"你自己再扭进去我保证不把你榨干~",
+		"呼呼~嗷呜，我的玩具要自己长腿跑了...",
+		"淦，你知道我最喜欢对强行出生的\"婴儿\"做什么吗？",
+		"看来你不喜欢待在我的活体货舱里。"
 	],
 	"breastVoreLetoutForced": [
-		"Get back in there. I need the paddin' more than you need fresh air~",
-		"Hey! You better pay me for every drop you spill!"
+		"回去。相比于你需要的新鲜空气我更需要你这坨填充物~",
+		"嘿！看看你弄洒的到处都是。你得为每一滴乳汁付出代价！"
 	],
 	"cockVoreLetoutForced": [
-		"Mm~ You caught me with my pants down~",
-		"Unf~ If you squirm back in, maybe I'll find someone to squirt ya in~",
-		"Geez, you really set my dick off.",
-		"Ah, my cock is gonna be extra sensitive after your escape...",
-		"Sloshin' in bandit spunk wasn't that bad, was it?"
+		"靠~你要是导致我提前射了的话我跟你没完！",
+		"咦~你还是钻进去溶解掉吧，我会把你喷进你最爱的子宫里的~",
+		"老天，这感觉可真是屌爆了。",
+		"啊，可惜我没憋住。但把你射出来的感觉真爽...",
+		"哦，怎么？跟我的种子们融入不到一起去？"
 	],
 	"struggleBelly": [
-		"Wiggle and squirm as much as ya like, I love the feelin'.",
-		"Gettin' uncomfortable in there? Not my problem.",
-		"Come on, <entityName>. We both know you enjoy this.",
-		"Heh, got yourself trapped in a warm, tight gut, didn't ya?"
+		"为了你的小命使劲扭动吧，我就喜欢这种感觉。",
+		"在里面疼的受不了了？那就对了。快点消化！",
+		"得了吧，<entityname>。咱俩都清楚你很享受这一切。",
+		"呵，就喜欢在温暖紧实的肚子里瞎扑腾，不是吗？"
 	],
 	"struggleWomb": [
-		"Feisty, aren't ya? Lucky for you, I love gettin' rowdy.",
-		"If you're trying to get out, it ain't workin'. Gettin' me pretty wet, though!",
-		"Not gonna lie, you're kickin' in all the right spots~",
-		"Oof, if I didn't know better, I'd almost think you want out."
+		"小东西还挺有活力的嘛，不是吗？你运气不错，我就喜欢刺激。",
+		"这种程度可没办法让你活着出去。不过，你倒是把我弄得更湿了！",
+		"不得不说，你在里面手撑脚踢的感觉就跟胎动一样让我浮想联翩~",
+		"哎哟，要不是我心里有数，可就真以为你想出去呢。"
 	],
 	"struggleTail": [
-		"If you're tryin' to throw off my balance, you're gonna have to work way harder than that.",
-		"You doing good back there? Not you, I'm talking to my tail."
+		"你要是想通过蛄蛹来让我失去平衡，那可得加把劲了。",
+		"你在后面还好吗？没跟你聊，我只跟我的尾巴说话。"
 	],
 	"struggleBreasts": [
-		"My 'girls' haven't jiggled this much in a long while. Keep it up~",
-		"If there's too much milk in there, drink up. 100 pixels a sip.",
-		"Not gonna lie, it's almost hypnotic watchin' you squirm in my boobs.",
-		"Thanks to you, I'm easily the sexiest bandit in this galaxy~"
+		"我的'姑娘们'好久没这么晃荡过了。继续保持～",
+		"要是里面奶水太多，就喝掉。这样炼出来的奶味道也差不多。",
+		"说实话，看着你在我乳房里扭动可真让人着迷。",
+		"多亏了你，我这巨乳肯定能勾引更多猎物。"
 	],
 	"struggleBreastsShirt": [
-		"What, my tight-fit clothin' too much for you?",
-		"I usually wear dark outfits, so good luck gettin' anyone to see your squirmin'",
-		"If you stain my clothes, you're payin' for dry cleanin'.",
-		"I should show you off to the world, but I like to keep my prizes well-hidden~"
+		"怎么，我这身紧身上衣让你受不了了？",
+		"我平时都穿深色衣服，所以别指望有人能看到你弄出来的奶。",
+		"要是你弄脏弄坏了我的衣服，我就立刻把奶子压向墙壁挤扁你。",
+		"这胸罩质量怎么样？很多猎物都放弃逃跑接受沦为乳汁的命运了~"
 	],
 	"strugglePussy": [
-		"Oh hush, prey like you should know where you belong: tucked away deep inside me~",
-		"What, embarrassed about where you're at? Too bad~"
+		"嘘，安静点，像你这样的猎物就该知道自己的归宿：不是在子宫就是在蜜穴里~",
+		"你比我此前塞进小穴的任何一个玩具都要爽！继续动，我或许会留着你下次用~"
 	],
 	"struggleCock": [
-		"Every time you resist, my cock gets harder for me and tighter for you~",
-		"Looking for the way out? I suggest tryin' to move ^#00BEBE;up^reset;.",
-		"Even if I cum, you ain't comin' out. One finger is all I need to keep you down~",
-		"Heh, gettin' hard to tell the difference between your squirms and my throbs~"
+		"你越是反抗，我的鸡巴就越硬，对你来说就越紧~",
+		"在找出去的路？我建议你试试向^#00BEBE;上^reset;爬。",
+		"就算我射精了，你也别想出来。我一根手指就能把你按下去~",
+		"呵，都快分不清你的扭动和我的悸动了。"
 	],
 	"struggleBalls": [
-		"Look at you, trapped in a bandit's sack. Too bad there isn't any loot~",
-		"I won't lie, I really enjoy watchin' you slosh around in my nuts.",
-		"What? Don't like my 'family jewels'? Oh well.",
-		"Even if you get out, you're gonna smell like a bandit for a long time~"
+		"怎么？里面又闷又热？心静自然凉，安静点～",
+		"实话实说，我就喜欢看着你在我的阴囊里瞎晃荡。",
+		"白费功夫。老实变成精子，然后把力气用在卵子争夺战上吧。",
+		"与其满身精臭活着出去，还不如直接溶解在里面呢~"
 	],
 	"struggleAss": [
-		"Rare for me to keep anything up my ass, but you belong in there."
+		"继续挣扎，否则我就把你*咽*下去消化掉。"
 	],
 	"struggleAcidHeal": [
-		"I felt like keepin' ya around, so don't tell anyone.",
-		"Good, show me that your strength is comin' back.",
-		"Not normally my thing, but you seem fun enough.",
-		"Now you have to wonder, am I healin' ya just to melt you down later? Maybe~"
+		"就是这样。求生不能求死不得。人们最终会忘记你的存在。",
+		"嚯嚯，小东西还挺有力气。看来你还活着且恢复的不错。",
+		"使劲挣扎，最好让外人看到后以为你正在被我残忍痛苦地折磨消化。",
+		"被你发现了？那我就直说了：等把你治好后我会接着消化你，弄得你半死不活后再继续治疗~"
 	],
 	"struggleFemcumHeal": [
-		"You caught me in a good mood, so enjoy.",
-		"That's a good, strong kick.",
-		"Shhh, you'll alert the others. Then I might have to change my mind.",
-		"Tryin' to get out or just showin' your appreciation? Better not be the first."
+		"得亏我现在心情不错，不然我肯定会把你压扁溶解掉。",
+		"这一脚踢得真粗鲁。明明妈妈这是为你好！",
+		"嘘，你会惊动其他人的。到时候我可就假戏真做了。",
+		"你这是感觉难受，还是感觉很舒服？我不在乎哦~"
 	],
 	"struggleCumHeal": ":struggleAcidHeal",
 	"struggleMilkHeal": [
-		"You should relax and recover. Otherwise, you might be joinin' that milk.",
-		"I like your enthusiasm but you gotta drink the milk, not spill it all over me.",
-		"Drink as much as you need. I need you nice and plump for later~",
-		"You spill the beans that I'm healin' ya and I'll turn you into spilled milk."
+		"趁现在赶紧放松恢复体力。不然，你可能撑不过下一轮蹂躏。",
+		"我喜欢你的热情，但乖乖把奶喝完，别洒我一身。",
+		"想喝多少就喝多少。我得把你养得肥肥嫩嫩的，以备后用～",
+		"对于现在发生的事你最好嘴巴小点，反正我的嘴巴和胃口都很大。"
 	],
 	"struggleMiscHeal": ":struggleAcidHeal",
 	"struggleCompression": "/npcs/sbq/dialogue/default.dialogue:struggleCompression",
 	"struggleAcidDigest": [
-		"Wiggle and squirm all ya want, I love the feelin' of a live meal.",
-		"*urp* Heh, can still taste ya.",
-		"Come now, bein' bandit fat ain't so bad. I'll even add ya to somewhere intimate~",
-		"You should give up. Or don't. My stomach always wins in the end.",
-		"I always feel such a rush turnin' nerds into a soft layer of pudge.",
-		"Melted down by a measly bandit, how embarrassing~",
-		"I should find a quiet spot to rest and digest ya."
+		"随你怎么扭，我就喜欢活物在体内拼命挣扎的感觉。",
+		" *嗝嗝~* 呵呵，依然能尝出你的味道。还活着呢？",
+		"来吧，变成我身上的脂肪也没那么糟。我甚至会把你塞进某个私密的地方~",
+		"你还是放弃吧。或者千万别放弃。反正到最后我的胃袋都会赢。",
+		"将活生生的猎物变成一层软趴趴赘肉的那个瞬间，可真是让我陶醉与高潮。",
+		"你就要被我消化成一滩毫无意义的糊糊了。多么可惜，多么丢人啊～",
+		"我该找个安静舒适的地方休息一下，把你美美消化掉。"
 	],
 	"struggleAcidDigestImmune": [
-		"Hm, you're stronger than I thought.",
-		"Immune to acids, huh? At least your strugglin' feels good.",
-		"Indigestible, are you? Whatever, that means you're along for the ride.",
-		"*urp* Tasty. And since you ain't meltin', I get to taste ya as much as I like~"
+		"哼，你全身都跟你的骨头一样硬一样难缠。",
+		"免疫胃酸，哈？但你还是出不来。继续在里面使劲挣扎取悦我！",
+		"没法消化你，是吧？无所谓，你就在里面一直陪着我吧。",
+		"*嗝* 味道不错。既然你溶解不掉，那我就能尽情享用你的味道了~"
 	],
 	"struggleCumDigest": [
-		"What's the matter? My dick too strong for you? Too bad.",
-		"Keep it up, both literally and figuratively. Your squirms are perfect~",
-		"I'd be lying if I said I wasn't going to miss your wigglin'. Ah well.",
-		"That's the spot. Keep pushin' there until you melt~",
-		"Heh, with each and every throb, I can feel you gettin' softer.",
-		"Won't be long before you become a nice load of bandit spunk for later~",
-		"Forcin' you down into my balls sounds temptin' but my shaft feels soo goood~"
+		"怎么了？我的鸡巴对你来说太硬了？那就太可惜了。",
+		"继续表停，无论你是装的还是真在反抗。你的扭动都能让我高潮~",
+		"使劲扭，如果你够努力就能让我射精。或许你会和精液一起被喷出来。",
+		"就是那个地方。继续往那儿挤，一直扭扭到你溶解成精液~",
+		"呵呵，每来一次悸动，我都能感觉到你变得更软了。",
+		"用不了多久，你就会变成一管黏黏的精液了，届时我就把你射出去~",
+		"虽然我很想把你挤进我炙热的蛋蛋里，但我的肉棒感觉太爽了～"
 	],
 	"struggleCumDigestBalls": [
-		"Ooh, that felt good~ Push there again as long as you're still solid.",
-		"No need to be so testy, my balls will be done with you soon.",
-		"Wow, that almost set me off. Too bad you're still stuck in there~",
-		"Hmm, should I keep you to myself or share once you're nothing but cum?",
-		"Enjoying your cum bath? Just relax and let everything melt away~",
-		"Betcha never thought you'd vanish into a bandit's sack~",
-		"Mmm, won't be long before you're just another load of hot bandit cum~"
+		"哦，感觉真爽～继续挣扎把你的脸按在肉壁上，这样你能更快溶化。",
+		"别这么暴躁嘛，我的蛋蛋们很快就会把你安定下来的。",
+		"哇，阴囊收缩的样子太可爱了。但是你那未溶解的身形真碍眼～",
+		"嘿！等你变成精液后，我是该自己享用你，还是把你分享给别人呢？",
+		"还享受你的精液浴吗？放轻松，让一切都融化掉吧~",
+		"和胃酸相比，被精液消化的感觉怎么样？反正变成\"食糜\"就对了",
+		"呼呼呼，用不了多久，你就会变成另一团滚烫，浓稠，香气四溢的白色精液了～"
 	],
 	"struggleCumDigestImmune": [
-		"Alright, so you can't melt into cum. More fun for me~",
-		"I'm glad you can't turn into cum. I've been needin' a lot of attention.",
-		"Immune or not, you're going to help me make plenty of cum~"
+		"好吧，看来精液溶解不了你。不过你再也没有机会出去了，这可就有更多乐子啦！",
+		"你不会变成精液！那你就不是消耗品了！我早就厌倦总要找新玩具了。",
+		"不管你能不能被溶解，你都得呆在里面，帮我生产更多精液～"
 	],
 	"struggleFemcumDigest": [
-		"What's the matter? My womb too strong for you? Too bad.",
-		"Keep it up. Your squirms are perfect~",
-		"I'd be lying if I said I wasn't going to miss your wigglin'. Ah well.",
-		"That's the spot. Keep pushin' there until you melt~",
-		"Heh, with each and every beat of my heart, I can feel you gettin' softer."
+		"对对对，继续挣扎。或许我喷水的时候能连带着你一起喷出来~",
+		"感觉到身上有液体在滴落吗？那是你在重获新生！快接受我的恩赐！",
+		"就是这样！先是阴道，然后滑进子宫里。再深点，再深点！",
+		"就是那里面。继续往那里面挤，使劲挣扎，直到最后你被榨成汁！",
+		"呵，伴随着我蜜穴的抽动，你变得越来越黏滑，越来越软了。"
 	],
 	"struggleFemcumDigestImmune": [
-		"That was quite the kick. Guess you can't be melted.",
-		"I'll be honest, I prefer keepin' you trapped for much, *much* longer~",
-		"Not getting softer, I see. Means we can have all the fun I want~"
+		"使劲踢使劲踹我的子宫壁。也许我会早点把你生出来。",
+		"这么不想被榨干？那我可就把你困死在里面，一时半会儿你可别想着出来！",
+		"看起来你不会变软。那就意味着我可以在你身上尝试所有玩法惹~"
 	],
 	"struggleMilkDigest": [
-		"If you're that embarrassed to be in my boobs, it'd be easier for you to melt.",
-		"Don't worry, I'll make sure to sell any milk you make for a premium price.",
-		"Heh, can't wait to have a sample once you're finished.",
-		"Hmm, I wonder if I should try makin' some ice cream from ya.",
-		"I can tell you're gonna be a real rich and creamy batch.",
-		"Meltin' away in a bandit's boobs. How lucky~",
-		"Drink as much as you like, I'll have plenty more once you're done."
+		"要是你在我的奶子里感到很羞耻，那你就干脆溶解掉算了。",
+		"别担心，等把你炼成乳汁，我肯定能拿你卖个好价钱。",
+		"呵，赶紧溶化。我等不及要尝尝将你炼成乳汁后的味道了。",
+		"感觉跟地狱一样热？别怕，等我拿你做冰淇淋的时候你会凉快下来的。",
+		"很快你就会变成一团香甜浓郁醇厚的母乳了。",
+		"感觉疼吗？疼就对了！这样你才能更用力地揉我的奶子~",
+		"想喝多少就喝多少。等你溶化了，我会有更多奶水了。"
 	],
 	"struggleMilkDigestBreastsShirt": [
-		"What a shame that others can't see just how hard your squirmin'.",
-		"A calm ocean on the outside; a stormy sea on the inside~",
-		"No one can't see it, but I can feel you getting softer and softer.",
-		"You should settle down. No one else has a clue where you are.",
-		"Tryin' to pop my top off? Gonna have to work harder than that~",
-		"I almost want to get caught so I can give you some company~",
-		"Hmhm, vanished without a trace. Well, until you're done, that is~"
+		"放心，没人能看到你剧烈的扭动。你的呼救全是徒劳。",
+		"外表风平浪静，内里\"波\"涛汹涌～",
+		"在一个无人在意的角落，你愈发疲软，但还活着。直到你变成了甘甜的奶水。",
+		"加油！我穿了特质胸罩。你弄不破，挣脱不出来，别人更看不到你。",
+		"在尝试把我的上衣撑破？那你可得再加把劲了，变成乳汁能让我的奶子变得更大。",
+		"使劲挣扎，等有人不知好歹地问起我的胸，我就把他塞进来跟你作伴儿~",
+		"哼哼，无人知无人晓。待到你化成乳汁就更没人记得你辣~~"
 	],
 	"struggleMilkDigestImmune": [
-		"Mm, still jigglin' away, are you? Guess you're immune.",
-		"I don't mind that you can't melt. My boobs needed to upgrade a tier, anyway~",
-		"Can't be turned into milk, huh? Oh well, you're still putting on a good show~"
+		"看来你免疫炼乳，不是吗？那就给我在里面使劲晃荡吧。",
+		"我不介意你溶不溶解得掉。反正你让我的奶子变得更翘更肥美了~",
+		"无法变成奶水，哈？好吧，就算是这样你还是被我困住了。别想逃出去！"
 	],
 	"struggleMiscDigest": ":struggleAcidDigest",
 	"struggleMiscDigestImmune": ":struggleAcidDigestImmune",
 	"struggleTransformed": [
 		[
-			"Congrats, you're a partial outlaw now.",
-			"That should do the trick.",
-			"You've changed. I can feel it.",
-			"Do you feel different, now?"
+			"同化完成，你现在跟我一样要靠吃其他人为生了。早点接受吧。",
+			"都结束了，跟你过去的生活与关系说再见吧。",
+			"不管你愿不愿意承认，你现在算是我的孩子喽。",
+			"你还活着！至于你的物种？这是幸存者的诅咒~"
 		]
 	],
 	"struggleTransforming": {
 		"percentage": "transforming",
 		"pools": [
 			[
-				"I ain't gonna make you a full-fledged bandit, but this'll put you one step closer.",
-				"You should relax, being an outlaw is more fun than you think.",
-				"Loosen up and see how it feels to be in my world."
+				"这样还不足以将你变成一个捕食者，但能让你离变成捕食者更近一步。",
+				"死鬼再用点力挣扎啊，同化就要完成啦~",
+				"放松~。虽然还是很疼，但至少我这次大发慈悲留你一命了。"
 			]
 		],
 		"full": [
@@ -2342,238 +2342,238 @@
 		]
 	},
 	"struggleDrainEnergy": [
-		"Mmm, I'd tell you that you're wastin' your time, but I want you to give me more of your energy.",
-		"Not only do I get to steal you, but I also get your energy? Must be my lucky day~",
-		"Keep it up. The more energy you give me, the more I can have my way with you."
+		"嗬，我本想告诉你这都是白费力气，但你停下了我又怎么汲取能量呢。",
+		"居然还在挣扎，能量够用吗？你不会真觉得在被我消化之前还有机会逃出去吧~？",
+		"不要停。你给我的能量越多，我就有越多的方法折腾你。"
 	],
 	"struggleEggify": [
-		"Better hurry, your struggles will become pointless once you're stuck in an egg.",
-		"Don't worry about the egg, I'm just makin' you far easier to handle.",
-		"Heh, I'm only addin' another layer between you and your freedom~"
+		"再快点，一旦你被困在蛋里，挣扎就再也没用了。",
+		"不用在意这层蛋壳，我只是想更容易地支配你。",
+		"呵，我只是在你和自由之间又加了一层障碍~"
 	],
 	"anyInfusedOccupant": [
-		"You're the best part of my bad self~",
-		"You're the best part of my bad self, <entityName>~" // very very placeholder
+		"你和我这个邪恶的存在融为一体了~",
+		"你是我坏坏的内心中最善良最孤独的一部分，<entityName>~" // very very placeholder
 	],
 	"thighsInfusedOccupant": [
-		"Thanks for addin' to my already luscious thighs~",
-		"Thanks for addin' to my already luscious thighs, <entityName>~"
+		"谢谢你让我本就迷人的大腿更丰满了~",
+		"你让我本就迷人的大腿更壮实了，<entityName>~"
 	],
 	"bellyInfusedOccupant": [
-		"Ha, let's go find a nerd to melt down.",
-		"Heh, time to find someone to put in <entityName> Jail."
+		"哈，我去丸吞几只倒霉蛋，你负责将他们消化。",
+		"嘿，找个人来试试<entityName>分泌的胃酸效果怎么样。"
 	],
 	"breastInfusedOccupant": [
 		[
-			"<slowlove>Gotta say, you make for a great pair of tits~",
-			"<slowlove>Gotta say, you make for a great pair of tits, <entityName>~"
+			"<slowlove>不得不说，你真是一对俊\"翘\"的乳房~",
+			"<slowlove>人长得不怎么样，变成奶子还挺可爱的嘛，<entityName>~"
 		],
 		[
-			"<slowlove>Heh, leak as much as you like. I can always sell the milk~",
-			"<slowlove>Heh, leak as much as you like, <entityName>. I can always sell the milk~"
+			"<slowlove>嘿，随便漏吧。我总能把奶卖掉~",
+			"<slowlove>奶嘴闭严了，<entityName>。我的乳汁可金贵着呢~"
 		],
 		[
-			"<slowlove>Kinda hypnotic watchin' you jiggle like that~",
-			"<slowlove>Kinda hypnotic watchin' you jiggle like that, <entityName>~"
+			"<slowlove>看着你这么晃动还挺催眠的~",
+			"<slowlove>变成乳房了也不忘挣扎么，<entityName>~"
 		],
 		[
-			"<love>Who would ever look for you, when they can look *at* you~?",
-			"<love>Who would ever look for you, <entityName>, when they can look *at* you~?"
+			"<love>我相信你肯定是万众瞩目的焦点~",
+			"<love>谁会在乎你呢，<entityName>？他们只想*盯着*你看~"
 		]
 	],
 	"pussyInfusedOccupant": [
 		[
-			"<slowlove>Damn, is that you makin' me so wet~? Keep it up.",
-			"<slowlove><entityName>, is that you makin' me so wet~? Keep it up."
+			"<slowlove>我靠，就是你让我这么湿的吗~？继续不要停。",
+			"<slowlove><entityName>！口水流的到处都是！我得找些东西堵住你的洞！"
 		],
 		[
-			"<slowlove>Yeah, I'm pretty sure you belong as my lower lips~",
-			"<slowlove><entityName>, I'm pretty sure you belong as my lower lips~"
+			"<slowlove>好爽，我就知道拿你做我的小穴准没错~",
+			"<slowlove><entityName>，你的阴唇真是可爱~"
 		],
 		[
-			"<slowlove>Sheesh, gonna have to find somethin' or someone to fill you up...",
-			"<slowlove>Sheesh, gonna have to find somethin' or someone to fill you up, <entityName>..."
+			"<slowlove>如果你很饥渴，就张大你的阴唇。我会满足你的。",
+			"<slowlove>你想吃点什么，<entityName>？浓稠的白色精液还是活体小零食？"
 		],
 		[
-			"<love>F-fuck~ Keep me feelin' like that and you ain't leavin'~",
-			"<love>F-fuck~ Keep me feelin' like that, <entityName>, and you ain't leavin'~"
+			"<love>草-操~让我一直欲火中烧，你别想逃！跟着我一起吃鸡吧~",
+			"<love>做好准备，<entityName>。不把你的处女膜捅破我是不会放你走的~"
 		]
 	],
 	"cockInfusedOccupant": [
 		[
-			"<love>Not a bad throb. Too bad it's only makin' me feel good~",
-			"<love>Nod a bad throb, <entityName>. Too bad it's only makin' me feel good~"
+			"<love>保持这种悸动。反正我是爽了~",
+			"<love>干的不错，<entityName>。保持我的长矛锋利~"
 		],
 		[
-			"<love>You're my hidden prize; all tucked away between an outlaw's thighs~",
-			"<love>You're my hidden prize, <entityName>; all tucked away between an outlaw's thighs~"
+			"<love>人们都说你是一个伟大的探险家。但我只看到了萎，没有大~",
+			"<love>你就是我的秘密武器，<entityName>。时刻准备利刃出鞘~"
 		],
 		[
-			"<slowlove>Just face it, you love bein' my bad bone~",
-			"<slowlove>Just face it <entityName>, you love bein' my bad bone~"
+			"<slowlove>面对现实吧，你其实很想捅破玩坏别人的小穴不是么~",
+			"<slowlove>承认吧，<entityName>，你已经爱上当我的阴茎骨了~"
 		],
 		[
-			"<love>Feelin' pent up... Either you're goin' into someone, or they're goin' into you~",
-			"<love>Feelin' pent up... Either you're goin' into someone, or they're goin' into you, <entityName>~"
+			"<love>感觉憋得慌... 你是想先吃后插，还是先插后吃~？",
+			"<love>好无聊... <entityName>，你想吃点什么，还是想往子宫里吐点什么？"
 		],
 		[
-			"<love>I'm getting hard debatin' on keepin' you or not~",
-			"<love>I'm getting hard debatin' on keepin' you or not, <entityName>~"
+			"<love>我在纠结还要不要留着你，又大又硬，甩来甩去~",
+			"<love>还在生我的气吗，<entityName>？到现在还是鼓鼓的~"
 		]
 	],
 	"pawInfusedOccupant": [
-		"Sorry, but not sorry. We're gonna be on the run a *lot*~",
-		"You feel good down there. I'll make sure to squish a few nerds with ya~"
+		"抱歉，但也不抱歉。之后*有的是*路要你跑~",
+		"把你踩在下面感觉很好。之后用你踩扁几个小人感觉会更好~"
 	],
 	"tailInfusedOccupant": [
-		"Finally, I've got myself a proper tail~",
-		"Should've guessed 'heads', <entityName>~",
-		"Guess you just can't stop following me, <entityName>~"
+		"终于，我有了一条像样的，能吃人的尾巴了~",
+		"作为我的尾巴，你想咬谁就咬谁，想吃谁就吃谁~",
+		"看来你就是喜欢尾随我，<entityName>~"
 	],
 	"strugglingBelly": [
-		"Not a bad gut, but you really should store more valuables in here.",
-		"Even if I asked for it, I can't let anyone think I'm goin' down easy!"
+		"很可爱的胃袋，但不够恐怖，对待食物不够凶猛。",
+		"就算是我自己要进来的，也不能让任何人觉得我会轻易认输！"
 	],
 	"strugglingWomb": [
-		"Wow... This is comfy... I mean, I gotta escape!",
-		"If this is your idea of a jail cell... I approve.",
-		"Gettin' harder... not to... doze off..."
+		"哇... 这里面好舒服... 我是说，看我分分钟出去！",
+		"你感受过胎动么？总之，我会继续踹你的。",
+		"越来越... 可不能... 睡着..."
 	],
 	"strugglingTail": [
-		"Geez, how excited are you? Stop wagging!",
-		"It's hard to get my bearings with all this swayin'...",
-		"Your tail would make for a good hammock..."
+		"天，你有多兴奋？别摇尾巴了！",
+		"这里面好挤！快让我出去或送我进去。",
+		"你的尾巴算是个不错的吊床"
 	],
 	"strugglingBreasts": [
-		"Soft on the outside *and* on the inside...",
-		"This better not stain my gear...",
-		"I'll admit, you've got some pretty good 'cushions' on you!",
-		"Is that your heart beating, or is it mine?"
+		"外面软，里面也软...",
+		"别把我的装备泡坏了！",
+		"我得承认，你这'肉垫'质量真不错！",
+		"乳汁味道不够劲，你该丸吞一些活人当原料的。"
 	],
 	"strugglingBreastsShirt": [
-		"I can barely move...!",
-		"Can't even manage to jiggle..."
+		"这里面好紧... 我几乎动不了。",
+		"根本晃不起来啊..."
 	],
 	"strugglingPussy": [
-		"Guh, that was a good clench.",
-		"H-hey! Don't forget about me down here!",
-		"Gotta... keep... wigglin'..."
+		"啊，你这里面的收缩可真厉害。",
+		"哎-哎！我还在你下面的那个洞里面呢！",
+		"看好... 我..肯定..能..扭出去..."
 	],
 	"strugglingCock": [
-		"Damn, you're *hard*!",
-		"Wow, you're... really squeezin' me here!",
-		"I can't lie, this is gettin' to me~"
+		"天呐，你可*真硬*！",
+		"哇，你...你可真把我压在这里面了！",
+		"不得不说，我感觉骨头要被挤断了~"
 	],
 	"strugglingBalls": [
-		"Yep. All of my stuff smells like you now.",
-		"Stored away so effortlessly...",
-		"Just gonna stir things up a bit...",
-		"So much... cum..."
+		"唔。全身都浸泡在精液里面。",
+		"这里面空间好小，快放我出去！",
+		"看我在你蛋蛋里面大闹一通。",
+		"噫~，好粘！好恶心！"
 	],
 	"strugglingAss": [
-		"Not my idea of an escape tunnel...",
-		"Nice ass, but I'd rather see it from the outside..."
+		"迫不得已我才会选这条逃生通道...",
+		"很翘的屁股，但我还是更喜欢从外面欣赏..."
 	],
 	"strugglingAcidHeal": [
-		"Healin' me after all that trouble? I might remember that.",
-		"That's... pretty nice, actually. Thanks.",
-		"Don't tell anyone, but I really enjoy this..."
+		"在里面一通闹腾还给我治疗？那我得多闹腾闹腾。",
+		"感觉不错。我就当是你对我的尊重了。",
+		"我饿了，你再去丸吞个谁下来给我填填肚子。"
 	],
 	"strugglingFemcumHeal": ":strugglingAcidHeal",
 	"strugglingCumHeal": ":strugglingAcidHeal",
 	"strugglingMilkHeal": [
-		"That's some good milk...",
-		"Relaxin' in warm milk is just as nice as drinkin' it...",
-		"If only I had some cookies..."
+		"嗯，乳汁味道不错。",
+		"这牛奶浴很舒服，还有奶子能捏~",
+		"给我送点面包进来！"
 	],
 	"strugglingMiscHeal": ":strugglingAcidHeal",
 	"strugglingCompression": [
-		"H-hey! This isn't what I meant by hidin' me away!",
-		"Can barely even... move...",
-		"Everything's gettin' so cramped..."
+		"天，怎么突然变得这么挤。",
+		"动-动弹不得... 应该是我挤压别人...",
+		"你在对我做什么？挤死了，快停下！"
 	],
 	"strugglingAcidDigest": [
-		"I'm supposed to be higher on the food chain than this...",
-		"Meltin' me down? That's fair."
+		"天..天哪...我要被消化了？不-不要，快停下！",
+		"我之前吞下的每一只食物都是这个下场吗..."
 	],
 	"strugglingAcidDigestImmune": [
 		[
-			"I'm too tough for that.",
-			"I'm too tough for that.\nNice try, though."
+			"消化免疫，小子！",
+			"勇敢的尝试。\n但没有一丁点效果。"
 		],
-		"Ha, gonna have to try harder than that to melt me down.",
-		"Too bad, I'm not that soft.",
-		"Huh, is that all you got?"
+		"哈，想消化我还得再加把劲。",
+		"你完了，居然敢消化我。等我把你吞掉保你死无全尸！",
+		"呵，怎么？就这点能耐？"
 	],
 	"strugglingCumDigest": [
-		"Turnin' me into seed is gonna yield some bad apples~",
-		"Heh, I can't wait for the climax...~"
+		"不要，不要溶解我。至少直接把我射到子宫里，别把我射到奇怪的地方...",
+		"我的身体！我的身体在变软变白！不可以，停下！"
 	],
 	"strugglingCumDigestBalls": [
-		"You're not afraid that I'm gonna make a bad batch~?"
+		"天呐，在这里面被溶解...我什么时候才能活着出去啊？"
 	],
 	"strugglingCumDigestImmune": [
-		"You tried, but I ain't addin' to your cum.",
-		"Condoms are fun, but you aren't fillin' one with me.",
-		"It's hot, but I'm not gonna be leavin' in a puddle."
+		"你尽力了，但还是没法把我变成哪怕一粒种子。",
+		"安全套是挺好玩的，回来我就把你塞进去！",
+		"好骚热，但你的小心思还是泡汤了。"
 	],
 	"strugglingFemcumDigest": [
-		"Gettin' harder to stay solid...",
-		"It's soft... and hot... and melty...",
-		"Damn... I can almost feel myself dribblin' out..."
+		"我不想死，我还想活着！求求你，什么丸吞玩法都行，但不要这种！",
+		"我不要，我才不要为了你的性欲被榨成毫无意义的淫水，我不要！",
+		"该死... 我好像感觉从我身上溶解下来的汁水已经流出小穴口了..."
 	],
 	"strugglingFemcumDigestImmune": [
-		"I'm a bandit, I can deal with the heat~",
-		"It's kinda sexy knowin' you're really tryin~",
-		"Sorry to disappoint, but I'm still solid."
+		"我记下了，你以后最好多注意头顶~",
+		"一想到你这拼命尝试的样子就还挺带感的~",
+		"抱歉让你失望了，但我可是一点都没有软弱下来哦。"
 	],
 	"strugglingMilkDigest": [
-		"Heh, not afraid I'll spoil what you got?",
-		"Gettin' tough to stay afloat in this rough ocean...",
-		"Didn't think I'd be done in by a chest full of 'treasure'...",
-		"Gah! I'm booby-trapped!"
+		"快停下！你再这样，你再这样我就跟你鱼死网破！",
+		"我...我要被淹死了，求你，快点放我出去！",
+		"你，你想拿我的奶做什么？自己喝还是拿去卖... 哪个都不要啊...",
+		"啊！我被困住了，有没有人能救我出去..."
 	],
 	"strugglingMilkDigestBreastsShirt": [
-		"It's hot... and the best I can do...\nis cause a wardrobe malfunction..."
+		"天哪...出去都是个问题，你的衣服还拦着我...\n恐-恐怕我真的栽在这里了..."
 	],
 	"strugglingMilkDigestImmune": [
-		"Heh, can't milk me!"
+		"哼，别想从我身上榨出哪怕一滴奶！"
 	],
 	"strugglingMiscDigest": ":strugglingAcidDigest",
 	"strugglingMiscDigestImmune": ":strugglingAcidDigestImmune",
 	"strugglingTransforming": [
-		"Tryin' to change me for the better? We'll see about that.",
-		"Even if you change me on the outside, I'm still an outlaw on the inside!"
+		"你觉得同化我就能改变我的想法？出去后我第一个就吃了你。",
+		"就算你能改变我的身体，我还是会想吃了你！"
 	],
 	"strugglingDrainEnergy": [
-		"That's my energy you're stealin'...",
-		"Must... think... dastardly thoughts...",
-		"Gettin' real hard... to move, that is...",
-		"Stealin's bad... when I'm not doin' it...",
-		"Come on... one more kick...",
-		"I'm not... an energy drink...",
-		"So tired... Can't move..."
+		"你居然在汲取我的能量...",
+		"得快点... 想办法... 逃出去。",
+		"越来越难... 动弹，也就是说...",
+		"不许抢我的能量... 快停下...",
+		"快点... 再踢几下...",
+		"我不是... 能量饮料...",
+		"好累..意识模糊..我要死了么..."
 	],
 	"strugglingEggify": [
-		"An egg? This might be trouble...",
-		"Hey! I'm not part of a balanced breakfast. Oh wait."
+		"蛋壳？等等你要把我困在蛋里？不要，放我出去！",
+		"停下停下！我才不要被做成培根煎蛋！"
 	],
 	"anyInfused": [
 		"<slowlove>",
 		"<love>",
 		[
 			[
-				"(Nice and hidden away as a part of you~)",
-				"(Nice and hidden away as a part of <entityName>'s body~)"
+				"(被迫与你的身体融为一体。)",
+				"(藏在了<entityName>身体的深处。)"
 			],
-			"<slowlove>(I can't complain, it's perfect here~)",
-			"<slowlove>(You make for the perfect hideout, <entityName>~)",
+			"<slowlove>(没啥能抱怨的，至少我还留有意识...)",
+			"<slowlove>(沦为了<entityName>身体的一部分~)",
 			"<love>(<keysmash>)"
 		]
 	],
 	"thighsInfused": [
-		"<slowlove>(Hidden away within your thighs~)",
-		"<slowlove>(Not a single trace, just a warm layer of soft pudge~)",
+		"<slowlove>(藏在你的大腿里~)",
+		"<slowlove>(一点痕迹都没有，只有一层温暖的软肉~)",
 		"<love>(<keysmash>)"
 	],
 	"bellyInfused": [
@@ -2581,11 +2581,11 @@
 		"<love>",
 		[
 			[
-				"(Meltin' food and nerds as a belly~)",
-				"(Meltin' food and nerds as a part of you~)",
-				"(Meltin' food and nerds as <entityName>'s belly~)"
+				"(我会为你好好地把食物消化殆尽的~)",
+				"(我居然还有机会能消化傻瓜们，还是亲自消化他们~)",
+				"(正作为<entityName>的胃袋狠狠消化食物与呆瓜~)"
 			],
-			"<slowlove>(Right where I need to be... <entityName>'s powerful stomach~)",
+			"<slowlove>(作为<entityName>肚中强有力的胃袋... 我居然喜欢这种感觉~)",
 			"<love>(<keysmash>)"
 		]
 	],
@@ -2593,10 +2593,10 @@
 		"<slowlove>",
 		"<love>",
 		[
-			"<slowlove>(Mmm, the center of attention~)",
-			"<slowlove>(Such a lovely heartbeat...~)",
-			"<slowlove>(Makin' plenty of milk...~)",
-			"<slowlove>(Right where I need to be... <entityName>'s perfect rack~)",
+			"<slowlove>(天哪，会有好多人看到我... 他们会认出我来吗~？)",
+			"<slowlove>(虽然我听不到自己的心跳了...但还能听到你的...~)",
+			"<slowlove>(哇，我生产了好多奶... 要是能给我几只傻瓜就更好了~)",
+			"<slowlove>(作为<entityName>丰满的奶子... 这感觉也不错~)",
 			"<love>(<keysmash>)"
 		]
 	],
@@ -2604,12 +2604,12 @@
 		"<slowlove>",
 		"<love>",
 		[
-			"<slowlove>(Just a single pixel...~)",
-			"<slowlove>(Go and find a nice toy...~)",
-			"<slowlove>(So... wet...~)",
-			"<slowlove>(Just perfect...~)",
-			"<slowlove>(<entityName>'s eager pussy~)",
-			"<slowlove>(Right where I need to be... <entityName>'s lower lips~)",
+			"<slowlove>(沦为了一个小像素点...)",
+			"<slowlove>(可..可不可以给我找个玩具..或零食~？)",
+			"<slowlove>(感觉好热... 天呐，我喷了好多水出来~)",
+			"<slowlove>(我都以为我死了，没想到这是新生~)",
+			"<slowlove>(我是<entityName>那饥渴难耐的蜜穴~)",
+			"<slowlove>(等等，现在的我是口小穴... 我不想吃鸡巴，不想被破处><)",
 			"<love>(<keysmash>)"
 		]
 	],
@@ -2617,327 +2617,326 @@
 		"<slowlove>",
 		"<love>",
 		[
-			"<slowlove>(This is the life...~)",
-			"<slowlove>(Right between your perfect thighs...~)",
-			"<slowlove>(I'm happy to be a dick~)",
-			"<slowlove>(Mmm, put me to good use...~)",
-			"<slowlove>(Every throb... Every twitch...~)",
-			"<slowlove>(<entityName>'s throbbing cock~)",
-			"<slowlove>(Right where I need to be... <entityName>'s sturdy rod~)",
+			"<slowlove>(生活就是这样...~)",
+			"<slowlove>(被夹在完美的大腿间...~)",
+			"<slowlove>(仍有意识，仍有快感~)",
+			"<slowlove>(我等不及要捅破处女膜，往子宫里吐一堆会导致怀孕的精子了~)",
+			"<slowlove>(好想体验小傻瓜们的生命在我体内逐渐消逝，变成精液的感觉~)",
+			"<slowlove>(<entityName>！快点拿些什么取悦我~)",
+			"<slowlove>(我就该是<entityName>下面结实的肉棒~)",
 			"<love>(<keysmash>)"
 		]
 	],
 	"pawInfused": [
-		"<slowlove>(Feelin' that pressure~)",
-		"<slowlove>(Let's find a micro to squish...~)"
+		"<slowlove>(感受这被踩在脚下的压力~)",
+		"<slowlove>(快找个小不点，把他踩扁，踩死~！)"
 	],
 	"tailInfused": [
-		"<slowlove>(I've got your back~)",
-		"<slowlove>(Swaying to and fro... Happy to be here...~)",
-		"<slowlove>(Right where I need to be... <entityName>'s beautiful tail~)"
+		"<slowlove>(至少我还算是我自己，好想吃点零食呐~)",
+		"<slowlove>(摇尾巴~接受了全新的命运~)",
+		"<slowlove>(我是<entityName>那硕大而又美丽的尾巴~)"
 	],
 	"climax": [
-		"Ffff~ That hit all the right notes~"
+		"呼呼呼~直触所有爽点~"
 	],
 	"climaxWomb": [
 		{
 			"dialogue": [
-				"Ooo, that's the stuff. Push again right there and--aaAAAH!",
-				"Ffff~",
-				"Mmm, not bad... Keep that up and I might keep ya around..."
+				"哦哦，这感觉太棒了。再在那儿动一下——呀啊啊！",
+				"芜芜芜芜芜呼~",
+				"姆，不错... 好好表现，我或许会把你留下..."
 			]
 		}
 	],
 	"climaxBreasts": [
 		{
 			"dialogue": [
-				"Wow, that's a sensitive spot... Keep jigglin' like that--aaaAHHH!",
-				"Ffff~",
-				"Heh, thanks for puttin' on such a good show~"
+				"哇，那是我的敏感点... 继续像那样晃——吼吼吼！",
+				"呼呼呼呼呼~",
+				"嗷嗷嗷，哈，谢谢你献上的精彩表演~"
 			]
 		}
 	],
 	"climaxCock": [
 		{
 			"dialogue": [
-				"Oh geez, can't... stop... throbbin'... So hard and--aaaaAHH!",
-				"Mmmfff~",
-				"Been buildin' that one up for a while. Looks like you're still trapped inside, what a shame~"
+				"哦天，停不下来了...这悸动的感觉...憋不住了——啊啊啊！",
+				"姆姆姆姆姆姆~",
+				"射了好多呀。怎么你还困在里面呢，真可惜~"
 			]
 		}
 	],
 	"climaxBalls": [
 		{
 			"dialogue": [
-				"Keep jostlin' around in there and--ah-aAAHH!",
-				"Ffff~",
-				"Just perfect... And you're so deep in there that you didn't come out, oh well~"
+				"继续在那里面晃荡然后——额-啊啊啊！",
+				"哦哦哦哦哦~",
+				"太完美了... 哦，你还活着呢~那就继续待在里面吧。"
 			]
 		}
 	],
 	"shrinking": [
-		"What?! Did I grab that faulty gun again?",
-		"Either the world is growin' or I'm shrinkin'!"
+		"MD?！谁又在玩那个射线枪？",
+		"要么世界在变大，要么我在缩小！"
 	],
 	"growing": [
-		"Okay, so there goes my plans of bein' stealthy.",
-		"The bigger I get, the easier it is for me to hide things."
+		"好吧，潜行丸吞的计划泡汤了。现在是点名丸吞时间。",
+		"体型越大，捕食者地位越稳固，能吞下的食物也越多。"
 	],
 	"didSteppy": [
-		"Heh, not sorry for <steppyType> on ya.",
-		"Did I squish you good? No? I'll use more pressure next time.",
-		"At that size, I could easily punt ya into the next galaxy or stash you somewhere. What to do...",
-		"You need to dodge my feet better. Or not, I'm not gonna judge."
+		"怎么，我就是用我的肉爪在你的脸上一通<steppyType>，有意见吗？",
+		"我的踩背服务水平如何？不喜欢？下次我再多使点劲。",
+		"就你这体型，我随便一脚就能把你踢到另一个星系去，或者把你藏进袜子里一直踩着~",
+		"随你愿不愿意躲我的脚。反正我是故意踩你们的。"
 	],
 	"gotStepped": [
 		[
-			"Damn!",
-			"Woah!",
-			"Hey!",
-			"Ack!"
+			"草！",
+			"哇哦！",
+			"嘿！",
+			"啊！"
 		],
 		[
-			"Do that again and I'll poke your toes!",
-			"*chk*, figures..."
+			"再这样我就戳你的肉垫！",
+			"信不信我部署巨型乐高积木！"
 		],
 		[
-			"What kind of <steppyType> was that? My folks <steppyType> harder than that!",
-			"<steppyType> on me like that again and I'll... complain again!"
+			" 这算什么<steppyType>？我家人<steppyType>得比这用力多了！",
+			"你要是再这样<steppyType>我，我-我就... 再抱怨一次！"
 		],
 		[
-			"Watch it!",
-			"Come on!"
+			"小心点！",
+			"别闹了！"
 		]
 	],
 	"gotStomped": [
 		[
-			"*splat*",
-			"G-hghhg!",
-			"He-MMMPH!",
-			"W-wha-*splort*"
+			"*啪唧*",
+			"咯-咳咳咳！",
+			"嘿-唔唔唔！",
+			"怎-怎么-*噗嗤*"
 		],
 		[
-			"Hey! I'm not a piece of chewing gum!",
-			"H-heh, got a crush on me? Because you're literally *crushing* me!",
-			"I... If you want to know how many bones you broke, the answer is yes."
+			"嘿！我才不是一块口香糖！",
+			"呵-呵呵，爱我爱得死心塌地了？因为你真的在*践踏*我啊！",
+			"我... 以防你不知道弄断了我多少根骨头，我告诉你是C钝角！"
 		]
 	],
-	"vanilla": { // this part of the dialogue is triggered by vanilla scripts for things such as combat or deeds and etc
+	"vanilla": {
 		"tagCriteria": {
 			"default": {
 				"default": [
-					"What happened to my home? Somethin's not right."
+					"我的老巢怎么会这样？你都乱动了些什么？"
 				]
 			}
 		},
 		"enclosedArea": {
 			"default": {
 				"default": [
-					"Some walls would be nice."
+					"给我用墙围好！食物滑进胃袋后我都会彻底封堵肉壁。"
 				]
 			}
 		},
 		"otherDeed": {
 			"default": {
 				"default": [
-					"I ain't sharin' space with someone else. Not unless you want them to disappear."
+					"我才不跟别人共用空间。他们根本提不起我的胃口！"
 				]
 			}
 		},
 		"severe": {
 			"default": {
 				"default": [
-					"Really? Did you not hear me the first couple of times?"
+					"你是聋了吗？再装听不见我就直接咬你！"
 				]
 			}
 		},
 		"final": {
 			"default": {
 				"default": [
-					"Yeah, no. I'm gonna keep complainin' until you fix this."
+					"哼，我可不买账。在你解决这个问题之前我会一直抱怨下去。"
 				]
 			}
 		},
 		"beacon": {
 			"default": {
 				"default": [
-					"I'm back."
+					"顶尖掠食者已经回归！"
 				]
 			}
 		},
 		"rent": {
 			"default": {
 				"default": [
-					"Here's somethin' I stole. Don't worry, it's not yours. Probably."
+					"这是上只猎物忘在我肚子里的杂物。估计他也不需要了，你拿去吧。"
 				]
 			}
 		},
 		"helpme": {
 			"default": {
 				"default": [
-					"Shit, I left my gun in my other boot and my knife in my other other boot.",
-					"I'm outta here.",
-					"Ouch, dammit.",
-					"Being unarmed sucks.",
-					"I need a hand.",
-					"That one actually hurt.",
-					"Not funny."
+					"该死，我有多久没用过这些武器了。",
+					"快跑。逃命时有几个人失踪应该不会有人在意。",
+					"TMD。之后我要拿他们的血肉与骨头滋养我的伤口！",
+					"不讲武德！不用丸吞解决问题还动用家伙事。",
+					"救命，我需要帮助！",
+					"好疼。之后得多吃几只食物养伤了。",
+					"真闹心，我肚子里还有食物在消化呢。"
 				]
 			}
 		},
 		"safe": {
 			"default": {
 				"default": [
-					"Got away for now.",
-					"That should be far enough to run, right?",
-					"They better not hit me again. If they do... I'll just run further away!",
-					"Hmm, seems clear for now.",
-					"Not sure what the hell that was, but it looks like it's over."
+					"应该逃出捕食者的死亡之吻了。",
+					"跑这么远应该够了吧？回去吃个瓜看个戏！",
+					"他们最好别再打中我。要是再打中... 我就接着跑！",
+					"呼呼，应该安全了。我得喘口气。",
+					"不清楚到底发生了什么，但愿现在结束了。"
 				]
 			}
 		},
 		"accuse": {
 			"default": {
 				"default": [
-					"Hey, I'm the one that does the stealin' here!"
+					"嘿，胆大包天！光天化日之下居然敢偷东西！"
 				]
 			}
 		},
 		"alert": {
 			"default": {
 				"default": [
-					"Guards! There is a criminal here! One that isn't me!"
+					"守卫！这里发生食杀事件啦！这次不是我干的！"
 				]
 			}
 		},
 		"offer": {
 			"default": {
 				"default": [
-					"Color me impressed, I think it'd be interestin' to join your crew.",
-					"Hey, need someone who ain't afraid of dirty jobs?",
-					"Not to brag, but I'm not like the other bandits. Want to hire me?",
-					"You aren't a complete loser, so I'd be willin' to join your crew.",
-					"I may have pissed off my fellow bandits. Got a place for me to crash?"
+					"可以让我加入你的队伍吗？我向你保证不会随意消化队员们。",
+					"嘿，需要一个能帮你排忧解难的队友吗？",
+					"你看起来是那种天天跟各种敌人战斗的货色，很好。带我一个？",
+					"你的小队看起来不会那么容易死翘翘，我不介意加入你们队伍。",
+					"我把我的上一任船长丸吞后消化掉了。你愿意当我的新船长吗？"
 				]
 			}
 		},
 		"roleDescription": {
 			"default": {
 				"default": [
-					"If you need someone badder to take on bad guys, come find me.",
-					"If you get too banged up, you know where to find a warm, tight shelter.",
-					"I love a good fight. Usually pretty easy to find a snack afterward."
+					"如果你需要押运恶霸并审讯坏蛋，就来找我。",
+					"要是你伤得太重，我有一个安全又温暖的移动式医疗荚。",
+					"我就喜欢抓活的。当然死的食物与现场我也能处理。"
 				]
 			}
 		},
 		"respawned": {
 			"default": {
 				"default": [
-					"Hah, not my first time.",
-					"That was unpleasant. Oh well.",
-					"Rumors of my demise were grossly exaggerated.",
-					"Damn, not here.",
-					"Fine, I won't rig the bet next time.",
-					"Respawnin' always leave me with a slight tickle afterward.",
-					"Dyin' ain't so bad, but it always leaves me feelin' so empty on the inside.",
-					"Oops, looks like I got caught."
+					"哈，又不是第一次了。",
+					"在我胃里溶解的食物也会有这种感觉么。",
+					"没有我那次被消化时的样子惨。",
+					"该死，就差一点了。",
+					"好吧，下次我不作死了。",
+					"重生之后总感觉有点痒痒的。",
+					"能让我吃饱再死吗。",
+					"被逮到惹。"
 				]
 			}
 		},
 		"crewcantreach": {
 			"default": {
 				"default": [
-					"Hey, speedy, I can't move that quick.",
-					"Damn, you're fast. Give me a second.",
-					"That last guy I nabbed is slowin' me down. Wait up.",
-					"*tsk* Show off...",
-					"Hey, don't go grabbin' all the loot before me!"
+					"嘿，跑那么快，我可跟不上。",
+					"慢点慢点，冲慢点。别一个人送了。",
+					"肚子里的食物拖慢了我的速度。等等我。",
+					"*哼*，以后有捕食者追你的时候你最好也能跑这么快！",
+					"嘿，记得给我留几只吃剩下的猎物！"
 				]
 			}
 		},
 		"reattack": {
 			"default": {
 				"default": [
-					"Good, it's you again.",
-					"Now I can properly repay you.",
-					"Heh.",
-					"Back for more, eh?",
-					"This time, I'll finish the job."
+					"呦呦呦，回锅肉来了。",
+					"好好好，过会我就把你吞进胃里再吐出来反反复复来几遍。",
+					"呵，这么想当我的猎物？",
+					"搁这吊我胃口呢，小可爱？",
+					"游戏时间结束，这里要来真的了。"
 				]
 			}
 		},
 		"attack": {
 			"default": {
 				"default": [
-					"Hmph."
+					"呦，小零食！"
 				]
 			}
 		},
 		"killedTarget": {
 			"default": {
 				"default": [
-					"The job is done.",
-					"It was all thanks to me, of course.",
-					"Another notch on my belt.",
-					"I always win. Even when I don't.",
-					"Too easy.",
-					"Heh.",
-					"Was there ever any doubt?",
-					"<selfname> always gets their prey.",
-					"Is that all you got?",
-					"Now to see what they dropped.",
-					"All mine, now.",
-					"Huh. Figured they'd be tougher."
+					"都结束了。",
+					"全都做掉！",
+					"我的头骨收藏又多了一个。",
+					"赢赢赢，我总是会赢。",
+					"轻轻松松。",
+					"切",
+					"最强捕食者，毋庸置疑。",
+					"<selfname>总能抓到猎物。",
+					"你就这点本事？",
+					"舔包得趁热~",
+					"All Mine~~~",
+					"哈。还以为你会更耐操一点呢。"
 				]
 			}
 		},
 		"lostTarget": {
 			"default": {
 				"default": [
-					"What a waste of my time.",
-					"Mark my words, one of us will get you some day.",
-					"And scram!",
-					"Gah, lost em'.",
-					"Just when my blood was really pumpin', too.",
-					"Whatever."
+					"真是浪费我时间。",
+					"你迟早会成为我腹中的一团食糜。",
+					"哼，滚的越远越好！",
+					"可惜，我还能再吃下一只猎物的。",
+					"我刚起兴致，结果你却跑了？",
+					"随便吧。别来打搅我消化食物了。"
 				]
 			}
 		},
 		"outOfSight": {
 			"default": {
 				"default": [
-					"Dammit, I know that's not just the wind.",
-					"I can't see you, but I know you're out there.",
-					"Not a bad vanishing act, honestly.",
-					"Don't be afraid, I was only going to put you somewhere warm and wet.",
-					"Come on out. I'd be glad to show you my goods, if you know what I mean."
+					"该死，我就知道那绝对不是所谓的一阵风。",
+					"呵，想吸引我过去然后偷袭我是吧。我可不上当。",
+					"可惜我只能让我面前的人瞬间消失。",
+					"别害怕，我只是想带你去一个温暖又潮湿的地方。",
+					"出来吧。要是你听话，我很乐意给你看看我的大宝贝。"
 				]
 			}
 		},
 		"cantReachEnemy": {
 			"default": {
 				"default": [
-					"Come back so I can stab ya. Or shoot ya. Maybe eat ya. Your pick.",
-					"Damn, I can't quite make it over there.",
-					"What? You afraid I'll won't let you out once I get my hands on ya? You're right.",
-					"I knew I should've stolen that Size Ray when I had the chance...",
-					"That last job left me a little too heavy to get over there..."
+					"回来，好让我捅你一刀。或者开枪打你。或者吃掉你。你选。",
+					"该死，你过来啊。你是不是怕我了？",
+					"怎么？你是怕我把你吞掉之后不放你出来？你猜对了。",
+					"在我最需要那把体型射线枪的时候，它去哪了？",
+					"我吞了不少猎物，到现在都没消化干净。我第一次觉得他们的尸骨与营养碍事。"
 				]
 			}
 		},
 		"cheerOn": {
 			"default": {
 				"default": [
-					"You get them, I'm gonna watch from a safe distance.",
-					"Don't stop now.",
-					"That might do the trick.",
-					"Why aren't they already dead? I would've killed them by now!",
-					"Keep going."
+					"你去搞定他们，然后我来收尸。",
+					"看我干啥？要我把你吞掉吗？",
+					"对对对，就在这发呆，把敌人耗到饿死。",
+					"他们怎么还没死呢？要是我早把他们干掉了！",
+					"愣着干啥？动起来啊。"
 				]
 			}
 		}
 	},
-	// Unused Dialogue
 	"digestFull": "/npcs/sbq/dialogue/flirty.dialogue:digestFull",
 	"oralVoreCompressionFull": "/npcs/sbq/dialogue/flirty.dialogue:oralVoreCompressionFull",
 	"tailVoreCompressionFull": "/npcs/sbq/dialogue/flirty.dialogue:tailVoreCompressionFull",
