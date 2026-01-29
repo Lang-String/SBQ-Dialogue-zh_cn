@@ -2521,13 +2521,13 @@
 			"HOwO.png"
 		]
 	},
-	"struggleAcidDigest": "/npcs/sbq/dialogue/default.dialogue:struggleAcidDigest", // external lines
+	"struggleAcidDigest": "/npcs/sbq/dialogue/default.dialogue:struggleAcidDigest",
 	"struggleAcidDigestHungry": {
 		"dialogueRandom": [
-			"Yes, I'm digesting you. \nYes, I'm going to reform you.",
-			"Being my pudge for a while ain't that bad. Plenty of people will oogle you.",
-			"I almost think you want out. Almost.",
-			"You squirm better than my usual fare of souls and a special Synth."
+			"没错,我在消化你,\n 没错,我会重塑你,",
+			"当一会儿我的赘肉也没那么糟,很多人会盯着你看的,",
+			"我差点以为你想出去了,差点,",
+			"你扭动得比我平常吃的灵魂和那个特别的合成人好多了,"
 		],
 		"imagePortrait": [
 			"HTired.png"
@@ -2535,25 +2535,25 @@
 	},
 	"struggleAcidDigestHorny": {
 		"dialogueRandom": [
-			"I need a bit more fuel for my next session. You'll be fine~",
-			"Unn~ Your bulges are starting to fade away~",
-			"Getting so soft~",
-			"I'll give you lots of attention once you're my pudge~"
+			"我需要更多燃料来进行下一轮,你会没事的～",
+			"嗯嗯～你的凸起开始消失了～",
+			"变得好软～",
+			"等你变成我的赘肉后,我会给你很多关注的～"
 		],
 		"imagePortrait": [
 			"HOwO.png"
 		]
 	},
-	"struggleAcidDigestImmune": "/npcs/sbq/dialogue/default.dialogue:struggleAcidDigestImmune", // external lines
-	"struggleCumDigest": "/npcs/sbq/dialogue/default.dialogue:struggleCumDigest", // external lines
-	"struggleCumDigestBalls": "/npcs/sbq/dialogue/default.dialogue:struggleCumDigestBalls", // external lines
-	"struggleCumDigestImmune": "/npcs/sbq/dialogue/default.dialogue:struggleCumDigestImmune", // external lines
+	"struggleAcidDigestImmune": "/npcs/sbq/dialogue/default.dialogue:struggleAcidDigestImmune",
+	"struggleCumDigest": "/npcs/sbq/dialogue/default.dialogue:struggleCumDigest",
+	"struggleCumDigestBalls": "/npcs/sbq/dialogue/default.dialogue:struggleCumDigestBalls",
+	"struggleCumDigestImmune": "/npcs/sbq/dialogue/default.dialogue:struggleCumDigestImmune",
 	"struggleFemcumDigest": {
 		"dialogueRandom": [
-			"Just think of it as a temporary weight loss program for both of us.",
-			"Squirm if you like. I'll always reform you.",
-			"Getting softer, dear. Soon you'll be just a cute little bump.",
-			"I barely felt that."
+			"就把这当成我们俩的临时减肥计划吧,",
+			"你想扭动就扭动吧,我总会重塑你的,",
+			"亲爱的,你越来越软了,很快你就会变成一个可爱的小肿块,",
+			"我几乎没感觉到那个,"
 		],
 		"imagePortrait": [
 			"HHappy.png"
@@ -2561,10 +2561,10 @@
 	},
 	"struggleFemcumDigestHungry": {
 		"dialogueRandom": [
-			"Oops, looks like my stomach taught my womb something new~",
-			"I bet it's getting real tight and warm, isn't it?",
-			"Damn, this feels good~",
-			"I told you I was hungry."
+			"哎呀,看来我的肚子教会了我的子宫一些新东西～",
+			"我敢打赌,现在肯定又紧又热,对吧？",
+			"该死,这感觉真好～",
+			"我告诉过你我饿了,"
 		],
 		"imagePortrait": [
 			"HTired.png"
@@ -2572,10 +2572,10 @@
 	},
 	"struggleFemcumDigestHorny": {
 		"dialogueRandom": [
-			"How naughty~ Your spa package includes a full makeover, you know~",
-			"A little too ^pink;steamy^reset; for you?",
-			"Just sink below the surface. You'll be renewed when you come back up~",
-			"You wouldn't mind if I had some fun, would you?"
+			"多调皮呀～你知道你的水疗套餐还包括一次全面改造哦～",
+			"对你来说是不是有点太 ^pink; 热 ^reset; 了？",
+			"沉下去吧,等你再浮上来的时候就焕然一新了～",
+			"你不会介意我找点乐子吧？"
 		],
 		"imagePortrait": [
 			"HOwO.png"
@@ -2583,10 +2583,10 @@
 	},
 	"struggleFemcumDigestImmune": {
 		"dialogueRandom": [
-			"It's going to get insanely warm. You shouldn't notice a difference.",
-			"Nice fire resistance. Keep it up.",
-			"Oh? I didn't even notice the change. Did you?",
-			"Don't mind me. I'm going to turn up the ^pink;steam^reset; a lot~"
+			"会变得非常热,你应该感觉不到什么不同,",
+			"防火能力不错,继续保持,",
+			"哦？我都没注意到变化,你注意到了吗？",
+			"别管我,我要把 ^pink; 热气 ^reset; 开大一点～"
 		],
 		"imagePortrait": [
 			"HHappy.png"
@@ -2594,10 +2594,10 @@
 	},
 	"struggleFemcumDigestImmuneHungry": {
 		"dialogueRandom": [
-			"You're probably going to get squeezed. A lot.",
-			"You really want to stay solid, huh? I gotcha.",
-			"Just between you and me, this feels just as good with you solid.",
-			"Nice. I can tell you're still nice and firm in there."
+			"你可能会被挤得很惨,",
+			"你真的想保持固态,哈？我懂你,",
+			"跟你说,你保持固态的时候,这感觉也一样好,",
+			"很好,我能感觉到你在里面还是很结实,"
 		],
 		"imagePortrait": [
 			"HTired.png"
@@ -2605,10 +2605,10 @@
 	},
 	"struggleFemcumDigestImmuneHorny": {
 		"dialogueRandom": [
-			"Oh? You're not melting? Even better~",
-			"Damn, I was going to play a harmless trick~",
-			"Aah~ I see.. Might be a bit longer before your exit is loosened up~",
-			"Should be getting really ^pink;steamy^reset; now~"
+			"哦？你没融化？那就更好了～",
+			"该死,我本来想开个无伤大雅的玩笑～",
+			"啊啊～我明白了.. 可能要过一阵子你的出口才会松开～",
+			"现在应该变得非常 ^pink; 热乎 ^reset; 了～"
 		],
 		"imagePortrait": [
 			"HOwO.png"
@@ -2616,22 +2616,22 @@
 	},
 	"struggleMilkDigest": {
 		"dialogueRandom": [
-			"I'll put your excess in a carton for one of us to drink later.",
-			"Any of your friends nearby? I'm sure one of them will be thirsty~",
-			"I might bottle you up and leave you at Auri's shop. \nIt will be a fun surprise for both of you when you suddenly return to normal~",
-			"Need to shrink you down a bit. My shirt is almost legible when I wear it."
+			"我会把多余的你装到纸盒里,我们俩之后谁渴了就喝,",
+			"你朋友在附近吗？我肯定他们中有人会口渴～",
+			"我可能会把你装到瓶子里,放在奥里的店里,\n 等你突然恢复正常的时候,对你们俩来说都会是个有趣的惊喜～",
+			"得把你缩小一点,我穿上这件衬衫的时候,上面的字都快能看清了,"
 		],
 		"imagePortrait": [
 			"HHappy.png"
 		]
 	},
-	"struggleMilkDigestBreastsShirt": "/npcs/sbq/dialogue/default.dialogue:struggleMilkDigestBreastsShirt", // external lines
+	"struggleMilkDigestBreastsShirt": "/npcs/sbq/dialogue/default.dialogue:struggleMilkDigestBreastsShirt",
 	"struggleMilkDigestImmune": {
 		"dialogueRandom": [
-			"Nice. <entityname>-controlled jiggle physics.",
-			"Fine, but you're staying longer if my shirt has any tears. \n(heh)",
-			"Good, still firm. I've got a commission coming up.",
-			"Keep it up. The next time I stream is going to be ^pink;spicy^reset;."
+			" 不错,<entityname> 控制的抖动物理效果,",
+			"好吧,但要是我的衬衫有任何破损,你就得待更久,\n（呵）",
+			"很好,还是很结实,我有个委托要做,",
+			"继续保持,下次我直播的时候肯定会很 ^pink; 刺激 ^reset;,"
 		],
 		"imagePortrait": [
 			"HHappy.png"
@@ -2639,23 +2639,23 @@
 	},
 	"struggleMiscDigest": {
 		"dialogueRandom": [
-			"Time to melt you down for a bit.",
-			"I didn't turn the heat up that much. Just enough that you'll get nice and soft.",
-			"I can tell you're getting softer.",
-			"Keep struggling, dear."
+			"是时候把你融化一会儿了,",
+			"我没把热度调得那么高啊,只是刚好能让你变得软软的,",
+			"我能感觉到你越来越软了,",
+			"亲爱的,继续挣扎吧,"
 		],
 		"imagePortrait": [
 			"HHappy.png"
 		]
 	},
-	"struggleMiscDigestHungry": ":struggleMiscDigest", // duplicated lines
-	"struggleMiscDigestHorny": ":struggleMiscDigest", // duplicated lines
+	"struggleMiscDigestHungry": ":struggleMiscDigest",
+	"struggleMiscDigestHorny": ":struggleMiscDigest",
 	"struggleMiscDigestImmune": {
 		"dialogueRandom": [
-			"Not into melting? I can respect that.",
-			"For you, this should feel like a nice sauna.",
-			"My gut doesn't know the difference, so thanks for suppressing my hunger.",
-			"Since you can't melt, I'm going to return to my normal heat. Let me know if that's too much."
+			"不喜欢融化？我能理解,",
+			"对你来说,这应该就像一次舒服的桑拿,",
+			"我的肚子感觉没什么不同,所以谢谢你帮我压制了饥饿感,",
+			"既然你不会融化,那我就恢复到正常热度了,如果觉得太热就告诉我,"
 		],
 		"imagePortrait": [
 			"HHappy.png"
@@ -2663,10 +2663,10 @@
 	},
 	"struggleMiscDigestImmuneHungry": {
 		"dialogueRandom": [
-			"I'm still hungry, so just pretend to melt. Shout for help, too. Might trick my gut.",
-			"Thankfully, I can still fit in my usual snacks. Sorry if it gets messy in there.",
-			"It's good you're immune. Means you can struggle for a lot longer~",
-			"Might keep you in there anyway. It feels like you're massaging my gut nicely~"
+			"我还是很饿,所以就假装融化一下吧,再喊喊救命,说不定能骗过我的肚子,",
+			"谢天谢地,我还能吃下平常的零食,要是里面变得一团糟,不好意思啦,",
+			"你有免疫力真好,这意味着你可以挣扎更久～",
+			"不管怎样,可能都会把你留在里面,感觉你就像在给我的肚子做舒服的按摩～"
 		],
 		"imagePortrait": [
 			"HTired.png"
@@ -2674,10 +2674,10 @@
 	},
 	"struggleMiscDigestImmuneHorny": {
 		"dialogueRandom": [
-			"You're immune? Ooh~ so I can really dial it up~",
-			"So many lovely noises coming from both inside and out~",
-			"I wonder if I could make you flustered enough to melt in a different way~",
-			"Even better~ I get a gurgly gut and a trapped prey to play with~"
+			"你有免疫力？哦哦～那我真的可以把热度调高了～",
+			"从里面和外面都传来好多可爱的声音～",
+			"我在想,我能不能把你弄得害羞到以另一种方式‘融化’~",
+			"甚至更好～我既有咕噜叫的肚子,又有被困住的猎物可以玩弄～"
 		],
 		"imagePortrait": [
 			"HOwO.png"
@@ -2688,10 +2688,10 @@
 		"pools": [
 			{
 				"dialogueRandom": [
-					"I'm sprinkling a bit of my essence on you.",
-					"I'm slowly adding you to the pack. It's not permanent.",
-					"Won't be long before you're just like me.",
-					"I think you're gonna look ^pink;smoking hot^reset; once I'm done~"
+					"我在给你洒上一点我的精华,",
+					"我在慢慢地把你纳入族群,这不是永久性的,",
+					"用不了多久你就会和我一样了,",
+					"我觉得等我做完,你会变得 ^pink; 超级性感 ^reset;~"
 				],
 				"imagePortrait": [
 					"HHappy.png"
@@ -2704,25 +2704,25 @@
 	},
 	"struggleTransformed": {
 		"dialogueRandom": [
-			"Welcome to the pack.",
-			"Should be done now.",
-			"Can't go wrong with more borks.",
-			"One brand new ^pink;sexy^reset; hellhound, ready to claim the world~"
+			"欢迎加入族群,",
+			"现在应该完成了,",
+			"多几个汪星人也不错,",
+			"一只全新的 ^pink; 性感 ^reset; 地狱犬,准备好征服世界啦～"
 		],
 		"imagePortrait": [
 			"HHappy.png"
 		]
 	},
-	"struggleDrainEnergy": "/npcs/sbq/dialogue/default.dialogue:struggleDrainEnergy", // external lines
+	"struggleDrainEnergy": "/npcs/sbq/dialogue/default.dialogue:struggleDrainEnergy",
 	"struggleEggify": {
 		"percentage": "Eggify",
 		"pools": [
 			{
 				"dialogueRandom": [
-					"Eggs are fun, don't you think?",
-					"Don't worry. I won't drop you into a bottomless pit. Even though he still remembers.",
-					"Heh, doggo make eggo~",
-					"It's fine. My eggs aren't nearly as possessive as I am."
+					"蛋很有趣,你不觉得吗？",
+					"别担心,我不会把你扔进无底洞的,尽管他还记得那件事,",
+					"呵,狗狗生蛋蛋～",
+					"没事的,我的蛋可不像我这么有占有欲,"
 				],
 				"imagePortrait": [
 					"HHappy.png"
@@ -2736,10 +2736,10 @@
 		"pools": [
 			{
 				"dialogueRandom": [
-					"Sadly, I lack a giant frying pan.",
-					"It's tempting to swallow the egg whole once I'm done. I'm that hungry.",
-					"I better start cooking up some waffles.",
-					"Don't be afraid. I won't yeet you at any giant frogs."
+					"可惜,我没有一个巨大的煎锅,",
+					"我做完之后,真的很想把这个蛋一口吞下去,我太饿了,",
+					"我最好开始做些华夫饼,",
+					"别害怕,我不会把你扔向任何巨大的青蛙的,"
 				],
 				"imagePortrait": [
 					"HTired.png"
@@ -2750,7 +2750,7 @@
 	},
 	"struggleEgged": {
 		"dialogueRandom": [
-			"Learned how to do this from a Yoshi. No, I'm not going to elaborate on how."
+			"这是跟耀西学的,不,我不会详细说怎么学的,"
 		],
 		"imagePortrait": [
 			"HBlep.png"
@@ -2758,39 +2758,39 @@
 	},
 	"struggleEggifyHorny": {
 		"dialogueRandom": [
-			"One portable sauna, coming up~",
-			"The feeling of a smooth egg coming out is just~ Mm~",
-			"Maybe I should influence the egg to keep you for a lot longer, too~",
-			"Woof, this is gonna be good~"
+			"一个便携式桑拿房,来喽～",
+			"感觉到一个光滑的蛋出来的感觉真是～嗯～",
+			"也许我该让这个蛋把你留更久一点,嘿嘿～",
+			"汪,这肯定很棒～"
 		],
 		"imagePortrait": [
 			"HOwO.png"
 		]
 	},
-	"anyInfusedOccupant": "/npcs/sbq/dialogue/default.dialogue:anyInfusedOccupant", // external lines
-	"thighsInfusedOccupant": "/npcs/sbq/dialogue/default.dialogue:thighsInfusedOccupant", // external lines
-	"bellyInfusedOccupant": "/npcs/sbq/LokiVulpix/Loki/npc.dialogue:bellyInfusedOccupant", // external lines
-	"breastInfusedOccupant": "/npcs/sbq/LokiVulpix/Auri/npc.dialogue:breastInfusedOccupant", // external lines
-	"pussyInfusedOccupant": "/npcs/sbq/LokiVulpix/Auri/npc.dialogue:pussyInfusedOccupant", // external lines
-	"cockInfusedOccupant": "/npcs/sbq/LokiVulpix/Auri/npc.dialogue:cockInfusedOccupant", // external lines
-	"pawInfusedOccupant": "/npcs/sbq/dialogue/default.dialogue:pawInfusedOccupant", // external lines
-	"tailInfusedOccupant": "/npcs/sbq/dialogue/default.dialogue:tailInfusedOccupant", // external lines
+	"anyInfusedOccupant": "/npcs/sbq/dialogue/default.dialogue:anyInfusedOccupant",
+	"thighsInfusedOccupant": "/npcs/sbq/dialogue/default.dialogue:thighsInfusedOccupant",
+	"bellyInfusedOccupant": "/npcs/sbq/LokiVulpix/Loki/npc.dialogue:bellyInfusedOccupant",
+	"breastInfusedOccupant": "/npcs/sbq/LokiVulpix/Auri/npc.dialogue:breastInfusedOccupant",
+	"pussyInfusedOccupant": "/npcs/sbq/LokiVulpix/Auri/npc.dialogue:pussyInfusedOccupant",
+	"cockInfusedOccupant": "/npcs/sbq/LokiVulpix/Auri/npc.dialogue:cockInfusedOccupant",
+	"pawInfusedOccupant": "/npcs/sbq/dialogue/default.dialogue:pawInfusedOccupant",
+	"tailInfusedOccupant": "/npcs/sbq/dialogue/default.dialogue:tailInfusedOccupant",
 	"strugglingBelly": {
 		"dialogueRandom": [
 			[
-				"Nice. Not quite as warm as my gut, but I like it.",
-				"Keep me for as long as you like~",
-				"Mmm, how about I push here?",
-				"Thanks for the ride, dear.",
+				"不错,虽然不像我的肚子那么暖和,但我喜欢,",
+				"想留我多久就留我多久吧～",
+				"嗯,我往这儿推一下怎么样？",
+				"谢谢你的搭载,亲爱的,",
 				{
 					"check": {
 						"bellySounds": true
 					},
 					"add": [
-						"I love a good gurgle.",
-						"Just what I like to hear. You go, belly.",
-						"My my, how active.",
-						"Mind if I get a sound recording?"
+						"我喜欢好听的咕噜声,",
+						"这正是我喜欢听到的,加油,肚子,",
+						"哎呀,真活跃,",
+						"我录个音你介意吗？"
 					]
 				}
 			],
@@ -2799,10 +2799,10 @@
 					"predator": "sbqVaporeon"
 				},
 				"add": [
-					"This feels nice, too. So much goo...",
-					"Mmm, don't mind me heating your goo up a bit.",
-					"I'd love for us to both disappear into some water~",
-					"Looks like you know about type advantages, hehe."
+					"这感觉也不错,好多黏液啊...",
+					"嗯,不介意我把你的黏液加热一点吧,",
+					"我真想和你一起消失在水里～",
+					"看来你知道属性克制呢,嘿嘿,（注:所以地狱犬是单火系？-A）"
 				]
 			}
 		],
@@ -2813,19 +2813,19 @@
 	"strugglingBellyHungry": {
 		"dialogueRandom": [
 			[
-				"Nice. Not quite as eager as my gut, but I like it.",
-				"I might need a snack myself in a bit.",
-				"Mmm, I'm getting rather hungry, myself.",
-				"Thanks for the ride, dear. Mind finding us a mutual meal?",
+				"不错,虽然不像我的肚子那么急切,但我喜欢,",
+				"过一会儿我自己可能也需要吃点零食,",
+				"嗯,我自己也有点饿了,",
+				"谢谢你的搭载,亲爱的,介意帮我们找顿共同的大餐吗？",
 				{
 					"check": {
 						"bellySounds": true
 					},
 					"add": [
-						"I love a good gurgle. Sounds just like my gut right now.",
-						"I'm hearing both our bellies go at it.",
-						"My my, how active for both of us.",
-						"Mind if I get a recording? Two sets of gurgling guts should be pleasant."
+						"我喜欢好听的咕噜声,听起来就像我现在的肚子一样,",
+						"我听到我们俩的肚子都在叫,",
+						"哎呀,我们俩都这么活跃,",
+						"我录个音你介意吗？两组咕噜叫的肚子听起来应该很悦耳,"
 					]
 				}
 			],
@@ -2834,10 +2834,10 @@
 					"predator": "sbqVaporeon"
 				},
 				"add": [
-					"This feels nice, too. I might have to take a quick sip...",
-					"Mmm, don't mind me nibbling on your goo a bit.",
-					"Is that... a mostly eaten apple core? No, I must be seeing things.",
-					"Looks like you know about type advantages, hehe. Mind finding a Grass type for me to munch on?"
+					"这感觉也不错,我可能得快速喝一口...",
+					"嗯,不介意我稍微咬一口你的黏液吧,",
+					"那是... 一个快吃完的苹果核吗？不,一定是我看错了,",
+					"看来你知道属性优势呢,嘿嘿,介意帮我找个草属性的来吃吗？"
 				]
 			}
 		],
@@ -2848,19 +2848,19 @@
 	"strugglingBellyHorny": {
 		"dialogueRandom": [
 			[
-				"Nice~ I hope you don't mind if it gets steamy in here~",
-				"Mmm~ Don't mind me, keep me as long as you'd like~",
-				"Oh my~ You have such a nice belly~",
-				"Thanks for the ride~",
+				"不错～希望你不介意这里变得热气腾腾的～",
+				"嗯～别管我,想留我多久就留我多久吧～",
+				"哦,我的～你的肚子真好～",
+				"谢谢你的搭载～",
 				{
 					"check": {
 						"bellySounds": true
 					},
 					"add": [
-						"Oh! That gurgle was nice and low~",
-						"The occasional rumble is so nice~",
-						"My, that was a loud one~",
-						"Mind if I get a sound recording for.. Mmm, later?"
+						"哦！那个咕噜声又低又好听～",
+						"偶尔的咕噜声太棒了～",
+						"哎呀,那个声音真大～",
+						"我录个音留着... 嗯,以后用,你介意吗？"
 					]
 				}
 			],
@@ -2869,10 +2869,10 @@
 					"predator": "sbqVaporeon"
 				},
 				"add": [
-					"This feels so pleasant~ So much goo to play with...",
-					"Mmm, don't mind me if I heat up your goo a lot.",
-					"I'd love for us to both disappear into some water~ Only you know when we'd resurface~",
-					"If I were a Pokémon, I'd love to have Steam Engine right now~"
+					"这感觉太舒服了～有这么多黏液可以玩...",
+					"嗯,如果我把你的黏液加热很多,别介意哦,",
+					"我真想和你一起消失在水里～只有你知道我们什么时候会再冒出来～",
+					"如果我是宝可梦,我现在超想要蒸汽机特性～（注:蒸汽机特性:在对战中如果受到对手宝可梦使出的水属性或火属性招式攻击,会提高自身的速度-A）"
 				]
 			}
 		],
@@ -2882,10 +2882,10 @@
 	},
 	"strugglingWomb": {
 		"dialogueRandom": [
-			"It's so nice and warm in here. I could easily drift off.",
-			"Let me give you a massage from within to show my appreciation.",
-			"This is easily the best. Thanks for this.",
-			"All yours..."
+			"这里又暖和又舒服,我都能轻松地睡着了,",
+			"让我从里面给你按摩一下,以表感激,",
+			"这简直是最棒的,谢谢你,",
+			"完全属于你..."
 		],
 		"imagePortrait": [
 			"HHappy.png"
@@ -2893,10 +2893,10 @@
 	},
 	"strugglingWombHungry": {
 		"dialogueRandom": [
-			"Your womb is incredibly comfy.",
-			"This feels lovely. You're a wonderful host.",
-			"I haven't felt this relaxed in a long time. Thanks.",
-			"Mmm..."
+			"你的子宫超级舒服,",
+			"这感觉太棒了,你是个很棒的宿主,",
+			"我好久都没这么放松过了,谢谢,",
+			"嗯..."
 		],
 		"imagePortrait": [
 			"HTired.png"
@@ -2904,22 +2904,22 @@
 	},
 	"strugglingWombHorny": {
 		"dialogueRandom": [
-			"Your womb is the best out of all the ones I've been in~",
-			"One hand to rub you, and one hand for me~",
-			"This is seriously hot~",
-			"Mm-ng~~"
+			"你的子宫是我待过的所有子宫里最棒的～",
+			"一只手揉你,一只手给自己～",
+			"这真的太刺激了～",
+			"嗯哼～～"
 		],
 		"imagePortrait": [
 			"HOwO.png"
 		]
 	},
-	"strugglingTail": "/npcs/sbq/dialogue/default.dialogue:strugglingTail", // external lines
+	"strugglingTail": "/npcs/sbq/dialogue/default.dialogue:strugglingTail",
 	"strugglingBreasts": {
 		"dialogueRandom": [
-			"It's so snug and secure in here. I could easily drift off.",
-			"Your heartbeat is so soothing...",
-			"This is easily the best.",
-			"All yours..."
+			"这里又舒适又安全,我都能轻松地睡着了,",
+			"你的心跳好让人安心...",
+			"这简直是最棒的,",
+			"完全属于你..."
 		],
 		"imagePortrait": [
 			"HHappy.png"
@@ -2927,10 +2927,10 @@
 	},
 	"strugglingBreastsHungry": {
 		"dialogueRandom": [
-			"Your breasts are incredibly comfy.",
-			"This feels lovely. You're a wonderful host.",
-			"I haven't felt this relaxed in a long time. Thanks.",
-			"Mmm..."
+			"你的胸部超级舒服,",
+			"这感觉太棒了,你是个很棒的宿主,",
+			"我好久都没这么放松过了,谢谢,",
+			"嗯..."
 		],
 		"imagePortrait": [
 			"HTired.png"
@@ -2938,35 +2938,35 @@
 	},
 	"strugglingBreastsHorny": {
 		"dialogueRandom": [
-			"Your breasts are the best out of all the ones I've been in~",
-			"One hand per boob, hehe~",
-			"This is seriously sexy~",
-			"Mm-ng~~"
+			"你的胸部是我待过的所有胸部里最棒的～",
+			"一只手摸一个胸,嘿嘿～",
+			"这真的太性感了～",
+			"嗯哼～～"
 		],
 		"imagePortrait": [
 			"HOwO.png"
 		]
 	},
-	"strugglingPussy": "/npcs/sbq/dialogue/default.dialogue:strugglingPussy", // external lines
-	"strugglingCock": "/npcs/sbq/dialogue/default.dialogue:strugglingCock", // external lines
-	"strugglingBalls": "/npcs/sbq/dialogue/default.dialogue:strugglingBalls", // external lines
-	"strugglingAss": "/npcs/sbq/dialogue/default.dialogue:strugglingAss", // external lines
+	"strugglingPussy": "/npcs/sbq/dialogue/default.dialogue:strugglingPussy",
+	"strugglingCock": "/npcs/sbq/dialogue/default.dialogue:strugglingCock",
+	"strugglingBalls": "/npcs/sbq/dialogue/default.dialogue:strugglingBalls",
+	"strugglingAss": "/npcs/sbq/dialogue/default.dialogue:strugglingAss",
 	"strugglingAcidHeal": {
 		"dialogueRandom": [
 			[
-				"It's rare that someone cares about my well-being. Thanks.",
-				"Let me give you a nice rub to show my appreciation.",
-				"Ah, that's more like it.",
-				"You're truly a caring person. Trust me, I checked.",
+				"很少有人关心我的健康,谢谢,",
+				"让我好好给你按摩一下,以表感激,",
+				"啊,这样才对嘛,",
+				"你真是个贴心的人,相信我,我确认过了,",
 				{
 					"check": {
 						"bellySounds": true
 					},
 					"add": [
-						"Some good gurgles AND healing? This is perfect.",
-						"Mmm... Thanks...",
-						"Drifting off sounds nice right now...",
-						"Such a pleasant soundscape to be trapped within..."
+						"又有好听的咕噜声又能治愈？这太完美了,",
+						"嗯... 谢谢...",
+						"现在感觉睡一觉也不错...",
+						"被困在这样宜人的声音环境里..."
 					]
 				}
 			],
@@ -2975,10 +2975,10 @@
 					"predator": "sbqVaporeon"
 				},
 				"add": [
-					"Are you using Aqua Ring? If so, thanks~",
-					"That feels pleasant.",
-					"Mm, I'm tempted to use Rest.",
-					"It's nice..."
+					"你在用水流环吗？如果是,谢谢啦～",
+					"这感觉很舒服,",
+					"嗯,我都想用睡觉了,",
+					"很不错..."
 				]
 			}
 		],
@@ -2986,23 +2986,23 @@
 			"HHappy.png"
 		]
 	},
-	"strugglingAcidHealHungry": ":strugglingAcidHeal", // duplicated lines
+	"strugglingAcidHealHungry": ":strugglingAcidHeal",
 	"strugglingAcidHealHorny": {
 		"dialogueRandom": [
 			[
-				"You're so kind~ Thanks, dear~",
-				"Let me give you a nice rub to show my appreciation~",
-				"Ah, that's even better~",
-				"You're truly a caring person~ Trust me, I checked~",
+				"你真好～谢谢你,亲爱的～",
+				"让我好好给你按摩一下,以表感激～",
+				"啊,这样更棒了～",
+				"你真是个贴心的人～相信我,我确认过了～",
 				{
 					"check": {
 						"bellySounds": true
 					},
 					"add": [
-						"Some sexy gurgles AND healing? This is perfect~",
-						"Mmm... Thanks a bunch...",
-						"Drifting off sounds nice~",
-						"That does the trick~"
+						"又有性感的咕噜声又能治愈？这太完美了～",
+						"嗯... 多谢啦...",
+						"感觉睡一觉也不错～",
+						"这样就对啦～"
 					]
 				}
 			],
@@ -3011,10 +3011,10 @@
 					"predator": "sbqVaporeon"
 				},
 				"add": [
-					"Ooh, that feels even better now~ Thanks~",
-					"Heh, making me jealous of your water abilities.",
-					"Wow, you really are the most compatible~",
-					"That's good..."
+					"哦哦,现在感觉更好了～谢谢～",
+					"呵,让我都嫉妒你的水属性能力了,",
+					"哇,你真的是最合拍的～",
+					"这样很好..."
 				]
 			}
 		],
@@ -3022,17 +3022,17 @@
 			"HOwO.png"
 		]
 	},
-	"strugglingFemcumHeal": "/npcs/sbq/LokiVulpix/Auri/npc.dialogue:strugglingFemcumHeal", // external lines
-	"strugglingCumHeal": "/npcs/sbq/LokiVulpix/Auri/npc.dialogue:strugglingCumHeal", // external lines
-	"strugglingMilkHeal": "/npcs/sbq/dialogue/default.dialogue:strugglingMilkHeal", // external lines
-	"strugglingMiscHeal": ":strugglingAcidHeal", // duplicated lines
-	"strugglingCompression": "/npcs/sbq/LokiVulpix/Auri/npc.dialogue:strugglingCompression", // external lines
+	"strugglingFemcumHeal": "/npcs/sbq/LokiVulpix/Auri/npc.dialogue:strugglingFemcumHeal",
+	"strugglingCumHeal": "/npcs/sbq/LokiVulpix/Auri/npc.dialogue:strugglingCumHeal",
+	"strugglingMilkHeal": "/npcs/sbq/dialogue/default.dialogue:strugglingMilkHeal",
+	"strugglingMiscHeal": ":strugglingAcidHeal",
+	"strugglingCompression": "/npcs/sbq/LokiVulpix/Auri/npc.dialogue:strugglingCompression",
 	"strugglingAcidDigest": {
 		"dialogueRandom": [
-			"Ah, now the fun's really getting started.",
-			"Goodness, I'm really starting to get soft.",
-			"Mm, want me to yell for help?",
-			"So, where are you going to add me to for now?"
+			"啊,现在真正的乐趣才刚开始呢,",
+			"天呐,我真的开始变软了,",
+			"嗯,要我大声呼救吗？",
+			"那么,你打算把我暂时安置在哪儿呢？"
 		],
 		"imagePortrait": [
 			"HHappy.png"
@@ -3040,48 +3040,48 @@
 	},
 	"strugglingAcidDigestHungry": {
 		"dialogueRandom": [
-			"Ah, this should take my mind off my own stomach.",
-			"Goodness, your belly is just as eager as mine.",
-			"Mm, want me to yell for help?",
-			"Careful, my hunger might double yours while we're together~"
+			"啊,这应该能让我暂时忘掉自己肚子饿的事,",
+			"天呐,你的肚子和我的一样急切,",
+			"嗯,要我大声呼救吗？",
+			"小心点,我们在一起的时候,我的饥饿感可能会加倍哦～"
 		],
 		"imagePortrait": [
 			"HTired.png"
 		]
 	},
-	"strugglingAcidDigestHorny": ":strugglingAcidDigest", // duplicated lines
+	"strugglingAcidDigestHorny": ":strugglingAcidDigest",
 	"strugglingAcidDigestImmune": {
 		"dialogueRandom": [
-			"I appreciate the effort, but you can't claim me like that.",
-			"It basically feels like a pleasant tingle.",
-			"If you go a little softer, I'll gladly indulge you.",
-			"I never digest fully; both as predator and prey. Sorry~"
+			"我很感激你的努力,但你没法像那样占有我,",
+			"这基本上就像一种舒服的刺痛感,",
+			"如果你再轻柔一点,我很乐意配合你,",
+			"我从来不会被完全消化；不管是作为捕食者还是猎物,抱歉啦～"
 		],
 		"imagePortrait": [
 			"HHappy.png"
 		]
 	},
-	"strugglingAcidDigestImmuneHungry": ":strugglingAcidDigestImmune", // duplicated lines
+	"strugglingAcidDigestImmuneHungry": ":strugglingAcidDigestImmune",
 	"strugglingAcidDigestImmuneHorny": {
 		"dialogueRandom": [
-			"I appreciate the effort, but I'm off limits~",
-			"It basically feels like a pleasant tingle~",
-			"If you go a little softer, I'll gladly moan as I melt~.",
-			"I never go all the way; both as predator and prey. Sorry~"
+			"我很感激你的努力,但我是禁区哦～",
+			"这基本上就像一种舒服的刺痛感～",
+			"如果你再轻柔一点,我很乐意一边融化一边呻吟～",
+			"我从来不会完全沉沦；不管是作为捕食者还是猎物,抱歉啦～"
 		],
 		"imagePortrait": [
 			"HOwO.png"
 		]
 	},
-	"strugglingCumDigest": "/npcs/sbq/dialogue/default.dialogue:strugglingCumDigest", // external lines
-	"strugglingCumDigestBalls": "/npcs/sbq/dialogue/default.dialogue:strugglingCumDigestBalls", // external lines
-	"strugglingCumDigestImmune": ":strugglingAcidDigestImmune", // duplicated lines
+	"strugglingCumDigest": "/npcs/sbq/dialogue/default.dialogue:strugglingCumDigest",
+	"strugglingCumDigestBalls": "/npcs/sbq/dialogue/default.dialogue:strugglingCumDigestBalls",
+	"strugglingCumDigestImmune": ":strugglingAcidDigestImmune",
 	"strugglingFemcumDigest": {
 		"dialogueRandom": [
-			"Ooh, melting me down? How naughty.",
-			"I see I'm starting to get soft. Want to hide me, then?",
-			"Ah, let me get one more belly rub going, then.",
-			"Turning up the heat, are you?"
+			"哦,要把我融化掉？真调皮,",
+			"我发现自己开始变软了,你是想把我藏起来吗？",
+			"啊,那让我再给你揉一下肚子吧,",
+			"你这是要加大热度了,是吗？"
 		],
 		"imagePortrait": [
 			"HHappy.png"
@@ -3089,10 +3089,10 @@
 	},
 	"strugglingFemcumDigestHungry": {
 		"dialogueRandom": [
-			"Ooh, melting me down?",
-			"I see I'm starting to get soft.",
-			"Ah, let me enjoy myself for a little longer, then.",
-			"Now you're really getting hot."
+			"哦,要把我融化掉？",
+			"我发现自己开始变软了,",
+			"啊,那让我再享受一会儿吧,",
+			"现在你可真是越来越热了,"
 		],
 		"imagePortrait": [
 			"HTired.png"
@@ -3100,22 +3100,22 @@
 	},
 	"strugglingFemcumDigestHorny": {
 		"dialogueRandom": [
-			"Ooh, melting me down?~ How kinky~",
-			"Ooh, trying to hide me from your friends~?",
-			"A-ah, let me get one more rub going, then~",
-			"I may melt away, but I always come back~"
+			"哦,要把我融化掉？~ 好变态哦～",
+			"哦哦,想把我藏起来不让你的朋友们发现～？",
+			"啊哈,那让我再揉一下吧～",
+			"我可能会融化掉,但我总会回来的～"
 		],
 		"imagePortrait": [
 			"HOwO.png"
 		]
 	},
-	"strugglingFemcumDigestImmune": ":strugglingAcidDigestImmune", // duplicated lines
+	"strugglingFemcumDigestImmune": ":strugglingAcidDigestImmune",
 	"strugglingMilkDigest": {
 		"dialogueRandom": [
-			"Ooh, turning me into a fresh glass? How naughty.",
-			"I see I'm starting to get soft.",
-			"Heh, let me give your chest one last rub, then.",
-			"Mmm, so much milk..."
+			"哦,要把我变成一杯新鲜的牛奶？真调皮,",
+			"我发现自己开始变软了,",
+			"呵,那让我最后再揉一下你的胸部吧,",
+			"嗯,好多牛奶啊..."
 		],
 		"imagePortrait": [
 			"HHappy.png"
@@ -3123,10 +3123,10 @@
 	},
 	"strugglingMilkDigestHungry": {
 		"dialogueRandom": [
-			"Ooh, turning me into milk?",
-			"Mmm, don't forget the cookies, then.",
-			"Ah, let me enjoy myself for a little longer, then.",
-			"Now you're really gonna be hot."
+			"哦,要把我变成牛奶？",
+			"嗯,别忘了拿饼干来配,",
+			"啊,那让我再享受一会儿吧,",
+			"现在你可真的要热起来了,"
 		],
 		"imagePortrait": [
 			"HTired.png"
@@ -3134,49 +3134,49 @@
 	},
 	"strugglingMilkDigestHorny": {
 		"dialogueRandom": [
-			"Ooh, making me into milk?~ How kinky~",
-			"Ooh, trying to shrink down a few sizes~?",
-			"A-ah, let me rub a little more, please~",
-			"I may go well with cookies, but I always come back~"
+			"哦,把我变成牛奶？~ 好变态哦～",
+			"哦哦,想把我缩小几个尺寸～？",
+			"啊哈,求你了,让我再揉一会儿吧～",
+			"我可能很配饼干,但我总会回来的～"
 		],
 		"imagePortrait": [
 			"HOwO.png"
 		]
 	},
-	"strugglingMilkDigestImmune": ":strugglingAcidDigestImmune", // duplicated lines
-	"strugglingMiscDigest": ":strugglingAcidDigest", // duplicated lines
-	"strugglingMiscDigestImmune": ":strugglingAcidDigestImmune", // duplicated lines
-	"strugglingTransforming": "/npcs/sbq/dialogue/default.dialogue:strugglingTransforming", // external lines
-	"strugglingDrainEnergy": "/npcs/sbq/LokiVulpix/Auri/npc.dialogue:strugglingDrainEnergy", // external lines
+	"strugglingMilkDigestImmune": ":strugglingAcidDigestImmune",
+	"strugglingMiscDigest": ":strugglingAcidDigest",
+	"strugglingMiscDigestImmune": ":strugglingAcidDigestImmune",
+	"strugglingTransforming": "/npcs/sbq/dialogue/default.dialogue:strugglingTransforming",
+	"strugglingDrainEnergy": "/npcs/sbq/LokiVulpix/Auri/npc.dialogue:strugglingDrainEnergy",
 	"strugglingEggify": {
 		"dialogueRandom": [
 			[
-				"Mm, no?"
+				"嗯,不要？"
 			]
 		],
 		"imagePortrait": [
 			"HConfused.png"
 		]
 	},
-	"anyInfused": "/npcs/sbq/dialogue/default.dialogue:anyInfused", // external lines
-	"thighsInfused": "/npcs/sbq/dialogue/default.dialogue:thighsInfused", // external lines
-	"bellyInfused": "/npcs/sbq/LokiVulpix/Loki/npc.dialogue:bellyInfused", // external lines
-	"breastInfused": "/npcs/sbq/LokiVulpix/Auri/npc.dialogue:breastInfused", // external lines
-	"pussyInfused": "/npcs/sbq/LokiVulpix/Auri/npc.dialogue:pussyInfused", // external lines
-	"cockInfused": "/npcs/sbq/LokiVulpix/Auri/npc.dialogue:cockInfused", // external lines
-	"pawInfused": "/npcs/sbq/dialogue/default.dialogue:pawInfused", // external lines
-	"tailInfused": "/npcs/sbq/dialogue/default.dialogue:tailInfused", // external lines
-	"climax": "/npcs/sbq/dialogue/default.dialogue:climax", // external lines
-	"climaxWomb": "/npcs/sbq/dialogue/default.dialogue:climaxWomb", // external lines
-	"climaxBreasts": "/npcs/sbq/dialogue/default.dialogue:climaxBreasts", // external lines
-	"climaxCock": "/npcs/sbq/dialogue/default.dialogue:climaxCock", // external lines
-	"climaxBalls": "/npcs/sbq/dialogue/default.dialogue:climaxBalls", // external lines
+	"anyInfused": "/npcs/sbq/dialogue/default.dialogue:anyInfused",
+	"thighsInfused": "/npcs/sbq/dialogue/default.dialogue:thighsInfused",
+	"bellyInfused": "/npcs/sbq/LokiVulpix/Loki/npc.dialogue:bellyInfused",
+	"breastInfused": "/npcs/sbq/LokiVulpix/Auri/npc.dialogue:breastInfused",
+	"pussyInfused": "/npcs/sbq/LokiVulpix/Auri/npc.dialogue:pussyInfused",
+	"cockInfused": "/npcs/sbq/LokiVulpix/Auri/npc.dialogue:cockInfused",
+	"pawInfused": "/npcs/sbq/dialogue/default.dialogue:pawInfused",
+	"tailInfused": "/npcs/sbq/dialogue/default.dialogue:tailInfused",
+	"climax": "/npcs/sbq/dialogue/default.dialogue:climax",
+	"climaxWomb": "/npcs/sbq/dialogue/default.dialogue:climaxWomb",
+	"climaxBreasts": "/npcs/sbq/dialogue/default.dialogue:climaxBreasts",
+	"climaxCock": "/npcs/sbq/dialogue/default.dialogue:climaxCock",
+	"climaxBalls": "/npcs/sbq/dialogue/default.dialogue:climaxBalls",
 	"shrinking": {
 		"dialogueRandom": [
-			"Mm, looking to make me more manageable?",
-			"Oh? I wonder what you have in mind, dear.",
-			"Hmm, I don't remember using Minimize.",
-			"Big or small, I'm happy either way."
+			"嗯,想让我变得更好掌控吗？",
+			"哦？我很好奇你在打什么主意,亲爱的,",
+			"嗯,我不记得用过缩小技能啊,",
+			"不管是大是小,我都很开心,"
 		],
 		"imagePortrait": [
 			"HHappy.png"
@@ -3184,10 +3184,10 @@
 	},
 	"shrinkingHungry": {
 		"dialogueRandom": [
-			"Can you shrink down my hunger as well?",
-			"I suppose I can make due with less food now.",
-			"Hmm, I think I can still manage to get a good-sized meal in me.",
-			"Are you looking to fit into a warm, snug space~?"
+			"你能把我的饥饿感也缩小吗？",
+			"我想现在我可以少吃点食物了,",
+			"嗯,我觉得我还是能吃下一顿丰盛的大餐,",
+			"你是想找个温暖又舒适的小空间钻进去吗～？"
 		],
 		"imagePortrait": [
 			"HTired.png"
@@ -3195,10 +3195,10 @@
 	},
 	"shrinkingHorny": {
 		"dialogueRandom": [
-			"Goodness, I can only wonder what you have in mind~",
-			"Mmm, looking to make me into a fun toy~?",
-			"No matter my size, I would love to squeeze you somewhere warm and cramped~",
-			"Oh my, this could be fun~"
+			"天呐,我只能想象你在打什么主意了～",
+			"嗯,想把我变成一个有趣的玩具吗～？",
+			"不管我多大,我都很想把你挤在某个温暖又狭窄的地方～",
+			"哦,这可能会很有趣～"
 		],
 		"imagePortrait": [
 			"HUwU.png"
@@ -3206,10 +3206,10 @@
 	},
 	"growing": {
 		"dialogueRandom": [
-			"Making me bigger, are you?",
-			"Careful, dear, I might not watch my step.",
-			"Hmhm, you must like big dogs. Don't worry, I can keep a secret~",
-			"Big or small, I'm happy either way."
+			"你是想让我变大,是吗？",
+			"小心点,亲爱的,我可能会不小心踩到你,",
+			"哼哼,你肯定喜欢大狗,别担心,我会保密的～",
+			"不管是大是小,我都很开心,"
 		],
 		"imagePortrait": [
 			"HHappy.png"
@@ -3217,10 +3217,10 @@
 	},
 	"growingHungry": {
 		"dialogueRandom": [
-			"Watch out. My appetite scales with my size, dear.",
-			"You are looking pretty tasty from this point of view.",
-			"Ah, this works. Now I can cram in more tasty morsels.",
-			"Being hungry sucks. Being bigger and hungry, not so much."
+			"小心,我的胃口会随着体型一起变大,亲爱的,",
+			"从这个角度看,你看起来真的很美味,",
+			"啊,这样正好,现在我可以塞进更多美味的食物了,",
+			"肚子饿很糟糕,但体型变大又肚子饿,就没那么糟糕了,"
 		],
 		"imagePortrait": [
 			"HTired.png"
@@ -3228,10 +3228,10 @@
 	},
 	"growingHorny": {
 		"dialogueRandom": [
-			"Hmhm, want me to hide you without a trace~?",
-			"Just a warning, dear: the bigger I get, the more places you'll fit~",
-			"Mm, let me be your shelter~",
-			"The possibilities keep growing, as do I~"
+			"哼哼,想让我把你藏得无影无踪吗～？",
+			"只是提醒一下,亲爱的:我越大,能藏你的地方就越多～",
+			"嗯,让我来当你的庇护所～",
+			"可能性越来越多,就像我的体型一样～"
 		],
 		"imagePortrait": [
 			"HUwU.png"
@@ -3239,10 +3239,10 @@
 	},
 	"didSteppy": {
 		"dialogueRandom": [
-			"Ah, sorry about that.",
-			"Oops! Better watch where I'm <steppytype>.",
-			"Oh! Hello down there.",
-			"Oh? Did I hear a squish?"
+			"啊,抱歉啊,",
+			" 哎呀！我得注意一下我的<steppytype>放哪儿了,",
+			"哦！你在下面啊,",
+			"哦？我听到噗呲一声了吗？"
 		],
 		"imagePortrait": [
 			"HHappy.png"
@@ -3250,10 +3250,10 @@
 	},
 	"didSteppyHungry": {
 		"dialogueRandom": [
-			"Oh? A potential snack?",
-			"A little too small to quell my hunger.",
-			"You might help put a small dent in my hunger.",
-			"Heh, you'd fit perfectly in a hot dog bun."
+			"哦？有潜在的零食？",
+			"太小了,填不饱我的肚子,",
+			"你可能只能稍微缓解一下我的饥饿,",
+			"呵,你刚好可以塞进热狗面包里,"
 		],
 		"imagePortrait": [
 			"HTired.png"
@@ -3261,10 +3261,10 @@
 	},
 	"didSteppyHorny": {
 		"dialogueRandom": [
-			"My my, something feels nice under my paws~",
-			"Oh? An admirer? Please, feel free to indulge yourself~",
-			"Mmm, care to give me a rub or two~?",
-			"Fun sized, hmm? I can think of a few places for you~"
+			"哎呀呀,我爪子下感觉有个好东西～",
+			"哦？是个爱慕者？请随意尽情享受吧～",
+			"嗯,要不要给我揉一揉～？",
+			"尺寸这么可爱,嗯？我能想到几个适合你的地方～"
 		],
 		"imagePortrait": [
 			"HUwU.png"
@@ -3272,39 +3272,39 @@
 	},
 	"gotStepped": {
 		"dialogueRandom": [
-			"Oh! Hello to you, too.",
-			"Need a little pep in your step? Bring me along!",
-			"Heh, I'm down here, dear.",
-			"My, what nice feet you have~"
+			"哦！你也好啊,",
+			"你需要点活力吗？带上我吧！",
+			"呵,我在这儿呢,亲爱的,",
+			"哇,你的脚真好看～"
 		],
 		"imagePortrait": [
 			"HHappy.png"
 		]
 	},
 	"gotStomped": [
-		"Bork?!",
-		"Bork.",
-		"Bork!",
-		" ...bork."
+		"汪？！",
+		"汪,",
+		"汪！",
+		"... 汪,"
 	],
 	"vanilla": "/npcs/sbq/dialogue/default.dialogue:vanilla",
 	// Unused Dialogue 
 	// Unused Dialogue
 	// Unused Dialogue
-	"conversePrompt": "Let's talk!",
-	"needsInfusion": ":oralVoreNeedsInfusion", // duplicated lines
-	"alreadyInfused": ":oralVoreAlreadyInfused", // duplicated lines
-	"targetPreySettingsMismatch": ":oralVoreTargetPreySettingsMismatch", // duplicated lines
-	"full": ":bellyInfuseFull", // duplicated lines
-	"strugglingDigestImmune": ":strugglingAcidDigestImmune", // duplicated lines
-	"strugglingTransformingWomb": ":strugglingEggify", // duplicated lines
+	"conversePrompt": "我们聊聊吧！",
+	"needsInfusion": ":oralVoreNeedsInfusion",
+	"alreadyInfused": ":oralVoreAlreadyInfused",
+	"targetPreySettingsMismatch": ":oralVoreTargetPreySettingsMismatch",
+	"full": ":bellyInfuseFull",
+	"strugglingDigestImmune": ":strugglingAcidDigestImmune",
+	"strugglingTransformingWomb": ":strugglingEggify",
 	// Unused Dialogue
 	"curiousBelly": [
-		"It's nice and quiet. Perfect if you want to take a nap."
+		"这里又安静又舒适,如果你想小睡一会儿,这里再合适不过了,"
 	],
 	"curiousBellyHorny": {
 		"dialogue": [
-			"It's nice, quiet, and just the right temperature for you, <entityname>~"
+			" 这里很舒服,很安静,温度也正适合你,<entityname>~"
 		],
 		"imagePortrait": [
 			"HDetermined.png"
@@ -3312,18 +3312,18 @@
 	},
 	"curiousBellyHungry": {
 		"dialogue": [
-			"I can probably keep it quiet enough with you in there."
+			"有你在里面，我大概能保持安静。"
 		],
 		"imagePortrait": [
 			"HSleepy.png"
 		]
 	},
 	"curiousAcidHeal": [
-		"It's surprisingly therapeutic right now. Think of it as a nice sauna."
+		"现在感觉出奇地放松。就当是享受一次舒服的桑拿吧。"
 	],
 	"curiousAcidHealHorny": {
 		"dialogue": [
-			"It has a few of my healing embers going. Perfect for mending a tired soul~"
+			"这里有一些我治愈的余烬在燃烧。非常适合抚慰疲惫的灵魂～"
 		],
 		"imagePortrait": [
 			"HDetermined.png"
@@ -3331,19 +3331,18 @@
 	},
 	"curiousAcidHealHungry": {
 		"dialogue": [
-			"I think I can trick it into patching you up if you need it."
+			"我觉得如果有需要，我能哄它给你治疗一下。"
 		],
 		"imagePortrait": [
 			"HSleepy.png"
 		]
 	},
-	// Unused Dialogue
 	"curiousBellyDigest": [
-		"It's pretty active right now. No need to worry, though."
+		"现在这里很活跃。不过别担心。"
 	],
 	"curiousBellyDigestHorny": {
 		"dialogue": [
-			"It's going to be slightly hotter than what you'd like. Just enough to sizzle you down~"
+			"这里会比你想要的温度稍微高一点。刚好能把你慢慢融化～"
 		],
 		"imagePortrait": [
 			"HDetermined.png"
@@ -3351,7 +3350,7 @@
 	},
 	"curiousBellyDigestHungry": {
 		"dialogue": [
-			"It'll be hot. Melty, even. I can still keep you safe, though."
+			"这里会很热。甚至会融化。不过我还是能保证你的安全。"
 		],
 		"imagePortrait": [
 			"HSleepy.png"
@@ -3359,33 +3358,33 @@
 	},
 	"fullHorny": {
 		"dialogueRandom": [
-			"That's incredibly hot that you want to try, but I'd explode...",
-			"I'm way past full...",
-			"Oooh, I can't... I'd appreciate some room service, though...",
-			"Pretty sure I'd pass my limits..."
+			"你想尝试的想法超火辣，但我会爆掉的...",
+			"我已经超级饱了...",
+			"哦哦，我不行了... 不过我很感激来点客房服务...",
+			"我肯定会超过极限的..."
 		],
 		"imagePortrait": [
 			"HRelieved.png"
 		]
 	},
 	"fullHungry": [
-		"While my body really wants you inside it, it'd get way too cramped...",
-		"Trust me, I want to. My body wants to. You want to. But I can't.",
-		"I could probably give you a lick, but that's it...",
-		" ...Not right now, my body has its limits..."
+		"虽然我的身体很想把你吞进去，但里面会变得太挤了...",
+		"相信我，我想。我的身体想。你也想。但我做不到。",
+		"我大概能舔你一下，但仅此而已...",
+		"... 现在不行，我的身体有极限..."
 	],
 	"oralVoreDigestFull": [
-		"It might look like I've got space, but they want me all to themselves. Sorry~",
-		"Ah, there's no need to worry. They'll be perfectly fine. \nYou will be too once I get to you~",
-		"Eager to get turned into pudge, are you? It'll be a bit of a wait. Maybe even a long one...",
-		"Hmhm, do I look nice and empty? Oh, it's nothing."
+		"看起来我好像还有空间，但它们想独自占有我。抱歉啦～",
+		"啊，别担心。他们会没事的。\n 等轮到你时，你也会没事的～",
+		"这么渴望变成赘肉啊？那得等一阵子了。说不定要等很久...",
+		"哼哼，我看起来是不是又空又舒服？哦，没什么。"
 	],
 	"oralVoreFullDigestHungry": {
 		"dialogueRandom": [
-			"Hm? Nothing to see here. Any cries for help are just your imagination.",
-			"Yummy... Just reminiscing about a tasty meal. Come back later.",
-			"My belly is a bit busy. Somewhere else may prove more fruitful~",
-			"Who's the unlucky prey? Probably someone you know~"
+			"嗯？没什么可看的。那些求救声只是你的想象。",
+			"好美味... 只是在回味一顿美餐。过会儿再来吧。",
+			"我的肚子有点忙。去别的地方可能会有更多收获～",
+			"哪个倒霉蛋成了猎物？说不定是你认识的人～"
 		],
 		"imagePortrait": [
 			"HSleepy.png"
@@ -3393,27 +3392,27 @@
 	},
 	"oralVoreFullDigestHorny": {
 		"dialogueRandom": [
-			"Mmnf, this is easily my favorite part. Oh? It's nothing~",
-			"They're on an extended vacation. It's somewhere ^pink;steamy^reset; and noisy.",
-			"Looking for someone? Can't say that I've-*urp*-seen them~",
-			"I'll have to squeeze you in later. I need to find a place to rest and, mhm, digest~"
+			"嗯嗯，这绝对是我最喜欢的部分。哦？没什么～",
+			"他们在度长假呢。那个地方 ^pink; 又热又吵 ^reset;。",
+			" 在找人吗？我可没...嗝... 见过他们哦～",
+			"我得晚点再把你塞进来。我得找个地方休息，嗯哼，消化一下～"
 		],
 		"imagePortrait": [
 			"HDetermined.png"
 		]
 	},
 	"oralVoreHealFull": [
-		"Sorry, dear, but you're going to have to wait.",
-		"I'd love to, but they had a scratch. Can't let them out until they're all patched up.",
-		"Eager for healing as well, are you? Perhaps I have an opening elsewhere~",
-		"The sauna's occupied. You'll have to book a later session."
+		"抱歉，亲爱的，但你得等等了。",
+		"我很想帮你，但他们有点擦伤。在他们完全好之前，不能放他们出去。",
+		"你也渴望治愈，是吗？也许我其他地方有空位～",
+		"桑拿房有人在用。你得预约下一场了。"
 	],
 	"oralVoreFullHealHungry": {
 		"dialogueRandom": [
-			"Ssh... My belly's trying to rest. Oh, and my prey, too.",
-			"Their adventure is on pause right now. Come back later and I'll pause yours, too.",
-			"I might have another opening for you, but they need to recover.",
-			"Tempting, but I'm pretty sure my gut would switch over to melting all of you down."
+			"嘘... 我的肚子在休息。哦，还有我的猎物也在休息。",
+			"他们的冒险暂时暂停了。过会儿再来，我也会暂停你的冒险。",
+			"我可能还有个空位给你，但他们得先恢复。",
+			"很诱人，但我很确定我的肚子会转而把你们都融化掉。"
 		],
 		"imagePortrait": [
 			"HSleepy.png"
@@ -3421,30 +3420,30 @@
 	},
 	"oralVoreFullHealHorny": {
 		"dialogueRandom": [
-			"Soon. Both of us have needs we're currently filling.",
-			"Mm, I may be able to fit you in elsewhere~ \nThey're getting some much needed rest.",
-			"If you're hurt, I could give you a quick smooch to take your mind off it~",
-			"Just imagine: this will be you and me in due time~"
+			"很快。我们俩都有当下要满足的需求。",
+			"嗯，我或许能在别的地方给你腾个位置～\n 他们正在好好休息呢。",
+			"如果你受伤了，我可以给你一个快速的亲吻，让你忘掉疼痛～",
+			"想象一下：不久之后，这就会是你我的状态～"
 		],
 		"imagePortrait": [
 			"HDetermined.png"
 		]
 	},
 	"oralVoreCompressionFull": [
-		"Just give my prey some time to fit more snugly in, then I'll fit you in.",
-		"I'll swallow you down after my current snack gets a bit more compact",
-		"I'm pretty full right now, but my meal is getting downsized, so you'll fit soon!",
-		"Just give me a sec to squish my friend here down, and then you'll be next!"
+		"给我的猎物一点时间，让他们更舒服地待进去，然后我就会把你也装进去。",
+		"等我现在的这份小吃变得更紧实一点，我就把你吞下去。",
+		"我现在相当饱了，但我的食物正在变小，所以你很快就能挤进来啦！",
+		"给我一秒钟把我这位朋友挤下去，然后就轮到你啦！"
 	],
 	"cockVoreCompressionFull": [
-		"Oh I'm squeezing them all down to a smaller size as I get harder, then maybe you'll fit in with them~"
+		"哦，我在变硬的同时，把他们都挤到更小的尺寸，也许之后你就能和他们一起挤进来啦～"
 	],
 	"unbirthVoreFullDigest": {
 		"dialogueRandom": [
-			"Don't be afraid. They'll reform when they're due~",
-			"You saw a kick? Must've been your imagination.",
-			"They're definitely a keeper. You look like one, too~",
-			"Looking to play? You'll have to wait your turn~"
+			"别害怕。他们到时候会重组的～",
+			"你看到有动静？肯定是你想象出来的。",
+			"他们绝对是个宝贝。你看起来也是呢～",
+			"想玩吗？你得排队等轮到你哦～"
 		],
 		"imagePortrait": [
 			"HHappy.png"
@@ -3452,10 +3451,10 @@
 	},
 	"unbirthVoreFullDigestHungry": {
 		"dialogueRandom": [
-			"I can't, but you're welcome to watch them get nice and soft.",
-			"Oh? You saw a bit of ^pink;steam^reset; come out? They must be having fun.",
-			"Are you jealous? Don't be. You might be next~",
-			"This doesn't really fix my hunger, but it still feels wonderful."
+			"我不行，但你可以看着他们慢慢变软。",
+			"哦？你看到有一点 ^pink; 蒸汽 ^reset; 冒出来了？他们肯定玩得很开心。",
+			"你嫉妒了？别这样。也许下一个就是你～",
+			"这并不能真正解决我的饥饿，但感觉还是很棒。"
 		],
 		"imagePortrait": [
 			"HTired.png"
@@ -3463,10 +3462,10 @@
 	},
 	"unbirthVoreFullDigestHorny": {
 		"dialogueRandom": [
-			"I'd prefer not to open the floodgates just yet, dear. You might drown~",
-			"I can reform them at any time, but I'd like to keep them... for a while longer~",
-			"Pry as much as you like, you're not getting in just yet~",
-			"They're mine for now~"
+			"亲爱的，我还不想现在就打开闸门呢。你可能会被淹没～",
+			"我随时可以重组他们，但我想再留他们一会儿～",
+			"你再怎么撬也没用，你现在还进不来～",
+			"他们现在是我的～"
 		],
 		"imagePortrait": [
 			"HOwO.png"
@@ -3474,10 +3473,10 @@
 	},
 	"unbirthVoreHealFull": {
 		"dialogueRandom": [
-			"Mm, I'm rekindling their fire.",
-			"Didn't want to melt them by accident. Hm? Okay, fine. I didn't want to digest them by accident.",
-			"You're welcome to touch. Feel their movements getting stronger",
-			"Sorry that I can't tend to you. I may be able to fit you in elsewhere, though~"
+			"嗯，我在重新点燃他们的活力。",
+			"我不想不小心把他们融化了。嗯？好吧，行。我是不想不小心把他们消化了。",
+			"你可以摸摸看。感受他们的动作变得更有力了。",
+			"抱歉我现在不能照顾你。不过，我也许能在别的地方给你腾出位置。"
 		],
 		"imagePortrait": [
 			"HHappy.png"
@@ -3485,10 +3484,10 @@
 	},
 	"unbirthVoreFullHealHungry": {
 		"dialogueRandom": [
-			"I always love this part, even if I'm starving. It's rare to heal someone in such a tender manner~",
-			"Honestly, I would if I could. I'd gladly heal you too~",
-			"Mind fetching me a snack? I feel like my healing could be faster.\nDoesn't mean their stay will be any shorter, though~",
-			"Ssh... They're resting..."
+			"我一直很喜欢这个过程，即使我饿坏了。以如此温柔的方式治愈一个人可不常见～",
+			"说实话，如果可以的话我会的。我也很乐意治愈你～",
+			"介意帮我拿点吃的吗？我觉得我的治愈速度可以更快。\n 不过，这并不意味着他们待的时间会缩短哦～",
+			"嘘…… 他们在休息呢。"
 		],
 		"imagePortrait": [
 			"HTired.png"
@@ -3496,10 +3495,10 @@
 	},
 	"unbirthVoreFullHealHorny": {
 		"dialogueRandom": [
-			"Haa~ They're slowly mending~",
-			"They're probably good now, but I'd like to make doubly sure~",
-			"No more room in the ^pink;VIP suite^reset;, I'm afraid~ Book another slot?",
-			"You can feel if you'd like in the meantime~"
+			"哈啊～他们正在慢慢恢复～",
+			"他们可能已经好了，但我想再确认一下～",
+			"恐怕 ^pink; 贵宾套房 ^reset; 里没位置了～要不要再预约一个时段？",
+			"在此期间，你想摸的话可以摸摸看～"
 		],
 		"imagePortrait": [
 			"HOwO.png"
@@ -3507,10 +3506,10 @@
 	},
 	"breastVoreFullDigest": {
 		"dialogueRandom": [
-			"Looking for someone? I'm sure you'll find them eventually. Care for a warm sip?",
-			"Hm? It looks like my boobs are moving? Must be your imagination~",
-			"You'll have to wait your turn. You're welcome to shake them up, though.",
-			"If you place your ear against me, they say you can hear the ocean~ \nAnd maybe the occasional call for help."
+			"在找人吗？我相信你最终会找到他们的。想来一口温热的饮品吗？",
+			"嗯？你觉得我的胸部在动？肯定是你想象出来的～",
+			"你得排队等轮到你。不过，你可以摇晃一下它们。",
+			"如果你把耳朵贴在我身上，据说你能听到大海的声音～\n 偶尔也许还能听到求救声。"
 		],
 		"imagePortrait": [
 			"HHappy.png"
@@ -3518,10 +3517,10 @@
 	},
 	"breastVoreFullDigestHungry": {
 		"dialogueRandom": [
-			"Have some cookies handy? I've got plenty of milk to spare.",
-			"Perfect, you're just in time. Mind dropping some excess milk at Auri's shop for me?",
-			"In case you're curious, they're fine. Any milk is just excess water weight and such.",
-			"If you call me a cow, you're next."
+			"手头有饼干吗？我有很多奶可以搭配。",
+			"太好了，你来得正好。介意帮我把多余的奶送到奥莉的店里吗？",
+			"以防你好奇，他们没事。这些奶不过是多余的水分之类的。",
+			"如果你叫我奶牛，下一个就轮到你。"
 		],
 		"imagePortrait": [
 			"HTired.png"
@@ -3529,10 +3528,10 @@
 	},
 	"breastVoreFullDigestHorny": {
 		"dialogueRandom": [
-			"You thought you heard a moan? Who knows where that came from~",
-			"Mm, it's just me and my milk-bags over here~",
-			"You're welcome to watch them jiggle away if you'd like~",
-			"Thirsty? I can fetch a glass. It'll be a little spicy~"
+			"你觉得你听到了呻吟声？谁知道那是从哪儿来的～",
+			"嗯，这里只有我和我的奶袋子～",
+			"如果你愿意，欢迎你看着它们晃来晃去～",
+			"口渴了？我可以拿个杯子。这会有点刺激哦～"
 		],
 		"imagePortrait": [
 			"HOwO.png"
@@ -3540,10 +3539,10 @@
 	},
 	"breastVoreHealFull": {
 		"dialogueRandom": [
-			"Ever have a glass of warm milk right before bed? That's them right now.",
-			"They wanted a good soak to wash the stress away. Come back later~",
-			"They're gonna be a while. Maybe try somewhere else?",
-			"They're fun to watch move around, aren't they? Try not to get hypnotized~"
+			"有没有试过睡前喝一杯温热的牛奶？他们现在就是这种感觉。",
+			"他们想好好泡个澡，洗去压力。过会儿再来吧～",
+			"他们还得一会儿。要不试试别的地方？",
+			"看他们动来动去很有趣，对吧？别被催眠了哦～"
 		],
 		"imagePortrait": [
 			"HHappy.png"
@@ -3551,10 +3550,10 @@
 	},
 	"breastVoreFullHealHungry": {
 		"dialogueRandom": [
-			"My milk is healing them up, but it could be even faster if I wasn't as hungry...",
-			"While I'm fixing them up, why don't you fix me up? I'm starving.",
-			"If you're hurt that badly, I'm sure you could take a little sip.",
-			"While I am hungry, they were hurt. I'm not a complete b!tch."
+			"我的奶正在治愈他们，但如果我没这么饿的话，速度可能会更快……",
+			"我在帮他们恢复的时候，你能不能也帮我一下？我快饿死了。",
+			"如果你伤得那么重，我觉得你可以稍微喝一点。",
+			"虽然我很饿，但他们受伤了。我还没那么坏。"
 		],
 		"imagePortrait": [
 			"HTired.png"
@@ -3562,10 +3561,10 @@
 	},
 	"breastVoreFullHealHorny": {
 		"dialogueRandom": [
-			"They're getting patched up. We had a ^pink;rough^reset; session earlier~",
-			"It may take them a while. Care to discuss any ^pink;sizzling^reset; secrets?",
-			"Mmmf... You'll get your turn eventually~",
-			"You're more than welcome to nestle your head in-between my breasts while you wait~"
+			"他们正在被修复。我们之前有过一场 ^pink; 激烈 ^reset; 的互动～",
+			"这可能需要他们一些时间。想聊聊任何 ^pink; 火辣 ^reset; 的秘密吗？",
+			"嗯嗯嗯…… 你总会轮到的～",
+			"你可以在等待的时候，把头埋在我的胸部之间～"
 		],
 		"imagePortrait": [
 			"HOwO.png"
@@ -3573,10 +3572,10 @@
 	},
 	"struggle": {
 		"dialogueRandom": [
-			"All nice and snug, dear.",
-			"I don't mind. Keep it up.",
-			"Not bad! I could get used to this.",
-			"Careful. I might make your stay last far longer~"
+			"亲爱的，都舒舒服服地挤进去了。",
+			"我不介意。继续吧。",
+			"不错嘛！我都要习惯了。",
+			"小心点。我可能会让你待得更久哦～"
 		],
 		"imagePortrait": [
 			"HHappy.png"
@@ -3584,10 +3583,10 @@
 	},
 	"struggleTransformingImmune": {
 		"dialogueRandom": [
-			"Staying true to yourself is a good trait.",
-			"This works, too. Keep wiggling anyway.",
-			"I'll lay off my personal spices for now. I couldn't resist~",
-			"You'd make for a sexy hellhound, but I won't force you."
+			"坚持做自己是个好品质。",
+			"这样也行。不管怎样，继续扭动吧。",
+			"我暂时不添加我的特殊调料了。我实在忍不住～",
+			"你会成为一只性感的地狱犬，但我不会强迫你。"
 		],
 		"imagePortrait": [
 			"HHappy.png"
@@ -3601,10 +3600,10 @@
 	},
 	"struggleLetoutTransformingImmune": {
 		"dialogueRandom": [
-			"Not interested in joining the pack?",
-			"Scared? Don't be, it's not permanent.",
-			"You would've been so sexy, too...",
-			"I can understand that. Let me know next time."
+			"不想加入这个群体吗？",
+			"害怕了？别担心，这不是永久性的。",
+			"你本来会很性感的，唉……",
+			"我能理解。下次再说吧。"
 		],
 		"imagePortrait": [
 			"HConfused.png"
@@ -3612,10 +3611,10 @@
 	},
 	"struggleLetoutTransformed": {
 		"dialogueRandom": [
-			"Damn, that's a good look for you.",
-			"I hope you like having a bit of me within you temporarily.",
-			"It's not permanent, so don't worry.",
-			"Heh, now you can really bork properly."
+			"该死，这造型很适合你。",
+			"希望你喜欢暂时体内有我的一部分。",
+			"这不是永久性的，所以别担心。",
+			"嘿，现在你能好好地汪汪叫了。"
 		],
 		"imagePortrait": [
 			"HJoyful.png"
@@ -3629,10 +3628,10 @@
 	},
 	"struggleLetoutTransformedHorny": {
 		"dialogueRandom": [
-			"Damn, you look even hotter now.",
-			"I hope you like having a bit of me with you, you hot dog.",
-			"It's not permanent~",
-			"Heh, now you can really bork~"
+			"该死，你现在看起来更辣了。",
+			"希望你喜欢和我有点亲密接触，你这性感的家伙。",
+			"这不是永久性的～",
+			"嘿，现在你能好好地汪汪叫啦～"
 		],
 		"imagePortrait": [
 			"HJoyful.png"
@@ -3645,7 +3644,7 @@
 	},
 	"struggleLetoutEgged": {
 		"dialogueRandom": [
-			"Yoshi would be proud, I think."
+			"耀西应该会很骄傲，我觉得。"
 		],
 		"imagePortrait": [
 			"HBlep.png"
@@ -3653,10 +3652,10 @@
 	},
 	"struggleLetoutEggifyImmune": {
 		"dialogueRandom": [
-			"I'm not a Pokémon Trainer. I won't jam you in a box if your IVs are bad.",
-			"Not interested? I totally wouldn't yeet or eat the egg.",
-			"Don't want to be doubly trapped? I can respect that.",
-			"Damn, I had so many hatchday jokes ready."
+			"我不是宝可梦训练家。我不会因为你个体值不好就把你塞进精灵球里。",
+			"不感兴趣？我绝对不会把蛋扔了或者吃掉。",
+			"不想被双重困住？我能理解。",
+			"该死，我准备了好多孵化日的笑话呢。"
 		],
 		"imagePortrait": [
 			"HHappy.png"
@@ -3664,10 +3663,10 @@
 	},
 	"oralVoreLetoutForcedDigested": {
 		"dialogueRandom": [
-			"And there! Good as new. Maybe even better.",
-			"A moment on my lips thankfully isn't a lifetime on my hips for you.",
-			"I could make the stay a lot longer next time if you'd like~",
-			"Oh? Got something to do? Come back later and we'll continue where we left off~"
+			"好了！完好如初。甚至可能更好。",
+			"在我嘴上停留一会儿，对你来说幸好不是一辈子留在我身上。",
+			"如果你愿意，下次我可以让你待得久很多哦～",
+			"哦？有事要做？过会儿回来，我们接着来～"
 		],
 		"imagePortrait": [
 			"HHappy.png"
@@ -3675,10 +3674,10 @@
 	},
 	"oralVoreLetoutForcedDigestedHungry": {
 		"dialogueRandom": [
-			"Thanks, you don't know how much that helped. Time to reform you.",
-			"Melting you down felt... perfect. Back to the outside world you go.",
-			"I'm in your debt. Seriously. You don't know how bad my hunger gets.",
-			"Ah, you were a delightful meal. Toodles."
+			"谢谢，你不知道那有多管用。是时候把你重组了。",
+			"把你融化的感觉…… 太完美了。回到外面的世界去吧。",
+			"我欠你个人情。说真的。你不知道我有多饿。",
+			"啊，你是一顿美味的大餐。再见咯。"
 		],
 		"imagePortrait": [
 			"HTired.png"
@@ -3686,10 +3685,10 @@
 	},
 	"oralVoreLetoutForcedDigest": {
 		"dialogueRandom": [
-			"Heh, can't handle the heat? You sure got out of this hellhound fast.",
-			"Don't worry, I never really play for keeps",
-			"Ooh, so close to being pudge. Maybe next time~",
-			"Mm, that still helped quell my hunger a bit. Thanks."
+			"嘿，受不了这热度？你从这只地狱犬这儿出去得可真快。",
+			"别担心，我从不玩真的。",
+			"哦哦，差点就变成赘肉了。也许下次吧～",
+			"嗯，那还是有点缓解我的饥饿感。谢谢。"
 		],
 		"imagePortrait": [
 			"HHappy.png"
@@ -3697,10 +3696,10 @@
 	},
 	"oralVoreLetoutForcedDigestImmune": {
 		"dialogueRandom": [
-			"Thanks for allowing me to really let loose.",
-			"The heat too much for you, <entityname>?",
-			"Not a bad escape. I'll have to keep that one in mind.",
-			"And not a single pixel on you harmed."
+			"感谢你让我尽情释放。",
+			" 这热度对你来说太高了吗，<entityname>？",
+			"这逃脱方式不错。我得记下来。",
+			"而且你身上一个像素都没受伤。"
 		],
 		"imagePortrait": [
 			"HHappy.png"
@@ -3708,31 +3707,31 @@
 	},
 	"oralVoreLetoutForcedHeal": {
 		"dialogueRandom": [
-			"Feeling better? Good.",
-			"Looks like you still have a scratch. Care for another visit?",
-			"I'm here anytime if you get hurt.",
-			"Tell your friends about my services, too."
+			"感觉好点了吗？那就好。",
+			"看起来你还有一道擦伤。想再体验一次吗？",
+			"如果你受伤了，随时来找我。",
+			"也告诉你的朋友们我的服务哦。"
 		],
 		"imagePortrait": [
 			"HHappy.png"
 		]
 	},
 	"cockVoreLetoutForcedDigest": [
-		"Got out of my shaft before it absorbed you, eh?",
-		"Did you have to leave? It felt so good having you melt into cum! You would've been fine, promise.",
-		"I'll be... You withstood my shaft's heat and wiggled out before I was done."
+		"在被吸收之前从我的阴茎里出来了，嗯？",
+		"你非得离开吗？你融化成精液的感觉太棒了！我保证你会没事的。",
+		"我去…… 你承受住了我阴茎的热度，在我结束之前扭动着出来了。"
 	],
 	"cockVoreLetoutForcedHeal": [
-		"I guess shaft therapy time is over.",
-		"You seem eager to be free. Just don't get 'cocky' and get hurt, or back in you go!",
-		"Feeling better now? If not, my rod of healing is always ready."
+		"我想阴茎治疗时间结束了。",
+		"你似乎很渴望自由。别太‘自大’受伤了，不然就再把你塞进去！",
+		"现在感觉好点了吗？如果没有，我的治疗之棒随时准备着。"
 	],
 	"unbirthVoreLetoutForcedDigested": {
 		"dialogueRandom": [
-			"Based on your sloshing, you want out. I'll gladly reform you.",
-			"You've still got some punch in your current form. Let me reform you properly.",
-			"Mmm-ngg, keep flowing in that direction and--",
-			"You need out? Alright."
+			"从你的晃动判断，你想出去。我很乐意把你重组。",
+			"你现在的形态还有点活力。让我好好把你重组。",
+			"嗯嗯嗯 —— 嗯嗯，继续往那个方向流动然后 ——",
+			"你需要出去？好吧。"
 		],
 		"imagePortrait": [
 			"HHappy.png"
@@ -3740,10 +3739,10 @@
 	},
 	"unbirthVoreLetoutForcedDigestedHorny": {
 		"dialogueRandom": [
-			"Uunf~ Damn, I think I'm about to--",
-			"Ugh, I never should've trusted that discount aphrodisiac. Side effects include sudden--",
-			"Mmm, I've got a lot of steam built up this time~ Time to let loose~",
-			"I'd keep you for even longer, sweetie, but I'm afraid you'd disappear into thin air. Time to reform you~"
+			"唔嗯～该死，我觉得我要 ——",
+			"呃，我就不该相信那便宜的春药。副作用包括突然 ——",
+			"嗯嗯，这次我积攒了好多精力～是时候释放啦～",
+			"亲爱的，我真想把你留更久，但恐怕你会消失得无影无踪。是时候把你重组啦～"
 		],
 		"imagePortrait": [
 			"HOwO.png"
@@ -3751,10 +3750,10 @@
 	},
 	"unbirthVoreLetoutForcedDigest": {
 		"dialogueRandom": [
-			"That's quite the kick. It almost makes me think--oh! You want out.",
-			"Getting too hot in there? You should've said something. You did?",
-			"Guh, you really want out. It's gonna be slick.",
-			"H-hey, if you keep pushing there, I'm gonna--"
+			"这一脚可真有力。这差点让我以为 —— 哦！你想出去。",
+			"里面太热了？你早该说的。你说了？",
+			"呃，你真的很想出去。会很滑的。",
+			"嘿 —— 嘿，如果你再在那儿推，我可要 ——"
 		],
 		"imagePortrait": [
 			"HHappy.png"
@@ -3762,10 +3761,10 @@
 	},
 	"unbirthVoreLetoutForcedHeal": {
 		"dialogueRandom": [
-			"I see, you don't need my healing...",
-			"Okay, just give me a moment to push you out.",
-			"I won't keep you against your will this time, even though I really think you should stay and recover.",
-			"I get the message. Hold on."
+			"我明白了，你不需要我的治疗……",
+			"好的，给我一点时间把你推出去。",
+			"这次我不会违背你的意愿留你下来，尽管我真的觉得你应该留下来恢复。",
+			"我明白你的意思了。等一下。"
 		],
 		"imagePortrait": [
 			"HHappy.png"
@@ -3773,10 +3772,10 @@
 	},
 	"breastVoreLetoutForcedDigested": {
 		"dialogueRandom": [
-			"Tired of being oogled? Back to normal for you, then.",
-			"Reforming you will be a snap. No crackle and pop, though.",
-			"You think I should start my own brand of milk? 'That B!tch's Milk'?",
-			"Thanks, it was fun jiggling you around~"
+			"厌倦被人盯着看了？那你就恢复原样吧。",
+			"把你重组很容易。不过不会有噼里啪啦的声音。",
+			"你觉得我该创立自己的牛奶品牌吗？就叫‘那个坏女人的牛奶’？",
+			"谢谢，把你晃来晃去很有趣～"
 		],
 		"imagePortrait": [
 			"HHappy.png"
@@ -3784,10 +3783,10 @@
 	},
 	"breastVoreLetoutForcedDigestedHorny": {
 		"dialogueRandom": [
-			"Tired of me squeezing you once in a while~? Time to reform, then~",
-			"I got quite a few jealous looks~ If you want out, that's okay.",
-			"Fine, I'll have to find someone else to be padding~",
-			"Thanks, it was fun jiggling you around~"
+			"厌倦我时不时捏你一下啦～？那是时候重组了，然后～",
+			"我得到了好多嫉妒的眼神～如果你想出去，那也没关系。",
+			"好吧，我得找别人来当填充物了～",
+			"谢谢，把你晃来晃去很有趣～"
 		],
 		"imagePortrait": [
 			"HOwO.png"
@@ -3795,10 +3794,10 @@
 	},
 	"breastVoreLetoutForcedDigest": {
 		"dialogueRandom": [
-			"Not interested in being milk for a bit? No booby for you, then.",
-			"Aw, I was just about to buy a nice bottle of milk. Just kidding.",
-			"Being milk ain't bad. It's nutritious!",
-			"I was going to enjoy watching my boobs slowly shrink."
+			"不想当一会儿牛奶？那你就没奶喝了。",
+			"哎呀，我正打算买一瓶好牛奶呢。开玩笑的。",
+			"当牛奶也不错。很有营养的！",
+			"我本来还想看着我的胸部慢慢变小呢。"
 		],
 		"imagePortrait": [
 			"HHappy.png"
@@ -3806,10 +3805,10 @@
 	},
 	"breastVoreLetoutForcedDigestHungry": {
 		"dialogueRandom": [
-			"Shoot, I was going to drink you down and tease you as you reformed in my belly~",
-			"Alright, alright. I won't dip any cookies in you.",
-			"Being milk ain't bad. It's nutritious! Especially for me!",
-			"Damn. I was going to enjoy a nice drink."
+			"糟糕，我本来打算把你喝下去，然后在你在我肚子里重组的时候逗逗你呢～",
+			"好吧，好吧。我不会拿你蘸饼干了。",
+			"当牛奶也不错嘛。很有营养的！对我来说尤其如此！",
+			"该死。我本来还打算享受一顿美味的饮品呢。"
 		],
 		"imagePortrait": [
 			"HTired.png"
@@ -3817,10 +3816,10 @@
 	},
 	"breastVoreLetoutForcedDigestHorny": {
 		"dialogueRandom": [
-			"Heh, I wasn't going to go to the coffee shop and tease the customers~",
-			"Damn, it was fun watching you really slosh around.",
-			"Don't like steamed milk? I understand.",
-			"Aw. I was going to enjoy my hidden treasure~"
+			"呵，我本来还打算去咖啡店逗逗那些顾客呢～",
+			"该死，看着你在里面晃荡还挺有趣的。",
+			"不喜欢蒸奶？我理解。",
+			"哎呀。我本来还想享用我这隐藏的宝贝呢～"
 		],
 		"imagePortrait": [
 			"HOwO.png"
@@ -3828,22 +3827,22 @@
 	},
 	"breastVoreLetoutForcedHeal": {
 		"dialogueRandom": [
-			"You want out? Fine, just let me know if you're still interested.",
-			"Mmm, but don't you want to be even stronger?",
-			"All done? Get ready for the squeeze, then.",
-			"Milk is good for you. Anything you don't drink, I will~"
+			"你想出去？好吧，要是你还感兴趣的话，记得告诉我。",
+			"嗯，但你难道不想变得更强壮些吗？",
+			"结束了？那准备好被挤出去吧。",
+			"牛奶对你有好处。你喝不完的，我来喝～"
 		],
 		"imagePortrait": [
 			"HHappy.png"
 		]
 	},
-	"oralVoreLetoutRequestedDigested": "/npcs/sbq/LokiVulpix/Loki/npc.dialogue:oralVoreLetoutRequestedDigested", // external lines
+	"oralVoreLetoutRequestedDigested": "/npcs/sbq/LokiVulpix/Loki/npc.dialogue:oralVoreLetoutRequestedDigested",
 	"oralVoreLetoutRequestedDigestedHorny": {
 		"dialogueRandom": [
-			"It's been fun, but these love handles are getting to be a bit much~",
-			"You as pudge is nice, but these hugs are too one-sided. Time to reform~",
-			"Have to let you go for now. My next session might cause you to melt even more~",
-			"Sure, I'd love to keep you forever, but your adventure awaits."
+			"这很有趣，但这些赘肉有点多了～",
+			"你变成脂肪的样子很不错，但这拥抱太一边倒了。是时候重组啦～",
+			"现在得放你走了。我下一轮可能会让你融化得更厉害～",
+			"当然，我很想永远把你留在身边，但你的冒险在等着你呢。"
 		],
 		"imagePortrait": [
 			"HOwO.png"
@@ -3851,10 +3850,10 @@
 	},
 	"oralVoreLetoutRequestedDigestedHungry": {
 		"dialogueRandom": [
-			"Lugging you around as fat is nice, but I don't want to use you as fuel. Come on out.",
-			"I need a little extra space, so I gotta reform you and let you out.",
-			"I need a proper bite, so out you go.",
-			"This doesn't quite quell my hunger. Sorry, you gotta go."
+			"把你当脂肪拖着到处走很不错，但我不想把你当燃料。出来吧。",
+			"我需要点额外的空间，所以得把你重组后放出去。",
+			"我需要实实在在地咬一口，所以你出去吧。",
+			"这还不足以平息我的饥饿。抱歉，你得走了。"
 		],
 		"imagePortrait": [
 			"HTired.png"
@@ -3862,22 +3861,22 @@
 	},
 	"oralVoreLetoutRequestedDigestImmuneHorny": {
 		"dialogueRandom": [
-			"I'd love to keep you for longer, but I feel a change coming on.",
-			"My poor belly needs a break. Give me a bit to recover, okay?",
-			"Time's up, dear.",
-			"Better stretch those muscles. I don't want you wasting away in me."
+			"我很想把你留更久，但我感觉有变化要发生了。",
+			"我可怜的肚子需要休息一下。给我点时间恢复，好吗？",
+			"时间到了，亲爱的。",
+			"最好活动下肌肉。我可不想你在我肚子里荒废了。"
 		],
 		"imagePortrait": [
 			"HTired.png"
 		]
 	},
-	"oralVoreLetoutRequestedDigestImmuneHungry": ":oralVoreLetoutRequestedDigestImmuneHorny", // duplicated lines
+	"oralVoreLetoutRequestedDigestImmuneHungry": ":oralVoreLetoutRequestedDigestImmuneHorny",
 	"oralVoreLetoutRequestedDigestHorny": {
 		"dialogueRandom": [
-			"Ooh, don't want you to melt. That would end our fun too early~",
-			"Nah, I don't want you as fat. I want you~",
-			"Mhm, I think I have a better use for you~",
-			"Time to let you out~"
+			"哦，不想让你融化。那会让我们的乐趣结束得太早～",
+			"不，我不想要你变成脂肪。我想要你～",
+			"嗯，我觉得我有更好的用处给你～",
+			"是时候放你出去啦～"
 		],
 		"imagePortrait": [
 			"HOwO.png"
@@ -3885,27 +3884,27 @@
 	},
 	"oralVoreLetoutRequestedDigestHungry": {
 		"dialogueRandom": [
-			"Oh, uh, change of plans. My gut wanted to go all the way.",
-			"Sorry, belly, but you can't keep them.",
-			"Sorry if you wanted to melt, but I'm losing control.",
-			"That takes off the edge of my hunger a bit. Thanks."
+			"哦，呃，计划有变。我的肚子想彻底把你消化掉。",
+			"抱歉，肚子，但你不能留着他们。",
+			"抱歉，如果你想融化的话，但我有点控制不住了。",
+			"这稍微缓解了一点我的饥饿。谢谢。"
 		],
 		"imagePortrait": [
 			"HTired.png"
 		]
 	},
 	"oralVoreLetoutRequestedHeal": [
-		"You're probably patched up enough.",
-		"I think you've spent enough time healing.",
-		"I think you should be feeling much better now.",
-		"My stomach does wonders for healing, doesn't it?"
+		"你可能已经恢复得差不多了。",
+		"我觉得你已经花了足够的时间疗伤了。",
+		"我想你现在应该感觉好多了。",
+		"我的肚子疗伤很厉害，对吧？"
 	],
 	"oralVoreLetoutRequestedHealHorny": {
 		"dialogueRandom": [
-			"Nice and rejuvenated~",
-			"There, all good~? Ready for another round~?",
-			"Mm, sorry. My belly's starting to get in the way of my hands~",
-			"Should be good now~"
+			"神清气爽～",
+			"好了，都好了～？准备好再来一轮了～？",
+			"嗯，抱歉。我的肚子开始妨碍我的手活动了～",
+			"现在应该好了～"
 		],
 		"imagePortrait": [
 			"HOwO.png"
@@ -3913,74 +3912,74 @@
 	},
 	"oralVoreLetoutRequestedHealHungry": {
 		"dialogueRandom": [
-			"It probably isn't enough. My hunger is just too much, though.",
-			"I'd love to keep you for longer, but it's not going to be safe for long.",
-			"Shoot, you might want to try somewhere else.",
-			"I know you want to stay in. I have to let you out, though."
+			"这可能还不够。但我的饥饿感太强烈了。",
+			"我很想把你留更久，但再留下去不安全了。",
+			"糟糕，你可能得试试别的地方了。",
+			"我知道你想留在里面。但我得放你出去了。"
 		],
 		"imagePortrait": [
 			"HTired.png"
 		]
 	},
-	"analVoreLetoutRequestedDigested": ":oralVoreLetoutRequestedDigested", // duplicated lines
+	"analVoreLetoutRequestedDigested": ":oralVoreLetoutRequestedDigested",
 	"analVoreLetoutRequestedDigest": [
-		"I think you won't be adding to my rear today, butt buddy!",
-		"I'll let you go this time, but next time my rear will catch you!"
+		"我觉得你今天不会给我的屁股添肉了，屁股伙伴！",
+		"这次我放你走，但下次我的屁股会抓住你的！"
 	],
 	"analVoreLetoutRequestedHeal": {
 		"percentage": "targetHealth",
 		"pools": [
 			[
-				"I think my healing booty has done enough. I hope it soothed you!"
+				"我觉得我这能疗伤的屁股已经做得够多了。希望它让你感觉舒服！"
 			]
 		],
 		"full": [
-			"All better! Time to come out from the safety of my rear."
+			"全好了！是时候从我的屁股这个安全的地方出来啦。"
 		]
 	},
 	"cockVoreLetoutRequestedHeal": {
 		"percentage": "targetHealth",
 		"pools": [
 			[
-				"I don't have the time to patch you up fully. I hope you soaked in my cum long enough!"
+				"我没时间把你完全治好。希望你在我的精液里浸泡得够久！"
 			]
 		],
 		"full": [
-			"Ah, looks like you're all patched up! Seems soaking in my cum was rather helpful after all~"
+			"啊，看起来你全好了！看来在我的精液里浸泡还是很有用的呢～"
 		]
 	},
 	"unbirthVoreLetoutRequestedHeal": {
 		"percentage": "targetHealth",
 		"pools": [
 			[
-				"I hope my womb was cozy, but I can't keep holding you in there. Even if you aren't fully healed yet..."
+				"我希望我的子宫很舒适，但我不能一直把你留在里面。即使你还没完全康复……"
 			]
 		],
 		"full": [
-			"Feels like my womb's juices have gotten you all patched up, so i'ts time to let you out."
+			"感觉我的子宫液已经把你治好了，所以是时候放你出去了。"
 		]
 	},
 	"breastVoreLetoutRequestedDigestedHorny": {
 		"dialogueRandom": [
-			"Alright, that's enough teasing from me~ Time to reform~",
-			"Aw, no takers on wanting you as a drink. I'll reform you, then.",
-			"You looked good on me. My fur keeps getting wet, so I'm reforming you.",
-			"Thanks, it was fun seeing who I could tease~"
+			"好吧，我逗你逗得够多啦～是时候重组啦～",
+			"哎呀，没人想拿你当饮品。那我把你重组出来吧。",
+			"你在我身上看起来不错。但我的毛一直被弄湿，所以我要把你重组出来。",
+			"谢啦，看我能逗弄谁还挺有趣的～"
 		],
 		"imagePortrait": [
 			"HOwO.png"
 		]
 	},
 	"breastVoreLetoutRequestedDigest": [
-		"Be glad I'm not making you into a temporary batch of milk today.",
-		"I'll let you go for now, but you're adding to my jugs next time!"
+		"庆幸我今天没把你变成临时的一批牛奶吧。",
+		"我这次放你走，但下次你可要给我的胸部添点东西！"
 	],
 	"breastVoreLetoutRequestedDigestHungry": {
 		"dialogueRandom": [
-			"While it's tempting to turn you into milk, I'd prefer a more solid meal if you catch my drift~",
-			"Getting a little too soft for my tastes.",
-			"I'm hungry. Could I trouble you to fetch me something?",
-			"Ugh, I need to be a little more aerodynamic to catch my prey. Sorry."
+			"虽然把你变成牛奶很诱人，但如果你明白我的意思的话，我更想来顿实实在在的饭～",
+			"变得太软了，不合我的口味。",
+			"我饿了。能不能麻烦你帮我拿点吃的？",
+			"呃，我得更灵活点才能抓住我的猎物。抱歉。"
 		],
 		"imagePortrait": [
 			"HTired.png"
@@ -3988,10 +3987,10 @@
 	},
 	"breastVoreLetoutRequestedDigestHorny": {
 		"dialogueRandom": [
-			"I hope you enjoyed your stay~ It's getting too steamy, though, so you'll have to leave.",
-			"Damn, my body has the worst timing sometimes.",
-			"Sorry, I'm just getting way too heated. I can give you a glass if you'd like, though?",
-			"My friend likes me nice and big, so you'll have to wait until next time~"
+			"希望你享受了这段时光～但现在太闷热了，所以你得离开了。",
+			"该死，我的身体有时候时机最糟糕了。",
+			"抱歉，我实在是太热了。不过如果你想要的话，我可以给你一杯？",
+			"我的朋友喜欢我丰满的样子，所以你得等到下次啦～"
 		],
 		"imagePortrait": [
 			"HOwO.png"
@@ -4001,19 +4000,19 @@
 		"percentage": "targetHealth",
 		"pools": [
 			[
-				"I know my boobs are cozy... but I gotta let you out, even if the milk bath hasn't finished soothing your wounds..."
+				"我知道我的胸部很舒适…… 但我得放你出去了，即使牛奶浴还没完全治好你的伤……"
 			]
 		],
 		"full": [
-			"I think your milk bath is done! How do you feel?"
+			"我觉得你的牛奶浴结束啦！你感觉怎么样？"
 		]
 	},
 	"breastVoreLetoutRequestedHealHungry": {
 		"dialogueRandom": [
-			"I think that's enough milk for you. I'd like to still be able to squeeze you out!",
-			"All healed up? Good, that'll be 100 Pixels per gallon. Just kidding~",
-			"Ooh, I can tell you're stronger than before. Go kick some ass!",
-			"Hehe, would you like some cookies as well?"
+			"我觉得你喝的牛奶够多了。我还想能把你挤出去呢！",
+			"全好了？很好，每加仑收费 100 像素。开玩笑的啦～",
+			"哦，我能感觉到你比以前更强了。去教训他们一顿！",
+			"呵呵，你还想来点饼干吗？"
 		],
 		"imagePortrait": [
 			"HTired.png"
