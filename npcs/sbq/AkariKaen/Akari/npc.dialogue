@@ -2,48 +2,48 @@
 	"greetingRewards": "/npcs/sbq/dialogue/default.dialogue:greetingRewards",
 	"greetingRewardsIntroduced": "/npcs/sbq/dialogue/default.dialogue:greetingRewardsIntroduced",
 	"greeting": [
-		"Ah, hello there",
-		"merp?",
-		"yes?",
-		"yea?"
+		"啊，你好啊。",
+		"咩噗？",
+		"什么事？",
+		"啥事？"
 	],
 	"greetingCrew": "/npcs/sbq/dialogue/default.dialogue:greetingCrew",
 	"crewStay": "/npcs/sbq/dialogue/default.dialogue:crewStay",
 	"fullCrew": "/npcs/sbq/dialogue/default.dialogue:fullCrew",
 	"crewFollow": "/npcs/sbq/dialogue/default.dialogue:crewFollow",
 	"converse": [
-		"Did ya want to talk about something?",
-		"merp?"
+		"你想要聊点什么吗？",
+		"咩噗？"
 	],
 	"introduce": [
-		"well...\n nice to make you acquittance <entityname>"
+		"嗯...\n很高兴认识你，<entityName>！"
 	],
 	"talkAboutSelf": [
-		"well there isnt much to me, merp"
+		"唔，我自己没啥可说的，咩噗。"
 	],
 	"talkAboutSelfWhatAreYou": [
-		"never seen an sergal before? well my home planet is Tal with several races and clans in them and I lived in a Major city called Gold Ring mostly populated with southern sergals I was called \"city boy\" A lot. "
+		"从没见过一只鲨狗吗？好吧，我的家园星球是Tal，那里有好几个种族和氏族。我住在一个叫金环的大城市，那里主要住着南鲨狗族人，我也经常被叫做\"城里娃\"。"
 	],
 	"talkAboutSelfWhyMerp": [
-		"me...* clears throat * it's a funny sound we can make and it was popular...and now its a cliche thing we do..though once you get us going it'll be all you hear"
+		"我嘛... *清了清嗓子* 这是我们能发出的一种有趣声音。曾经很流行... 但现在都成一个我们老套的标志性声音了。不过一旦我们咩噗了起来，那你能听到的就只有咩噗了。"
 	],
 	"talkAboutSelfCheeseJoke": [
-		"* groans * well aren't you clever...it's not like I heard those jokes thousands of times over my entire life...but I can't stop you having have your fun with it."
+		"*嗷* 呜，你好聪明呀... 又不是我这辈子没听过几千遍刻板笑话... 但我也没法阻止你自得其乐。"
 	],
 	"talkAboutSelfKinks": [
-		"hmm...I can talk about the some of them that are worth while for this Mod."
+		"嗯... 我可以讲讲这个模组里一些值得一提的癖好。"
 	],
 	"talkAboutKinks": [
-		"so you wanted to talk kinks?"
+		"所以你想聊一聊癖好？"
 	],
 	"talkAboutKinksMacroMicro": [
-		"Probably what you'll see me  interact with the most as I like being an micro and how I primary interact with my other kinks and I always love the tiny in house of macros avoiding their steps~"
+		"大概你最常看到的就是我与大小相关的交互。我喜欢变成小小只，这也是我跟其他癖好联动的主要方式。我超爱作为小小只待在巨大生物的房子里，躲避他们的脚步～"
 	],
 	"talkAboutKinksPaws": [
-		"Ah...yes paws...as I prefer humanoid soles...the same ideal follows as I enjoy the pleasure of serving them and being under them as normal or tiny~."
+		"啊... 对，关于爪子... 无论作为正常体型还是小小只，我都很享受侍奉满足它们以及被踩在脚下的愉悦...尤其是人类玉足，我最喜欢了！"
 	],
 	"talkAboutKinksVore": [
-		"not my biggest thing but for the case of this I'd say my go to is OV and CV though only while micro since it works better in my head."
+		"并不是我最在意的癖好，但就这个模组来说，我会选张嘴丸吞(OV)和阴茎吸食(CV)。不过得是变小后，这样在我脑海里才更带感。"
 	],
 	"rewardNotifyMoney": "/npcs/sbq/dialogue/default.dialogue:rewardNotifyMoney",
 	"rewardNotifyLowValueQuestRewards": "/npcs/sbq/dialogue/default.dialogue:rewardNotifyLowValueQuestRewards",
@@ -63,67 +63,67 @@
 	"oralVoreNeedsInfusion": "/npcs/sbq/LokiVulpix/Loki/npc.dialogue:oralVoreNeedsInfusion",
 	"needsInfusion": ":oralVoreNeedsInfusion",
 	"oralVoreAlreadyInfused": [
-		"I think I'm already occupied there."
+		"我觉得那儿已经有东西了。"
 	],
 	"alreadyInfused": ":oralVoreAlreadyInfused",
 	"oralVoreTargetPreySettingsMismatch": [
-		"One of your occupants might not appreciate that."
+		"你体内的某只食物大抵不喜欢那样。"
 	],
 	"targetPreySettingsMismatch": ":oralVoreTargetPreySettingsMismatch",
 	"cockVoreRequested": [
-		"lol horny for sergal pp",
-		"merp? you want in my shaft?",
-		"hope you fit",
-		"well? come on in"
+		"哈哈，馋鲨狗的鸡儿了？",
+		"咩噗？你想进我鸡儿里？",
+		"希望你能塞得下。",
+		"嗯？那就进来吧。"
 	],
 	"cockVoreRequestedAfter": [
-		"ooh my merp that get me hard~",
-		"FFF~ you making this ergal very happy",
-		"great...im hard..hope no one notices...",
-		"m..merp merp~"
+		"哦哦，咩噗啊，这让我硬起来了~",
+		"Caaa~你让这只鲨狗超开心的。",
+		"好棒...我硬了..希望没人注意到...",
+		"咩..咩噗咩噗～"
 	],
 	"cockVoreInvalid": "/npcs/sbq/LokiVulpix/Auri/npc.dialogue:cockVoreInvalid",
 	"cockVoreNo": [
-		"Not in the mood pal",
-		"I'm busy",
-		"Mayber later im just rubbed it off awhile ago",
-		"I'm got other sergals things to do...like merping",
-		"my shaft is tired"
+		"没那个情趣，伙计。",
+		"我忙着呢。",
+		"也许晚点吧，我刚才自己解决过了。",
+		"我还有其他鲨狗的事儿要做... 比如更多咩噗。",
+		"我的鸡儿累了。"
 	],
 	"cockVoreTooBig": [
-		"Sorry micros only",
-		"Woah maybe shrink youself down and I may",
-		"get youself a shrink ray form Auri and come back to me",
-		"smalelr folks only",
-		"your to merping big"
+		"抱歉，只接受小小只。",
+		"哇，要不你缩小点，然后我会考虑考虑。",
+		"找Auri要个缩小枪并对自己来几下，然后再来找我。",
+		"只接受小入们",
+		"你特咩太大了。"
 	],
 	"cockVoreTooSmall": ":tooSmall",
 	"cockVoreNoSlots": ":noSlots",
 	"cockVoreFull": [
-		"my sheese dispenser is full right now...",
-		"Hmmm if someone moves down to my balls you might fit~",
-		"This sergal shaft is full",
-		"Maybe when I bust a sergal nut"
+		"这根奶酪发射器已经塞满了...",
+		"嗯，如果有人钻进我蛋蛋里，你就能挤进去了~",
+		"这只鲨狗的鸡儿塞满了。",
+		"等我射一滩鲨狗精液再说吧。"
 	],
 	"cockVoreNeedsInfusion": ":oralVoreNeedsInfusion",
 	"cockVoreAlreadyInfused": ":oralVoreAlreadyInfused",
 	"cockVoreTargetPreySettingsMismatch": ":oralVoreTargetPreySettingsMismatch",
 	"oralVoreLetoutRequested": [
-		"alright out you go",
-		"*hack and coughs* out you go",
-		"bleh...you didnt really taste that good",
-		"come on out we got work to do *burps* er excuse me"
+		"好了，你出去吧。",
+		"*咳咳* 出去吧。",
+		"呕...你尝起来真不怎么样。",
+		"出来吧，我们还有事要做 *打嗝* 呃，不好意思。"
 	],
 	"cockVoreLetoutRequested": [
-		"Hhhhhh I'm gonna cum...",
-		"M..mmph god~",
-		"Gonna blast~",
-		"M..Meerpp....~"
+		"嗯嗯嗯我要射了...",
+		"姆..嗯哼，天啊～",
+		"要射了～",
+		"咩..咩噗噗....～"
 	],
 	"reformRequested": [
-		"reformation central",
-		"beep boop reforming..haha jk I aint a synth...oh hope Blue didnt hear that",
-		"alright time to reform"
+		"重生中心",
+		"哔哔啵啵，重塑中..哈哈，开玩笑的，我又不是Synth... 噢，希望Blue没听到这话。",
+		"好了，是时候重塑了。"
 	],
 	"oralVorePrompt": "/npcs/sbq/dialogue/default.dialogue:oralVorePrompt",
 	"oralVorePromptYes": "/npcs/sbq/dialogue/default.dialogue:oralVorePromptYes",
@@ -148,123 +148,123 @@
 	"oralVoreNoPrompt": "/npcs/sbq/LokiVulpix/Auri/npc.dialogue:oralVoreNoPrompt",
 	"oralVoreNoPromptAfter": ":oralVoreRequestedAfter",
 	"cockVoreNoPrompt": [
-		"Surpised!",
-		"Gotcha",
-		"sorry but I have to do this~",
-		"I'm horny so come here~"
+		"惊讶吧！",
+		"逮到你了！",
+		"抱歉，但我得这么做~",
+		"我欲火焚身了，过来～"
 	],
 	"cockVoreNoPromptAfter": "/npcs/sbq/LokiVulpix/Auri/npc.dialogue:cockVoreNoPromptAfter",
 	"oralVoreUnprompted": [
-		"euugh so slimey",
-		"happy to fill you up^^",
-		"ill never will get use to this >~<"
+		"呃呜，好黏糊。",
+		"很高兴能填饱你的肚子^^",
+		"我永远都习惯不了这个 >~<"
 	],
 	"cockVoreUnprompted": [
-		"hehe now the fun begins",
-		"euugh..some got into my mouth",
-		"man it's tight",
-		"Friends are stored in the balls...heh Auri would be proud",
-		"needing to refuel? happy to help^^",
-		"ill never will get use to this >~<"
+		"嘿嘿，现在好玩的来了！",
+		"呃..有什么进到我嘴里了！",
+		"天呐，这里真紧。",
+		"将朋友们存进蛋蛋里...嘿嘿，Auri会很自豪的。",
+		"需要补充精力？乐意帮忙^^",
+		"我永远都习惯不了这个 >~<"
 	],
 	"oralVoreLetoutUnpromptedAfter": [
-		"so that's whats it like to be swallowed",
-		"I'll never get used to this"
+		"所以这就是被吞下去的感觉。",
+		"我永远都适应不了这个。"
 	],
 	"cockVoreLetoutUnpromptedAfter": [
-		"so salty..plhew",
-		"its in my mouth..."
+		"好咸啊... 呸。",
+		"都到我嘴里了..."
 	],
 	"oralVoreForcing": "/npcs/sbq/dialogue/default.dialogue:oralVoreForcing",
 	"cockVoreForcing": "/npcs/sbq/dialogue/default.dialogue:cockVoreForcing",
 	"oralVoreLetoutForcingAfter": [
-		"won't deny it was cozy in there",
-		"well that was an expereince"
+		"不能否认胃里面还挺舒服的。",
+		"啊，真是一次难忘的经历。"
 	],
 	"cockVoreLetoutForcingAfter": [
-		"ah man...its all over my clothes",
-		"man..it'll take me forever to wash the cum out"
+		"啊，天呐...弄得我毛上到处都是。",
+		"天啊..我得花好久才能把精液洗掉。"
 	],
 	"oralVoreForced": "/npcs/sbq/dialogue/default.dialogue:oralVoreForced",
 	"cockVoreForced": "/npcs/sbq/dialogue/default.dialogue:cockVoreForced",
 	"oralVoreLetoutForced": [
-		"*hack...cough*",
-		"alright alright come on out",
-		"aw man...come on..."
+		"*唔..咳咳*...",
+		"好了好了，快出来吧。",
+		"嗷呜，天呐..快点..."
 	],
 	"cockVoreLetoutForced": [
-		"Ahh~ man what a sensation~",
-		"come back anytime^^",
-		"you felt good in there~",
-		"what? didnt enjoy yourself in there?",
-		"merp...."
+		"啊~天呐，这感觉太棒了～",
+		"随时都欢迎再来^^",
+		"有你在里面感觉真好～",
+		"怎么？在里面玩得不开心么？",
+		"咩噗...."
 	],
 	"struggleBelly": [
-		"enjoying yourself",
-		"Comfy?",
-		"merp?"
+		"好好享受吧！",
+		"舒服吗？",
+		"咩噗？"
 	],
 	"struggleCock": [
-		"ooohh hehe that tingles~",
-		"wooo boy..."
+		"哦哦，嘿嘿，感觉痒痒的~",
+		"哇哦，好家伙..."
 	],
 	"struggleBalls": [
-		"merp...that feels nice feeling down there",
-		"Keep going.",
-		"It feels so good having you in there~",
-		"Friends are stored in the balls~"
+		"咩噗...下面感觉真好。",
+		"继续动。",
+		"你在里面的感觉太棒了～",
+		"将朋友们塞进蛋蛋里~"
 	],
 	"struggleAcidHeal": [
-		"relax...you are injured",
-		"stop moving to much..just heal up"
+		"放松...你受伤了。",
+		"别乱动..好好养伤。"
 	],
 	"struggleCumHeal": [
-		"My seed can mend wounds, so don't panic. You'll be fine, I swear!",
-		"Seems you're pretty healthy if you can wiggle like that!",
-		"Just relax and let my sticky sauna soothe you."
+		"我的种子能填补伤口，所以别慌。你会没事的，我发誓！",
+		"你还能这么用力扭动，看来身体还挺健康的！",
+		"放松点，让我这黏糊糊的\"桑拿间\"安抚你。"
 	],
 	"struggleCumHealCock": [
-		"I know it's strange, but this will heal you up. So don't worry about being in my cock!",
-		"You don't have to move so much while I'm healing you, unless you want in my sack...",
-		"While I'm enjoying your struggles a bit, do know that you're safe in my rod."
+		"我知道这很奇怪，但这能治好你。所以别担心待在我鸡儿里！",
+		"我给你疗伤的时候，你不用动这么厉害，除非你想去我蛋蛋那儿...",
+		"虽然我还挺享受你挣扎的，但还请理解，你在我肉棒里很安全。"
 	],
 	"struggleCompression": "/npcs/sbq/dialogue/default.dialogue:struggleCompression",
 	"struggleAcidDigest": [
-		"melting so good~",
-		"Be a good moursel and just melt~",
-		"Im merping you down will good..hehe"
+		"溶解食物的感觉真好～",
+		"乖乖当块美味的点心，溶化掉吧～",
+		"我正好好地把你消咩掉呢.. 嘿嘿。"
 	],
 	"struggleAcidDigestImmune": [
-		"merp?",
-		"doesn't feel like your melting"
+		"咩噗？",
+		"感觉你没在融化啊。"
 	],
 	"struggleCumDigest": [
-		"mmm melting down you go~",
-		"merp for me~"
+		"嗯嗯，就这样溶解掉吧~",
+		"给我咩噗掉～"
 	],
 	"struggleCumDigestBalls": [
-		"yes become nice sergal cum for me~",
-		"time to be sergal cummies~"
+		"对，变成美妙的鲨狗精子吧~",
+		"是时候变成鲨狗的精液啦~"
 	],
 	"struggleCumDigestImmune": [
-		"not melting",
-		"This sergal wants you to melt",
-		"less talking more melting",
-		"just melt down and enjoy youself"
+		"溶解不掉...",
+		"某只鲨狗很想融化你。",
+		"少废话，多溶化。",
+		"赶紧融化并好好享受这过程。"
 	],
 	"struggleDrainEnergy": "/npcs/sbq/dialogue/default.dialogue:struggleDrainEnergy",
 	"strugglingBelly": [
 		[
-			"comfy",
-			"so this is what it's like in a belly",
+			"舒服",
+			"原来在肚子里是这种感觉",
 			{
 				"check": {
 					"bellySounds": true
 				},
 				"add": [
-					"*gurgle*",
-					"Mmmph those noises",
-					"struggled grunts...oh I give up..."
+					"*咕噜咕噜*",
+					"姆唔，这里面的声音..",
+					"*挣扎的闷咕声*...嗷，我放弃了..."
 				]
 			}
 		],
@@ -273,223 +273,222 @@
 				"predator": "sbqVaporeon"
 			},
 			"add": [
-				"Gooey Vappy belly.",
-				"Its all gooey in here."
+				"黏糊糊的水伊布肚子。",
+				"这里面又粘又滑。"
 			]
 		}
 	],
 	"strugglingCock": [
-		"yes..squish me harder`",
-		"nice and smelly",
-		"This is so hot~"
+		"对..狠狠挤压我~",
+		"舒服又浓郁",
+		"这太刺激了～"
 	],
 	"strugglingBalls": "/npcs/sbq/dialogue/default.dialogue:strugglingBalls",
 	"strugglingAcidHeal": [
-		"hmm...it aint melting me..that's good right?",
-		"its like a healing bath",
-		"this feels wonderful"
+		"唔...它没在消化我..很棒，对吧？",
+		"好像一次治疗浴。",
+		"这感觉太棒了！"
 	],
 	"strugglingCumHeal": ":strugglingAcidHeal",
 	"strugglingCumHealCock": ":strugglingAcidHeal",
 	"strugglingCumHealBalls": [
-		"Your healing seed is washing over me, I feel my pain going away!",
-		"Seems your balls make for a great therapeutic sauna and spa.",
-		"The soothing properties of your spunk is crazy. How novel."
+		"你的治愈精液冲刷着我，我感觉伤痛在消失！",
+		"看来你的蛋蛋是个很棒的疗养桑拿水疗中心。",
+		"你那浓稠精华的舒缓效果太疯狂了，真新奇。"
 	],
 	"strugglingMiscHeal": ":strugglingAcidHeal",
 	"strugglingCompression": "/npcs/sbq/LokiVulpix/Auri/npc.dialogue:strugglingCompression",
 	"strugglingAcidDigest": [
-		"man this hurts...",
-		"hmmph..nothing but pudge"
+		"老兄，好痛...",
+		"呜..只是一堆脂肪了..."
 	],
 	"strugglingAcidDigestImmune": [
 		[
-			"Trying to melt me down?",
-			"Trying to melt me down?\nThats not gonna work."
+			"在试着消化我么？",
+			"想把我融化掉？\n不管用哦。"
 		],
-		"Heh, I can actually stay in here as long as I want.",
-		"I'm @#%@@#$ invincible! *enter metal gear rising refereence here*",
-		"I'm immune so good luck \n"
+		"呵，我在这里想待多久就待多久。",
+		"我@#%@@#$无敌啦！*此处插入《合金装备崛起》的梗*",
+		"我免疫，祝你好运。"
 	],
 	"strugglingCumDigest": [
-		"It's so hot in here, is your cum... melting me?",
-		"I think your cum is softening me up!",
-		"I'm feeling goopy inside here..."
+		"这里面好烫，你的精液... 是在溶解我吗？",
+		"我觉得你的精液在把我软化！",
+		"在这里面我感觉变得好软好黏..."
 	],
 	"strugglingCumDigestBalls": "/npcs/sbq/LokiVulpix/Auri/npc.dialogue:strugglingCumDigestBalls",
 	"strugglingCumDigestImmune": [
-		"I don't think your cum can melt me.",
-		"You should know that I won't soften up in your seed.",
-		"I'm resistant to your cum trying to melt me."
+		"我不觉得你的精液能溶解我。",
+		"你得清楚，你的种子软化不了我。",
+		"我能抵抗你精液对我的溶解！"
 	],
 	"strugglingMiscDigest": ":strugglingAcidDigest",
 	"strugglingMiscDigestImmune": ":strugglingAcidDigestImmune",
 	"strugglingTransforming": [
-		"What's happening? I feel like I'm changing in here!",
-		"The more I squirm in here, the less I feel like myself...",
-		"What are you doing to me in here? I feel strange!"
+		"怎么回事？我感觉我正在这里面发生变化！",
+		"我越在这里面挣扎，就越觉得自己不像自己了...",
+		"你在对我做什么？我变得奇怪起来了！"
 	],
 	"strugglingDrainEnergy": [
-		"You're sapping my energy as I move...",
-		"I barely have the energy... to keep resisting this...",
-		"You're draining my energy, how long I can keep squirming...?"
+		"你在我动的时候汲取我的能量...",
+		"我几乎没力气... 再抵抗这个了...",
+		"你在吸取我的能量，我还能挣扎多久呢...？"
 	],
 	"strugglingEggify": [
-		"W-what's this shell forming around me in here?!",
-		"Hey, the stuff in here is hardening around me. What's happening!?",
-		"The walls are getting harder, or wait, is something forming around me?!"
+		"这-这在我周围形成的壳是怎么回事?！",
+		"嘿，这里的东西在我周围变硬了，发生什么事了!？",
+		"肉壁在变硬，哦等等，有什么东西在我周围形成?！"
 	],
 	"strugglingVaporeon": [
-		"did you kno-*get's slooshed around*..nvm"
+		"你知道吗-*被晃来晃去*..还是算了.."
 	],
 	"climax": "/npcs/sbq/dialogue/default.dialogue:climax",
 	"climaxCock": "/npcs/sbq/dialogue/default.dialogue:climaxCock",
 	"climaxBalls": "/npcs/sbq/dialogue/default.dialogue:climaxBalls",
 	"shrinking": [
-		"Oh boy here we go again...",
-		"this feels normal",
-		"heh I did prefer being tiny",
-		"heh..remember micros are meant ot be stepped on^^",
-		"yippie"
+		"哦，天呐，又要开始喽...",
+		"感觉很不错。",
+		"哈，我确实很喜欢变得小小的。",
+		"哈..记着，小不点儿就是用来踩在脚下的^^",
+		"好耶！"
 	],
 	"growing": [
-		"Not my cup of tea but ill roll with it.",
-		"reminds me of my ex",
-		"*bumps head* ow....",
-		"heh...my kind were always looked at as big"
+		"不是我最喜欢的，但我也能接受。",
+		"让我想起了我的前任。",
+		"*撞到脑袋* 嗷呜....",
+		"哈... 我们一直都被看作是大块头。"
 	],
 	"didSteppy": "/npcs/sbq/LokiVulpix/Auri/npc.dialogue:didSteppy",
 	"gotStepped": [
-		"oomph...",
-		"* squish ",
-		"ow......",
-		" ....ueegh...",
-		"ack! watch where you step!",
-		" ..uugh...thank you.",
-		"merp....",
-		"merp!",
-		"ugh...the micro life is never easy.."
+		"哦唔...",
+		"*被踩扁的声音*",
+		"哎哟......",
+		"....呃呃呃...",
+		"哎呀！走路看着点！",
+		"..呃额... 谢谢。",
+		"咩噗....",
+		"咩噗！",
+		"啊... 小不点儿的生活真不好过.."
 	],
 	"gotStomped": "/npcs/sbq/dialogue/default.dialogue:gotStomped",
 	"gotSteppedWalking": [
-		"eyy, I'm walking here!",
-		"woah..paw ahoy",
-		"Woah...watch where you step",
-		"woah..falls on butt*...ow"
+		"诶，我在下面走得好好的！",
+		"哇哦..爪子来了。",
+		"哇哦...走路看着点！",
+		"哇...*摔个屁股蹲*..哎哟"
 	],
 	"vanilla": "/npcs/sbq/dialogue/default.dialogue:vanilla",
-	// Unused Dialogue
 	"strugglingGurgleSoundsDigest": [
-		"so much...noise",
-		"All this grumbling... you must be pretty hungry."
+		"一直在...咕噜咕噜响。",
+		"咕噜个不停... 你肯定饿极了。"
 	],
 	"strugglingGurgleSoundsBelly": [
-		"I really like the sounds your belly makes... very calming.",
-		"I could just drift off to sleep listening to the sounds of your body..."
+		"我真的很喜欢你肚子发出的声音... 非常令人安心。",
+		"听着你身体发出的声音，我都能睡着了..."
 	],
 	"full": "/npcs/sbq/LokiVulpix/Auri/npc.dialogue:breastInfuseFull",
 	"struggleCockInfused": [
-		"Ahhh~ <entityName> feels so great down there~",
-		"<keysmash>, you're gonna make <entityName> cum~"
+		"啊啊啊～ 有<entityName>在下面感觉太棒了~",
+		"<keysmash>，你要让<entityName>射出来了~"
 	],
 	"oralVoreLetoutForcedDigest": [
-		"oh..huh enjoy the stay then",
-		"No hard feelings?",
-		"you're no fun \n",
-		"ooh? we got outselfs a fighter"
+		"哦..哈，那享受待在外面的时光吧。",
+		"没生气吧？",
+		"你可真没意思。",
+		"哦？看来这儿有个硬骨头。"
 	],
 	"oralVoreLetoutForcedDigestImmune": [
-		"that's fine..I wasnt even that hungry",
-		"you're making me look bad infront of the others",
-		"Come on...It's my job"
+		"好吧..反正我也没那么饿。",
+		"你让我在其他人面前很难堪。",
+		"拜托...这是我的工作。"
 	],
 	"oralVoreLetoutForcedSoftDigest": [
-		"wha...you were gona be fine..geez",
-		"what? you had that option selected",
-		"well...just stay there I guess"
+		"什... 你不会有事的..哎呀...",
+		"什么？你选了那个选项啊。",
+		"好吧...那你就享受你的自由吧，我猜。"
 	],
 	"oralVoreLetoutForcedSoftDigestImmune": [
-		"Dang it... I was hungry... and you didn't even melt at all.",
-		"No hard feelings? Its not like my acid even managed to do anything.",
-		"Come on, my acid didn't even do anything to you...",
-		"If only you actually started to melt..."
+		"该死... 我好饿... 而你却一点都没消化。",
+		"没生气吧？反正我的酸液也没起什么作用。",
+		"拜托，我的酸液对你一点效果都没有...",
+		"要是你真的能开始溶化就好了..."
 	],
 	"oralVoreLetoutForcedHeal": [
-		"come on..its like a suana in there",
-		"Are you sure you're ready to come out?",
-		"well...return to me if you need more healing",
-		"don't go whinning if you die cause you didnt fully heal up",
-		"next time stop spamming for medic"
+		"别这样..这里面就像个桑拿房。",
+		"你确定你准备好出来了？",
+		"好吧...要是你需要治疗，就再来找我。",
+		"你可别因为没完全治好导致死翘翘而抱怨哦。",
+		"下次别一直喊我需要治疗了。"
 	],
 	"oralVoreLetoutRequestedDigested": [
-		"time for you to go",
-		"get digested lol",
-		"hope it was worth the pixels",
-		"next yea when you get back"
+		"该送你上路啦！",
+		"彻底消化吧，哈哈",
+		"希望这值得你丢失的像素。",
+		"等明年你回来我还消化你。"
 	],
 	"oralVoreLetoutRequestedDigest": [
-		"ok I'm good for now",
-		"I'm satified you can go now",
-		"best you leave",
-		"I didnt really want to digest you"
+		"好了，我现在已经玩够了。",
+		"我很满足，你现在可以离开了。",
+		"你最好在被消化前快点出去。",
+		"我也没有真的想消化掉你..."
 	],
 	"oralVoreLetoutRequestedDigestImmune": [
-		"what's the point?",
-		"that's no fun",
-		"best you go..this sergal is intrested in something else...oh beef jerky",
-		"I'ma go get some actual food"
+		"这在搞毛啊？",
+		"真没意思。",
+		"你走吧..小鲨狗对别的东西感兴趣了... 哦，牛肉干。",
+		"我要去吃点正常食物了。"
 	],
 	"oralVoreLetoutRequestedSoftDigest": [
-		"I think your soft enough",
-		"I'm good for now thanks",
-		"now got out of here you silly",
-		"Didn't feel like it"
+		"我觉得你已经够软了。",
+		"我现在好多了，谢谢。",
+		"现在从这儿出去，你这小笨蛋。",
+		"不是很喜欢这种感觉。"
 	],
 	"oralVoreLetoutRequestedSoftDigestImmune": [
-		"really?",
-		"well this is pointless",
-		"oh you selected that option...no fun",
-		"what am I sergal express?"
+		"你来真的？",
+		"好吧，这毫无意义。",
+		"哦，你开启了那个选项... 无趣。",
+		"我这算是什么鲨狗快递吗？"
 	],
 	"oralVoreLetoutRequestedHeal": [
-		"alright now get back out there!",
-		"Alrighty I think you're all good to go",
-		"feeling better?",
-		"I never though id have a stomach that heals",
-		"I never got my medical degree you know?"
+		"好了，现在回到外面去吧！",
+		"好啦，我觉得你已经没什么问题了。",
+		"感觉好点了吗？",
+		"我从没想过我会有个能疗伤的胃。",
+		"你知道吗，我可没拿过医学学位。"
 	],
 	"strugglingTransformingImmune": [
-		"I don't think whatever you're doing is affecting me.",
-		"Feels like you're trying to change me, but uh... that's not gonna happen.",
-		"Your body isn't going to morph mine like that, so let me out!"
+		"我不觉得你的任何尝试能对我有效果。",
+		"看起来你想同化我，但是呃... 那是不可能的。",
+		"你的身体可没法把我变成别的样子，放我出去！"
 	],
 	"struggling.default.default.default.default.default.default": [
 		[
-			"how long you gonna keep me here?",
-			"welp...this is my life for now...",
-			"*sploosh*"
+			"你要把我关在这儿多久？",
+			"好吧...这就是我现在的生活了...",
+			"*泼溅液体的声音* "
 		]
 	],
 	"strugglingUnderfoot": [
-		" ..hello?...down here...",
+		" ..诶呀？... 被踩在下面了...",
 		">~<",
-		"* muffled sergal noises ",
-		"ack!...heavy...",
-		"I mean...I do belong here~",
-		" slupring noises *",
-		"m...merp..."
+		"*朦胧的鲨狗叫声*",
+		"呀！...好重...",
+		"我觉得... 我就该待在这儿~",
+		"*吸吮声*",
+		"咩... 咩噗..."
 	],
 	"vored": [
-		"wha..?!?",
-		"down I go",
-		"oh..ok I guess"
+		"什..?!?",
+		"滑下去了！",
+		"哦..感觉还行。"
 	],
 	"struggleEscape": [
-		"oh..arlighty then",
-		"euugh..that felt funny",
-		"AH...fresh air"
+		"哦..好吧，就这样吧。",
+		"呃呃..这感觉真奇怪。",
+		"啊... 新鲜空气。"
 	],
 	"escape": [
-		"till next time then"
+		"那下次再见咯！"
 	]
 }
