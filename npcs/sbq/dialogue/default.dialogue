@@ -1,43 +1,43 @@
 {
 	"greetingRewards": [
-		"It was fun messing around!\nHave some stuff."
+		"没事胡闹一通可真有意思！\n来，这些请你收下。"
 	],
 	"greetingRewardsIntroduced": [
-		"That was great <entityname>!\nI hope you like all this!"
+		"你干的可太棒了<entityName>！\n希望你会喜欢这些东西！"
 	],
 	"greeting": [
-		"Hi, how's it going.",
-		"Hey there!",
-		"Hi",
-		"Hello"
+		"嗨，最近怎么样。",
+		"嘿呀！",
+		"嗨。",
+		"你好。"
 	],
 	"greetingCrew": [
-		"Greetings Captain.",
-		"Hello Captain.",
-		"Captain."
+		"向您致敬，船长。",
+		"船长好。",
+		"船长。"
 	],
 	"greetingIntroduced": [
-		"Hi there <entityName>!"
+		"嗨，<entityName>！"
 	],
 	"crewStay": [
-		"I'll be right here.",
-		"Staying here.",
-		"Yeah I'll stay."
+		"我会在这一直待着。",
+		"我在这儿等你回来。",
+		"好，在这等你。"
 	],
 	"fullCrew": [
-		"I can't, you've got a full crew."
+		"没法加入，你的飞船船员已经满了。"
 	],
 	"crewFollow": [
-		"Right behind you!",
-		"Here we go!",
-		"Lets go!"
+		"会跟紧你！",
+		"出发！",
+		"走起！"
 	],
 	"rewardNotifyMoney": [
-		"This is nice, I think I'll give you some of my spare change.",
-		"I'll give you a few pixels for giving me a good time."
+		"真不错，我想我可以给你点零钱。",
+		"真是一段愉快的时光，给你一些像素。"
 	],
 	"rewardNotifyLowValueQuestRewards": [
-		"Hmm, I think you deserve something after this.",
+		"嗯， I think you deserve something after this.",
 		"I think I'll give you some sort of small gift."
 	],
 	"rewardNotifyMediumValueQuestRewards": [
@@ -49,18 +49,18 @@
 		"My next gift will be really good heh."
 	],
 	"oralVoreRequested": [
-		"You want me to eat you?",
-		"Alright, sure.",
+		"你想让我吃掉你？",
+		"好~好~ ，当然可以。",
 		"Yeah ok.",
-		"Sounds good."
+		"听起来闻起来都不错。"
 	],
 	"oralVoreRequestedAfter": [
-		"Mmmmmmm... good.",
-		"Tasty.",
+		"嗯嗯嗯... 美味。",
+		"一个字，绝！",
 		"Nice and filling.",
 		"Not too bad."
 	],
-	"oralVoreInvalid": "There must be an error, oralVore is invalid",
+	"oralVoreInvalid": "一定是出现了错误，张嘴丸吞无效。",
 	"defaultNo": [
 		"Don't really feel like that right now.",
 		"Not right now.",
