@@ -37,88 +37,88 @@
 		"真是一段愉快的时光，给你一些像素。"
 	],
 	"rewardNotifyLowValueQuestRewards": [
-		"嗯， I think you deserve something after this.",
-		"I think I'll give you some sort of small gift."
+		"嗯，我想这些东西是你应得的。",
+		"我想我给你准备了一些小礼品。"
 	],
 	"rewardNotifyMediumValueQuestRewards": [
-		"Maybe I've got something a bit better for you this time.",
-		"I've got another gift for you after this."
+		"或许这次你值得一些更好的奖励。",
+		"我又为你准备了一份礼物。"
 	],
 	"rewardNotifyHighValueQuestRewards": [
-		"I think you'll really like what I've gotten you.",
-		"My next gift will be really good heh."
+		"我相信你肯定会喜欢我为你准备的惊喜。",
+		"嘿嘿，为此我可是准备了一份大礼。"
 	],
 	"oralVoreRequested": [
 		"你想让我吃掉你？",
 		"好~好~ ，当然可以。",
-		"Yeah ok.",
+		"行，快到嘴里来。",
 		"听起来闻起来都不错。"
 	],
 	"oralVoreRequestedAfter": [
 		"嗯嗯嗯... 美味。",
 		"一个字，绝！",
-		"Nice and filling.",
-		"Not too bad."
+		"美味又管饱。",
+		"味道还不错。"
 	],
 	"oralVoreInvalid": "一定是出现了错误，张嘴丸吞无效。",
 	"defaultNo": [
-		"Don't really feel like that right now.",
-		"Not right now.",
-		"I'm not in the mood.",
-		"Eh, maybe later."
+		"现在不太想要一起做。",
+		"现在不太行。",
+		"我不是很有胃口。",
+		"呃，或许以后吧。"
 	],
 	"oralVoreNo": ":defaultNo",
 	"tooBig": [
-		"I think you're a bit too big to fit in there...",
-		"I don't think I'd be able to get you in...",
-		"If only you were a bit smaller...",
-		"Thats a bit too much to ask of me..."
+		"你也太大了，我的胃袋可装不下你...",
+		"我可不觉得我能把你咽下去...",
+		"你要是能小点还有可能...",
+		"你对我的期望或许太大了..."
 	],
 	"oralVoreTooBig": ":tooBig",
 	"tooSmall": [
-		"Sorry but I need something a bit bigger then you",
-		"I don't think I'd really feel you at that size",
-		"You're too short for this ride buddy",
-		"Maybe if you where just a little bigger..."
+		"抱歉，但我更想要体型更大一点的食物。",
+		"你这个体型，吞下去一点感觉都没有。",
+		"小家伙，你的个头不满足旅程要求哦。",
+		"你的体型要是能大一点就好了..."
 	],
 	"oralVoreTooSmall": ":tooSmall",
 	"noSlots": [
-		"I think I'm at maximum capacity..."
+		"我的身体里塞满了各种各样的食物..."
 	],
 	"oralVoreNoSlots": ":noSlots",
 	"oralVoreFull": [
-		"I'm a bit too full...",
-		"My belly can't stretch any further...",
-		"I've eaten too much already...",
-		"I would... but I'm too full..."
+		"我有点吃太饱了...",
+		"我的胃袋没法再塞下更多食物了...",
+		"我好像吃了太多食物了...",
+		"我倒是想... 但我吃撑了..."
 	],
 	"oralVoreNeedsInfusion": [
-		"I'd want someone infused in there."
+		"我想先把某只小家伙融合进去。"
 	],
 	"oralVoreAlreadyInfused": [
-		"I don't think I can handle two of you at once...",
-		"I already got someone there.",
-		"That spot's taken already."
+		"我可不觉得我能同时应付你们两个...",
+		"我已经把某个小家伙融合进去了。",
+		"那个位置已经有人占着了。"
 	],
 	"oralVoreTargetPreySettingsMismatch": [
-		"I would... but I don't think your occupants would like it...",
-		"I'm not sure your other friends would like that...",
-		"I think someone you've got with you would object to that..."
+		"我也想... 但我不觉得你体内的食物想看到这情境...",
+		"我不确定你体内的朋友喜不喜欢你这样...",
+		"我想你吃掉的某个小家伙拒绝遭遇这种场面..."
 	],
 	"tailVoreRequested": {
 		"percentage": "food",
 		"pools": [
 			[ // 0% - 25%
-				"Oh thats great! I've been starving, and you look like you'll fill my tail up nicely!"
+				"哦，那可太棒了！我饿坏了，而你看起来能美美地填饱我的尾巴！"
 			],
 			[ // 25% - 50%
-				"That should help me deal with this hunger, now to just slurp you up!"
+				"你肯定能助我缓解这饥饿感，现在准备好被我的尾巴咽下去吧！"
 			],
 			[ // 50% - 75%
-				"Ah, you noticed my tail, well it's perfectly ready to slurp you up!"
+				"啊，你注意到我的尾巴了，那你就准备好被我的尾巴吸溜进去吧！"
 			],
 			[ // 75% - 100%
-				"So you want to see what the inside of my tail is like?"
+				"看来你想见识见识我尾巴里面是什么样子？"
 			]
 		]
 	},
@@ -126,95 +126,95 @@
 		"percentage": "food",
 		"pools": [
 			[ // 0% - 25%
-				"Mmm~ You make such a wonderful tail bulge, hope you don't mind it squeezing from how hungry it is!"
+				"嗯呐~ 你让我的尾巴变圆润了不少，希望你不会介意它因饥饿而过度挤压你！"
 			],
 			[ // 25% - 50%
-				"Nice and filling, heh, you're quite a nice bulge in my tail!"
+				"美味又管饱，嘿嘿，你在我的尾巴上形成的凸起真可爱！"
 			],
 			[ // 50% - 75%
-				"How do you like how it's squeezing and slurping around you hmm?"
+				"我的尾巴内壁在你身上挤压吸吮的感觉怎么样？"
 			],
 			[ // 75% - 100%
-				"Like a long squeezy wet sleeping bag slurping around you right?"
+				"就像一个又长又湿，弹性十足，还一直吮吸挤压你的睡袋，不是么？"
 			]
 		]
 	},
-	"tailVoreInvalid": "There must be an error, tailVore is invalid",
+	"tailVoreInvalid": "一定是出现了错误，尾巴吞吃无效。",
 	"tailVoreNo": ":defaultNo",
 	"tailVoreTooBig": ":tooBig",
 	"tailVoreTooSmall": ":tooSmall",
 	"tailVoreNoSlots": ":noSlots",
 	"tailVoreFull": [
-		"Sorry but my tail is already filled up.",
-		"My tail can't fit any more prey, sorry!"
+		"谢邀，我的尾巴已经吃撑了。",
+		"我的尾巴里面已经塞满食物了，抱歉。"
 	],
 	"tailVoreNeedsInfusion": ":oralVoreNeedsInfusion",
 	"tailVoreAlreadyInfused": ":oralVoreAlreadyInfused",
 	"tailVoreTargetPreySettingsMismatch": ":oralVoreTargetPreySettingsMismatch",
 	"absorbVoreRequested": [ // these lines should be proofread and or redone when Absorb is actually implemented for NPCs/players
-		"You want to be entirely engulfed within me? why not! come here.",
-		"Heh, now to give you a hug, and pull you into a full body hug."
+		"你想全身被我完全包裹吞没？为什么不呢！快来。",
+		"哈，先给你个拥抱，然后一把把你拉过来给你全身一个爱的抱抱。"
 	],
 	"absorbVoreRequestedAfter": [
-		"Ah.. easy instant snack, settle in my buddy.",
-		"You fit like a glove in me, might as well got comfortable."
+		"啊.. 送上门的快餐小点心，乖乖地呆在里面吧伙计。",
+		"你在我体内就像是穿了套全身装一样合身，让自己舒服点吧。"
 	],
-	"absorbVoreInvalid": "There must be an error, absorbVore is invalid",
+	"absorbVoreInvalid": "一定是出现了错误，包裹吸收无效。",
 	"absorbVoreNo": ":defaultNo",
 	"absorbVoreTooBig": ":tooBig",
 	"absorbVoreTooSmall": ":tooSmall",
 	"absorbVoreNoSlots": ":noSlots",
 	"absorbVoreFull": [
-		"I'd push you in, but my form is stretched out enough as is!",
-		"No room in my body for you bud."
+		"我也想把你塞进去，但我的身体为了容纳里面的食物已经过度拉伸了！",
+		"实在没有空间能把你塞进我的身体里了，伙计。"
 	],
 	"absorbVoreNeedsInfusion": ":oralVoreNeedsInfusion",
 	"absorbVoreAlreadyInfused": ":oralVoreAlreadyInfused",
 	"absorbVoreTargetPreySettingsMismatch": ":oralVoreTargetPreySettingsMismatch",
 	"navelVoreRequested": [ // navel vore, one I don't really get, but its here for those who do, sadly I'm only skimming the proofreading on this kink, someone who's explicitly into it should write the lines for it
-		"You want to go in through my navel?",
-		"That isn't the usual way to do things.",
-		"I can try that.",
-		"Thats my belly button right?"
+		"你想从我的肚脐眼里钻进去？",
+		"这可不是丸吞的常见玩法。",
+		"那就试试看吧。",
+		"你知道那是肚脐眼，对吧？"
 	],
 	"navelVoreRequestedAfter": [
-		"Mmmm~ that was a tight squeeze.",
-		"You really like bellies don't you.",
-		"Not bothering with anything else, straight to the belly.",
-		"Oooh~ Thats a stretch."
+		"嗯嗯~ 这过程肯定很紧很挤。",
+		"你对胃袋可真是爱的急切，不是么？",
+		"不用考虑其他流程，一步到胃。",
+		"噢哦哦~ 我的肚脐眼被撑大了不少。"
 	],
-	"navelVoreInvalid": "There must be an error, navelVore is invalid",
+	"navelVoreInvalid": "一定是出现了错误，肚脐吸入无效。",
 	"navelVoreNo": ":defaultNo",
 	"navelVoreTooBig": ":tooBig",
 	"navelVoreTooSmall": ":tooSmall",
 	"navelVoreNoSlots": ":noSlots",
 	"navelVoreFull": [
-		"Sorry, but my belly doesn't have room, maybe get in my navel later?",
-		"I would squeeze you though my button, but I'm too full to take you."
+		"抱歉，但我的胃袋实在是没空间了，或许之后再来钻我的肚脐？",
+		"我也想把你按进我的肚脐眼，但我真的撑得塞不下你了。"
 	],
 	"navelVoreNeedsInfusion": ":oralVoreNeedsInfusion",
 	"navelVoreAlreadyInfused": ":oralVoreAlreadyInfused",
 	"navelVoreTargetPreySettingsMismatch": ":oralVoreTargetPreySettingsMismatch",
 	"analVoreRequested": [
-		"You want to go up my butt?",
-		"You know thats the wrong way right?",
-		"That's going to be a tight fit.",
-		"Thats an interesting request."
+		"你想钻进我的屁股里？",
+		"你应该知道那是错的入口，对吧？",
+		"接下来的旅程会很挤，很紧致。",
+		"这可真是个有趣的请求。"
 	],
 	"analVoreRequestedAfter": [
-		"Ahhh~ Hope I'm not squeezing too much.",
-		"Mmm~ This actually feels pretty good.",
-		"Heh~ it's almost like you're a living sex toy.",
-		"Oooh~ That squirming is rather nice."
+		"啊啊哈~ 但愿我没有挤得太用力。",
+		"嗯嗯~ 这感觉还真不戳。",
+		"呵呵~ 你简直就像个活着的性玩具。",
+		"喔噢哦~ 那蠕动感觉可真棒。"
 	],
-	"analVoreInvalid": "There must be an error, analVore is invalid",
+	"analVoreInvalid": "一定是出现了错误，肛门吞食无效。",
 	"analVoreNo": ":defaultNo",
 	"analVoreTooBig": ":tooBig",
 	"analVoreTooSmall": ":tooSmall",
 	"analVoreNoSlots": ":noSlots",
 	"analVoreFull": [
-		"Sorry, all full back here!",
-		"Afraid I can't fit another in me!"
+		"抱歉，后面那里已经满员了！",
+		"恐怕我做不到再把你塞进去了！"
 	],
 	"analVoreNeedsInfusion": ":oralVoreNeedsInfusion",
 	"analVoreAlreadyInfused": ":oralVoreAlreadyInfused",
@@ -223,17 +223,17 @@
 		"percentage": "sbqLust",
 		"pools": [
 			[ // 0% - 25%
-				"Oh! so you want to get nice and cozy in my womb?"
+				"哦！看来你想舒舒服服地待在我的子宫里？"
 			],
 			[ // 25% - 50%
-				"You want to get squeezed into my pussy?"
+				"你想挤进我的小穴里？"
 			],
 			[ // 50% - 75%
-				"You know thats where dicks are supposed to go right?",
-				"Mmm~ I'm already a bit wet, so I think you'll just slip right up into my womb."
+				"你也知道那应该是给鸡巴插进去的地方对吧？",
+				"嗯呢~ 我下面已经湿透了，想必你会很轻松地滑进我的子宫。"
 			],
 			[ // 75% - 100%
-				"Hehh... just what I needed! You'll probably get nice and soaked as you squirm your way in~"
+				"嗬哈... 正是我急需的！在蛄蛹着钻进去的过程中你大概会浑身浸透甜美的汁液~"
 			]
 		]
 	},
@@ -241,28 +241,28 @@
 		"percentage": "sbqLust",
 		"pools": [
 			[ // 0% - 25%
-				"There you go! nice and cozy inside me."
+				"进去吧你！舒舒服服地待在里面吧。"
 			],
 			[ // 25% - 50%
-				"Aahh~ ooooh thats really good~",
-				"Mmmm~ You're getting me excited~"
+				"啊哈~ 噢噢噢这感觉可真棒~",
+				"嗯姆~ 你弄得我兴奋起来了~"
 			],
 			[ // 50% - 75%
-				"Ffff~ Now I'm all wet~",
-				"A-ahh~ Don't stop squirming~"
+				"呼呼呼~ 这下我可彻底湿透了~",
+				"啊-啊哈~ 接着扭不要停~"
 			],
 			[ // 75% - 100%
-				"Ahh~ yes! don't stop! keep squirming until I climax!"
+				"啊啊~ 就是这样!千万别停！一直蠕动到我高潮！"
 			]
 		]
 	},
-	"unbirthVoreInvalid": "There must be an error, unbirthVore is invalid",
+	"unbirthVoreInvalid": "一定是出现了错误，胎内回归无效。",
 	"unbirthVoreNo": ":defaultNo",
 	"unbirthVoreTooBig": [
-		"I think you're a bit too big for me to carry around."
+		"我觉得你的体型太大了，我可没办法把你塞进去带着你闲逛。"
 	],
 	"unbirthVoreTooSmall": [
-		"You're a bit too small... I'd probably not even feel you in there..."
+		"你的体型太小了... 把你塞进去后我可能都感受不到你的存在..."
 	],
 	"unbirthVoreNoSlots": ":noSlots",
 	"unbirthVoreFull": [
@@ -312,7 +312,7 @@
 			]
 		]
 	},
-	"breastVoreInvalid": "There must be an error, breastVore is invalid",
+	"breastVoreInvalid": "一定是出现了错误，张嘴丸吞无效。There must be an error, breastVore is invalid",
 	"breastVoreNo": [
 		"Not really feeling that right now..."
 	],
