@@ -282,16 +282,16 @@
 		"percentage": "sbqLust",
 		"pools": [
 			[ // 0% - 25%
-				"You want to squirm into one of my boobs? Now to decide which side to put you on..."
+				"你想要钻进我的奶子里？行，挑一个你喜欢的乳头进去呆着吧..."
 			],
 			[ // 25% - 50%
-				"Hehe, you want a bit more than just a drink of milk don't you~?"
+				"嘿嘿，你可不只是想大口痛饮我的乳汁不是吗~？"
 			],
 			[ // 50% - 75%
-				"You just want to make my boobs bigger don't you... I do too, heh."
+				"你钻进来的时候脑海里肯定在想象我胸前的巨乳...哈，我也挺期待的。"
 			],
 			[ // 75% - 100%
-				"Hehe, you know, there's quite a bit of milk sloshing around in there... might end up leaking..."
+				"哈哈，你得清楚，我那里面的奶水可谓是波涛胸涌...汹涌的意思你懂的吧...
 			]
 		]
 	},
@@ -299,35 +299,35 @@
 		"percentage": "sbqLust",
 		"pools": [
 			[ // 0% - 25%
-				"Aahh~ Ooooh, that's really good~"
+				"啊啊~ 哦哦，这感觉可真不戳~"
 			],
 			[ // 25% - 50%
-				"Mmmm~ You're getting me excited~"
+				"嗯嗯嗯~ 这么搞可比吮吸我的乳头更令我性奋~"
 			],
 			[ // 50% - 75%
-				"Ffff~ Hehe, now they look even bigger~"
+				"呼呼呼~ 嘿嘿，我的巨乳大到我快直不起腰了~"
 			],
 			[ // 75% - 100%
-				"A-ahh~ Don't stop squirming~"
+				"啊-啊哈哈~ 继续在里面搓揉可别停~"
 			]
 		]
 	},
-	"breastVoreInvalid": "一定是出现了错误，张嘴丸吞无效。There must be an error, breastVore is invalid",
+	"breastVoreInvalid": "一定是出现了错误，乳房Vore无效。",
 	"breastVoreNo": [
-		"Not really feeling that right now..."
+		"目前不是很有那方面的性致..."
 	],
 	"breastVoreTooBig": ":tooBig",
 	"breastVoreTooSmall": ":tooSmall",
 	"breastVoreNoSlots": ":noSlots",
 	"breastVoreFull": [
-		"My boobs are already occupied~",
-		"Maybe after I'm done carrying my current occupants around~",
-		"Hehe, I would if I wasn't already full in there~"
+		"我的乳房里面已经塞满养料了~",
+		"等我把奶子里面的乳汁挤干净就能轮到你进去了~",
+		"呵，要不是我都直不起腰了不然我肯定也把你给塞进去~"
 	],
 	"breastVoreNeedsInfusion": [
-		"I'd need someone to turn into my boobs first...",
-		"Someone would need to be my boobs...",
-		"I'd have to turn someone into my boobs first..."
+		"我得先把某人变成我的乳房...",
+		"有人自愿想成为我的奶子吗...",
+		"我得做一做隆胸，需要一个小家伙让我的双乳丰满起来..."
 	],
 	"breastVoreAlreadyInfused": ":oralVoreAlreadyInfused",
 	"breastVoreTargetPreySettingsMismatch": ":oralVoreTargetPreySettingsMismatch",
@@ -335,25 +335,25 @@
 		"percentage": "sbqLust",
 		"pools": [
 			[ // 0% - 25%
-				"Hah, you're horny.",
-				"You want to get squeezed into my dick?",
-				"You know things aren't supposed to go in there right?",
-				"Thats going to be a real tight fit."
+				"哈啊，你可真是饥渴坏了。",
+				"你想要挤进我的鸡巴里？",
+				"你应该知道东西不应该进到那里面的对吧？",
+				"这场旅程肯定会挤得不得了。"
 			],
 			[ // 25% - 50%
-				"Mmm... I think I could work myself up to that heh.",
-				"Ahh... just the suggestion got my dick firming up, lets do it.",
-				"You're real naughty you know that?\nWanting to get shoved into my dick...\nYeah..."
+				"嗯哼哼... 我想我正好可以借此发泄发泄。",
+				"啊哈... 光是听到这个提议就让我的迪克立起来了，赶紧开始做吧。",
+				"你知不知道你有多下流呢？\n如此想要被我塞进鸡巴里...\n真涩情，来吧..."
 			],
 			[ // 50% - 75%
-				"Thats good, because I've had a bit of a hard on hehe~",
-				"Of course I can! Gosh its going to feel so good with you in my cock!",
-				"Hehe, you sure you can handle getting squeezed in my boner?"
+				"那可太好了，我那里已经硬的开始挺立起来了~",
+				"当然可以！天哪，把你塞进我的鸡巴里肯定会爽的不得了！",
+				"嘿嘿，你真觉得你能扛得住我巨根的挤压？"
 			],
 			[ // 75% - 100%
-				"Yes! of course I will!\nI'm so worked up I just *need* someone squirming down my shaft!",
-				"Oh yessss! Huff... Get yourself squirming down my shaft right away!",
-				"Ahhh yes please! I needed someone squirming in my cock and now you're right here asking for it!"
+				"太好了！我当然愿意！\n我现在性奋的不得了，我*急需*某人在我的肉棒里大闹一通！",
+				"哦，棒棒棒棒极了！呼呼呼... 你赶紧给我进到鸡巴里蠕动起来！",
+				"啊啊啊好哇，请你快点吧！我正需要有人来搓揉我的大根，而你还愿意到里面去搓揉！"
 			]
 		]
 	},
@@ -382,7 +382,7 @@
 			]
 		]
 	},
-	"cockVoreInvalid": "There must be an error, cockVore is invalid",
+	"cockVoreInvalid": "一定是出现了错误，阴茎吸食无效。",
 	"cockVoreNo": ":defaultNo",
 	"cockVoreTooBig": ":tooBig",
 	"cockVoreTooSmall": ":tooSmall",
