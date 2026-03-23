@@ -975,24 +975,24 @@
 		"percentage": "sbqRest",
 		"pools": [
 			[ // 0% - 25%
-				"Your belly, I can hear it calling to me... Please! I need you to swallow me whole!",
-				"I just... I can't stop thinking about it! I need to be eaten by you, please!",
-				"I can't help it, I just need to feel the embrace of your belly. I need to be your meal!"
+				"你的肚子，我能听见它在呼唤我……求你了！我把我整个吞下去吧！",
+				"我就是……忍不住去想！我想被你吃掉，求你了！",
+				"我控制不住，就是需要感受你肚子的拥抱。我想成为你的食物！"
 			],
 			[ // 25% - 50%
-				"I really need a rest. Would you, please send me down to your gut?",
-				"Would you eat me? Please? I really need to feel your belly squeezing around me...",
-				"Your belly... it looks so nice. I just need to be inside it. Please, eat me!"
+				"我真的需要休息一下。你愿意，把我送进你的肚子吗？",
+				"你能吃掉我吗？求你了？我真的需要感受你的肚子挤着我……",
+				"你的肚子……看起来真棒。我就想进去。求你了，吃掉我！"
 			],
 			[ // 50% - 75%
-				"I keep imagining myself inside your belly, like you could totally eat me right now and I would not fight back at all.\nHaha.",
-				"You know, there's nothing really stopping you from just eating me. You could just do it right here and I wouldn't complain.",
-				"Hey, if you're, hungry, like, at all, you've got a totally willing snack right here. You could just eat me if you want."
+				"我总想象自己在你的肚子里，就像你现在完全可以吃掉我，我一点都不反抗。\n哈哈。",
+				"其实你完全可以现在就把我吃掉。你就在这儿吃掉我，我绝不抱怨。",
+				"嘿，你要是饿了，哪怕一点点，这儿有个自愿的零食。想吃就吃。"
 			],
 			[ // 75% - 100%
-				"I think it would be nice to have a rest in your gut. If you want to eat me that is.",
-				"How full are you? I wouldn't mind chilling in your belly if you're wanting to top up.",
-				"I kinda want to be carried around... in your belly, if you don't mind eating me."
+				"我想能在你肚子里休息挺好的。如果你想吃掉我的话。",
+				"你饱了吗？我不介意在你肚子里待着，如果你想填满点的话。",
+				"我有点想被……装在你肚子里，如果你不介意吃掉我的话。"
 			]
 		]
 	},
@@ -1000,24 +1000,24 @@
 		"percentage": "sbqRest",
 		"pools": [
 			[ // 0% - 25%
-				"Thank you! Thank you! Thank you! Now, open wide so I can just dive right in there!",
-				"Yes! Thank you! Gosh, I almost dove in when you opened your mouth to say 'yes'!",
-				"Thank you! Ahhh... I can't wait to slip right on down your throat and be all yours!"
+				"谢谢你！谢谢你！谢谢你！现在张大嘴，让我直接跳进去！",
+				"太好了！谢谢！天哪，刚才你说“好”张嘴时我差点就跳进去了！",
+				"谢谢！啊～～我等不及滑下你的喉咙，让我完全属于你！"
 			],
 			[ // 25% - 50%
-				"Ahh! I'm so happy I get to be your meal!",
-				"I'm really gonna get to be in your belly? Thank you!",
-				"Yes! I can't wait to be making a bulge in your gut!"
+				"啊！我好高兴能成为你的食物！",
+				"我真的能进你肚子里？谢谢！",
+				"太好了！我等不及让你肚子鼓起来了！"
 			],
 			[ // 50% - 75%
-				"You'd really do that? Just eat me whole?",
-				"You're really going to eat me? Right here? Right now?",
-				"Oh my gosh! You're actually going to eat me?"
+				"你真的愿意？就这样把我整个吃掉？",
+				"你真要吃掉我？就在这儿？现在？",
+				"哦天哪！你真要吃掉我？"
 			],
 			[ // 75% - 100%
-				"Yes? Oh, this is going to be fun!",
-				"I get to be your snack!",
-				"Yes! I just love bellies so much!"
+				"好？哦，这一定很有趣！",
+				"我能当你的零食了！",
+				"太好了！我就是这么喜欢肚子！"
 			]
 		]
 	},
@@ -1025,16 +1025,16 @@
 		"percentage": "sbqRest",
 		"pools": [
 			[ // 0% - 25%
-				"Ah... I guess I was too excited... I'll find someone else..."
+				"啊……也许我太激动了……我找别人……"
 			],
 			[ // 25% - 50%
-				"That's alright... I'll find someone else."
+				"没关系……我找别人。"
 			],
 			[ // 50% - 75%
-				"Hah, yeah... I wonder if anyone else would."
+				"呃，好吧……不知道别人愿不愿意。"
 			],
 			[ // 75% - 100%
-				"That's alright, I can ask someone else."
+				"没关系，我可以问问别人。"
 			]
 		]
 	},
@@ -1042,57 +1042,57 @@
 		"percentage": "sbqRest",
 		"pools": [
 			[ // 0% - 25%
-				"I... sorry! I need this too much! I'm diving into your maw and you can't stop me!",
-				"You're probably not listening to your belly! I know you want me inside just as much as I need to be!",
-				"That doesn't sound right, I can sense you're hungry! It's fine, I promise! I'm going to be your meal! I'll show you!"
+				"我……对不起！我太需要这个了！我要跳进你嘴里，你拦不住我！",
+				"你可能没听你肚子的话！我知道你和我一样想让我进去！",
+				"不对吧，我能感觉到你饿了！没关系，我保证！我要当你的食物！我给你看！"
 			],
 			[ // 25% - 50%
-				"Huh...? No? But your eyes tell me otherwise... You're hungry! How about I help you with that...",
-				"I may need a rest, but I've got enough energy left in me to force my way down your throat!",
-				"You're really going to say no? I can see the hunger in your eyes! Let me in!"
+				"哈……？不？但你眼神告诉我不是这样……你饿了！不如让我帮你……",
+				"我是需要休息，但我还有力气强行滑下你喉咙！",
+				"你真要说不要？我能看见你眼里的饥饿！让我进去！"
 			],
 			[ // 50% - 75%
-				"Hey, no need to be shy about it... I can tell you want to, so here, how about I stick my head in your maw and we'll see where that leads...",
-				"No? You don't seem very confident there... I could just force myself into your mouth, are you going to stop me?",
-				"Hmm? Really? I thought you were sizing me up just now, you know you can do it... Here, open your maw, let me show you..."
+				"嘿，别不好意思……我看得出来你想，所以这样，我先把头伸进你嘴里，看看会怎样……",
+				"不？你听起来不太自信……我可以强行钻进你嘴里，你要阻止我吗？",
+				"嗯？真的？刚才我觉得你还在打量我，你知道你可以的……来，张嘴，让我给你看看……"
 			],
 			[ // 75% - 100%
-				"You don't sound too confident there... Why don't I just push my way into your maw and find out what you *really* think?",
-				"Hmmm, I think you're lying to me. I think you secretly want me to be bulging out your gut just as much as I do.",
-				"Hm? Did you say no? That can't be right, let me do an internal inspection juuuust to make sure."
+				"你听起来不太自信……不如我直接挤进你嘴里，看看你*真正*怎么想？",
+				"嗯，我觉得你在骗我。我觉得你内心和我一样想让我撑满你的肚子。",
+				"嗯？你说不？不可能吧，让我进去检查检查，就——为了确认。"
 			]
 		]
 	},
 	"analVoreRequesting": [
-		"You wouldn't mind if I just let myself in, would you?",
-		"Could you do me a favor and bend over?"
+		"你不介意我自己进去吧？",
+		"能帮我个忙，弯下腰吗？"
 	],
 	"analVoreRequestingYes": [
-		"You'll let me in? I can't wait to be in your booty!",
-		"Sweet! I'm going to love being in that butt!"
+		"你会让我进去？我等不及要进你屁股里了！",
+		"太好了！我会爱上那个屁股的！"
 	],
 	"analVoreRequestingNo": [
-		"Oh... well it was worth asking.",
-		"No booty for me today, huh?"
+		"哦……好吧，问问也不亏。",
+		"今天没屁股可进了，嗯？"
 	],
 	"analVoreRequestingNoYes": [
-		"Well that's too bad, because I'm going in that butt anyway!",
-		"I think you'll change your tune once you feel me wiggling inside your rear!"
+		"那太可惜了，因为我无论如何都要进那个屁股！",
+		"等你感觉到我在你后门里扭动，你肯定会改变主意的！"
 	],
 	"unbirthVoreRequesting": {
 		"percentage": "sbqLust",
 		"pools": [
 			[ // 0% - 25%
-				"Your womb seems like it'd be cozy... can I get in?"
+				"你的子宫看起来挺舒服……能进去吗？"
 			],
 			[ // 25% - 50%
-				"I want... I want to get inside you... just hide myself away in your womb."
+				"我想……我想钻进你身体里……就藏在你子宫里。"
 			],
 			[ // 50% - 75%
-				"Ahh... I just can't get it off my mind! I just want to be slid right into your wet folds and hidden away in your womb!"
+				"啊～～我就是忘不掉！我想滑进你湿润的褶皱里，藏进你的子宫！"
 			],
 			[ // 75% - 100%
-				"Wehhh! The thought of being inside you! Tucked away in your womb! Feeling the wet walls squeezing around me! Please!"
+				"呜～～有一种钻进你体内的想法！藏在你的子宫里！感受湿湿的宫壁挤着我！求你了！"
 			]
 		]
 	},
@@ -1100,16 +1100,16 @@
 		"percentage": "sbqLust",
 		"pools": [
 			[ // 0% - 25%
-				"Oh, thank you! I think this is going to be wonderful for both of us!"
+				"哦，谢谢你！我觉得这对我们俩都会很棒的！"
 			],
 			[ // 25% - 50%
-				"Yes! Thank you! I just love the feeling of being inside so much!"
+				"太好了！谢谢你！我就是这么喜欢在里面的感觉！"
 			],
 			[ // 50% - 75%
-				"Eeee! I'm so excited! I get to be your little toy, squirming inside!"
+				"耶！我好兴奋！我能当你的小玩具，在里面扭！"
 			],
 			[ // 75% - 100%
-				"Yesss! Oh, I'm going to be such a wonderful toy for you! Now, squeeze me inside!"
+				"对对对！哦，我会是个超棒的玩具！现在，把我挤进去！"
 			]
 		]
 	},
@@ -1117,16 +1117,16 @@
 		"percentage": "sbqLust",
 		"pools": [
 			[ // 0% - 25%
-				"Ah, perhaps another time, then?"
+				"啊，那下次？"
 			],
 			[ // 25% - 50%
-				"Alright, I'll find someone else."
+				"好吧，我找别人。"
 			],
 			[ // 50% - 75%
-				"I'll... find someone else."
+				"我……找别人。"
 			],
 			[ // 75% - 100%
-				"Huff... Sorry I asked..."
+				"呼……抱歉我问了……"
 			]
 		]
 	},
@@ -1134,16 +1134,16 @@
 		"percentage": "sbqLust",
 		"pools": [
 			[ // 0% - 25%
-				"Are you sure...? Maybe we can try it out first, just a little bit."
+				"你确定……？也许我们可以先试试，就一小下。"
 			],
 			[ // 25% - 50%
-				"Hm, is that so? Maybe we should try it out first. You might change your mind~"
+				"嗯，是吗？也许我们应该先试试，你可能会改变主意～"
 			],
 			[ // 50% - 75%
-				"Hmm... your mouth said one thing, but your eyes are telling me something else~"
+				"嗯……你嘴上说不要，眼睛可不是这么说的～"
 			],
 			[ // 75% - 100%
-				"Huff! I need to get in there! I need your body squeezing around me! You'll like this, I promise!"
+				"呼！我得进去！我需要你的身体挤着我！你会喜欢的，我保证！"
 			]
 		]
 	},
@@ -1151,16 +1151,16 @@
 		"percentage": "sbqLust",
 		"pools": [
 			[ // 0% - 25%
-				"May I get into your breast, please?"
+				"能让我进你的胸吗，求你了？"
 			],
 			[ // 25% - 50%
-				"I would really like to be in your rack."
+				"我真的很想进你的胸里。"
 			],
 			[ // 50% - 75%
-				"I'm real needy, and would love to relax in your milkers!"
+				"我好想要，想在你的奶子里放松！"
 			],
 			[ // 75% - 100%
-				"I wanna be bouncing in those jugs of yours!"
+				"我想在你的胸里晃荡！"
 			]
 		]
 	},
@@ -1168,16 +1168,16 @@
 		"percentage": "sbqLust",
 		"pools": [
 			[ // 0% - 25%
-				"Yes! Let me through those nipples and into those jugs!"
+				"太好了！让我从乳头进去，进到胸里！"
 			],
 			[ // 25% - 50%
-				"This is going to be great! Boobs, here I come!"
+				"这肯定会很爽！奶子，我来了！"
 			],
 			[ // 50% - 75%
-				"Awesome, now to get in that milk tub."
+				"太好了，现在就钻进奶缸里。"
 			],
 			[ // 75% - 100%
-				"Alright! Time to get into that boob."
+				"好嘞！是时候进那个胸了。"
 			]
 		]
 	},
@@ -1185,16 +1185,16 @@
 		"percentage": "sbqLust",
 		"pools": [
 			[ // 0% - 25%
-				"Damn, was worth asking."
+				"该死，问问也不亏。"
 			],
 			[ // 25% - 50%
-				"Welp, no boobs for me, huh?"
+				"好吧，我没奶子可进了？"
 			],
 			[ // 50% - 75%
-				"I was looking forward to getting in that milk bath."
+				"我本来挺期待泡奶浴的。"
 			],
 			[ // 75% - 100%
-				"Just my luck, I get no breast just when I'm wanting them most!"
+				"真倒霉，我最想要胸的时候却没得进！"
 			]
 		]
 	},
@@ -1202,16 +1202,16 @@
 		"percentage": "sbqLust",
 		"pools": [
 			[ // 0% - 25%
-				"I'm sorry, but you're not standing between me and those nice breasts!"
+				"抱歉，但你挡不住我靠近那对美胸！"
 			],
 			[ // 25% - 50%
-				"Don't you see I'm in need of your soft jugs? Let me show you."
+				"你没看出来我需要你柔软的胸吗？让我给你看看。"
 			],
 			[ // 50% - 75%
-				"While you were saying no, I got close enough to just shove in, soooo..."
+				"你嘴里说不的时候，我已经凑近到能直接塞进去了，所以……"
 			],
 			[ // 75% - 100%
-				"You might think differently once I'm inside them!"
+				"等我进去了你想法可能就不一样了！"
 			]
 		]
 	},
@@ -1219,16 +1219,16 @@
 		"percentage": "sbqLust",
 		"pools": [
 			[ // 0% - 25%
-				"Ah... I was just looking, but... can I have a closer look at your dick?"
+				"啊……我就是看看，但……能让我仔细看看你的鸡巴吗？"
 			],
 			[ // 25% - 50%
-				"I can't help but stare... Can I give your rod a feel... maybe a little more?"
+				"我忍不住盯着看……能让我摸摸你的棒子吗……也许再多一点？"
 			],
 			[ // 50% - 75%
-				"Oh my gosh... I just want to get right up close to your dick... can I pleeease?"
+				"哦天哪……我就想靠近你的鸡巴……能让我求求你了？"
 			],
 			[ // 75% - 100%
-				"Wehh! Your dick just looks so gooood! I wanna feel it so much! I wanna feel it squeezing me!"
+				"呜～～你的鸡巴看起来好棒！我好想感受它！感受它挤着我！"
 			]
 		]
 	},
@@ -1236,16 +1236,16 @@
 		"percentage": "sbqLust",
 		"pools": [
 			[ // 0% - 25%
-				"Ah, thank you! Mmm... getting a bit firm, just how I like!"
+				"啊，谢谢你！嗯……有点硬了，正合我意！"
 			],
 			[ // 25% - 50%
-				"Oh, you've got a real nice one... This is going to be great~"
+				"哦，你这根真不错……这肯定会很爽～"
 			],
 			[ // 50% - 75%
-				"Eee! This is going to be so good... Your dick just looks so nice, I can't wait!"
+				"耶！这肯定很棒……你的鸡巴看起来太棒了，我等不及了！"
 			],
 			[ // 75% - 100%
-				"To get the opportunity to be squeezed inside your nice, hard, *twitching* shaft! I love it!"
+				"有机会被你硬邦邦、*抽动*的棒子挤在里面！我太喜欢了！"
 			]
 		]
 	},
@@ -1253,16 +1253,16 @@
 		"percentage": "sbqLust",
 		"pools": [
 			[ // 0% - 25%
-				"Ah, perhaps another time then?"
+				"啊，那下次？"
 			],
 			[ // 25% - 50%
-				"Alright, I'll find someone else."
+				"好吧，我找别人。"
 			],
 			[ // 50% - 75%
-				"I'll... find someone else."
+				"我……找别人。"
 			],
 			[ // 75% - 100%
-				"Huff... Sorry I asked..."
+				"呼……抱歉我问了……"
 			]
 		]
 	},
@@ -1270,57 +1270,57 @@
 		"percentage": "sbqLust",
 		"pools": [
 			[ // 0% - 25%
-				"Are you sure...? Maybe we can try it out first, just a little bit."
+				"你确定……？也许我们可以先试试，就一小下。"
 			],
 			[ // 25% - 50%
-				"Hm, is that so? Maybe we should try it out first, you might change your mind~"
+				"嗯，是吗？也许我们应该先试试，你可能会改变主意～"
 			],
 			[ // 50% - 75%
-				"Hmm... your mouth said one thing, but your eyes are telling me something else~"
+				"嗯……你嘴上说不要，眼睛可不是这么说的～"
 			],
 			[ // 75% - 100%
-				"Huff! I need to get in there! I need your body squeezing around me! You'll like this, I promise!"
+				"呼！我得进去！我需要你的身体挤着我！你会喜欢的，我保证！"
 			]
 		]
 	},
 	"oralVoreNoPrompt": [
-		"I think you'll fill me up nicely.",
-		"I just need a quick bite to eat.",
-		"You seem like you'd make a good meal.",
-		"My belly's been grumbling, you look like you'll fill it..."
+		"我想你会把我填满的。",
+		"我就想吃点东西垫垫。",
+		"你看起来能当顿好饭。",
+		"我肚子一直在叫，你看起来能填饱它……"
 	],
 	"oralVoreNoPromptAfter": [
-		"Dont mind me! Just grabbing lunch.",
-		"Get comfy in there!",
-		"Mmmhm, you are so filling! seems I nabbed a good one.",
-		"bwuurp! Ah~ you make for some nice 'fine dining' heh"
+		"别管我！就是吃个午饭。",
+		"在里面舒服点！",
+		"嗯嗯，你真饱腹！看来我抓了个好的。",
+		"呃呃呃！啊～～你这顿饭真不错，嘿嘿"
 	],
 	"analVoreNoPrompt": [
-		"Hey, I want to try something horny.",
-		"Hey... what if I shoved you up my ass?",
-		"Mm... I've been wanting some fun, and you seem like you'd make a good toy~",
-		"You know, theres a reason I'm not wearing pants~"
+		"嘿，我想玩点色色的。",
+		"嘿……要是我把你塞我屁股里怎么样？",
+		"嗯……我一直想找点乐子，你看起来会是个好玩具～",
+		"你知道我为什么不穿裤子吗～"
 	],
 	"analVoreNoPromptAfter": [
-		"Ahhh~ hope I'm not squeezing too much.",
-		"Mmm~ That actually feels pretty good.",
-		"Heh~ it's almost like you're a living sex toy.",
-		"Oooh~ That squirming is rather nice."
+		"啊～～希望我没夹太紧。",
+		"嗯～～其实还挺舒服的。",
+		"嘿～～你简直像个活的飞机杯。",
+		"哦～～扭得真不错。"
 	],
 	"unbirthVoreNoPrompt": {
 		"percentage": "sbqLust",
 		"pools": [
 			[ // 0% - 25%
-				"My womb feels so empty... hey, you look like you'd fit in there!"
+				"我的子宫好空虚……嘿，你看起来能塞进去！"
 			],
 			[ // 25% - 50%
-				"I think I need something kicking around in my womb... and you seem perfect!"
+				"我觉得需要点东西在我子宫里踢……你看起来完美！"
 			],
 			[ // 50% - 75%
-				"Hhh... I'm starting to feel some heat... and you're going to be my toy to help me deal with it!"
+				"呼……我开始有点热了……你要当我的玩具帮我解决！"
 			],
-			[ // 75% - 100%
-				"Ahh... so wet... so close, I just need a toy to help me finish! Something squirming in my pussy... something like you!"
+			[ // 75% - 100% 
+				"啊……好湿……快到了，我就需要个玩具帮我完事！有什么在我小穴里扭……像你这样的！"
 			]
 		]
 	},
@@ -1328,18 +1328,18 @@
 		"percentage": "sbqLust",
 		"pools": [
 			[ // 0% - 25%
-				"Ah you fit perfectly~ No complaints right? So get nice and cozy inside me."
+				"啊，你在里面刚刚好～不抱怨吧？所以在我里面好好待着。"
 			],
 			[ // 25% - 50%
-				"Aahh~ ooooh thats really good~",
-				"Mmmm~ You're getting me excited~"
+				"啊～～哦哦哦真舒服～",
+				"嗯～～你让我兴奋起来了～"
 			],
 			[ // 50% - 75%
-				"Ffff~ Now I'm all wet~",
-				"A-ahh~ Don't stop squirming~"
+				"嘶～～现在我全湿了～",
+				"啊～啊～别停～"
 			],
 			[ // 75% - 100%
-				"Ahh~ yes! don't stop! keep squirming until I climax!"
+				"啊～对！别停！继续扭，直到我高潮！"
 			]
 		]
 	},
@@ -1347,16 +1347,16 @@
 		"percentage": "sbqLust",
 		"pools": [
 			[ // 0% - 25%
-				"Wish I had a bigger cup size... Hey you!"
+				"真希望我罩杯再大点……嘿，你！"
 			],
 			[ // 25% - 50%
-				"Hm, my tits feel like they need a little something extra, like you!"
+				"嗯，我的胸感觉需要加点料，比如你！"
 			],
 			[ // 50% - 75%
-				"Hmmm... you seem like you're perfect for stuffing in my tits!"
+				"嗯……你看起来正适合塞进我胸里！"
 			],
 			[ // 75% - 100%
-				"Ahh... I've got all this milk sloshing around in my tits, but I want something more! More!"
+				"啊……我胸里晃荡着这么多奶，但我想要更多！更多！"
 			]
 		]
 	},
@@ -1364,16 +1364,16 @@
 		"percentage": "sbqLust",
 		"pools": [
 			[ // 0% - 25%
-				"Just the addition I needed, I think~"
+				"正是我需要的增量，我想～"
 			],
 			[ // 25% - 50%
-				"Ffff~ Hehe, now they look even bigger~"
+				"嘶～～嘿嘿，现在它们看起来更大了～"
 			],
 			[ // 50% - 75%
-				"Hehe, it feels so great having you in there. Some sloshy weight on my rack~"
+				"嘿嘿，有你在里面感觉真棒。我胸上有了晃荡的重量～"
 			],
 			[ // 75% - 100%
-				"Ahh~ If you keep squirming like that, they're gonna start leaking!"
+				"啊～～你要是继续扭，它们就会开始漏奶！"
 			]
 		]
 	},
@@ -1381,16 +1381,16 @@
 		"percentage": "sbqLust",
 		"pools": [
 			[ // 0% - 25%
-				"Mmm~ hey, I think I'm gonna stick your nose in my cock, maybe a little more~"
+				"嗯～嘿，我要把你的鼻子插进我鸡巴里，也许更多～"
 			],
 			[ // 25% - 50%
-				"I got a bit excited thinking about this, so now I have to do it~ You're going in my cock~"
+				"我一想到这个就有点兴奋，所以现在必须做～你要进我鸡巴～"
 			],
 			[ // 50% - 75%
-				"Huff... I'm all excited, you! I'm gonna get off to you squirming in my cock~!"
+				"呼……我好兴奋，你！我要在你在我鸡巴里扭的时候爽出来～！"
 			],
 			[ // 75% - 100%
-				"I need to cum! Huff! I need you squirming around in my dick!"
+				"我要射！呼！我需要你在我鸡巴里扭！"
 			]
 		]
 	},
@@ -1398,157 +1398,157 @@
 		"percentage": "sbqLust",
 		"pools": [
 			[ // 0% - 25%
-				"Ah hehe, squeezed right in my shaft, squirm around for me will ya?"
+				"啊嘿嘿，正好挤进我棒子里，给我扭扭好吗？"
 			],
 			[ // 25% - 50%
-				"Mmmm, getting nice and hard from that squirming, now squirm some more!"
+				"嗯，被你扭得越来越硬了，再扭！"
 			],
 			[ // 50% - 75%
-				"Huff... I'm all excited, you! I'm gonna get off to you squirming in my cock~!"
+				"呼……我好兴奋，你！我要在你在我鸡巴里扭的时候爽出来～！"
 			],
 			[ // 75% - 100%
-				"I need to cum! Huff! I need you squirming around in my dick!"
+				"我要射！呼！我需要你在我鸡巴里扭！"
 			]
 		]
 	},
 	"bellyInfuseNoPrompt": [
-		"I think... I need you in my belly... or... as my belly..."
+		"我觉得……我需要你在我肚子里……或者……当我的肚子……"
 	],
 	"bellyInfuseNoPromptAfter": [
-		"I'm sure you won't mind being a part of me for a while, huh?",
-		"Let's be honest, you look a lot cuter this way.",
-		"What was their name again? Oh well."
+		"我敢肯定你不会介意做我的一部分的，嗯？",
+		"说实话，你这样可爱多了。",
+		"他叫什么来着？算了。"
 	],
 	"breastInfuseNoPrompt": [
-		"Hehe, I think you belong as something else~",
-		"Mm~ I think it'd be fitting to have you jiggling on my chest~",
-		"I think I have a far better use for you~"
+		"嘿嘿，我觉得你该变成别的东西～",
+		"嗯～我觉得让你在我胸前晃荡很合适～",
+		"我觉得我有更好的用途给你～"
 	],
 	"breastInfuseNoPromptAfter": [
-		"Ahh~ Finally got you where you belong~",
-		"You belong right where you are, jiggling on my chest~",
-		"Mmm~ Feels right to have you there~"
+		"啊～～终于让你到了属于你的地方～",
+		"你就该在这儿，在我胸前晃荡～",
+		"嗯～让你在那儿感觉真对～"
 	],
 	"pussyInfuseNoPrompt": [
-		"Hehe, I think you belong as something else~",
-		"Mm~ I think it'd be fitting to have you dripping between my legs~",
-		"I think I have a far better use for you~"
+		"嘿嘿，我觉得你该变成别的东西～",
+		"嗯～我觉得让你在我腿间滴水很合适～",
+		"我觉得你在我这有更好的用途～"
 	],
 	"pussyInfuseNoPromptAfter": [
-		"Ahh~ Finally got you where you belong~",
-		"You belong right where you are, soaking between my legs~",
-		"Mmm~ Feels right to have you there~"
+		"啊～～终于让你到了属于你的地方～",
+		"你就该在这儿，在我腿间湿透～",
+		"嗯～让你在那儿感觉真棒～"
 	],
 	"cockInfuseNoPrompt": [
-		"Hehe, I think you belong as something else~",
-		"Mm~ I think it'd be fitting to have you throbbing between my legs~",
-		"You're always so twitchy... which would make you a good cock~",
-		"I think I have a far better use for you~"
+		"嘿嘿，我觉得你该变成别的东西～",
+		"嗯～我觉得让你在我腿间抽动很合适～",
+		"你总是这么爱抽动……那变成鸡巴正好～",
+		"我觉得你在我这有更好的用途～"
 	],
 	"cockInfuseNoPromptAfter": [
-		"Ahh~ Finally got you where you belong~",
-		"You belong right where you are, throbbing between my legs~",
-		"Mmm~ Feels right to have you there~"
+		"啊～～终于让你到了属于你的地方～",
+		"你就该在这儿，在我腿间抽动～",
+		"嗯～让你在那儿感觉真棒～"
 	],
 	"oralVoreUnprompted": [
-		"Why are drooling? Wait, don't you- mmph!",
-		"You look hungry, are you about to- ahh!",
-		"I might look like a snack to you, but I'm not- wah!"
+		"你怎么流口水了？等等，你不会要——唔唔！",
+		"你看起来很饿，你是不是要——啊！",
+		"我可能看起来像个零食，但我不是——哇！"
 	],
 	"oralVoreUnpromptedAfter": [
-		"I've lost count of how many times I've been eaten this week...",
-		"I knew using that soap with '11 herbs and spices' was a bad idea...",
-		"Stop calling me venison..."
+		"我都数不清这周被吃多少次了……",
+		"我就知道用那个“王手义十三香”的肥皂是个坏主意……",
+		"别再叫我鹿肉了……"
 	],
 	"analVoreUnprompted": [
-		"Why are you turning like that and showing me your butt- ah!",
-		"I don't know why you're wiggling your butt like that, but don't- mmph!",
-		"Yes, I see you have a nice rear, but why make me look at- wah!"
+		"你为什么要转身给我看你的屁股？——啊！",
+		"我不知道你为什么那样扭屁股，但别——唔唔！",
+		"是的，我看你屁股挺翘，但为什么让我盯着看——哇！"
 	],
 	"analVoreUnpromptedAfter": [
-		"If you wanted some fun, I would've said yes!",
-		"You have a very nice tush, but I wanted to admire it from the outside!",
-		"Can't say this is the first time I've taken the rear entrance..."
+		"你要是想玩，我会答应的！",
+		"你屁股真不错，但我想从外面欣赏！",
+		"这不是我第一次走后门了……"
 	],
 	"unbirthVoreUnprompted": [
-		"You shouldn't flash your nethers like that. Wait, are you trying to- ah!",
-		"I don't see anything other then your lewd lips. Why'd you want me to look- mmph!",
-		"Why are you spreading your legs at me? Don't tell me you're about to- wah!"
+		"你不该那样露下面。等等，你想——啊！",
+		"你的淫唇都贴到我的脸上了。你为什么想要我看——唔唔！",
+		"你为什么对我张开腿？别告诉我你要——哇！"
 	],
 	"unbirthVoreUnpromptedAfter": [
-		"If you wanted a good time, I would've said yes!",
-		"I figured you had some needs, but this... wow...",
-		"Fff~ Wow, you are *WET*!"
+		"你要是想爽，我会答应的！",
+		"我知道你有需求，但这个……哇……",
+		"嘶～～哇，你好*湿*！"
 	],
 	"breastVoreUnprompted": [
-		"Why are you showing off your rack like that? You don't intend to- ah!",
-		"Hmmm, I don't see anything strange about your breast, is there any reason why- mmph!",
-		"Hey, what's with that look you got? Why are you coming closer with your boobs out, wait- wah!"
+		"你为什么那样露胸？你不是想——啊！",
+		"嗯，我没觉得你胸有什么异常，有什么理由——唔唔！",
+		"嘿，你那个表情什么意思？你为什么挺着胸凑过来，等等——哇！"
 	],
 	"breastVoreUnpromptedAfter": [
-		"Am I really inside... oh wow... a-aaa~",
-		"I would've liked to have felt them from the outside, but this is nice, too.",
-		"A heads up would've been nice before you jammed me head-first into your tits."
+		"我真在里面……哦哇……啊～啊～",
+		"我本来想从外面感受它们，但这样也不错。",
+		"把我的脑袋塞进你胸里之前，打个招呼也好啊。"
 	],
 	"cockVoreUnprompted": [
-		"Wah?1 Let go of my snout!",
-		"Oh my!",
-		"You're putting me in your shaf- wah!"
+		"哇！放开我的鼻子！",
+		"哦天！",
+		"你要把我放进你的——哇！"
 	],
 	"bellyInfuseUnprompted": [
-		"What are you doing? Why are you--mmmph!"
+		"你干什么？你为什么——嗯嗯！"
 	],
 	"bellyInfuseUnpromptedAfter": [
-		"(Am I... your stomach now? I was in the middle of--)*grumble*"
+		"（我……变成你的肚子了？我刚才在——）*咕噜*"
 	],
 	"breastInfuseUnprompted": [
-		"I'm flattered that you'd show me your tits, but--hey, wait!"
+		"我很荣幸你让我看你的胸，但——嘿，等等！"
 	],
 	"breastInfuseUnpromptedAfter": [
-		"(W-what happened? Why do I suddenly feel so soft and... bouncy?)"
+		"（怎——怎么了？为什么我突然感觉这么软……这么弹？）"
 	],
 	"pussyInfuseUnprompted": [
-		"Is that an invitation? Sure, let me just get some lube and--ah!"
+		"这是邀请吗？好啊，让我拿点润滑——啊！"
 	],
 	"pussyInfuseUnpromptedAfter": [
-		"(What... happened? I feel so... wet... and sensitive!)"
+		"（发生……什么了？我感觉好……湿……好敏感！）"
 	],
 	"cockInfuseUnprompted": [
-		"Mm, looking to put your cock in me? Sure, just--hey, why are you pulling me closer?"
+		"嗯，想把你的鸡巴插我身体里？好啊，只是——嘿，你为什么把我拉近？"
 	],
 	"cockInfuseUnpromptedAfter": [
-		"(Did I just become <entityname>'s cock? It feels so--) *throb*"
+		"（我刚变成 <entityname> 的鸡巴了？感觉……）*抽动*"
 	],
 	"oralVoreLetoutUnpromptedAfter": [
-		"Ah, freedom! Thanks for spitting me up."
+		"啊，自由了！谢谢你把我吐出来。"
 	],
 	"analVoreLetoutUnpromptedAfter": [
-		"W-wah! Thanks for squeezing me out your butt!"
+		"哇——哇！谢谢你把我挤出屁股！"
 	],
 	"unbirthVoreLetoutUnpromptedAfter": [
-		"Thanks for squeezing me out of your womb!"
+		"谢谢你把我挤出子宫！"
 	],
 	"breastVoreLetoutUnpromptedAfter": [
-		"Thanks for pushing me out your boob!"
+		"谢谢你把我挤出胸！"
 	],
 	"cockVoreLetoutUnpromptedAfter": [
-		"Thanks for squeezing me out your shaft!"
+		"谢谢你把我挤出鸡巴！"
 	],
 	"oralVoreForcing": {
 		"percentage": "sbqRest",
 		"pools": [
 			[ // 0% - 25%
-				"I... I just can't help myself! I'm going to get in your belly!",
-				"It's calling to me... your belly... Open up, I'm diving in!"
+				"我……我就是控制不住！我要进你肚子！",
+				"它在呼唤我……你的肚子……张开嘴，我要跳进去了！"
 			],
 			[ // 25% - 50%
-				"You look... amazing... I bet you'd look even better with me in your belly!"
+				"你看起来……太棒了……我打赌我进你肚子里你会更好看！"
 			],
 			[ // 50% - 75%
-				"You know, I could force my way down your throat... and there's not much you could do to stop me!"
+				"你知道吗，我可以强行滑下你的喉咙……而且你没什么能阻止我！"
 			],
 			[ // 75% - 100%
-				"I'm gonna fill you up... I want to be carried around in your belly!"
+				"我要把你填满……我想被你装在肚子里带着走！"
 			]
 		]
 	},
@@ -1556,17 +1556,17 @@
 		"percentage": "sbqRest",
 		"pools": [
 			[ // 0% - 25%
-				"Getting pretty tired....",
-				"Wait, I changed my mind!."
+				"有点累了……",
+				"等等，我改主意了！"
 			],
 			[ // 25% - 50%
-				"This was a mistake..."
+				"这是个错误……"
 			],
 			[ // 50% - 75%
-				"See? I told you I could force myself down."
+				"看到了吗？我说过我能自己进去。"
 			],
 			[ // 75% - 100%
-				"I saw a nice belly, I had to go inside. I don't make the rules."
+				"我看见一个漂亮的肚子，我得进去。我可没法控制自己。"
 			]
 		]
 	},
@@ -1574,16 +1574,16 @@
 		"percentage": "sbqLust",
 		"pools": [
 			[ // 0% - 25%
-				"Your hips... your rear... so inviting... I could just..."
+				"你的胯……你的屁股……太诱人了……我简直可以……"
 			],
 			[ // 25% - 50%
-				"Your ass... those hips... I just, I can't help myself!"
+				"你的屁股……那胯……我就是，控制不住！"
 			],
 			[ // 50% - 75%
-				"Your rear is just so heavenly! I need to take a closer look!"
+				"你的屁股太天堂了！我得仔细看看！"
 			],
 			[ // 75% - 100%
-				"Damn it! Your ass is  so amazing I can't help myself!"
+				"该死！你的屁股太棒了，我控制不住！"
 			]
 		]
 	},
@@ -1591,16 +1591,16 @@
 		"percentage": "sbqLust",
 		"pools": [
 			[ // 0% - 25%
-				"Don't mind me if I'm a little... quiet... so tight..."
+				"别介意我有点……太……太紧了……"
 			],
 			[ // 25% - 50%
-				"I can barely move!"
+				"我几乎动不了！"
 			],
 			[ // 50% - 75%
-				"So... tight!"
+				"太……紧了！"
 			],
 			[ // 75% - 100%
-				"Whoops! Might've dove in a little too far... Hello?!"
+				"哎呀！可能跳得有点太深了……喂？！"
 			]
 		]
 	},
@@ -1608,16 +1608,16 @@
 		"percentage": "sbqLust",
 		"pools": [
 			[ // 0% - 25%
-				"I want to be in you! Your womb seems like it'll be so comfy..."
+				"我想进到你里面！你的子宫看起来会很舒服……"
 			],
 			[ // 25% - 50%
-				"Your pussy seems so warm and inviting..."
+				"你的小穴看起来好温暖，好诱人……"
 			],
 			[ // 50% - 75%
-				"Ahhh! I can't help myself! I'm diving in bettween your legs!"
+				"啊～～！我控制不住！我要跳进你两腿之间！"
 			],
 			[ // 75% - 100%
-				"Fff! the sight of you is driving me wild! I gotta dive in your pussy!"
+				"嘶～～！看到你我快疯了！我得跳进你小穴！"
 			]
 		]
 	},
@@ -1625,16 +1625,16 @@
 		"percentage": "sbqLust",
 		"pools": [
 			[ // 0% - 25%
-				"Oh wow, it's even tighter than I imagined..."
+				"哦哇，比我想象的还紧……"
 			],
 			[ // 25% - 50%
-				"Don't mind me, slowly melting..."
+				"别管我，慢慢融化中……"
 			],
 			[ // 50% - 75%
-				"Sorry for the intrusion... Tight!"
+				"抱歉打扰了……好紧！"
 			],
 			[ // 75% - 100%
-				"Once I saw you, I knew exactly where I belonged..."
+				"一见到你，我就知道我属于哪儿了……"
 			]
 		]
 	},
@@ -1642,16 +1642,16 @@
 		"percentage": "sbqLust",
 		"pools": [
 			[ // 0% - 25%
-				"Your tits seem so soft... They're probably really comfy..."
+				"你的胸好软……应该很舒服……"
 			],
 			[ // 25% - 50%
-				"Your chest... it's calling out to me!"
+				"你的胸……在呼唤我！"
 			],
 			[ // 50% - 75%
-				"I can't help myself from staring at your tits! And I can't help myself from diving into them!"
+				"我忍不住盯着你的胸看！也忍不住跳进去！"
 			],
 			[ // 75% - 100%
-				"Fff... I keep thinking about the taste of your milk! And how it'd be to bathe inside it!"
+				"嘶……我总在想你的奶是什么味道！在里面洗澡会是什么感觉！"
 			]
 		]
 	},
@@ -1659,16 +1659,16 @@
 		"percentage": "sbqLust",
 		"pools": [
 			[ // 0% - 25%
-				"It's like being surrounded by the softest pillows..."
+				"就像被最软的枕头包围着……"
 			],
 			[ // 25% - 50%
-				"It doesn't matter what, I'll always answer the call!"
+				"不管怎样，我总会应召而来！"
 			],
 			[ // 50% - 75%
-				"Umph... Your boobs made for such a soft landing~"
+				"嗯……在你的胸上软着陆～"
 			],
 			[ // 75% - 100%
-				"Hey, don't judge me. Calcium is good for strong bones, after all."
+				"嘿，别评判我。钙质对骨骼好嘛。"
 			]
 		]
 	},
@@ -1676,16 +1676,16 @@
 		"percentage": "sbqLust",
 		"pools": [
 			[ // 0% - 25%
-				"Your cock... I wonder how it'd feel..."
+				"你的鸡巴……不知道会是什么感觉……"
 			],
 			[ // 25% - 50%
-				"Mmm... I keep having these silly thoughts... about being in your dick..."
+				"嗯……我老有这些傻念头……想进你鸡巴……"
 			],
 			[ // 50% - 75%
-				"Argh I need to do it! I need to feel your throbbing cock alll around me!"
+				"啊我必须做！我需要感受你抽动的鸡巴全——都——挤着我！"
 			],
 			[ // 75% - 100%
-				"Damn I neeeed it! I need to dive down in your throbbing cock and get covererd in cum!"
+				"该死我需要！我需要跳进你抽动的鸡巴，被精液覆盖！"
 			]
 		]
 	},
@@ -1693,16 +1693,16 @@
 		"percentage": "sbqLust",
 		"pools": [
 			[ // 0% - 25%
-				"So tight, and so... Oh wow, was that a throb?"
+				"好紧，而且……哦哇，那是抽动吗？"
 			],
 			[ // 25% - 50%
-				"Looks like those thoughts... became a reality..."
+				"看来那些念头……成真了……"
 			],
 			[ // 50% - 75%
-				"Oooh, yes! I can practically feel your heartbeat with every squeeze~"
+				"哦哦，对！我几乎每挤一下都能感觉到你的心跳～"
 			],
 			[ // 75% - 100%
-				"So much cum... Where do you keep it all?"
+				"这么多精液……你都藏在哪儿了？"
 			]
 		]
 	},
